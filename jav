@@ -1,4 +1,21 @@
-[{"name":"SSNI-679mmsub",
+[{"name":"HND-796mmsub",
+"info":"မြန်မာစာတန်းထိုး
+‌အဖေက နောက်အိမ်ထောင် ပြုလိုက်လို့ မေမေလေးမှာ ချစ်စရာကောင်းတဲ့ သမီးပျိုလေး တစ်ယောက်ပါလာခဲ့ပါတယ်
+တစ်နေ့မှာ မိဘနှစ် ခရီးထွက်တုန်း အိမ်မှာ ညီမလေးနဲ့ နှစ်ယောက်တည်း ကျန်ခဲ့တဲ့အချိန်မှာတော့
+
+မျက်နှာကို ချွေး၊ တံတွေးနဲ့ ရွှံ့တွေဖုံးပြီး ငါ့ကို ရွံနေသလိုလို အမြဲဆက်ဆံနေတဲ့ ငါ့ရဲ့ Stepsister (မိထွေးသမီး)ကို လက်စားချေခြင်း 
+မငါးသမီးနာမည် Yui Nagase",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/h/hnd/hnd00796/hnd00796_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/i6cg8v3ttdinduw/HND_796-HD.mp4/file",
+"photo1":"https://i.imgur.com/YHf7AjB_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/hnd00796/hnd00796pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/hnd00796/hnd00796jp-5.jpg",
+"photo4":"https://pics.r18.com/digital/video/hnd00796/hnd00796jp-3.jpg",
+"photo5":"https://pics.r18.com/digital/video/hnd00796/hnd00796jp-6.jpg",
+"dapp":"t",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SSNI-679mmsub",
 "info":"မြန်မာစာတန်းထိုး
 ငါရဲ့အချစ်ဆုံး သူငယ်ချင်းကျော်ကြီးက ငါ့ရည်းစားကို ငါမသိတုန်း အပီလိုးဖြဲခဲ့သည်
 မင်းသမီးနာမည် Yura Kano
