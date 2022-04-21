@@ -29,6 +29,20 @@ Vip memberတွေအတွက် သီးသန့် တင်ပေးထ�
 "dapp":"t",
 "candownload":"",
 "wcode":"တစ်"},
+{"name":"JUL-485mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီဇာတ်လမ်းလေးကတော့ အလုပ်ဝင်ခါစ ကောင်မလေးတစ်ယောက်ရဲ့ အလုပ်သစ်က အတွေ့အကြုံအသစ်လေးတွေအကြောင်းပဲဖြစ်ပါတယ်
+ခုမှ အလုပ်စဝင်တဲ့ကောင်မလေးငယ်ငယ်လေးတစ်ယောက်က အလုပ်မှာ မန်နေဂျာကြီးရဲ့ အချစ်ကို အပြည့်အဝရရှိပြီး ဘယ်လိုတွေ အလုပ်လုပ်ရင်း....",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00485/jul00485_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/xfd0oxjj13fv74a/JUL_485_-SD.mp4/file",
+"photo1":"https://i.imgur.com/vTeGjcn_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00485/jul00485pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/jul00485/jul00485jp-6.jpg",
+"photo4":"https://pics.r18.com/digital/video/jul00485/jul00485jp-1.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00485/jul00485jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/mvr4m1nbl2e14ia/JUL_485-HD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
 {"name":"RBD-804mmsub",
 "info":"မြန်မာစာတန်းထိုး
 လှပသော အိမ်ထောင်ရှင်မလေးအား 
