@@ -15,6 +15,20 @@
 "dapp":"t",
 "candownload":"",
 "wcode":"တစ်"},
+{"name":"WANZ-429mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ 
+အရွယ်ရောက်ခါစ သမီးဖြစ်သူက ဘဲထားတတ်နေပါပြီ ဘဲကို အမေဖြစ်သူနဲ့ မိတ်ဆက်ပေးပြီး အိမ်ခေါ်စာလုပ်သလိုလိုနဲ့ ဟွာလုပ်ဖို့ကြိုးစားခဲ့တဲ့ အပျိုပေါက်သမီးလေးကို ငယ်ရွယ်သေးချိန်မှာ ဒါတွေမလုပ်ဖို့ စာကိုသာအာရုံစိုက်သင့်ကြောင်း အမေတစ်ယောက်အနေနဲ့ ပြောဆိုဆုံးမခဲ့ပါတယ် တစ်ဖက်မှာတော့ Mizuno  လေးဟာ ဇောင်းထနေတဲ့သူမရဲ့ဘဲကို အိမ်ခေါ်ပြီး နှစ်ယောက်ချင်းတွေ့ကာ ဇောင်းမထအောင် ပညာအမျိုးမျိုးပေးကာ ဆုံးမခဲ့ပါတော့တယ်....",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/w/wan/wanz00429/wanz00429_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/mygorvhcqavhypv/WANZ_429-SD.mp4/file",
+"photo1":"https://i.imgur.com/irYCiow_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://img2.javmost.com/file_image/WANZ-429.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/wanz00429/wanz00429jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/wanz00429/wanz00429jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/wanz00429/wanz00429jp-7.jpg",
+"dapp":"t",
+"candownload":"",
+"wcode":"တစ်"},
 {"name":"SSNI-679mmsub",
 "info":"မြန်မာစာတန်းထိုး
 ငါရဲ့အချစ်ဆုံး သူငယ်ချင်းကျော်ကြီးက ငါ့ရည်းစားကို ငါမသိတုန်း အပီလိုးဖြဲခဲ့သည်
