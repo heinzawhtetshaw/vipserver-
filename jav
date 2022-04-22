@@ -145,4 +145,17 @@ Vip memberတွေအတွက် သီးသန့် တင်ပေးထ�
 "photo5":"https://pics.dmm.co.jp/digital/video/rbd00804/rbd00804jp-6.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"URE-066mmdub",
+"info":"မြန်မာစာတန်းထိုး
+ကြောင်သူတော် ကြွက်သူခိုး MC လေးဟာဆိုရင် အပေါ်ယံကြည့်ရင် အင်မတန်မှ ရိုးသားပြီး ဘာမှအတွေ့အကြုံမရှိတဲ့ရုပ်ကလေးနဲ့ပါ ဒါကို အထင်သေးပြီး လူတတ်ကြီးလုပ်မိတဲ့ Asahi Mizuno တစ်ယောက် အိမ်ကွင်းကနေ အဝေးကွင်းသွားကန်ရတဲ့ခံစားချက်မျိုးအထိ ဖြစ်လာခဲ့ပါတယ်.....",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/u/ure/ure00066/ure00066_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/59jd6ekaz54pwv2/Ure_066-sd.mp4/file",
+"photo1":"https://i.imgur.com/qcjLCMr_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ure00066/ure00066pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ure00066/ure00066jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/ure00066/ure00066jp-7.jpg",
+"photo5":"https://pics.r18.com/digital/video/ure00066/ure00066jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/hxobg0ddf7h7tgd/URE_066-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
