@@ -158,4 +158,18 @@ Vip memberတွေအတွက် သီးသန့် တင်ပေးထ�
 "photo5":"https://pics.r18.com/digital/video/ure00066/ure00066jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/hxobg0ddf7h7tgd/URE_066-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-288mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းရဲ့ ဝါသနာကို ဖြည့်ဆည်းပေးရင်းက
+ခပ်အေးအေးနေတတ်တဲ့ Miho Tono တယောက် အထန်တလိုင်းဖြစ်သွားခဲ့ရတဲ့ ဇာတ်လမ်းလေးပါ သူ့ယောကျာ်းရဲ့ဝါသနာက ဘာဖြစ်မလဲဆိုတာကတော့...",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00288/jul00288_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/05srqaoysm1k5yu/Jul-288.mp4/file",
+"photo1":"https://i.imgur.com/CFyLEQS_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00288/jul00288pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/jul00288/jul00288jp-3.jpg",
+"photo4":"https://pics.r18.com/digital/video/jul00288/jul00288jp-4.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00288/jul00288jp-8.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
