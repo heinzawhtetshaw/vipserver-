@@ -188,4 +188,18 @@ Vip memberတွေအတွက် သီးသန့် တင်ပေးထ�
 "photo5":"https://pics.r18.com/digital/video/waaa00022/waaa00022jp-3.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-296mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နာမည်ကြီးမင်းသားဂျပန်ဂတုံး ပါဝင်သည်
+မင်သမီးနာမည် Urara Kanon",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00296/jul00296_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/yr1kjbfidotaqmn/JUL-296.mp4/file",
+"photo1":"https://i.imgur.com/t7J5Gou_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00296/jul00296pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/jul00296/jul00296jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/jul00296/jul00296jp-5.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00296/jul00296jp-9.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
