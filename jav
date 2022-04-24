@@ -234,4 +234,17 @@ Riko Honda ဆို‌တဲ့ကောင်မငယ်လေးက
 "photo5":"https://pics.r18.com/digital/video/meyd00014/meyd00014jp-4.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-116mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းသားဟောင်းတွေ့ဆုံပွဲကို ကျောင်းပြီးထဲက တစ်နှစ်မှ မရောက်ဖြစ်ခဲ့ တဲ့ Mitsuko ဟာ တွေ့ဆုံပွဲကိုသွားဖိုရင်ခုန်စိတ်လှုပ်ရှားနေပါတယ်။ တွေ့ဆုံပွဲမှာ ရည်းစားဟောင်း Itsiki နဲ့တွေ့ရာကနေ စကားစမြည်ပြောကြရင်း ဘာတွေဖြစ်လာမလဲ ရှုစားပါ...",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00116/adn00116_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/j5pnrpqczii4hxb/ADN+116.mp4/file",
+"photo1":"https://i.imgur.com/SosvvCd_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/adn00116/adn00116pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/adn00116/adn00116jp-10.jpg",
+"photo4":"https://pics.r18.com/digital/video/adn00116/adn00116jp-8.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00116/adn00116jp-7.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
