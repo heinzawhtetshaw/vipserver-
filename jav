@@ -247,4 +247,19 @@ Riko Honda ဆို‌တဲ့ကောင်မငယ်လေးက
 "photo5":"https://pics.r18.com/digital/video/adn00116/adn00116jp-7.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"STARS-375mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငလျင်လှုပ်တာတောင် မနိုးတဲ့ မိထွေးသမီးကို 
+တက်လိုးတဲ့ကျော်ကြီး
+မင်းသမီးနာမည်  Iori Kogawa ",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/1/1st/1stars375/1stars375_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/m0ar1cracfw5jlc/Stars-365.mp4/file",
+"photo1":"https://i.imgur.com/6Y7Ql7B_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://img.pornfhd.com/wp-content/uploads/2021/05/stars-375.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1stars00375/1stars00375jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1stars00375/1stars00375jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1stars00375/1stars00375jp-6.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
