@@ -262,4 +262,23 @@ Riko Honda ဆို‌တဲ့ကောင်မငယ်လေးက
 "photo5":"https://pics.dmm.co.jp/digital/video/1stars00375/1stars00375jp-6.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-470mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Miyuki သည် နာမည်ကြီး မော်ဒယ်တစ်ဦးဖစ်ရန်အတွက် ကြိုးစားနေလျက်ရှိသော တက်သစ်စ 
+မော်ဒယ်တစ်ဦးဖစ်သည်
+ထုတ်လုပ်ရေးကုမ္ပဏီရဲ့ အကြီးအကဲ Sato က သူမကို ညစ်ပတ်တဲ့အလုပ်တွေ ပေးချင်တယ် လို့ ကင်မရာမန်း ကို ပြောပြီး ဆွေးနွေးမှုတွေအပြီးမှာတော့
+ကပ္ပလီ ဂတုံးနဲ့ ပေးတွေ့ပါတော့သည်
+ဒါရိုက်တာရယ် ကင်မရာမန်း နဲ့ ကပ္ပလီဂတုံးတို့၏ ယုတ်မာတဲ့အကြံအစည်အောက်မှာ မင်းသမီးချောလေး Michiru Kujo တစ်ယောက် 
+လွတ်မြောက်နိုင်ပါ့မလားဆိုတာတော့.....
+နာမည်ကြီး ကပ္ပလီဂတုံးပါဝင်သည့် အပြင် မင်းသမီးကလည်း ရှယ်မိုက်တာမို့လို့ မဖြစ်မနေ ကြည့်သင့်တဲ့ ကားကောင်းလေးတစ်ကားလို့ညွန်းပါရစေ",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/ati/atid00470/atid00470_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/957vghnkkpwlmdm/ReAtid-470.mp4/file",
+"photo1":"https://i.imgur.com/jYc10sT_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/atid00470/atid00470pl.jpg",
+"photo3":"https://i.imgur.com/J5zPrBG_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://i.imgur.com/PodOn8i_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://pics.r18.com/digital/video/atid00470/atid00470jp-6.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
