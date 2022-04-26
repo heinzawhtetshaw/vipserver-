@@ -300,4 +300,20 @@ Miu ကအလှမယ်ပါ ပစ္စည်းအရောင်းမြ
 "photo5":"https://pics.r18.com/digital/video/ipx00652/ipx00652jp-10.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUY-945mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျော်ကြီးတို့အဖိုးကြီးတစ်သိုက် စခန်းချတဲ့နေရာကို လိုက်ပါသွားတဲ့အိမ်ထောင်ရှင်မလေး Akari Neo တစ်ယောက် စခန်းချတဲ့ တဲကုတ်လေးမှာဘဲ့ ကျော်ကြီး လိုးတာခံလိုက်ရပါတယ်  
+ယောကျာ်းဖစ်သူက ညရောက်တော့ ဇနီးသည် အိမ်ပြန်အလာကို စောင့်နေပေမယ့် သူပေါ်မလာခဲ့တော့ပါ
+ကျော်ကြီးတို့ကတော့ သူများဇနီးကို သရီးဆမ်း လိုက်သေးတယ် 
+မင်းသမီးနာမည် Akari Neo",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/juy/juy00945/juy00945_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/vpaipriyyxpnz4q/JUY945.mp4/file",
+"photo1":"https://i.imgur.com/DhaEocO_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/juy00945/juy00945pl.jpg",
+"photo3":"https://i.imgur.com/FVyv437_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://i.imgur.com/4eO6GUs_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://pics.r18.com/digital/video/juy00945/juy00945jp-4.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
