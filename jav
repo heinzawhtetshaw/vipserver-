@@ -316,4 +316,19 @@ Miu ကအလှမယ်ပါ ပစ္စည်းအရောင်းမြ
 "photo5":"https://pics.r18.com/digital/video/juy00945/juy00945jp-4.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-210mmsub",
+"info":"မြန်မာစာတန်းထိုး
+‌ယောက္ခမနဲ့ ကြင်စဦးဇနီး(ချွေးမ)
+ဖိုက်တင်ဇာတ်လမ်း
+မင်းသမီးနာမည် Tsumugi Akari",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00210/adn00210_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/fde901fs03ykm4c/Adn-210.mp4/file",
+"photo1":"https://i.imgur.com/Poaimud_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/adn00210/adn00210pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/adn00210/adn00210jp-3.jpg",
+"photo4":"https://pics.r18.com/digital/video/adn00210/adn00210jp-1.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00210/adn00210jp-8.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
