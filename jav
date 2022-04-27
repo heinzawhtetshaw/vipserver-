@@ -331,4 +331,22 @@ Miu ကအလှမယ်ပါ ပစ္စည်းအရောင်းမြ
 "photo5":"https://pics.r18.com/digital/video/adn00210/adn00210jp-8.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-146mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လက်တလော JAPAN AV လောကမှာ
+နာမည်ရလာတဲ့ AIKA ရဲ့ ဇာတ်ကားလေး
+လုပ်ပေးဖြစ်ပါတယ်...
+မိထွေးက လင်ပါသား တုတ်ကြီးကို
+ဆွဲစားတဲ့ကားလေးပါ...
+မင်းသမီးနာမည် AIKA",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mey/meyd00146/meyd00146_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/dg4hdnrbjr9j3bs/MEYD-146.mp4/file",
+"photo1":"https://i.imgur.com/VlcK6fC_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/meyd00146/meyd00146pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/meyd00146/meyd00146jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/meyd00146/meyd00146jp-3.jpg",
+"photo5":"https://pics.r18.com/digital/video/meyd00146/meyd00146jp-8.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
