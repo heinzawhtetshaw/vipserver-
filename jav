@@ -349,4 +349,18 @@ Miu ကအလှမယ်ပါ ပစ္စည်းအရောင်းမြ
 "photo5":"https://pics.r18.com/digital/video/meyd00146/meyd00146jp-8.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPD-337mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူမဟာ ငါလုံးဝမလိုးသင့်တဲ့ မိန်းကလေးတစ်ယောက်ဖြစ်ပေမယ့် သူမရဲ့ နို့သီးခေါင်းကြီးတွေကြောင့်....
+အရက်မူးနေတဲ့သူငယ်ချင်း မိန်းမကို လိုးတဲ့ဇာတ်လမ်းလေးပါ မင်းသမီးနာမည် Yui Hatano",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/p/ppp/pppd00337/pppd00337_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/4jjp8a5jkfw9cfe/PPPD-337.mp4/file",
+"photo1":"https://i.imgur.com/r2DjACl_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/pppd00337/pppd00337pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/pppd00337/pppd00337jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/pppd00337/pppd00337jp-5.jpg",
+"photo5":"https://pics.r18.com/digital/video/pppd00337/pppd00337jp-9.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
