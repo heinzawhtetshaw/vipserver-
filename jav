@@ -363,4 +363,20 @@ Miu ကအလှမယ်ပါ ပစ္စည်းအရောင်းမြ
 "photo5":"https://pics.r18.com/digital/video/pppd00337/pppd00337jp-9.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NSPS-940mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ထောင်ရေး ဖောက်ပြန်တဲ့ဇာတ်လမ်းလေးပါ
+ဒါရိုက်တာ Nagae ရဲ့လက်ရာတွေက
+ကြည့်ရတာ အရမ်းမိုက်ပါတယ်...
+မင်းသမီးနာမည် -An Mashiro",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/n/nsp/nsps940/nsps940_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/mrd5c8r0l0cgzex/NSPS-940.mp4/file",
+"photo1":"https://i.imgur.com/GSWSXN8_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/nsps00940/nsps00940pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/nsps00940/nsps00940jp-20.jpg",
+"photo4":"https://pics.r18.com/digital/video/nsps00940/nsps00940jp-19.jpg",
+"photo5":"https://pics.r18.com/digital/video/nsps00940/nsps00940jp-9.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
