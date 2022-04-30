@@ -379,4 +379,19 @@ Miu ကအလှမယ်ပါ ပစ္စည်းအရောင်းမြ
 "photo5":"https://pics.r18.com/digital/video/nsps00940/nsps00940jp-9.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HND-818mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းရဲ့အိမ်ကို အကတိုက်ဖို့လိုက်လာပြီး
+သူငယ်ချင်းရဲ့အဖေကိုမှ ဆွဲစားတဲ့
+အထက်တန်းကျောင်းသူမလေး ဇာတ်လမ်း",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/h/hnd/hnd00818/hnd00818_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/v6x89gwwcgnu50z/HND-818.mp4/file",
+"photo1":"https://i.imgur.com/orChoZf_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/hnd00818/hnd00818pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/hnd00818/hnd00818jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/hnd00818/hnd00818jp-6.jpg",
+"photo5":"https://pics.r18.com/digital/video/hnd00818/hnd00818jp-5.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
