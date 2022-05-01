@@ -407,4 +407,19 @@ Miu ကအလှမယ်ပါ ပစ္စည်းအရောင်းမြ
 "photo5":"https://pics.r18.com/digital/video/jul00144/jul00144jp-2.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIMK-054mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျွန်တော့်အန်တီမှာ မယုံနိုင်စရာ လှပတဲ့ ပူစီရှိတယ်
+အန်တီကြီးနဲ့ အထန်ကောင်လေး တို့ရဲ့ ဖိုက်တင်ကား
+မင်းသမီးနာမည် Hana Haruna",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mim/mimk00054/mimk00054_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/61bysib8mkd3f9h/MIMK+054-HD.mp4/file",
+"photo1":"https://i.imgur.com/K1vxVjV_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/mimk00054/mimk00054pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/mimk00054/mimk00054jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/mimk00054/mimk00054jp-4.jpg",
+"photo5":"https://pics.r18.com/digital/video/mimk00054/mimk00054jp-7.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
