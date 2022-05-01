@@ -422,4 +422,18 @@ Miu ကအလှမယ်ပါ ပစ္စည်းအရောင်းမြ
 "photo5":"https://pics.r18.com/digital/video/mimk00054/mimk00054jp-7.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIMK-052mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီဇာတ်လမ်းလေးကတော့ အများကြိုက်တဲ့ Hana လေးရဲ့ manga ကိုပြန်ရိုက်ထားတဲ့ အဒေါ်နဲ့တူလေး ဇာတ်ကြမ်းကားလေးရဲ့ အဆက်လေးပါ
+ဒီဇာတ်လမ်းကတော့ အရင်အပိုင်းမတိုင်ခင်က အဖြစ်အပျက်လေးဖြစ်ပြီး Hana နဲ့ သူ့တူလေးတို့ နှစ်ပေါင်းများစွာကြာမှ ပထမဆုံးပြန်လည်ဆုံတွေ့ကြတဲ့အကြောင်းလေးပါ",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mim/mimk00052/mimk00052_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/joi5pmgjlqvyvp0/MIMK+052-HD.mp4/file",
+"photo1":"https://i.imgur.com/2SPd1PB_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/mimk00052/mimk00052pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/mimk00052/mimk00052jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/mimk00052/mimk00052jp-3.jpg",
+"photo5":"https://pics.r18.com/digital/video/mimk00052/mimk00052jp-9.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
