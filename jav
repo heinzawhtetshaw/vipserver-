@@ -394,4 +394,17 @@ Miu ကအလှမယ်ပါ ပစ္စည်းအရောင်းမြ
 "photo5":"https://pics.r18.com/digital/video/hnd00818/hnd00818jp-5.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-144mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်နီးချင်းစားဘဲကြီး ကို ကလဲ့စားပြန်ချေခြင်း",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00144/jul00144_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ofqh7eaxplbp6vr/JUL-144.mp4/file",
+"photo1":"https://i.imgur.com/RjNZPPo_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00144/jul00144pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/jul00144/jul00144jp-5.jpg",
+"photo4":"https://pics.r18.com/digital/video/jul00144/jul00144jp-1.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00144/jul00144jp-2.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
