@@ -436,18 +436,4 @@ Miu ကအလှမယ်ပါ ပစ္စည်းအရောင်းမြ
 "photo5":"https://pics.r18.com/digital/video/mimk00052/mimk00052jp-9.jpg",
 "dapp":"t",
 "candownload":"",
-"wcode":"တစ်"},
-{"name":"IPX-660mmsub",
-"info":"မြန်မာစာတန်းထိုး
-ဒုက္ခမဖြစ်ချင်ဘူးဆိုရင် ဘောင်းဘီကို ချွတ်လိုက်ပါ။ ပေပီလေးအား အကြပ်ကိုင်ပီး လိုးတဲ့ကား
-မင်းသမီးနာမည် Kana Momonogi",
-"watch":"https://awscc3001.r18.com/litevideo/freepv/i/ipx/ipx00660/ipx00660_dmb_w.mp4",
-"download":"https://www.mediafire.com/file/wwubf2w1el308a0/Ipx-660.mp4/file",
-"photo1":"https://pics.r18.com/digital/video/ipx00660/ipx00660ps.jpg",
-"photo2":"https://pics.r18.com/digital/video/ipx00660/ipx00660pl.jpg",
-"photo3":"https://pics.r18.com/digital/video/ipx00660/ipx00660jp-2.jpg",
-"photo4":"https://pics.r18.com/digital/video/ipx00660/ipx00660jp-3.jpg",
-"photo5":"https://pics.r18.com/digital/video/ipx00660/ipx00660jp-12.jpg",
-"dapp":"https://www.mediafire.com/file/gs4ypoiza6fn4sx/Ipx-660hd.mp4/file",
-"candownload":"",
 "wcode":"တစ်"}]
