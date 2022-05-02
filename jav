@@ -436,4 +436,20 @@ Miu ကအလှမယ်ပါ ပစ္စည်းအရောင်းမြ
 "photo5":"https://pics.r18.com/digital/video/mimk00052/mimk00052jp-9.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-518mmsub",
+"info":"မြန်မာစာတန်းထိုး 
+မိထွေးကို ကြိတ်ကြံနေပေမယ့်
+အတန်းဖော်က ဖြတ်ကြိတ်သွားလို့
+ကြေကွဲသွားရတဲ့ လင်ပါသားလေးရဲ့ ရင်နှစ်ဖွယ် darma ကားလေး
+မင်းသမီးနာမည် Hijiri Maihara",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00518/jul00518_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/moqlf5i8jtvkl6f/JUL-518.mp4/file",
+"photo1":"https://i.imgur.com/XIxh1Qn_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00518/jul00518pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/jul00518/jul00518jp-6.jpg",
+"photo4":"https://pics.r18.com/digital/video/jul00518/jul00518jp-2.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00518/jul00518jp-5.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
