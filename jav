@@ -466,4 +466,20 @@ Miu ကအလှမယ်ပါ ပစ္စည်းအရောင်းမြ
 "photo5":"https://pics.r18.com/digital/video/adn00127/adn00127jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/hwonftd1qkek5tv/ADN_127-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-416mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇနီးဖစ်သူသည် အချိန်ပိုအလုပ်ဆင်းသည်ဟု 
+ခင်ပွန်းသည်ကို လိမ်ညာခဲ့သည်
+မင်းသမီးနာမည်Nao Jinguji 
+ကောက်ကြောင်းလှပီး သရုပ်ဆောင်အပိုင်းမှာအပိုအလိုမရှိတဲ့ မင်းသမီးမို့လို့ တင်ဆက်ပေးလိုက်ပါတယ်",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mey/meyd00416/meyd00416_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/gajkc2kmazi0hdh/Meyd-416.mp4/file",
+"photo1":"https://i.imgur.com/KqT1w6g_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/meyd00416/meyd00416pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/meyd00416/meyd00416jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/meyd00416/meyd00416jp-5.jpg",
+"photo5":"https://pics.r18.com/digital/video/meyd00416/meyd00416jp-8.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
