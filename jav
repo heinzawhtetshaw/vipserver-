@@ -482,4 +482,28 @@ Miu ကအလှမယ်ပါ ပစ္စည်းအရောင်းမြ
 "photo5":"https://pics.r18.com/digital/video/meyd00416/meyd00416jp-8.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDE-742mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဘဝမှာခင်ဗျားတို ကြိုက်တဲ့ idol နဲ့
+အတူတူပျော်ရမယ်ဆိုရင်ဘယ်လိုခံစားရမလဲဗျာ။ ဒီဇာတ်လမ်းလေး
+ဟာလည်း ဒီလိုပါပဲMC ဟာတောတောင်ထဲမှာသူငယ်ချင်းတွေနဲ့
+အတူ အသားကင်ပါတီလေးလုပ်နေပါတယ်။ သူတို ပါတီလုပ်နေတဲ့
+နေရာ ကို နာမည်သိပ်မကြီးသေးတဲ့Shoko ဆိုတဲ့ တက်သစ်စ J Pop
+Idol မလေး ဟာသူ့သူငယ်ချင်း တွေနဲ့အတူ လာပြီး အသားကင်ပါတီ
+ပွဲလာကျင်းပပြန်ပါတယ်။ ဒါပေမယ့် MC ဟာ Shoko ရဲ့ fan ဖြစ်
+နေပြီး ပါတီပွဲ လုပ်နေတုန်းမှာ မိုးတွေအရမ်းသည်းလာတဲ့အခါ ကား
+ဆီပြန်မယ်ဆိုပြီး Shoko ဟာ တောထဲကနေ တစ်ယောက်ထဲပြေး
+သွားပြီး လမ်းပျောက်သွားပါတယ် ဒါပေမယ့် MC ဟာ Shoko ကို
+စိတ်ပူပြီး စိုးရိမ်စိတ်နဲ့ အနောက်ကနေ လိုက်သွားရာမှာ ဘာတွေ
+ဆက်ဖြစ်လာမလဲ ကြည့်ရှုပေးပါခင်ဗျာ..",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mid/mide00742/mide00742_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/b4z4goqlejkm63n/MIDE_742-SD.mp4/file",
+"photo1":"https://i.imgur.com/u97JRND_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/mide00742/mide00742pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/mide00742/mide00742jp-2.jpg",
+"photo4":"https://pics.r18.com/digital/video/mide00742/mide00742jp-7.jpg",
+"photo5":"https://pics.r18.com/digital/video/mide00742/mide00742jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/fnrhqoxepk7x6y7/MIDE_742-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
