@@ -506,4 +506,22 @@ Idol မလေး ဟာသူ့သူငယ်ချင်း တွေနဲ�
 "photo5":"https://pics.r18.com/digital/video/mide00742/mide00742jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/fnrhqoxepk7x6y7/MIDE_742-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPD-971mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နွေရာသီကို ထင်ဟပ်စေမယ့်
+ဇာတ်ကွက်လေး လုပ်ပေးလိုက်ပါတယ်
+အညာဒေသကို အလည်ပြန်လာရင်း
+သွေးသားမတော်စပ်တဲ့အမ (step sister)က ဖရဲသီးတွေတဝကြီး
+ခွဲကျွေးတဲ့ ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Tomoko Kamisaka",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/p/ppp/pppd00971/pppd00971_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/0bpebnt54gahrkm/PPPD-971.mp4/file",
+"photo1":"https://i.imgur.com/kHbWjFf_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/pppd00971/pppd00971pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/pppd00971/pppd00971jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/pppd00971/pppd00971jp-4.jpg",
+"photo5":"https://pics.r18.com/digital/video/pppd00971/pppd00971jp-10.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
