@@ -555,4 +555,17 @@ Idol မလေး ဟာသူ့သူငယ်ချင်း တွေနဲ�
 "photo5":"https://pics.r18.com/digital/video/ssni00969/ssni00969jp-7.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPD-688mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ တစ်ပိသာလောက်ရှိတဲ့ ရင်ပုံကြီးကို ပိုင်ဆိုင်ထားတဲ့ ကိုကိုကာလသားတို့အသဲစွဲ မင်းသမီးလေး Hitomi ရဲ့  ဝမ်းရှော့ ဆက်ရှင် ၅ ခုကို ပုံစံမျိးစုံနဲ့ တင်ပြထားပါတယ်",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/p/ppp/pppd00688/pppd00688_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/9nax2rbuckf6fu3/PPPD+688+SD.mp4/file",
+"photo1":"https://i.imgur.com/QqodDuw_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/pppd00688/pppd00688pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/pppd00688/pppd00688jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/pppd00688/pppd00688jp-3.jpg",
+"photo5":"https://pics.r18.com/digital/video/pppd00688/pppd00688jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/4jgthbft6mnnmbl/PPPD+688+HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
