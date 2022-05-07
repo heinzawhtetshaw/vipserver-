@@ -568,4 +568,18 @@ Idol မလေး ဟာသူ့သူငယ်ချင်း တွေနဲ�
 "photo5":"https://pics.r18.com/digital/video/pppd00688/pppd00688jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/4jgthbft6mnnmbl/PPPD+688+HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-370mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ အားလုံးရဲ့အသဲစွဲ စမောဆိုဒ်လေး Yui Nagase လေးရဲ့ Idol ဖြစ်ဖို့ကြိုးစားရင်း အလိမ်မိသွားတဲ့အကြောင်းလေးပါ
+baby face လေးနဲ့ စမောဆိုဒ် အသေးစားလေး Yui Nagase ဟာ Idol အလုပ်ခေါ်လို့လျှောက်မိရာမှာ ဂျင်းမိခဲ့ပါတယ် Idol အရမ်းဖြစ်ချင်လွန်းတဲ့စိတ်နဲ့ ကုမ္ပဏီက ခိုင်းတာအကုန်လုပ်ရင်း Idol မဖြစ်ဘဲ အသုံးတော်ခံလေးဖြစ်သွားခဲ့ရပုံကို သရီးဆမ်း ရိုက်ကွက်အမျိးမျိးနဲ့ တမူထူးခြားစွာရှူစားရမှာပါ....",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/ati/atid00370/atid00370_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/xg63le24lsvxn9z/ATID+370-SD.mp4/file",
+"photo1":"https://i.imgur.com/jSAwkSm_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00370/atid00370pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/atid00370/atid00370jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00370/atid00370jp-8.jpg",
+"photo5":"https://www.rm2029.com/contents/videos_screenshots/29000/29405/preview.mp4.jpg",
+"dapp":"https://www.mediafire.com/file/c4p57d721qwvjo0/ATID_370-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
