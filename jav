@@ -582,4 +582,19 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://www.rm2029.com/contents/videos_screenshots/29000/29405/preview.mp4.jpg",
 "dapp":"https://www.mediafire.com/file/c4p57d721qwvjo0/ATID_370-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSNI-735mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိဘတွေက ခရီးသွားမှာမလို့ အိမ်ကိုထိန်းဖို့ အိမ်ထိန်း(အိမ်ဖော်)ငှားပေးခဲ့ပါတယ်...
+ခက်တာက ထိန်းရခက်တဲ့ သားနှစ်ယောက်ပါ
+ဘယ်လိုထိန်းရခက်တာလဲဆိုတာကတော့...",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/s/ssn/ssni00735/ssni00735_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/hs0d9tj5mvq1kt2/SSNI-735.mp4/file",
+"photo1":"https://i.imgur.com/g3mKomV_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ssni00735/ssni00735pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ssni00735/ssni00735jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/ssni00735/ssni00735jp-8.jpg",
+"photo5":"https://pics.r18.com/digital/video/ssni00735/ssni00735jp-7.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
