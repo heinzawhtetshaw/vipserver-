@@ -597,4 +597,19 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://pics.r18.com/digital/video/ssni00735/ssni00735jp-7.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-181mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ ကိုကိုတို့ရဲ့ အချစ်တော် Yua Mikami လေးရဲဝိုင်မူးပြီး ယောက္ခထီးနဲ့ မြန်မာကားထဲကလို ပန်းအိုးကွဲသွားတဲ့ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Yua Mikami
+မြန်မာစာတန်းထိုးနဲ့မို့လို့ ပြန်လည်တင်ဆက်ပေးလိုက်ပါတယ်",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/s/ssi/ssis00181/ssis00181_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/khdpenrjt0sj6a7/SSIS+181-SD.mp4/file",
+"photo1":"https://i.imgur.com/tY1kMoF_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ssis00181/ssis00181pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ssis00181/ssis00181jp-10.jpg",
+"photo4":"https://pics.r18.com/digital/video/ssis00181/ssis00181jp-7.jpg",
+"photo5":"https://pics.r18.com/digital/video/ssis00181/ssis00181jp-5.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
