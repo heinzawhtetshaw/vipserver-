@@ -612,4 +612,18 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://pics.r18.com/digital/video/ssis00181/ssis00181jp-5.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-267mmsub",
+"info":"မြန်မာစာတန်ထိုး
+မုဆိုးမလေး တယောက်ရဲ့ ဆာလောင်နေမှုကြီးကို ကွက်ကွက်ကွင်းကွင်း ကြည့်ရှုခံစားရမယ့် ဇာတ်ကား
+မင်းသမီးနာမည် Tsumugi Akari",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00267/adn00267_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/1jbul75nhnjm881/ADN-267.mp4/file",
+"photo1":"https://i.imgur.com/w3RU0Vs_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/adn00267/adn00267pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/adn00267/adn00267jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/adn00267/adn00267jp-10.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00267/adn00267jp-7.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
