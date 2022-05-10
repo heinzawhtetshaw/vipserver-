@@ -626,4 +626,18 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://pics.r18.com/digital/video/adn00267/adn00267jp-7.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-556mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်းသမီး Maria Nagai ရဲ့ယောက်ျားဟာ လက်ထပ်ပြီး ၅နှစ်ကြာတဲ့အခါမှာ အကြင်နာတွေလျော့လာပြီးပြောင်းလဲလာပါတယ်။ တစ်နေ့တော့ Maria ဟာ မိုးရေထဲမှာ ပြေးရင်းလွှားရင်း အိမ်သော့ပျောက်သွားပြီး ယောက်ျားကလည်း အရမ်းနောက်ကျမှ ပြန်လာတတ်တာမို အိမ်ရှေ့လေးမှာ ရာသီဥတုအေးနေတာကို အံတုပြီးထိုင်နေရပါတယ်။ ဒါကိုမြင်တဲ့ အပေါ်ထပ်က လက်လုပ်လက်စား Otsuka-san ဟာ သနားစိတ်ဝင်ပြီး သူ့အိမ်ထဲကိုခဏလောက်ဝင်နေပြီးရေမိုးချိုးဖို ခေါ်လိုက်ရာမှ...
+မင်းသမီးနာမည် Maria Nagai",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mey/meyd00556/meyd00556_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/mlv7xrxq2l13h58/MEYD+556-HD.mp4/file",
+"photo1":"https://i.imgur.com/i3Jju0q_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/meyd00556/meyd00556pl.jpg",
+"photo3":"https://i.imgur.com/YKGBVW2_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://i.imgur.com/3TUEGfc_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://pics.r18.com/digital/video/meyd00556/meyd00556jp-3.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
