@@ -640,4 +640,17 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://pics.r18.com/digital/video/meyd00556/meyd00556jp-3.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-151mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ အနားယူသွားပေမယ့် အားလုံးတမ်းတမှန်းထုနေကြဆဲ အလှပဂေးမင်းသမီးလေး Saeko Matsushita ရဲ့ သနားစရာဇာတ်ကားလေးဖြစ်ပါတယ်",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00151/adn00151_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/0wejqe0wlp77d79/ADN+151-SD.mp4/file",
+"photo1":"https://i.imgur.com/OfDLPYE_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/adn00151/adn00151pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/adn00151/adn00151jp-12.jpg",
+"photo4":"https://pics.r18.com/digital/video/adn00151/adn00151jp-11.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00151/adn00151jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/oik9ljsx67al59s/ADN+151-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
