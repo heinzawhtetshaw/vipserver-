@@ -653,4 +653,18 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://pics.r18.com/digital/video/adn00151/adn00151jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/oik9ljsx67al59s/ADN+151-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NSPS-982mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ကွင်း အဝေးကွင်း အကြောင်းတွေကို ရှင်းပြရင်း ဘေးအိမ်က မိန်းမရဲ့သူငယ်ချင်းကို ဆွဲစားတဲ့ ဂျပန်ဂတုံး
+မင်းသမီးနာမည် Ayaka Mutou",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/n/nsp/nsps982/nsps982_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/70ylk05ksn8jndy/NSPS-982.mp4/file",
+"photo1":"https://i.imgur.com/gGFzKyW_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/nsps00982/nsps00982pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/nsps00982/nsps00982jp-15.jpg",
+"photo4":"https://pics.r18.com/digital/video/nsps00982/nsps00982jp-11.jpg",
+"photo5":"https://pics.r18.com/digital/video/nsps00982/nsps00982jp-4.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
