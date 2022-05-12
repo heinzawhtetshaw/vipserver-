@@ -667,4 +667,19 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://pics.r18.com/digital/video/nsps00982/nsps00982jp-4.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSNI-958mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မုန်တိုင်းကြောင့် ကျွန်မမုန်းတီးတဲ့ ဆရာနဲ့ ကျောင်းမှာ ညတွင်းချင်း ပိတ်မိနေခဲ့တယ်... 
+ညဘက်ကြီးမှာ တစ်ကျောင်းလုံးမှာ ကျွန်မတို့နှစ်ယောက်တည်း ရှိနေပီး ကျွန်မအဝတ်အစားတွေ လည်းစိုစွတ်နေခဲ့တယ်
+မင်းသမီးနာမည် Rena Kodama",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/s/ssn/ssni00958/ssni00958_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/v2xzvl0xr0cr0pe/SSNI-958.mp4/file",
+"photo1":"https://i.imgur.com/gr0A9pl_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://img2.javmost.com/file_image/SSNI-958.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssni00958/ssni00958jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssni00958/ssni00958jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssni00958/ssni00958jp-8.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
