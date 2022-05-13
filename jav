@@ -697,4 +697,18 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://pics.r18.com/digital/video/venu00997/venu00997jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/jehgtdycloymap3/VENU+997-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-147mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အတန်းဖော်ရဲ့ အမေ ကို စားတဲ့ ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Aki Sasaki",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mey/meyd00147/meyd00147_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/zjnkgg82du4t06p/MEYD-147.mp4/file",
+"photo1":"https://i.imgur.com/fRdgovc_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/meyd00147/meyd00147pl.jpg",
+"photo3":"https://i.imgur.com/ExpgGT7_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://i.imgur.com/lBrDupQ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://i.imgur.com/090fGmJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
