@@ -711,4 +711,20 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://i.imgur.com/090fGmJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-279mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ရှင်မလေး မိယု ဟာ ဘဝကိုအေးအေးချမ်းချမ်းခင်ပွန်းဖြစ်သူနှင့်‌ယောက္ခမဖြစ်သူ တိုနှင့်အတူနေထိုင်နေရာကြပါတယ်
+အနေကြာလာတော့ ယောက္ခမ မျက်လုံးထဲမှာ မိယု လေးဟာ လှပလာပီး ချွေးမလေးမိယုအပေါ်မှာ တပ်မက်စိတ်တွေဖစ်ပေါ်လာခဲ့သည်
+ယောက္ခမနဲ့ ချွေးမ ဖိုက်တင်
+မင်းသမီးနာမည် Minori Hatsune",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00279/adn00279_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/atsdf0kvocl3i3w/ADN-279-SD.mp4/file",
+"photo1":"https://i.imgur.com/Yh9MUzk_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/adn00279/adn00279pl.jpg",
+"photo3":"https://i.imgur.com/3sVeasn_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.r18.com/digital/video/adn00279/adn00279jp-8.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00279/adn00279jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/44pa62c0mhjt8ha/ADN-279-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
