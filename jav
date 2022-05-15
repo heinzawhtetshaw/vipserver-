@@ -727,4 +727,19 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://pics.r18.com/digital/video/adn00279/adn00279jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/44pa62c0mhjt8ha/ADN-279-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-408mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက်ျားတစ်ယောက်ဖစ်လာပီဆိုရင် ပိုက်ဆံရှာတတ်ရုံနဲ့ မပီး‌ဘူး မိန်းမကို မျော့‌နေအောင် လိုးနိုင်ဖို့လိုပါတယ်
+ယောက္ခမနဲ့ ချွေးမ ဖိုက်တင်
+မင်းသမီးနာမည် Mari Takasugi",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mey/meyd00408/meyd00408_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/5a6ck6s8aymocsy/MEYD-408.mp4/file",
+"photo1":"https://i.imgur.com/qogvShe_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/meyd00408/meyd00408pl.jpg",
+"photo3":"https://i.imgur.com/GkfMrAs_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://i.imgur.com/l8WiJzj_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://pics.r18.com/digital/video/meyd00408/meyd00408jp-1.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
