@@ -742,4 +742,36 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://pics.r18.com/digital/video/meyd00408/meyd00408jp-1.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-440mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်ညွန်း - Nanami ကစေ့စပ်ပြီးလို့လက်ထပ်ဖို့အတွက်ပြင်ဆင်နေတဲ့မိန်းမပျိုတစ်ယောက်ပါ
+သူဟာသူ့ပထွေးကိုမုန်းလွန်းလို့ သူမရဲ့လက်ထပ်ပွဲကိုတောင်မဖိတ်ချင်ပါဘူး
+ဒါပေမဲ့တစ်ရက်မှာသူမအရမ်းမုန်းပါတယ်ဆိုတဲ့ ပထွေးကအိမ်ကိုရောက်ချလာပါလေရော 
+ဆက်ဆက်ခါအောင်မုန်းတဲ့ Nanami လေးကို ပထွေးဘလိုကိုင်တွယ်မှာလဲ..
+ဒီကားဟာ Nanami ရဲ့ Career ကို အောင်မြင်ဖို့အတွက်တွန်းတင်ပေးတဲ့ကားပါ တကယ်ကောင်းပါတယ်
+မင်းသမီးနာမည် Nanami Misaki",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/ati/atid00440/atid00440_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/tw09clk5xxadt3f/Atid-440.mp4/file",
+"photo1":"https://i.imgur.com/KrPBevv_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/atid00440/atid00440pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/atid00440/atid00440jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/atid00440/atid00440jp-10.jpg",
+"photo5":"https://pics.r18.com/digital/video/atid00440/atid00440jp-12.jpg",
+"dapp":"t",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDE-837mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းသားတစ်ယောက် အနိုင်ကျင့်ခံရလို့ မနေနိုင် မထိုင်နိုင် ဝင်ပြောမိရာကနေ ဘဝပျက်ခဲ့ရတဲ့ ဆရာမလေးရဲ့ ရင်နှစ်ဖွယ်ရာ ဒရမ်မာဇာတ်လမ်း
+မင်းသမီးနာမည် ",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mid/mide00837/mide00837_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/pvg3ifl1l5iabss/MIDE-837.mp4/file",
+"photo1":"https://i.imgur.com/UbX1g0u_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://img2.javmost.com/file_image/MIDE-837.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mide00837/mide00837jp-7.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mide00837/mide00837jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mide00837/mide00837jp-9.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
