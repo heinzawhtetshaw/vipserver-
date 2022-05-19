@@ -774,4 +774,36 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://pics.dmm.co.jp/digital/video/mide00837/mide00837jp-9.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDE-955mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူဌေး မမ အကိတ်ကို ဝိုက်တာ မိုးသည်းတဲ့နေ့တစ်နေ့မှာပေါ့
+စော်က ကိတ်တဲ့အပြင် ချစ်ဖို့‌ပါကောင်းချက် ရှယ်ဘဲ့
+မင်းသမီးနာမည် Fumika Nakayama",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mid/mide00955/mide00955_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/hlho6d6z6hvabfp/Mide-955sd.mp4/file",
+"photo1":"https://i.imgur.com/0D63Fim_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/mide00955/mide00955pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/mide00955/mide00955jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/mide00955/mide00955jp-5.jpg",
+"photo5":"https://pics.r18.com/digital/video/mide00955/mide00955jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/yh50tsrxpqwvpp8/Mide-955hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SSNI-869mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိချိခတစ်ယောက် တိုကျိုမှာအိမ်ထောင်ကျပြီး
+လင်ဖစ်သူနဲ့ အတူမွေးရပ်မြေကိုပြန်လာခဲ့ပါတယ်...
+အဲမှာ ex (ရည်းစားဟောင်း) နဲ့ပြန်တွေ့ပီး ‌ဘာဆက်ဖစ်မလဲ..
+ယောကျာ်းရှိပီးသား အိချိခ အပေါ်မှာရော ex ဖစ်သူက အချစ်တွေ ကျန်နေသေးရဲ့လားဆိုတာကို ...
+မင်းသမီးနာမည် Ichika Hoshimiya",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/s/ssn/ssni00869/ssni00869_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/87wr56jio3pg5t1/SSNI-869.mp4/file",
+"photo1":"https://i.imgur.com/a2L2aKp_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ssni00869/ssni00869pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ssni00869/ssni00869jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/ssni00869/ssni00869jp-2.jpg",
+"photo5":"https://pics.r18.com/digital/video/ssni00869/ssni00869jp-4.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
