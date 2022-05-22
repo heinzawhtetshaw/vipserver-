@@ -835,4 +835,19 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshuOU2tfGx6jhwYuftNXzE83FjDkAbFaalg&usqp=CAU",
 "dapp":"https://www.mediafire.com/file/8moplnpstxutmri/RBD+423-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPX-847mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ မိမိစွဲလမ်းတဲ့ကောင်မလေးတစ်ယောက်ကို စပိုင်ကင်မရာတစ်လုံးနဲ့ နေရာမျိးစုံမှာ ထောင့်မျိးစုံကရိုက်ထားပြီး ပရင့်ထုတ်ကာ တစ်ခန်းလုံးအပြည့်ကပ်ပြီး ဂွင်းထုတဲ့ လူတစ်ယောက်အကြောင်းပါ
+ဂွင်းထုနေရုံနဲ့အားမရတော့ဘဲ ဘာဆက်ဖစ်မှာလဲဆိုတာကိုတော့...
+မင်းသမီးနာမည်  Ema Futaba ",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/i/ipx/ipx00847/ipx00847_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/f8tg5ec3j4vch7l/%255BDark_TV_Premium%255DIPX_847-SD.m4v/file",
+"photo1":"https://i.imgur.com/hj7k23j_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://img2.javmost.com/file_image/IPX-847.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipx00847/ipx00847jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00847/ipx00847jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00847/ipx00847jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/y7mht956dw372zm/%255BDark_TV_Premium%255DIPX_847-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
