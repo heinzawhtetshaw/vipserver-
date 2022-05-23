@@ -850,4 +850,18 @@ baby face လေးနဲ့ စမောဆိုဒ် အသေးစား�
 "photo5":"https://pics.dmm.co.jp/digital/video/ipx00847/ipx00847jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/y7mht956dw372zm/%255BDark_TV_Premium%255DIPX_847-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SHKD-808mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ JAV ရဲ့ အချစ်ဦး Seako လေးရဲ့ ခါတိုင်းနဲ့မတူ တမူထူးခြား ခပ်မိုက်မိုက် စပိုင်မလေး အသွင်ယူထားတဲ့ ဇာတ်ကားကောင်းလေးပါ
+မင်းသမီးနာမည်Saeko Matsushita",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/s/shk/shkd00808/shkd00808_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/gzw2ku2u4o5yzb4/%255BDark_TV_Premium%255DSHKD_808-SD.m4v/file",
+"photo1":"https://i.imgur.com/fEZV32g_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/shkd00808/shkd00808pl.jpg",
+"photo3":"https://i.imgur.com/mgEPyiY_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.r18.com/digital/video/shkd00808/shkd00808jp-9.jpg",
+"photo5":"https://pics.r18.com/digital/video/shkd00808/shkd00808jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/3nburg08bd36pic/%255BDark_TV_Premium%255DSHKD_808-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
