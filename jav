@@ -914,4 +914,19 @@ MC က ကျန်းမာရေးအမြဲမကောင်းနေတ�
 "photo5":"https://pics.r18.com/digital/video/ipx00729/ipx00729jp-4.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PRED-087mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီဇာတ်လမ်းလေးကတော့ အမေနဲ့သမီးအပြိုင်ကျဲထားတဲ့ ဇာတ်ကားလေးပါ
+မကောင်းတာလုပ်စားတဲ့ အမေကြောင့် မျက်နှာငယ်နေရတဲ့ သမီးဖြစ်သူဟာ သူ့အမေလိုတစ်သက်လုံးမဖြစ်စေရဘူးလို့ ကြွေးကြော်ပြီး လူကောင်းတစ်ယောက်နဲ့ အိမ်ထောင်ရက်သား ကောင်းကောင်းကျခဲ့ပါတယ် ဒါပေမယ့် သူမခန္တာကိုယ်မှာ စီးဆင်းနေတဲ့ သူမအမေရဲ့ဗီဇသွေးက အစွမ်းပြလာတဲ့အခါ လက်ရှိအခြေအနေကို ပျင်းရိငြီးငွေ့လာပြီး သူမကိုယ်တိုင် ဘာအထူးအဆန်းတွေလုပ်မလဲဆိုတာကတော့...........
+မင်းသမီးနာမည် Misaki Honda",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/p/pre/pred00087/pred00087_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ps15xxzynmr3pvj/PRED+087-SD.mp4/file",
+"photo1":"https://i.imgur.com/OkZba1S_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/pred00087/pred00087pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/pred00087/pred00087jp-1.jpg",
+"photo4":"https://i.imgur.com/vRakL4v_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://pics.r18.com/digital/video/pred00087/pred00087jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/k1wjufs1zt3wcao/PRED+087-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
