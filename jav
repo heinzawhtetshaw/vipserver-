@@ -929,4 +929,18 @@ MC က ကျန်းမာရေးအမြဲမကောင်းနေတ�
 "photo5":"https://pics.r18.com/digital/video/pred00087/pred00087jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/k1wjufs1zt3wcao/PRED+087-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-232mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ ကိုကိုကာလသားတို့အသဲစွဲ မင်းသမီးချောလေး Rara Anzai တစ်ယောက် သူမနဲ့တွဲနေတဲ့ဘဲကို ဘယ်လိုပြုစုတယ်ဆိုတာကို အသည်းတယားယား ရင်တလှပ်လှပ်နဲ့ကြည့်ရမယ့် ကြည့်ရမယ့်ကားလေးပါ
+မင်းသမီးနာမည် Rara Anzai",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/s/ssi/ssis00232/ssis00232_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/uh1toi1pp0cj5bd/SSIS_232-SD.mp4/file",
+"photo1":"https://i.imgur.com/znKXSaK_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ssis00232/ssis00232pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ssis00232/ssis00232jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/ssis00232/ssis00232jp-2.jpg",
+"photo5":"https://pics.r18.com/digital/video/ssis00232/ssis00232jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/ile6vf06e0yc2uz/SSIS_232-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
