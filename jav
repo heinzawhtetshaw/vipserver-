@@ -943,4 +943,35 @@ MC က ကျန်းမာရေးအမြဲမကောင်းနေတ�
 "photo5":"https://pics.r18.com/digital/video/ssis00232/ssis00232jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/ile6vf06e0yc2uz/SSIS_232-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Meyd-560mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ အမျိးသာသီးသန့် မဂ္ဂဇင်းမျက်နှာဖုံးတိုင်းကိုစိုးမိုးထားတဲ့ နာမည်ကြီးအပြာမော်ဒယ်မလေး  Nanao Nakano ပါဝင် သရုပ်ဆောင်ထားတဲ့ NTR ဇာတ်ကားလေးပါ
+မင်းသမီးနာမည် Nanao Nakano",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mey/meyd00560/meyd00560_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/yj8ll9zflb6hocn/MEYD_560-SD.mp4/file",
+"photo1":"https://i.imgur.com/VU8LF7s_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://img2.javmost.com/file_image/MEYD-560.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/meyd00560/meyd00560jp-8.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00560/meyd00560jp-7.jpg",
+"photo5":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3CeGshXFGsCKf131UWTJOYHGVbZ963BZVLg&usqp=CAU",
+"dapp":"https://www.mediafire.com/file/ws56e15yt8muh3n/MEYD_560-HD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUY-983mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဂျပန်ဂေါင်းကြီးက ပထမတော့
+စော်ကိုဖက်နမ်းပြီး Selfie တွေရိုက်လိုက်ပါတယ်
+အဲ့ပုံကိုဖြန့်မယ်ဆိုပြီး ချိန်းခြောက်တော့..
+ဘာဆက်ဖစ်မလဲဆိုတာ ကြည့်ရှုလိုက်ပါ
+မင်းသမီးနာမည် Leona Kirishima",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/juy/juy00983/juy00983_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/z5ax0jiqupha2r7/JUY-983.mp4/file",
+"photo1":"https://i.imgur.com/IoO5O5O_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/juy00983/juy00983pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/juy00983/juy00983jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/juy00983/juy00983jp-5.jpg",
+"photo5":"https://pics.r18.com/digital/video/juy00983/juy00983jp-6.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
