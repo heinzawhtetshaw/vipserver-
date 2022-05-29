@@ -974,4 +974,18 @@ MC က ကျန်းမာရေးအမြဲမကောင်းနေတ�
 "photo5":"https://pics.r18.com/digital/video/juy00983/juy00983jp-6.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-756mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းနဲ့ ဝေးကွာပြီး တစ်နေရာစီနေရတဲ့ Asahi Mizuno လေးဟာ အမြဲတမ်းဖုန်းလက်ကမချဂိမ်းဆော့နေတဲ့ သားဖြစ်သူနဲ့ အတူတူနေရပြီး အထီးကျန်နေပါတယ် အိမ်မှာဝင်ထွက်နေတဲ့ သားလေးရဲ့အခင်ဆုံးသူငယ်ချင်းလေးက အမေမရှိရှာလို့ သူမကို အမေရင်းလိုခင်မင်ပြီး သူ့သားအစားအဖော်ပြုပေးရာကနေ နောက်ပိုင်းမှာတော့ အိုးချင်းထားအိုးချင်းထိ ကြိုးချင်းထားလို့ ကြိုးချင်းငြိခဲ့ကြပါတော့တယ်..... 
+မင်းသမီးနာမည် Asahi Mizuno",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00756/jul00756_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/s1m9946ct4lp0ka/JUL+756-SD.mp4/file",
+"photo1":"https://i.imgur.com/eT3Tbbs_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00756/jul00756pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/jul00756/jul00756jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/jul00756/jul00756jp-5.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00756/jul00756jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/zegsphtxw2h8ogb/JUL+756-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
