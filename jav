@@ -988,4 +988,36 @@ MC က ကျန်းမာရေးအမြဲမကောင်းနေတ�
 "photo5":"https://pics.r18.com/digital/video/jul00756/jul00756jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/zegsphtxw2h8ogb/JUL+756-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-908mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Lily Hart မှာ သားတစ်ယောက်ရှိပြီး သားဖြစ်သူရဲ့ သူငယ်ချင်းအိမ်မှာလာအိပ်တုန်း လက်သမားလုပ်နေတာကို မြင်သွားပြီး လက်သမားလုပ်နည်းတွေကို သင်ကြား သြဝါဒခြွေပေးခဲ့ပါတယ် ဒါပေမယ့် မိကျောင်းမင်း ရေကင်းပြသလို ဖြစ်သွားခဲ့ပြီး ကိုယ့်သားအရွယ် ကလေးလေးထံမှာ ဆရာမကြီး Lily Hart တစ်ယောက် တပည့်လေးပြန်ဖြစ်သွားခဲ့ပါတော့တယ်............     
+မင်းသမီးနာမည် Lily Hart",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00908/jul00908_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/wjhxwm3j7x0ybod/JUL+908-SD.mp4/file",
+"photo1":"https://i.imgur.com/PmWdYpi_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00908/jul00908pl.jpg",
+"photo3":"https://i.imgur.com/9nWraZq_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.r18.com/digital/video/jul00908/jul00908jp-1.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00908/jul00908jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/bzr5kb0du3qg0ks/JUL+908-HD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUY-584mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းကတော့
+ဌာနခွဲမှုးက ရာထူးတိုးမှာ ဒါကို ဌာနခွဲမှူးမသိအောင် စပတွေရိုက်မယ်ဆိုပြီး ဌာနခွဲမှူးမိန်းမကိုပြောတယ်...ဒီလိုနဲ့...ဌာနခွဲမှူးအိမ်ကကားလေးနဲ့ပဲ
+စပရိုက်ဖို့ စျေးဝယ်ထွက်ကြပါတယ်...အဲ့မှာ ဌာနခွဲမှုးက ကားနောက်ခန်းမှာ သန့်ရှင်းရေးလုပ်နေတာ ဘယ်သူမှမသိရှာဘူး သူလည်းပိတိတွေဖြာပြီး တိတ်တိတ်လေးခိုးလိုက်သွားပါတယ်...
+ဒါပေမယ့် ဌာနခွဲမှုးတစ်ယောက် သူလုံးဝထင်မှတ်မထားတဲ့ ကိစ္စကြီးတစ်ခုနဲ့ကြုံလိုက်ရပါတယ်...
+ဒါကဘာဖြစ်မလဲဆိုတာကတော့...
+မင်းသမီးနာမည် Satomi Suzuki",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/juy/juy00584/juy00584_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/3bv514fkrs9gbmw/JUY-584.mp4/file",
+"photo1":"https://i.imgur.com/Lq1xSp3_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/juy00584/juy00584pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/juy00584/juy00584jp-5.jpg",
+"photo4":"https://pics.r18.com/digital/video/juy00584/juy00584jp-1.jpg",
+"photo5":"https://pics.r18.com/digital/video/juy00584/juy00584jp-3.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
