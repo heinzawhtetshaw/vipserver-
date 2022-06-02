@@ -1065,4 +1065,19 @@ Lily Hart မှာ သားတစ်ယောက်ရှိပြီး သ�
 "photo5":"https://pics.r18.com/digital/video/ure00049/ure00049jp-3.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-163mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေအသစ်လေးကို ဖောင်းဒိုင်း ကျွေးတဲ့မောင်ဇော်ဇာတ်လမ်းလေးပါ
+Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပါသားလေး တစ်ယောက်ပါလာခဲ့ပါတယ် ဘာဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Meguri ",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mey/meyd00163/meyd00163_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/gj58j54qhj6pjvw/MEYD-163.mp4/file",
+"photo1":"https://i.imgur.com/8530OU4_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00163/meyd00163pl.jpg",
+"photo3":"https://i.imgur.com/yJe5xZs_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://i.imgur.com/E8mzhfp_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00163/meyd00163jp-8.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
