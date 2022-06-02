@@ -1050,4 +1050,19 @@ Lily Hart မှာ သားတစ်ယောက်ရှိပြီး သ�
 "photo5":"https://pics.r18.com/digital/video/adn00351/adn00351jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/ku7yfxo7g2fycg1/ADN+351-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"URE-049mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ manga ကိုပြန်ရိုက်ထားတဲ့ သားအမိ ၂တွဲ အင်းဆက်ကားလေးပါ
+မင်းသမီး ၂ယောက်အပြိုင်ကျဲထားတဲ့ ဒီကားလေးမှာဆိုရင် MC ဟာ မိမိအမေနဲ့ ဖြစ်နေတဲ့ ကျောင်းကသူငယ်ချင်းကိုမကျေနပ်လို့ သူ့အမေကိုသွားရှာပြီး ဒချိခဲ့ပါတယ် နောက်ပိုင်းမှာ MC သူငယ်ချင်းအိမ်မှာ သားအမိ ၂တွဲ ပါတီလုပ်ရင်း...ဘာဆက်ဖစ်မလဲ
+မင်းသမီးနာမည် Yuko Shiraki",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/u/ure/ure00049/ure00049_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/6tpjuzzdmdyedqk/URE-049.mp4/file",
+"photo1":"https://i.imgur.com/rXtH600_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ure00049/ure00049pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ure00049/ure00049jp-2.jpg",
+"photo4":"https://pics.r18.com/digital/video/ure00049/ure00049jp-4.jpg",
+"photo5":"https://pics.r18.com/digital/video/ure00049/ure00049jp-3.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
