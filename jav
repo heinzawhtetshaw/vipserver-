@@ -1080,4 +1080,20 @@ Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပ�
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00163/meyd00163jp-8.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUY-900mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့
+လူပျိုကြီး ဂိုက်ဆရာနဲ့ တစ်ချိန်က တပည့်မလေး တို့နှစ်ယောက် ပြန်လည်ဆုံတွေ့ရာ ဘာဆက်ဖစ်မှာလဲ
+တပည့်မလေးမှာတော့ အိမ်ထောင်ရှိနေပါပီ သို့သော်လည်း ဂိုက်ဆရာက တပည့်မလေးအပေါ် ခံစားချက်တွေရှိနေတဲ့အခါ...
+မင်းသမီးနာမည် Nanami Matsumoto",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/juy/juy00900/juy00900_sm_w.mp4",
+"download":"https://www.mediafire.com/file/4a7tmugyttoqi08/UY_900-SD.mp4/file",
+"photo1":"https://i.imgur.com/02niVVM_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/juy00900/juy00900pl.jpg",
+"photo3":"https://i.imgur.com/YPtbzlI_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://i.imgur.com/hTxpccF_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://pics.r18.com/digital/video/juy00900/juy00900jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/najndurlbqunntx/JUY_900-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
