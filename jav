@@ -1113,4 +1113,19 @@ Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပ�
 "photo5":"https://pics.r18.com/digital/video/ipx00581/ipx00581jp-8.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPD-363mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ ပရိတ်သတ်တွေတောင်းဆိုထားတဲ့ Ai Sayama လေး ရဲ့ သတို့သမီးဝတ်စုံလေးနဲ့ manga ကိုပြန်ရိုက်ထားတဲ့ကားလေးပါ
+ဒီကားလေးမှာ ကိုယ့်ဘက်က သဲသဲလှုပ်ချစ်ပြပေမယ့် ဂရုစိုက်မခံရလို့ အပြင်ပိုင်းကအဆင်ပြေသလို ဟန်ဆောင်နေပေမယ့် အတွင်းထဲမှာ ကြေကွဲပြီး နေ့တိုင်းဝိုင်သောက်ပြီးဖြေသိမ့်နေရတဲ့ သတို့သမီးဝတ်စုံလေးနဲ့ အသဲကွဲ Ai Sayama လေးကို တွေ့မြင်ကြရမှာပါ...
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/p/ppp/pppd00363/pppd00363_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ns0gnff1v0a699d/PPPD_363-SD.mp4/file",
+"photo1":"https://i.imgur.com/8K0zDFW_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/pppd00363/pppd00363pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/pppd00363/pppd00363jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/pppd00363/pppd00363jp-2.jpg",
+"photo5":"https://pics.r18.com/digital/video/pppd00363/pppd00363jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/2dv99v5n62q1xz5/PPPD_363-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
