@@ -1128,4 +1128,23 @@ Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပ�
 "photo5":"https://pics.r18.com/digital/video/pppd00363/pppd00363jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/2dv99v5n62q1xz5/PPPD_363-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-370mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းသုံးယောက် သုံးပွင့်ဆိုင်အချစ်ဇာတ်လမ်းလေးရှိခဲ့ဖူးတယ် ဒီလိုဇာတ်လမ်းမှာ တစ်ယောက်ကတော့အမြဲကျန်ရစ်ဖြစ်ရစမြဲပဲလေ...
+
+ဇာတ်လမ်းကတော့ ကျန်ရစ်ဖြစ်တဲ့ဘဲကြီးက မတော်တဆမှုတခုကြောင့် အတိတ်မေ့နေခဲ့ပါတယ်
+
+အတိတ်မေ့ပေမယ့် သိုင်းကွက်မမေ့တဲ့ ဘဲကြီးနဲ့
+ဆန္ဒမပြည့်ဝတဲ့အိမ်ထောင်ရှင်မလေးနဲ့ ဘယ်လိုဘယ်ပုံတွေဖြစ်ကြမလဲဆိုတာကတော့...
+မင်းသမီးနာမည် Michiru Kujo",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00370/adn00370_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/5az90qo5sfy9l3z/ADN-370.mp4/file",
+"photo1":"https://i.imgur.com/MKQ27yr_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/adn00370/adn00370pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/adn00370/adn00370jp-2.jpg",
+"photo4":"https://pics.r18.com/digital/video/adn00370/adn00370jp-9.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00370/adn00370jp-11.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
