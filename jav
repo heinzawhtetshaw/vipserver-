@@ -1147,4 +1147,19 @@ Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပ�
 "photo5":"https://pics.r18.com/digital/video/adn00370/adn00370jp-11.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-933mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ baby face လေးနဲ့ အကိတ်မလေး အားလုံးချစ်တဲ့ Marina Shiraishi ရဲ့ သားဖြစ်သူသူငယ်ချင်းကို ကလေးမုန့်ပေးကြိုက်တဲ့ဇာတ်ကားလေးပါ
+သားဖြစ်သူရဲ့ သူငယ်ချင်းလေးက အမေမရှိရှာတာကို သိပြီး Marina လေးတစ်ယောက် ဂရုဏာသက်မိပါတယ် ဒါ့ကြောင့် သားသူငယ်ချင်းလေးအိမ်လည်လာတိုင်း ကိုယ့်သားအရင်းလေးလို သဘောထားပြီး ဆက်ဆံရင်းကနေ သံယောဇဉ်ပိုကာ အကြင်နာတွေယိုဖိတ်မိကြပါတော့တယ်.....
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00933/jul00933_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/0ahkidtqein9bld/JUL+933-SD.mp4/file",
+"photo1":"https://i.imgur.com/QG6e8jX_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00933/jul00933pl.jpg",
+"photo3":"https://i.imgur.com/Hk7aTLS_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.r18.com/digital/video/jul00933/jul00933jp-7.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00933/jul00933jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/0gf29g9x2kw8gvz/JUL+933-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
