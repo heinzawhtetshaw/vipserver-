@@ -1178,4 +1178,19 @@ Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပ�
 "photo5":"https://pics.r18.com/digital/video/ssis00146/ssis00146jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/n12muzf5oplvwkz/Ssis-146hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-258mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်ကြိုးစားပြီး အိမ်ဝယ်ထားတဲ့ ဘဏ် အကြွေးတွေ ဆပ်ဖိုကြိုးစားနေတဲ့ ဝန်ထမ်းမလေးကို
+သူဠေးဖစ်သူက ဘယ်လို စီးရုံးပြီး ဆွဲစိလိုက်မလဲဆိုတာကတော့...
+မင်းသမီးနာမည် Riho Fujimori",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00258/adn00258_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/n3qp79gzc7dymjf/ADN-258.mp4/file",
+"photo1":"https://i.imgur.com/9xmjnrS_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/adn00258/adn00258pl.jpg",
+"photo3":"https://i.imgur.com/qImBLgc_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.r18.com/digital/video/adn00258/adn00258jp-8.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00258/adn00258jp-2.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
