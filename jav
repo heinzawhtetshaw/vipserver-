@@ -1162,4 +1162,20 @@ Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပ�
 "photo5":"https://pics.r18.com/digital/video/jul00933/jul00933jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/0gf29g9x2kw8gvz/JUL+933-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-146mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လမ်းတစ်ဖက်ကနေ မကြာသေးခင်မှပြောင်းရွှေ့လာပီး အိမ်နီးနားချင်းဖစ်လာတဲ့ ဦးလေးကြီးက
+ ချစ်သူကောင်လေး ရှိတဲ့Aika Yumeno ကို...
+ဘာဆက်ဖစ်မလဲ ဇာတ်ကားတွင်ကြည့်ရှုလိုက်ပါ
+မင်းသမီးနာမည် Aika Yumeno",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/s/ssi/ssis00146/ssis00146_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/i6z79425ttcv81n/Ssis-146sd.mp4/file",
+"photo1":"https://i.imgur.com/Descfbn_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ssis00146/ssis00146pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ssis00146/ssis00146jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/ssis00146/ssis00146jp-3.jpg",
+"photo5":"https://pics.r18.com/digital/video/ssis00146/ssis00146jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/n12muzf5oplvwkz/Ssis-146hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
