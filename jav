@@ -1193,4 +1193,20 @@ Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပ�
 "photo5":"https://pics.r18.com/digital/video/adn00258/adn00258jp-2.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NSPS-920mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေရိကန်သူလေး June Lovejoyရဲ့
+ယောက္ခမနဲ့ ချွေးမ ဖိုက်တင်
+အဲမင်းသမီးက ကြည့်ရတာ ရှယ်မိုက်တာနော်
+မင်းသမီးနာမည် June Lovejoy",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/n/nsp/nsps920/nsps920_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ma6luyzzqm0t49p/NSPS+920-SD.mp4/file",
+"photo1":"https://i.imgur.com/4LEiJgR_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/nsps00920/nsps00920pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/nsps00920/nsps00920jp-20.jpg",
+"photo4":"https://pics.r18.com/digital/video/nsps00920/nsps00920jp-10.jpg",
+"photo5":"https://pics.r18.com/digital/video/nsps00920/nsps00920jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/1697s8clicpa5q5/NSPS+920.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
