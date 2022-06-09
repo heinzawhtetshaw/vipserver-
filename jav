@@ -1209,4 +1209,19 @@ Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပ�
 "photo5":"https://pics.r18.com/digital/video/nsps00920/nsps00920jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/1697s8clicpa5q5/NSPS+920.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-272mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေ့သူငယ်ချင်း အပျိုကြီးမမကို တက်လိုးတဲ့ ကျော်ကြီး
+လင်မရလို့ လီးဆာနေတဲ့ မေမေ့သူငယ်ချင်းအပျိုကြီးစာ‌ရေးဆရာမကို ကျော်ကြီး ဘယ်လိုကိုင်တွယ်သွားမလဲဆိုတာကိုတော့...
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00272/jul00272_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/w5i3v2jnn8majuv/Jul+272.mp4/file",
+"photo1":"https://raw.githubusercontent.com/shawlin247/photo2/main/PicsArt_06-09-04.27.07.jpg",
+"photo2":"https://pics.r18.com/digital/video/jul00272/jul00272pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/photo2/main/IMG_20220609_162200.jpg",
+"photo4":"https://pics.r18.com/digital/video/jul00272/jul00272jp-6.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00272/jul00272jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/932bq11jjul3632/Jul+272hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
