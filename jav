@@ -1224,4 +1224,20 @@ Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပ�
 "photo5":"https://pics.r18.com/digital/video/jul00272/jul00272jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/932bq11jjul3632/Jul+272hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"WANZ-867mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နောက်ထပ်ထူးထူးခြားခြားကြည့်ရှု့ခံစားရဖို့ VIP Member တွေအတွက် ဘာသာပြန်ဖြစ်တဲ့ဇာတ်ကားလေးကတော့ တဏှာကြီးတဲ့ ရိုစီပါ...
+ရိုစီဆိုတာက အရမ်းချမ်းသာတဲ့သူဌေးကြီးရဲ့ တစ်ဦးတည်းသော သမီးလေးပေါ့...
+သူဌေးသမီးရိုစီကတော့ အသစ်ရောက်လာတဲ့ အိမ်တော်ထိန်းကို သူမအဖေကိုယ်တိုင်မသိအောင် ခိုးစားတဲ့ပုံစံလေးကြည့်ရှု့ခံစားရပါမယ်။
+မင်းသမီးနာမည် Tsubomi",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/w/wan/wanz00867/wanz00867_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/5dazor8aztrpphy/WANZ-867.mp4/file",
+"photo1":"https://raw.githubusercontent.com/shawlin247/photo2/main/PicsArt_06-10-02.58.22.jpg",
+"photo2":"https://pics.r18.com/digital/video/wanz00867/wanz00867pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/photo2/main/IMG_20220610_145111.jpg",
+"photo4":"https://pics.r18.com/digital/video/wanz00867/wanz00867jp-10.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/photo2/main/IMG_20220610_145256.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
