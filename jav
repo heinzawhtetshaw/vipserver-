@@ -1240,4 +1240,33 @@ Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပ�
 "photo5":"https://raw.githubusercontent.com/shawlin247/photo2/main/IMG_20220610_145256.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-683mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ မင်းက တကယ် အပျိုစင်လား  
+ဤအိမ်ထောင်သည် အမျိုးသမီးသည် အပျိုစင်အဖြစ် ဟန်ဆောင်ခဲ့သည်
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00683/jul00683_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/exdmi55vqdcprck/JUL-683.mp4/file",
+"photo1":"https://raw.githubusercontent.com/shawlin247/photo2/main/PicsArt_06-11-01.32.10.jpg",
+"photo2":"https://pics.r18.com/digital/video/jul00683/jul00683pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/photo2/main/IMG_20220611_131440.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/photo2/main/IMG_20220611_131126.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00683/jul00683jp-10.jpg",
+"dapp":"t",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"DASD-900mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်က မိန်းမက ဟင်းကောင်းကောင်းမချက်သောအခါ MC တစ်ယောက် အချက်အပြုတ်သင်တန်းတက်ရင်း ဆရာမလေးနဲ့ ငြိကြတဲ့အကြောင်းလေးပါ
+မင်းသမီးနာမည် Akari Mitani",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/d/das/dasd00900/dasd00900_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/bkhs6sky5us5i0z/DASD+900.mp4/file",
+"photo1":"https://i.imgur.com/ZZS8vq1_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/dasd00900/dasd00900pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/dasd00900/dasd00900jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/dasd00900/dasd00900jp-2.jpg",
+"photo5":"https://pics.r18.com/digital/video/dasd00900/dasd00900jp-10.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
