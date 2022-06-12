@@ -1269,4 +1269,18 @@ Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပ�
 "photo5":"https://pics.r18.com/digital/video/dasd00900/dasd00900jp-10.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUY-935mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အသက်အရွယ်ကွာခြားပေမယ့် ရင်ခုန်သံခြင်းတူညီတဲ့ ဆရာမနဲ့ ကျောင်းသားဆိုးလေးရဲ့ ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Ayaka Makimura",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/juy/juy00935/juy00935_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/xqcrpvqg75inqb9/JUY+935-SD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/shawlin247/pp1/main/PicsArt_06-12-12.20.05.jpg",
+"photo2":"https://pics.r18.com/digital/video/juy00935/juy00935pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/juy00935/juy00935jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/juy00935/juy00935jp-2.jpg",
+"photo5":"https://pics.r18.com/digital/video/juy00935/juy00935jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/1ibz6jdc89zhhxm/JUY+935-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
