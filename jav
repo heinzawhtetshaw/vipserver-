@@ -1283,4 +1283,19 @@ Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပ�
 "photo5":"https://pics.r18.com/digital/video/juy00935/juy00935jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/1ibz6jdc89zhhxm/JUY+935-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-194mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်မှာချောင်ထိုးထားခံရတဲ့ အိမ်ရှင်မလေးတစ်ယောက်ရဲ့ NTR ဇာတ်လမ်းလေးပါ
+မိန်းမကို အိမ်ဖော်လိုသဘောထားတဲ့ ယောက်ျားတစ်ယောက်နဲ့ လက်ထပ်ပြီးကတည်းက သူမဘဝကြီးတစ်ခုလုံးအကျဉ်းကျနေသလိုပါပဲ သူမရဲ့ ငယ်ရွယ်နုပျိုမှုနဲ့ အလှအပတွေကို စင်ဒရဲလားလေးလို မီးဖိုချောင်မှာပဲ ကုန်ဆုံးနေရပြီး အတောင်စုံတဲ့ငှက်ကလေးလို အဝေးဆုံးကို ပျံသန်းထွက်ပြေးချင်စိတ်တွေ ပေါက်နေခဲ့ပါတယ် ...
+မင်းသမီးနာမည် Sana Matsunaga",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00194/adn00194_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/fi8aoz6krowb7r7/ADN_194-SD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/shawlin247/pp1/main/PicsArt_06-13-12.04.03.jpg",
+"photo2":"https://pics.r18.com/digital/video/adn00194/adn00194pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/adn00194/adn00194jp-3.jpg",
+"photo4":"https://pics.r18.com/digital/video/adn00194/adn00194jp-1.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00194/adn00194jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/8yzac66jqlpw9rg/ADN_194-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
