@@ -1298,4 +1298,19 @@ Meguri လေးဟာ လင်ယူလိုက်လို့ လင်ပ�
 "photo5":"https://pics.r18.com/digital/video/adn00194/adn00194jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/8yzac66jqlpw9rg/ADN_194-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-305mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်းသမီးချော Nao ရဲ့ အမိုက်စား ဇာတ်ကားကောင်းလေး တစ်ကားပါ
+I Secretly Want You To Fuck My Wife... - Her Husband Has Cuckold Fantasies And Planned Out A Creampie Adultery Fuck Fest - 
+မင်းသမီး နာမည်Nao Jinguji",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00305/jul00305_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/cs8ziaifoz8x8z0/JUL-305.mp4/file",
+"photo1":"https://raw.githubusercontent.com/shawlin247/pp1/main/PicsArt_06-14-01.48.55.jpg",
+"photo2":"https://pics.r18.com/digital/video/jul00305/jul00305pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220614_140251.jpg",
+"photo4":"https://pics.r18.com/digital/video/jul00305/jul00305jp-6.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00305/jul00305jp-2.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
