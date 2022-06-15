@@ -1313,4 +1313,18 @@ I Secretly Want You To Fuck My Wife... - Her Husband Has Cuckold Fantasies And P
 "photo5":"https://pics.r18.com/digital/video/jul00305/jul00305jp-2.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"GVH-526mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လင်ပါသားလေးရဲ့ဆန္ဒကို မလွန်ဆန်နိုင်ပဲ ဖြည့်ဆည်းပေးလိုက်ရတဲ့ မိထွေးတယောက်ရဲ့ဇာတ်လမ်းလေးပါ...
+မင်းသမီးနာမည် Yui Hatano",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/13g/13gvg526/13gvg526_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/xj84397ev7g3jio/GVG-526.mp4/file",
+"photo1":"https://raw.githubusercontent.com/shawlin247/pp1/main/PicsArt_06-15-03.56.37.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/13gvg00526/13gvg00526pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/13gvg00526/13gvg00526jp-4.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/13gvg00526/13gvg00526jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/13gvg00526/13gvg00526jp-12.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
