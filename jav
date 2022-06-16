@@ -1327,4 +1327,21 @@ I Secretly Want You To Fuck My Wife... - Her Husband Has Cuckold Fantasies And P
 "photo5":"https://pics.dmm.co.jp/digital/video/13gvg00526/13gvg00526jp-12.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-341mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိန်းမကို ချစ်လို့ ယူထားပေမယ့် မိန်းမ ဖစ်သူက ကို့အပေါ်မှာ စိမ်းကားလာပီး တခြားလူနဲ့ဖောက်ပြန်လာတဲ့အခါ ခံစားရပါတယ်
+သို့သော်လည်း ချစ်လို့ယူထားတာမို့လို့ တခြားလူ လက်ထဲတော့ အပါမခံနိုင်ပေ 
+ဒီဇာတ်ကားလေးမှာတော့ မိန်းမကိုချစ်လွန်းလို့ မထိရက် မကိုင်ရက် ထားထားတာကို ဖောက်ပြန်လာလို့ အကြမ်းစားအကွက်တွေ နဲ့ ဖောက်ပြန်နေတဲ့မိန်းမကို ဘယ်လိုပြန်ပီး ကိုင်တွယ်သွားမလဲဆိုတာကို ကြည့်ရှုရပါမယ်
+စော်လေးက တော်တော်လန်းတာမို့ ကြည့်ရတာရှယ်ဘဲ့
+မင်းသမီးနာမည် Tsumugi Akari",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00341/adn00341_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/jotyo09otz06xdq/Adn-341sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/shawlin247/pp1/main/PicsArt_06-16-06.41.59.jpg",
+"photo2":"https://pics.r18.com/digital/video/adn00341/adn00341pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/adn00341/adn00341jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/adn00341/adn00341jp-3.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00341/adn00341jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/1f5obe6fh6hsr56/Adn-341hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
