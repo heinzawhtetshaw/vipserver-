@@ -1344,4 +1344,20 @@ I Secretly Want You To Fuck My Wife... - Her Husband Has Cuckold Fantasies And P
 "photo5":"https://pics.r18.com/digital/video/adn00341/adn00341jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/1f5obe6fh6hsr56/Adn-341hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SPRD-1372mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငါ့ ယောက္ခမက ငါ့မိန်းမ ထက်အများကြီး 
+ပိုသာတယ်
+My Stepmom Is So Much Better Than My Wife
+မင်းသမီးနာမည် Mayu Suzuki",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/1/18s/18sprd01372/18sprd01372_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ggd9d4x0xu2zo3z/SPRD_1372-SD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/shawlin247/pp1/main/PicsArt_06-17-05.29.40.jpg",
+"photo2":"https://pics.r18.com/digital/video/18sprd01372/18sprd01372pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/18sprd01372/18sprd01372jp-12.jpg",
+"photo4":"https://pics.r18.com/digital/video/18sprd01372/18sprd01372jp-10.jpg",
+"photo5":"https://pics.r18.com/digital/video/18sprd01372/18sprd01372jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/d5xptsbe7c0qw76/SPRD_1372-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
