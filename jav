@@ -1360,4 +1360,19 @@ My Stepmom Is So Much Better Than My Wife
 "photo5":"https://pics.r18.com/digital/video/18sprd01372/18sprd01372jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/d5xptsbe7c0qw76/SPRD_1372-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SHKD-713mmsub",
+"info":"မြန်မာစာတန်းထိုးပါသည်
+လေယာဥ်မယ်လေး Saeko ဟာ လေယာဥ်ပိုင်းလော့နဲ့ လက်ထပ်ထားတာမကြာသေးပါဘူး...
+ပိုင်းလော့ဘဲကြီးမှာ အရင်စော်အဟောင်းရှိပါတယ် Ex ပေါ့ အဲ့ Exမကြီးက သူ့ဘဲကို စနှိုက်သွားတဲ့ Saeko ကို မကောင်းကြံပါတော့တယ်
+မင်းသမီး Saeko Matsushita",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/shk/shkd00713/shkd00713_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/808nq4h2bz3y3lp/SHKD-713.mp4/file",
+"photo1":"https://raw.githubusercontent.com/shawlin247/pp1/main/PicsArt_06-18-04.56.31.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/shkd00713/shkd00713pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220618_173018.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/shkd00713/shkd00713jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/shkd00713/shkd00713jp-8.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
