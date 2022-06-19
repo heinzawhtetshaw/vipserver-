@@ -1375,4 +1375,19 @@ My Stepmom Is So Much Better Than My Wife
 "photo5":"https://pics.dmm.co.jp/digital/video/shkd00713/shkd00713jp-8.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"STAR-782mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့...
+အွန်လိုင်းက ဆေးတစ်ခုကို သောက်မိလို့ ကလေးလေးတစ်ယောက်အရွယ်အစားဖြစ်သွားတဲ့ MC မှာ ဘယ်တုန်းကမှ အနားမကပ်နိုင်ခဲ့တဲ့ crush မမတစ်ယောက်ရှိပါတယ် ဒါပေမယ့် MC ရဲ့ ကံကြမ္မာက ကိုယ့်ဘက်ပါလာလေသလား.... crush မမ က အရမ်း ကလေးချစ်တတ်ပါတယ် ကလေးချစ်တတ်တဲ့ crush မမအနားကို ကလေးဟန်ဆောင်ပြီး ကပ်ခွင့်ရတဲ့အခါ...
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/1/1st/1star782/1star782_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/lxmklkuih1i70ge/Star+782sd.mp4/file",
+"photo1":"https://i.imgur.com/py5LSbF_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/1star00782/1star00782pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/1star00782/1star00782jp-11.jpg",
+"photo4":"https://pics.r18.com/digital/video/1star00782/1star00782jp-4.jpg",
+"photo5":"https://pics.r18.com/digital/video/1star00782/1star00782jp-19.jpg",
+"dapp":"https://www.mediafire.com/file/6x4ct09lh9513j8/STAR+782-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
