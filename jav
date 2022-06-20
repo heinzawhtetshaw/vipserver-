@@ -1390,4 +1390,34 @@ My Stepmom Is So Much Better Than My Wife
 "photo5":"https://pics.r18.com/digital/video/1star00782/1star00782jp-19.jpg",
 "dapp":"https://www.mediafire.com/file/6x4ct09lh9513j8/STAR+782-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ABW-068mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျွန်ုပ်ကို ထာဝရချစ်မည်ဟု ကတိပြုထားသော 
+ချစ်လှစွာသော ရည်းစား Suzu Matsuoka နှင့်
+သန့်ရှင်းရေးအလုပ်သမား ဦးလေးကြီး
+မင်းသမီးနာမည် Suzu Matsuoka",
+"watch":"https://sample.mgstage.com/sample/prestige/abw/068/abw-068_20210302T184802.mp4",
+"download":"https://www.mediafire.com/file/e9otiwva1jdrsex/Abw-068.mp4/file",
+"photo1":"https://i.imgur.com/bPFmlyt_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/118abw00068/118abw00068pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/118abw00068/118abw00068jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/118abw00068/118abw00068jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/118abw00068/118abw00068jp-10.jpg",
+"dapp":"t",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUFE-130mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တူလေးနဲ့ အန်တီလေး တို့ရဲ့ ဖိုက်တင်ကား
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/juf/jufe00130/jufe00130_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/6ywieju3c5oz3f7/JUFE+130-SD.mp4/file",
+"photo1":"https://i.imgur.com/wwyG4R3_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jufe00130/jufe00130pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220620_133418.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220620_133453.jpg",
+"photo5":"https://pics.r18.com/digital/video/jufe00130/jufe00130jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/24muf4kr4zcryzt/JUFE+130-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
