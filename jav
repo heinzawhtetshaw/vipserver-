@@ -1420,4 +1420,20 @@ My Stepmom Is So Much Better Than My Wife
 "photo5":"https://pics.r18.com/digital/video/jufe00130/jufe00130jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/24muf4kr4zcryzt/JUFE+130-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-203mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိချိခ ဆိုတဲ့ကောင်မလေးက သူမငယ်စဥ်ကတည်းက အဖေကဆုံးပါးသွားပြီး အမေကလည်း အိမ်ကနေထွက်သွားခဲ့ပါတယ် အဲ့လိုခက်ခဲနေတဲ့အချိန် ဘေးအိမ်ကဦးလေးကြီးနဲ့ အပြန်အလှန်ကူညီဖေးမပေးခဲ့ရတာပေါ့....
+တစ်နေ့မှာတော့ ကောင်မလေးက လင်ယူလိုက်တဲ့အခါ ဘေးအိမ်က ဦးလေးကြီးက အထီးကျန်လာပီး ကောင်မလေးကို ဆုံးရှုံးရမှာကြောက်လာတယ် 
+ဘာဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Ichika Matsumoto",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00203/jul00203_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/8d67l1hyxbiduv5/Jul-203.mp4/file",
+"photo1":"https://i.imgur.com/uStzd4w_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00203/jul00203pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220621_155550.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220621_155750.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00203/jul00203jp-3.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
