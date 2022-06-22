@@ -1436,4 +1436,23 @@ My Stepmom Is So Much Better Than My Wife
 "photo5":"https://pics.r18.com/digital/video/jul00203/jul00203jp-3.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-758mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီကားလေး Hd ကွာလတီမရတာကိုတော့ 
+သည်းခံပီးကြည့်ပေးကြပါနော်
+ဟိုဘက်ခန်းက နေ့တိုင်းနေ့တိုင်း
+နောက်မီးလင်းတတ်တဲ့ အိမ်ရှင်မကို MC ကချောင်းကြည့်ခွင့်တောင်မရဘဲ နံရံကပ်ပြီး 
+အသံနားထောင်ရတဲ့ ဇာတ်ကားလေးပါ  
+ကောင်မလေးကလည်းလည်တယ် အသံမထွက်အောင် ပုဝါ ကိုက်ပီးမှခံတာ
+မင်းသမီးနာမည် Kokona Asakura",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00758/jul00758_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/jjom2s6nt5q0rwh/JUL+758+-SD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/shawlin247/pp1/main/PicsArt_06-22-04.11.53.jpg",
+"photo2":"https://pics.r18.com/digital/video/jul00758/jul00758pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220622_160238.jpg",
+"photo4":"https://pics.r18.com/digital/video/jul00758/jul00758jp-6.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00758/jul00758jp-9.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
