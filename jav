@@ -1455,4 +1455,19 @@ My Stepmom Is So Much Better Than My Wife
 "photo5":"https://pics.r18.com/digital/video/jul00758/jul00758jp-9.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HOKS-011mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကွီးဂတုံးရဲ့ မောင်နှမ အင်းစက်ကားလေး
+မောင်နှမ ၂ယောက်လုံး အိမ်ထောင်ကွဲပြီး တစ်အိမ်တည်းမှာ စုနေကြတော့ ဘာတွေဖြစ်လာမလဲ........သူတို့တွေကိုယ်စီ အိမ်ထောင်ရေးအဆင်ပြေပါ့မလား.....ဒါမှမဟုတ် မောင်နှမ ၂ယောက် ဒီလိုပုံစံနဲ့ ပတ်ဝန်းကျင်မှာ ဘယ်လို ရင်ဆိုင်ဆက်နေထိုင်ကြမလဲဆိုတာကတော့..........
+မင်းသမီးနာမည် Yuka Asami",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/h/hok/hoks011/hoks011_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/h7imj79r3xqk8i5/HOKS+011+-SD.mp4/file",
+"photo1":"https://i.imgur.com/Nbb9suN_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/hoks00011/hoks00011pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220623_130457.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220623_130651.jpg",
+"photo5":"https://pics.r18.com/digital/video/hoks00011/hoks00011jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/08b0pbjrbn199po/HOKS+011+-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
