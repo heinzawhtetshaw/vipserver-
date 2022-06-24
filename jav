@@ -1470,4 +1470,18 @@ My Stepmom Is So Much Better Than My Wife
 "photo5":"https://pics.r18.com/digital/video/hoks00011/hoks00011jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/08b0pbjrbn199po/HOKS+011+-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPX-596mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မောင်ဇော်ချစ်သောဆရာမ
+မင်းသမီးနာမည် Karen Kaede",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/i/ipx/ipx00596/ipx00596_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/o19750g3dp7howi/IPX-596.mp4/file",
+"photo1":"https://i.imgur.com/axJ69Vo_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ipx00596/ipx00596pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220624_135837.jpg",
+"photo4":"https://pics.r18.com/digital/video/ipx00596/ipx00596jp-2.jpg",
+"photo5":"https://pics.r18.com/digital/video/ipx00596/ipx00596jp-6.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
