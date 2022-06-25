@@ -1484,4 +1484,18 @@ My Stepmom Is So Much Better Than My Wife
 "photo5":"https://pics.r18.com/digital/video/ipx00596/ipx00596jp-6.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NACS-008mmsub",
+"info":"မြန်မာစာတန်းထိုး
+I Couldn't Wait Yu Shinoda
+မင်းသမီးနာမည် Yu Shinoda",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/h/h_7/h_771nacs008/h_771nacs008_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/smwh03e58ts14ek/NACS-008.mp4/file",
+"photo1":"https://i.imgur.com/oUTpYMA_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/h_771nacs00008/h_771nacs00008pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/h_771nacs00008/h_771nacs00008jp-3.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220625_145624.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220625_145804.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
