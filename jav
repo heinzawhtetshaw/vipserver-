@@ -1513,4 +1513,18 @@ I Couldn't Wait Yu Shinoda
 "photo5":"https://pics.r18.com/digital/video/adn00113/adn00113jp-5.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-890mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရေချိုးခန်းပိုင်ရှင်‌မလေး Nao jinguji
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00890/jul00890_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/hjpwbam82059gai/JUL+890-SD.mp4/file",
+"photo1":"https://i.imgur.com/rOxJxBs_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00890/jul00890pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/jul00890/jul00890jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220627_182926.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00890/jul00890jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/vgfcgbbq3jobu9n/JUL+890-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
