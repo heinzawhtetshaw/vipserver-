@@ -1527,4 +1527,18 @@ I Couldn't Wait Yu Shinoda
 "photo5":"https://pics.r18.com/digital/video/jul00890/jul00890jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/vgfcgbbq3jobu9n/JUL+890-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-245mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းရဲ့ ပညာမကြွယ်ဝမှုကြောင့် ဆာလောင်နေတဲ့ အိချိခ တယောက် သိက္ခာတွေမထိန်းနိုင်တော့ပဲ လမ်းပြင်အလုပ်သမားကို အကွက်ဆင်ပြီး ဘုခံပါတော့တယ်...
+မင်းသမီးနာမည် Ichika Hoshimiya",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/s/ssi/ssis00245/ssis00245_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/asowa2l4m223sbo/ssis245.mp4/file",
+"photo1":"https://i.imgur.com/To8VYIu_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ssis00245/ssis00245pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ssis00245/ssis00245jp-2.jpg",
+"photo4":"https://pics.r18.com/digital/video/ssis00245/ssis00245jp-7.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220628_170233.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
