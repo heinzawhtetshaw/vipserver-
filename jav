@@ -1541,4 +1541,19 @@ I Couldn't Wait Yu Shinoda
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp1/main/IMG_20220628_170233.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSPD-130mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နှစ်ပေါင်းများစွာအကြာမှာ MC ဟာ အချစ်ဆုံးနဲ့ ၂ယောက်အတူတူနေခဲ့ဖူးတဲ့အိမ်လေးကို တစ်ဖန်ပြန်လည်ရောက်ရှိလာခဲ့ပါတယ်
+သူမ မရှိတော့ပေမယ့် အိမ်ဟောင်းလေးကတော့အရင်အတိုင်းပါပဲ တစ်ခုထူးခြားတာက သူမနဲ့ရုပ်ချင်းအရမ်းဆင်တဲ့ ကောင်မလေးတစ်ယောက် ဒီအိမ်မှာ နေနေတာဖြစ်ပါတယ်....အလွမ်းဖြေတဲ့အနေနဲ့ အချစ်ဆုံးနဲ့ ရုပ်ချင်းဆင်တဲ့ မိန်းမလှလေးကို လာလာကြည့်ရင်း နောက်ပိုင်းမှာတော့.........
+မင်းသမီးနာမည် Tsukasa Aoi",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/s/ssp/sspd00130/sspd00130_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/rwl2pncyo7r25qr/Sspd+130sd.mp4/file",
+"photo1":"https://i.imgur.com/wPNSP8Z_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/sspd00130/sspd00130pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp1/main/AddText_06-29-05.06.49.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp1/main/AddText_06-29-05.08.39.jpg",
+"photo5":"https://pics.r18.com/digital/video/sspd00130/sspd00130jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/7y90puxs82fq1kv/SSPD+130-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
