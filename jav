@@ -1556,4 +1556,21 @@ I Couldn't Wait Yu Shinoda
 "photo5":"https://pics.r18.com/digital/video/sspd00130/sspd00130jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/7y90puxs82fq1kv/SSPD+130-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"CAWD-244mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့..
+အစားမတော်တလုတ် အသွားမတော်တလမ်းဆိုသလို ကားမောင်းတတ်ခါစ ကောင်မလေးတစ်ယောက်ရဲ့ အကြောင်းလေးဖြစ်ပါတယ်...
+မောင်းတတ်စဆိုတော့ မရဲတရဲနဲ့မောင်းနေရင်း ဖိုက်တာ‌ဂေါင်းကြီးနဲ့ပြဿနာသွားဖြစ်ပါတယ် 
+ဘာဆက်ဖြစ်မလဲဆိုတာကိုတော့...
+မင်းသမီးနာမည် Moko Sakura",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/c/caw/cawd00244/cawd00244_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/fwgdy3nzkt8uxou/CAWD-244.mp4/file",
+"photo1":"https://i.imgur.com/MJgsSiJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/cawd00244/cawd00244pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp1/main/AddText_06-30-04.38.33.jpg",
+"photo4":"https://github.com/shawlin247/pp1/blob/main/AddText_06-30-04.45.11.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp1/main/AddText_06-30-04.50.37.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
