@@ -1569,7 +1569,7 @@ I Couldn't Wait Yu Shinoda
 "photo1":"https://i.imgur.com/MJgsSiJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.r18.com/digital/video/cawd00244/cawd00244pl.jpg",
 "photo3":"https://raw.githubusercontent.com/shawlin247/pp1/main/AddText_06-30-04.38.33.jpg",
-"photo4":"https://github.com/shawlin247/pp1/blob/main/AddText_06-30-04.45.11.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp1/main/AddText_06-30-04.45.11.jpg",
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp1/main/AddText_06-30-04.50.37.jpg",
 "dapp":"t",
 "candownload":"",
