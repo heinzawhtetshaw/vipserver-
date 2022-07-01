@@ -1573,4 +1573,18 @@ I Couldn't Wait Yu Shinoda
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp1/main/AddText_06-30-04.50.37.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPD-508mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Ashai ရဲ့ ယောက္ခထီး ဖြစ်သူဟာ အလုပ်မှ အငြိမ်းစားယူရမယ့် နေ့ကို ရောက်ရှိလာခဲ့ပြီး အလုပ်မလုပ်ရရင် မနေတတ်တဲ့ သူတစ်ယောက်က အိမ်မှာ ပဲ နေရတော့မယ် ဆိုတဲ့ အသိစိတ်ကြောင့် အိမ်ကို လေးလံတဲ့ ခြေလှမ်းတွေ နဲ့ ပြန်လာခဲ့ပါတယ်...သားနဲ့ချွေးမက ၀မ်းသာအားရ ကြိုဆိုနေပေမယ့် သူမပျော်နိုင်ပါဘူး....အလုပ်မလုပ်ရရင်မနေနိုင်တဲ့ သူတစ်ယောက်က သူငယ်ချင်းဖြစ်သူရဲ့ အကြံပေးမှုကြောင့် မြေးထိန်းရင်း အချိန်တွေ ကုန်ဆုံးစေဖို့ အတွက် သားနဲ့ချွေးမကို ကလေးယူခိုင်းခဲ့ပေမယ့်...သားဖြစ်သူရဲ့ အသုံးမကျမှုတွေကြောင့်...သူကိုယ်တိုင် ပါ၀င်ဖို့ ဖြစ်လာပါတော့တယ်...
+မင်းသမီးနာမည် Asahi Mizuno",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/p/ppp/pppd00508/pppd00508_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/7k9thh50x0bkowh/PPPD+508-SD.mp4/file",
+"photo1":"https://i.imgur.com/gfwxcrd_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/pppd00508/pppd00508pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220701_144947.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220701_145150.jpg",
+"photo5":"https://pics.r18.com/digital/video/pppd00508/pppd00508jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/6tdp9a6ko2s4dgc/PPPD+508-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
