@@ -1603,4 +1603,19 @@ Eimiri က မိတဆိုးလေးတယောက် သူ့ဖခင�
 "photo5":"https://pics.dmm.co.jp/digital/video/rhts00040/rhts00040jp-7.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PPSD-046mmsub",
+"info":"မြန်မာစာတန်းထိုး
+AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြီး အရမ်းကိတ်ပြီး အရမ်းထန်တဲ့ မိန်းမ ၂ယောက် ယူထားမိတဲ့ ယောက်ျားတစ်ယောက်ရဲ့ ချစ်ဒုက္ခလေးအကြောင်းပါ
+မိန်းမတစ်ယောက်စိတ်ကောက်ရင် အရမ်းချော့ရခက်သလို ၂ယောက်တောင်ယူထားတာဆိုတော့ ဘယ်လောက်များ ဗျာများလိုက်ရမလဲ
+မင်းသမီးနာမည် Meguri",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/p/pps/ppsd00046/ppsd00046_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/cxquhf14lump9e1/Pspd+046sd.mp4/file",
+"photo1":"https://i.imgur.com/2E1Sltv_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ppsd00046/ppsd00046pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ppsd00046/ppsd00046jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/ppsd00046/ppsd00046jp-9.jpg",
+"photo5":"https://pics.r18.com/digital/video/ppsd00046/ppsd00046jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/aqsl8rrmhxlx0yi/PSPD+046-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
