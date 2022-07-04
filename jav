@@ -1618,4 +1618,19 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://pics.r18.com/digital/video/ppsd00046/ppsd00046jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/aqsl8rrmhxlx0yi/PSPD+046-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPIT-012mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူဌေးဖစ်သူနဲ့အတူ စီးပွားရေးခရီးစဉ်တစ်ခုသို့
+
+မင်းသမီးနာမည် Emma Lawrence",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/i/ipi/ipit00012/ipit00012_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/q4rsyvwt6ec7op1/Ipit-012sd.mp4/file",
+"photo1":"https://i.imgur.com/UOnyz9Y_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ipit00012/ipit00012pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ipit00012/ipit00012jp-2.jpg",
+"photo4":"https://pics.r18.com/digital/video/ipit00012/ipit00012jp-3.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220704_135630.jpg",
+"dapp":"https://www.mediafire.com/file/hajzr2950xqc522/pit-012hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
