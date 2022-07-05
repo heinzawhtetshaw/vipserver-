@@ -1633,4 +1633,19 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220704_135630.jpg",
 "dapp":"https://www.mediafire.com/file/hajzr2950xqc522/pit-012hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSNI-474mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လူရွေးမှန်ပီလို့ ပျော်ရွင်နေခဲ့တဲ့ Tsukasa ဆိုတဲ့ ကောင်မငယ်လေး 
+လက်ထပ်ပီးခါစမှာဘဲ့ ခင်ပွန်းဖစ်လာတဲ့သူက မိန်းကလေးအပေါ် အနိုင်ကျင့်တတ်တဲ့ စိတ္တဇ ကောင်ဆိုတာ သိသွားခဲ့တဲ့အချိန်မှာတော့ နောက်ကျသွားခဲ့ပါပီ
+မင်းသမီးနာမည် Tsukasa Aoi",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/ssn/ssni00474/ssni00474_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/7l0ytdl4fnty3fi/SSNI-474.mp4/file",
+"photo1":"",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssni00474/ssni00474pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220705_174909.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220705_175016.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220705_175135.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
