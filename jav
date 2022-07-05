@@ -1641,7 +1641,7 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 မင်းသမီးနာမည် Tsukasa Aoi",
 "watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/ssn/ssni00474/ssni00474_dmb_w.mp4",
 "download":"https://www.mediafire.com/file/7l0ytdl4fnty3fi/SSNI-474.mp4/file",
-"photo1":"",
+"photo1":"https://i.imgur.com/AvFctUQ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.dmm.co.jp/digital/video/ssni00474/ssni00474pl.jpg",
 "photo3":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220705_174909.jpg",
 "photo4":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220705_175016.jpg",
