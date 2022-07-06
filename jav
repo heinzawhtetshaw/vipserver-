@@ -1648,4 +1648,21 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220705_175135.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"GNAX-017mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်မှာ ရေပိုက်လာပြင်တဲ့ ဆံရှည်ဦးလေးကြီး 
+က မုဒိန်းကောင်မှန်း မသိခဲ့ပါ 
+ပိုးစိုးပက်စက် အလိုးခံလိုက်ရတဲ့ 
+အိမ်ထောင်သည်မလေး မိခိုင်
+မင်းသမီးနာမည် Ai Mukai",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/h/h_1/h_1345gnax017/h_1345gnax017_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/n60h0x8gyw8hhyd/Gnax_017sd.mp4/file",
+"photo1":"https://i.imgur.com/5n2LoKr_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/h_1345gnax00017/h_1345gnax00017pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp2/main/AddText_07-06-06.30.54.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp2/main/AddText_07-06-06.34.01.jpg",
+"photo5":"https://pics.r18.com/digital/video/h_1345gnax00017/h_1345gnax00017jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/nnuy317wke5ktjv/GNAX_017-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
