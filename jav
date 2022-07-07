@@ -1665,4 +1665,18 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://pics.r18.com/digital/video/h_1345gnax00017/h_1345gnax00017jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/nnuy317wke5ktjv/GNAX_017-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SNIS-191mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်မှာ အမြဲဆူလေ့ရှိသော ဌာနမူးမမတစ်ယောက် ရထားပေါ်မှာ ဖင်နှိုက်ခံနေရတာကို တွေ့လိုက်ရတဲ့အခါ...ဘာဆက်ဖစ်မှာလဲ
+မင်းသမီးနာမည် Kirara Asuka",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/sni/snis00191/snis00191_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/hwwtfw1zcht9bs3/SNIS-191.mp4/file",
+"photo1":"https://i.imgur.com/0v7iGlB_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/snis00191/snis00191pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp2/main/AddText_07-07-03.56.55.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220707_155036.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220707_155132.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
