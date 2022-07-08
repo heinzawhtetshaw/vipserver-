@@ -1679,4 +1679,19 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220707_155132.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"DASD-697mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဘောင်းဘီအမြဲတမ်းကျပ်နေတတ်တဲ့ ကိုလူမည်းနဲ့ အရမ်းချစ်စရာကောင်းပြီး ဖလန်းဖလန်းထတဲ့ ဆယ်ကျော်သက်အရွယ်ကောင်မလေးတစ်ယောက်အကြောင်းပါ
+ကောင်မလေးက ရည်းစားရှိပြီး ကိုလူမည်းနဲ့ အခန်းချင်းကပ်ရက်မှာ သူ့ဘဲနဲ့အတူတူနေထိုင်ပါတယ်...
+မင်းသမီးနာမည် Yui Nagase",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/d/das/dasd00697/dasd00697_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/vu8bbpqa4srjdv3/DASD_697-SD.mp4/file",
+"photo1":"https://i.imgur.com/cARqu5B_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/dasd00697/dasd00697pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/dasd00697/dasd00697jp-9.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220708_174210.jpg",
+"photo5":"https://pics.r18.com/digital/video/dasd00697/dasd00697jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/cscubg1jlc82y6j/DASD_697-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
