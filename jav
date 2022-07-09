@@ -1694,4 +1694,19 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://pics.r18.com/digital/video/dasd00697/dasd00697jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/cscubg1jlc82y6j/DASD_697-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SHKD-512mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မြန်မာပရိသတ်တွေရဲ့ အကြိုက် ရေပိုက်ပြင်တဲ့ဇာတ်လမ်းလေးပါ
+ရေပိုက်ပြင်ရင်း အတွင်းခံခိုးသွားတဲ့ အကိုကြီးနဲ့ အိမ်ရှင်မလေး Misaki တို့ကြား ပြင်းထန်တဲ့ တိုက်ပွဲတွေကို ကြည့်ရှုရပါမယ်
+မင်းသမီးနာမည် Misaki Honda",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/shk/shkd00512/shkd00512_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/g2fo1ok1gwsq12n/SHKD_512-SD.mp4/file",
+"photo1":"https://i.imgur.com/elqBo9J_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/shkd00512/shkd00512pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/shkd00512/shkd00512jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/shkd00512/shkd00512jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/shkd00512/shkd00512jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/mk6yyzrgga4pn5i/SHKD_512-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
