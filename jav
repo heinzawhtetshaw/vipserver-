@@ -1709,4 +1709,20 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://pics.dmm.co.jp/digital/video/shkd00512/shkd00512jp-11.jpg",
 "dapp":"https://www.mediafire.com/file/mk6yyzrgga4pn5i/SHKD_512-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-802mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းအစကို မလိနာတို့လင်မယားနှစ်ယောက်အောင်ပွဲခံနေတာနဲ့ စထားပါတယ်...မလိနာယောကျာ်း နိုင်ငံခြားကုမ္ပဏီမှာအလုပ်ရသွားလို့ပါ...
+အလုပ်ထဲဝင်ခါစအခက်တွေ့နေတုန်း နိုင်ငံခြားသားဂျွန်နီက ကူညီပေးခဲ့တော့ ဘော်ဒါတွေဖြစ်သွားပြီး အိမ်ကိုထမင်းစားဖိတ်မိရာကနေ 
+ I LOVE U တွေဖြစ်ကုန်ပီး #Decensored နဲ့ ကြည့်ရှု့ခံစားလိုက်ပါ...
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00802/jul00802_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/19sq6j55zq6jls8/JUL-802.mp4/file",
+"photo1":"https://i.imgur.com/dgHXayp_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00802/jul00802pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220710_144209.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp2/main/AddText_07-10-02.46.30.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00802/jul00802jp-4.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
