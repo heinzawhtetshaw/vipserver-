@@ -1725,4 +1725,19 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://pics.r18.com/digital/video/jul00802/jul00802jp-4.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUX-773mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက္ခမ နဲ့ တစ်ထောင့်တစ်ည
+ရွာမှာရှိတဲ့ ယောက်ျားလေး တစ်၀က်လောက်က FA တွေဖြစ်ကြပြီး တစ်နေ့မှာတော့ ရွာကို အကိတ်မလေးတစ်ယောက် ရောက်လာခဲ့ပါတယ် အကြောင်းရင်းကတော့ ရွာသားတစ်ယောက်နဲ့ လက်ထပ်ပြီး ပါလာတာဖြစ်ပါတယ် အရမ်းကိတ်တဲ့ သူမကို FA တွေက ကြိုဆိုကြရုံမက သူမယာက္ခထီးမုဆိုးဖိုကြီးကဆိုရင် မျက်စိအောက်ကကို အပျောက်မခံတော့ပါဘူး နောက်ပိုင်းမှာ ဘာတွေဆက်ဖြစ်မလဲဆိုတာကတော့......
+မင်းသမီးနာမည် Chitose Saegusa",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jux/jux00773/jux00773_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/4etorb1e55r1113/JUX+773-SD.mp4/file",
+"photo1":"https://i.imgur.com/3KYjqIg_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jux00773/jux00773pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/jux00773/jux00773jp-4.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp2/main/FB_IMG_1657536967734.jpg",
+"photo5":"https://pics.r18.com/digital/video/jux00773/jux00773jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/ogakhbmorfi2gqq/JUX+773-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
