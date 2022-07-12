@@ -1740,4 +1740,18 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://pics.r18.com/digital/video/jux00773/jux00773jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/ogakhbmorfi2gqq/JUX+773-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PRED-086mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ချစ်သူကောင်လေးနဲ့တွေ့ဖို့ ညဘက် bus ကား စီးရာကနေ ကားပေါ်မှာဦးလေးကြီးတစ်ယောက်ရဲ့ ဝိုက်တာကိုခံလိုက်ရတဲ့ မိန်းမပျိုလေး
+မင်းသမီးနာမည် Riona Minami",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/p/pre/pred00086/pred00086_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/k98yh4z9bw6yu4d/PRED-086.mp4/file",
+"photo1":"https://i.imgur.com/SGpyYpl_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/pred00086/pred00086pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220712_164827.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp2/main/AddText_07-12-04.53.46.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp2/main/AddText_07-12-04.54.26.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
