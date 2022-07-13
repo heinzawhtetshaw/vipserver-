@@ -1754,4 +1754,18 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp2/main/AddText_07-12-04.54.26.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-146mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အစကတော့ အနှိပ်သည်အကြောပြင်ဆရာခေါ်တာ သူမအမျိုးသားအတွက်ဖြစ်ပေမယ့် နောက်ပိုင်းမှာ သူမပါအနှိပ်ခံလာပြီး...တစ်ခါခံပြီး နောက်ထပ်မခံရမနေနိုင်အောင်ဖြစ်ခဲ့ရသော ...ထိမိဂွိလှသော အကြောပြင်ဆရာရဲ့ အနှိပ်ကွက်တွေဟာ...
+မင်းသမီးနာမည် Saki Okuda",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00146/adn00146_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/bwfmjg7cidpviu2/ADN_146_-SD.mp4/file",
+"photo1":"https://i.imgur.com/m8vMjCB_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/adn00146/adn00146pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/adn00146/adn00146jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp2/main/AddText_07-13-04.46.11.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00146/adn00146jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/m4xr6cwb4gv0fgi/ADN_146_-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
