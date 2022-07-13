@@ -1768,4 +1768,19 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://pics.r18.com/digital/video/adn00146/adn00146jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/m4xr6cwb4gv0fgi/ADN_146_-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MUDR-010mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရထားစီးတဲ့ နာမည်ကြီး manga တစ်ခုကို ပြန်ရိုက်ထားတဲ့ကားလေးပါ 
+အထက်တန်းကျောင်းသူလေးတစ်ယောက်ဟာ ရထားစီးရင်း ဦးလေးကြီးနဲ့ တွေ့ဆုံပြီးနောက်..
+မင်းသမီးနာမည် Koharu Suzuki",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mud/mudr00010/mudr00010_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/kcrp6jrvi8wyyj9/MUDR_010-SD.mp4/file",
+"photo1":"https://i.imgur.com/j6VsEig_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/mudr00010/mudr00010pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mudr00010/mudr00010jp-10.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mudr00010/mudr00010jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mudr00010/mudr00010jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/nbyooq8r42dsirv/MUDR_010-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
