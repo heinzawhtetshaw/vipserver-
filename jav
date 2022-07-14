@@ -1783,4 +1783,19 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://pics.dmm.co.jp/digital/video/mudr00010/mudr00010jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/nbyooq8r42dsirv/MUDR_010-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-684mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကြောင်ခံတွင်းပျက် အဖိုးကြီးနဲ့ ဇရက်တောင်ပံကျိုး ယောဂဆရာမလေး...
+အဖိုးကြီးက ကျန်းမာရေးမလိုက်စားပါဘူး ဒါကြောင့် မိန်းမက ယောဂကျင့်ဖို့အတင်းခေါ်မိရာက ဆရာမလေးနဲ့ ဘယ်လိုတွေပွဲကြမ်းကြမလား နှစ်ဦးနှစ်ဖက်က အိမ်ထောင်သည်တွေဆိုတော့ သူတို့တွေမသိအောင် ဘယ်လိုတွေခိုးစားမလဲဆိုတာကတော့...
+မင်းသမီးနာမည် Sakuraka Mitsuki",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00684/jul00684_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/wrn6h3uszbvklhu/JUL-684.mp4/file",
+"photo1":"https://i.imgur.com/wyqtZLt_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00684/jul00684pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220714_170055.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220714_165902.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220714_170214.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
