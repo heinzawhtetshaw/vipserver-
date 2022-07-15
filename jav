@@ -1798,4 +1798,19 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220714_170214.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HOKS-001mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အရက်သောက်စမရှိတဲ့သူမဟာ ခါးသက်တဲ့အရက်ကို ကျိတ်မှိတ်မြိုချရင်း အရမ်းထန်လာပြီး 
+မမြိုချသင့်တာ မြိုချမိသွားခဲ့ပါတယ် 
+မင်းသမီးနာမည် Satomi Suzuki",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/h/hok/hoks001/hoks001_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/1s4yantlghhbg3z/HOKS_001-SD.mp4/file",
+"photo1":"https://i.imgur.com/8znqY3G_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/hoks00001/hoks00001pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp4/main/IMG_20220715_170108.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp4/main/IMG_20220715_170138.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-15-05.06.18.jpg",
+"dapp":"https://www.mediafire.com/file/89j8aoht6c9npfc/HOKS_001.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
