@@ -1813,4 +1813,32 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-15-05.06.18.jpg",
 "dapp":"https://www.mediafire.com/file/89j8aoht6c9npfc/HOKS_001.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-121mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ညီဖြစ်သူရဲ့မိန်းမကို တစ်ဖက်သတ်ကြိတ်ကြွေနေတဲ့ အကိုကြီးတစ်ယောက်ရဲ့ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Asahi Mizuno",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mey/meyd00121/meyd00121_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/fnxjfqhrftj5tp8/MEYD+121.mp4/file",
+"photo1":"https://i.imgur.com/O9yAggw_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/meyd00121/meyd00121pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-16-05.44.41.jpg",
+"photo4":"https://pics.r18.com/digital/video/meyd00121/meyd00121jp-7.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-16-05.45.24.jpg",
+"dapp":"t",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-019mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တောင်ပေါ်သားလေးကတော့ အဆောင်ပြန်လည်းလုပ်စရာမရှိတာမို့ သူများအလုပ်တခုကိုအစားထိုးလုပ်ပေးနေပါတယ် ယု ရှိနိုဒ ကတော့ ချိန်းထားတဲ့အလုပ်ကိစ္စတခုရှိလို့ သွားတွေ့ရင်း မိုးသည်းလို့ ကုမ္ပဏီကိုပြန်လာတဲ့ မိုးရေတွေ စိုကုန်ပါတော့တယ် 
+မင်းသမီးနာမည် Yu Shinoda",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00019/jul00019_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ce4bzwmxxxu2a6o/JUL-019.mp4/file",
+"photo1":"https://i.imgur.com/Bcmr5EN_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00019/jul00019pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-16-05.59.11.jpg",
+"photo4":"https://pics.r18.com/digital/video/jul00019/jul00019jp-2.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp4/main/IMG_20220716_175751.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
