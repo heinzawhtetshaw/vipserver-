@@ -1841,4 +1841,18 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp4/main/IMG_20220716_175751.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-471mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိမိ ကြွေနေတဲ့ ကောင်လေးကို ဖြတ်လုပီး စနှိုက်ကျော်သွားတဲ့ ကောင်မကို လူမည်းခေါ်ကာ လက်စားချေခိုင်းခဲ့ရာ....
+မင်းသမီးနာမည် Ichika Matsumoto",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/ati/atid00471/atid00471_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/beyhczbqm9b0nyj/ATID_471_-SD.mp4/file",
+"photo1":"https://i.imgur.com/Eoo9ky9_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/atid00471/atid00471pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp4/main/IMG_20220717_184141.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-17-06.46.46.jpg",
+"photo5":"https://pics.r18.com/digital/video/atid00471/atid00471jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/xn5s428jai759ym/ATID_471_-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
