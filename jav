@@ -1855,4 +1855,20 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://pics.r18.com/digital/video/atid00471/atid00471jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/xn5s428jai759ym/ATID_471_-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"RBD-756mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မုဒိန်းကောင်တွေကို မုန်းတီးပီး တရားမျှတမှုကိုသာမြတ်နိုးတဲ့ အမျိုးသမီးရှေ့နေသည် 
+မုဒိမ်းကျင့်ခံရသူဖြစ်လာသည်  
+အကူအညီမရှိ၊ မျှော်လင့်ချက်မရှိ...
+မင်းသမီးနာမည် Nanami Kawakami",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/r/rbd/rbd00756/rbd00756_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/mcy3kzicp0knhgy/RBD-756.mp4/file",
+"photo1":"https://i.imgur.com/h5wNwBI_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/rbd00756/rbd00756pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp4/main/IMG_20220718_180820.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-18-06.13.02.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-18-06.13.55.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
