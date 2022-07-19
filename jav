@@ -1871,4 +1871,18 @@ AI Sayama နဲ့ Meguri တို့ ၂ယောက် ပါ၀င်ပြ
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-18-06.13.55.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HMN-094mmsub",
+"info":"မြန်မာစာတန်းထိုး
+MC တစ်ယောက် sex chat တဲ့ app တစ်ခုမှာ နာမည်ကြီးနေတဲ့ သူငယ်ချင်းအမေကို တွေ့လိုက်ရပါတယ် သူငယ်ချင်းအမေ အန်တီနဲ့ sex chat ရင်းအားမရတော့ဘဲ အပြင်မှာ ကော်ဖီဒိတ်ကြပြီးနောက် ဟိုတယ်မှာကိုကာကိုလာသောက်ဖို့ တစ်ပါတည်း ခေါ်သွားခဲ့ပါတယ် နောက်ပိုင်းမှာ သူငယ်ချင်းဆီကို သွားဆော့သလိုလိုနဲ့ သူငယ်ချင်းအမေ အန်တီ နဲ့ သွားသွားဆော့နေပါတော့တယ်.....
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/h/hmn/hmn00094/hmn00094_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/6jj53qfbvdj8fez/HMN_094_-SD.mp4/file",
+"photo1":"https://i.imgur.com/elWIiJn_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/hmn00094/hmn00094pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/hmn00094/hmn00094jp-7.jpg",
+"photo4":"https://pics.r18.com/digital/video/hmn00094/hmn00094jp-5.jpg",
+"photo5":"https://pics.r18.com/digital/video/hmn00094/hmn00094jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/8fwul95wgqahxu9/HMN_094_-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
