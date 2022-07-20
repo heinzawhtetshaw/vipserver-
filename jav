@@ -1885,4 +1885,22 @@ MC တစ်ယောက် sex chat တဲ့ app တစ်ခုမှာ န�
 "photo5":"https://pics.r18.com/digital/video/hmn00094/hmn00094jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/8fwul95wgqahxu9/HMN_094_-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-231mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းဖစ်သူရဲ့ အချစ်ဆုံးသူငယ်ချင်း လို့ဆိုတဲ့သူက 
+ကျမကို ခင်ပွန်းမသိချိန်မှာ လာလိုးတယ်
+ဒါလား အချစ်ဆုံးသူငယ်ချင်း..
+ကျေးဇူးပြု၍ ငါ့ကိုခွင့်လွတ်ပါ ယောကျာ်း
+ငါဘယ်လိုမှ ရုန်းမထွက်နိုင်ခဲ့လို့ပါ
+မင်းသမီးနာမည် Yuka Arai",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00231/adn00231_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/bpodxftzlcuzn62/ADN-231.mp4/file",
+"photo1":"https://i.imgur.com/VO0HjWb_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/adn00231/adn00231pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-20-06.09.19.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-20-06.09.59.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-20-06.10.29.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
