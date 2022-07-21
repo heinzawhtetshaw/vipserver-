@@ -1903,4 +1903,21 @@ MC တစ်ယောက် sex chat တဲ့ app တစ်ခုမှာ န�
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-20-06.10.29.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-940mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်လာလည်တဲ့ သားဖစ်သူရဲ့ သူငယ်ချင်းကို ချာတိတ်လေးဆိုပီး ဆွဲစားမလို့ လုပ်နေတဲ့ 
+အန်တီAsahi
+ကောင်လေးကတော့ သတိပေးရှာပါတယ် ပစ္စည်းကြီးလို့ မိန်းကလေးတိုင်းထွက်ပြေးတယ်လို့ 
+ဘာဆက်ဖစ်မလဲဆိုတာကိုတော့ ဇာတ်လမ်းတွင်ကြည့်ရှုလိုက်ပါ
+မင်းသမီးနာမည် Asahi Mizuno",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00940/jul00940_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/wvefuybzo5hd5um/JUL-940.mp4/file",
+"photo1":"https://i.imgur.com/bGvWirJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00940/jul00940pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-21-04.20.13.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-21-04.17.13.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-21-04.19.12.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
