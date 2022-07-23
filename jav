@@ -1933,4 +1933,18 @@ MC တစ်ယောက် sex chat တဲ့ app တစ်ခုမှာ န�
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp4/main/IMG_20220722_184856.jpg",
 "dapp":"https://www.mediafire.com/file/abwplw6o7grbvgt/CAWD_271_-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDV-021mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူဌေးသမီးရိုစီ‌လေးဟာ ကျောင်းတုန်းကဆရာနဲ့ အမှတ်မထင်ပြန်တွေ့တော့ အိမ်ထောင်ရေးအဆင်မပြေတာတွေကိုပြောပြရင်း ဆရာကနှစ်သိမ့်ပေးလိုက်ပါတယ် ဘယ်လိုနှစ်သိမ့်ပေးမှာလဲဆိုတာကတော့ ကိုယ်တိုင်ကြည့်ရှုပါ...
+မင်းသမီးနာမည် Tsubomi",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mid/midv00021/midv00021_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/tzojnewbi8369s0/MIDV-021.mp4/file",
+"photo1":"https://i.imgur.com/uvBZgRp_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/midv00021/midv00021pl.jpg",
+"photo3":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-23-05.04.10.jpg",
+"photo4":"https://raw.githubusercontent.com/shawlin247/pp4/main/IMG_20220723_170019.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp4/main/AddText_07-23-05.06.43.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
