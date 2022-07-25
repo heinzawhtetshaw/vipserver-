@@ -1963,4 +1963,18 @@ MC တစ်ယောက် sex chat တဲ့ app တစ်ခုမှာ န�
 "photo5":"https://pics.r18.com/digital/video/jufe00210/jufe00210jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/cpqkdzxm9oi84j0/JUFE_210_-HD1.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAE-064mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်လည်လာတဲ့ ကလေးကိုမုန့်ပေးကြိုက်တဲ့ မမကြီး Meguri တစ်ယောက် ကောင်လေးကို ငှက်ပျောသီး တွေကျွေးအထာပေးကာ ဘယ်လိုများသူ့ဘက်ပါအောင် သိမ်းသွင်းမလဲဆိုတာကတော့....
+မင်းသမီးနာမည် Meguri (Megu Fujiura)",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mia/miae00064/miae00064_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ll4xbb7noyzs8xs/MIAE_064-SD.mp4/file",
+"photo1":"https://i.imgur.com/m1Yw1gR_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/miae00064/miae00064pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220725_164646.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220725_164722.jpg",
+"photo5":"https://pics.r18.com/digital/video/miae00064/miae00064jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/42ee1bpoq5s9yrq/MIAE_064-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
