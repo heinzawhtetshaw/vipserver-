@@ -1977,4 +1977,19 @@ MC တစ်ယောက် sex chat တဲ့ app တစ်ခုမှာ န�
 "photo5":"https://pics.r18.com/digital/video/miae00064/miae00064jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/42ee1bpoq5s9yrq/MIAE_064-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PRED-274mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နာမည်ကြီးမင်းသမီးနှစ်လက်ပါဝင်သည်
+‌Horny Babes လေးတွေက ကျွန်တော့်ကို သူတို့ရဲ့ နွေရာသီ အားလပ်ရက်မှာ ပျော်စရာလေးတွေ ဖန်တီးပေးခဲ့သည်
+မင်းသမီးနာမည် Eimi Fukada နဲ့ Ai Hoshina",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/p/pre/pred00274/pred00274_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/nwn1zi9yxp93hnx/PRED-274.mp4/file",
+"photo1":"https://i.imgur.com/cGE24Pn_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/pred00274/pred00274pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/AddText_07-26-05.15.40.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220726_170351.jpg",
+"photo5":"https://pics.r18.com/digital/video/pred00274/pred00274jp-9.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
