@@ -1992,4 +1992,22 @@ MC တစ်ယောက် sex chat တဲ့ app တစ်ခုမှာ န�
 "photo5":"https://pics.r18.com/digital/video/pred00274/pred00274jp-9.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPD-313mmsub",
+"info":"မြန်မာစာတန်းထိုး
+deliveryပို့တဲ့ ကောင်မလေး Meguri လေးဟာ
+ကမော်ကမဲ့နိုင်တဲ့အပြင် ခပ်ရိုးရိုးကောင်မလေး
+တစ်ယောက်ပါ 
+ကမော်ကမဲ့နိုင်လို့ ပစ္စည်းတွေလွတ်ကျရာကနေ 
+မလျော်နိုင်လို့ ကာစတန်မာ ဦးလေးကြီး ရဲ့ပညာပေးတာကို ခံလိုက်ရပါတော့တယ်
+မင်းသမီးနာမည် Meguri (Megu Fujiura)",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/p/ppp/pppd00313/pppd00313_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/6s72igtc0q0rvez/PPPD_313_-SD.mp4/file",
+"photo1":"https://i.imgur.com/AWIq5EE_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/pppd00313/pppd00313pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/AddText_07-27-08.49.33.jpg",
+"photo4":"https://pics.r18.com/digital/video/pppd00313/pppd00313jp-2.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/ppp1/main/AddText_07-27-08.51.09.jpg",
+"dapp":"https://www.mediafire.com/file/ycaefp4d6husp4q/PPPD_313_-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
