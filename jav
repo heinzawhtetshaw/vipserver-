@@ -2010,4 +2010,20 @@ deliveryပို့တဲ့ ကောင်မလေး Meguri လေးဟာ
 "photo5":"https://raw.githubusercontent.com/heinh247/ppp1/main/AddText_07-27-08.51.09.jpg",
 "dapp":"https://www.mediafire.com/file/ycaefp4d6husp4q/PPPD_313_-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"STARS-393mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရုံးပိတ်ရက်မှာ ဌာနမူးတွေကမိန်းမတွေခေါ်ပီး ရေပူစမ်း စုံတွဲလိုက်သွားရအောင်လို့ ပြောတာကြောင့် မောင်ဇော်တစ်ယောက် သူ၏ မိန်းမကို ခေါ်ပြီး ရေပူစမ်းကို သွားမလို့ စောင့်နေခဲ့ပါတယ်
+သို့သော်လည်း ဌာနမူး အဖိုးကြီးတွေက သူတို့မိန်းမတွေခေါ်မလာခဲ့ပါဘူး 
+မိန်းကလေးဆိုလို့ မောင်ဇော်ရဲ့ ဇနီးချောလေးသာ ရေပူစမ်းခရီးစဉ်မှာ လိုက်ပါလာခဲ့ပါတယ်
+မင်းသမီးနာမည် Mahiro Tadai",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1st/1stars393/playlist.m3u8",
+"download":"https://www.mediafire.com/file/q58vu81oflm9h7v/STARS-393.mp4/file",
+"photo1":"https://i.imgur.com/hd1HipE_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1stars00393/1stars00393pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1stars00393/1stars00393jp-16.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1stars00393/1stars00393jp-17.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1stars00393/1stars00393jp-4.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
