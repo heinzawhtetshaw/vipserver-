@@ -2026,4 +2026,18 @@ deliveryပို့တဲ့ ကောင်မလေး Meguri လေးဟာ
 "photo5":"https://pics.dmm.co.jp/digital/video/1stars00393/1stars00393jp-4.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-326mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အားနွဲ့တဲ့ ယောက်ျားလေးတွေကို လိုက်ပြီး တဏှာမျက်လုံးနဲ့ကြည့်ပြီး အသားယူနေတဲ့ စားဆော်လေး Tsukasa Aoi ဆိုတဲ့ လက်ရဲဇက်ရဲကောင်မလေးတစ်ယောက်အကြောင်းပါ
+မင်းသမီးနာမည် Tsukasa Aoi",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/s/ssi/ssis00326/ssis00326_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/irmly6ypfzi4lv8/SSIS_326_-SD.mp4/file",
+"photo1":"https://i.imgur.com/fmegJmk_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ssis00326/ssis00326pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ssis00326/ssis00326jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/ssis00326/ssis00326jp-6.jpg",
+"photo5":"https://pics.r18.com/digital/video/ssis00326/ssis00326jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/6koy312jyrv3gjh/SSIS_326_-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
