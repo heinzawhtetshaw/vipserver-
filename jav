@@ -2040,4 +2040,18 @@ deliveryပို့တဲ့ ကောင်မလေး Meguri လေးဟာ
 "photo5":"https://pics.r18.com/digital/video/ssis00326/ssis00326jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/6koy312jyrv3gjh/SSIS_326_-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-216mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းဆရာမလေးနဲ့ နှာဘူးစာရေးဆရာ
+မင်းသမီးနာမည် Saeko Matsushita",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00216/adn00216_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/st3fkctsp7xoptt/ADN-216.mp4/file",
+"photo1":"https://i.imgur.com/73LiSWZ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/adn00216/adn00216pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/AddText_07-30-03.33.12.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220730_152836.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00216/adn00216jp-10.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
