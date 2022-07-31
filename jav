@@ -2054,4 +2054,18 @@ deliveryပို့တဲ့ ကောင်မလေး Meguri လေးဟာ
 "photo5":"https://pics.r18.com/digital/video/adn00216/adn00216jp-10.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-990mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရုရှားမလေး Lily Heart ဟာအမေအရင်းမဟုတ်ပေမယ့် မိခင်မေတ္တာအပြည့်နဲ့ ကူညီတဲ့ ဇာတ်လမ်းလေးဖြစ်ပါတယ် မေမေလေးက သားဖြစ်သူရဲ့မိန်းမကိုယ်ဝန်ဆောင်စဉ် လိင်ကိစ္စမှာတာဝန်ယူရမယ်လို့ ဂျင်းအကြီးကြီးထည့်ခံရပြီးနောက် မိခင်တစ်ယောက်လို ကူညီချင်နေတဲ့သူမက ကြိုးစားပမ်းစားကူညီခဲ့ပါတယ်
+မင်းသမီးနာမည် Lily Hart",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00990/jul00990_dmb_w.m3u8",
+"download":"https://www.mediafire.com/file/ena82rmb92a6mak/JUL_990_-SD.mp4/file",
+"photo1":"https://i.imgur.com/RUAXBDS_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00990/jul00990pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220731_161906.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220731_162116.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00990/jul00990jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/luvk7bqaq8kqs6y/Jul_990_-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
