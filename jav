@@ -2068,4 +2068,18 @@ deliveryပို့တဲ့ ကောင်မလေး Meguri လေးဟာ
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00990/jul00990jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/luvk7bqaq8kqs6y/Jul_990_-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA-195mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငါ့ရည်းစားက မြို့ပြင်ထွက်နေတုန်း ဘေးအိမ်ကအိမ်ထောင်သည်အမျိုးသမီးက နို့ကြီးတွေနဲ့ ငါ့ကို သွေးဆောင်ခဲ့သည်
+မင်းသမီးနာမည် Maria Nagai",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mia/miaa00195/miaa00195_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/u7mwdlgjpje5pki/MIAA-195.mp4/file",
+"photo1":"https://i.imgur.com/RTRnstG_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00195/miaa00195pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220801_163602.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp1/main/AddText_08-01-04.38.03.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/ppp1/main/AddText_08-01-04.39.35.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
