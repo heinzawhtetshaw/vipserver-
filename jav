@@ -2082,4 +2082,32 @@ deliveryပို့တဲ့ ကောင်မလေး Meguri လေးဟာ
 "photo5":"https://raw.githubusercontent.com/heinh247/ppp1/main/AddText_08-01-04.39.35.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"VENU-915mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အန်တီကြီးကားတွေ ကြိုက်တဲ့သူတွေအတွက်
+မင်းသမီးနာမည် Yumi Kazama",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/v/ven/venu00915/venu00915_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/oma58weiiurae2b/VENU_915_-SD.mp4/file",
+"photo1":"https://i.imgur.com/yYtNrCF_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/venu00915/venu00915pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220802_170721.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/venu00915/venu00915jp-13.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/venu00915/venu00915jp-18.jpg",
+"dapp":"https://www.mediafire.com/file/cpwvj04vbassvaq/VENU_915_-HD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-969mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မမ Nao Jinguji က ကျောင်းသားအရွယ်ကောင်လေးငယ်ငယ်လေးတစ်ယောက်ကို အရက်မူးအောင်တိုက်ပြီးဆွဲစားတဲ့ဇာတ်လမ်းလေးပဲဖြစ်ပါတယ် သူမယောက်ျားရဲ့ညီလေးကို မိသားစုရေပူစမ်းခရီးမပါပါအောင်ခေါ်ပြီး ယောက္ခမနဲ့ယောက်ျားကို အရက်မူးအောင်အများကြီးတိုက်ပြီး ကလေးကို ဆွဲစားဖို့ကြိုးစားခဲ့ရာမှာ အကြိမ်ကြိမ်ငြင်းဆန်တဲ့ကြားက အားကြီးတဲ့မမ Nao Jinguj တစ်ယောက်အနိုင်ရသွားမလား......
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00969/jul00969_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/vwxza725xiglsp3/JUL_969-SD.mp4/file",
+"photo1":"https://i.imgur.com/LDDowGh_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00969/jul00969pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220802_163250.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp1/main/AddText_08-02-04.36.25.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00969/jul00969jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/wxtes00ubufkj0h/JUL_969-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
