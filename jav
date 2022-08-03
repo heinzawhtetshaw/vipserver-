@@ -2110,4 +2110,21 @@ deliveryပို့တဲ့ ကောင်မလေး Meguri လေးဟာ
 "photo5":"https://pics.r18.com/digital/video/jul00969/jul00969jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/wxtes00ubufkj0h/JUL_969-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-402mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Ai Sayama ဆိုတဲ့ အိမ်ထောင်သည် အမျိုးသမီးဟာ စာဖတ်အရမ်းဝါသနာပါပါတယ်
+တစ်နေ့မှာတော့ စာဖတ်ရင်း လမ်းလျောက်နေရာကနေ အခန်းမှားပီး ကျော်ကြီး အခန်းထဲ ရောက်သွားခဲ့ပါတယ်
+ကျော်ကြီးဆိုသူမှာ Ai Sayama နဲ့ အခန်းချင်းကပ်ရက်နေထိုင်သူပေါ့...
+ဘာဆက်ဖစ်မှာလဲဆိုတာကိုတော့...
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mey/meyd00402/meyd00402_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/qfjp5iawb24ngtk/MEYD-402.mp4/file",
+"photo1":"https://i.imgur.com/r5kwJwX_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00402/meyd00402pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220803_163144.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220803_163103.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220803_163247.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
