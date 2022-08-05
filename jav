@@ -2142,4 +2142,18 @@ Ai Sayama ဆိုတဲ့ အိမ်ထောင်သည် အမျိ�
 "photo5":"https://pics.r18.com/digital/video/ure00062/ure00062jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/q4aiy5uqrvl5npl/URE_062-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"STARS-318mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Yuzu Shirakawa ဆိုတဲ့ မင်းသမီးအသစ်လေးနဲ့ သူမရဲ့ ဆရာတို့ အတူတူအလုပ်ခရီးထွက်ရင်း အိမ်ထောင်သည် ဆရာကို မထိတထိသွားလုပ်ရာကနေ ဆရာက လီးတောင်လာလို့ အပီလိုးသတ် 👍
+မင်းသမီးနာမည် Yuzu Shirakawa",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/1/1st/1stars00318/1stars00318_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/mhb5tcrj1k53m1f/STARS_318-SD.mp4/file",
+"photo1":"https://i.imgur.com/VNMI1GD_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/1stars00318/1stars00318pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220805_172744.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp1/main/AddText_08-05-05.32.17.jpg",
+"photo5":"https://pics.r18.com/digital/video/1stars00318/1stars00318jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/y01pf76codzavvs/STARS_318-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
