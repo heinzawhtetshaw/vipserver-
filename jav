@@ -2156,4 +2156,20 @@ Yuzu Shirakawa ဆိုတဲ့ မင်းသမီးအသစ်လေး�
 "photo5":"https://pics.r18.com/digital/video/1stars00318/1stars00318jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/y01pf76codzavvs/STARS_318-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUY-906mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခရီးတစ်ခုသွားနေစဉ် လူမည်း CEO တစ်ဦးနဲ့ လိုးခြင်း
+လှပသောမျက်နှာနှင့် ပြီးပြည့်စုံသော ခန္ဓာကိုယ်ဖြင့် အလှတရားရှိသည့် ကောင်မငယ်လေးကို
+လူမည်းတွေက အပီလိုးခဲ့သည်
+မင်းသမီးနာမည် Azusa Misaki",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/juy/juy00906/juy00906_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/0i797y0sr8a4x05/JUY-906.mp4/file",
+"photo1":"https://i.imgur.com/31SgJe9_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juy00906/juy00906pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220806_182423.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220806_182554.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juy00906/juy00906jp-1.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
