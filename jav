@@ -2172,4 +2172,18 @@ Yuzu Shirakawa ဆိုတဲ့ မင်းသမီးအသစ်လေး�
 "photo5":"https://pics.dmm.co.jp/digital/video/juy00906/juy00906jp-1.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-941mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဂျပန်ပြည်ကို ခုမှလာနေတဲ့ Lily လေးဟာ ဂျပန်တွေရဲ့ လူမှုဘ၀နဲ့အသားမကျနိုင်သေးရုံမက သူငယ်ချင်းလဲမရှိလုပ်စရာအလုပ်မရှိနဲ့ အိမ်မှာတစ်ယောက်တည်းအထီးကျန်နေပါတယ် အင်္ဂလ်ိပ်စာသင်ချင်တဲ့ ဟိုဘက်ခန်းက မောင်လေးနဲ့ဆုံတွေ့ပြီး နောက်မှာ Lily တစ်ယောက် မျောက်ကလေးတစ်ကောင် အပျင်းဖြေစရာအရုပ်ကလေးကောက်ရသွားသလို ဆိုဒ်မတူတဲ့ မောင်လေးကို မျိုးစုံ ကလိပါတော့တယ်....
+မင်းသမီးနာမည် Lily Hart",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00941/jul00941_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/j8k12xb19434q0z/JUL_941_-SD.mp4/file",
+"photo1":"https://i.imgur.com/DqIDSpc_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00941/jul00941pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220807_192935.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220807_193103.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00941/jul00941jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/o9eojydw2d2nzrp/JUL_941_-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
