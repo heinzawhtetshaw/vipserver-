@@ -2186,4 +2186,19 @@ Yuzu Shirakawa ဆိုတဲ့ မင်းသမီးအသစ်လေး�
 "photo5":"https://pics.r18.com/digital/video/jul00941/jul00941jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/o9eojydw2d2nzrp/JUL_941_-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-846mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဖော်အချွတ်ဓာတ်ပုံ စတူဒီယိုတစ်ခုရဲ့ အယ်ဒီတာဖြစ်တဲ့ ကိုအရှည်ကြီးရဲ့မိန်းမရဲ့အလှကို ဘော့စ်ကမြင်သွားပြီး စတူရီယိုမှာ လူလိုနေတုန်း သူမကို အစားထိုးခဲ့ရာမှာတော့...
+ဘာဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Asahi Mizuno",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00846/jul00846_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/sace8davwar2149/Jul_846-sd.mp4/file",
+"photo1":"https://i.imgur.com/XpFa8SN_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00846/jul00846pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/jul00846/jul00846jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/jul00846/jul00846jp-2.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00846/jul00846jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/htak4xy4xlxpwp5/JUL_846-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
