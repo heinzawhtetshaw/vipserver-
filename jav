@@ -2201,4 +2201,18 @@ Yuzu Shirakawa ဆိုတဲ့ မင်းသမီးအသစ်လေး�
 "photo5":"https://pics.r18.com/digital/video/jul00846/jul00846jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/htak4xy4xlxpwp5/JUL_846-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-286mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Seako Matsushita တောင်းဆိုထားတဲ့သူတွေအတွက် ခပ်ကြမ်းကြမ်း သားမက်ကို ဆွဲစားတဲ့ ဇာတ်ကားလေးပါ
+မင်းသမီးနာမည် Saeko Matsushita",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mey/meyd00286/meyd00286_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/0qrr24q1sqe4oxh/Meyd_286-sd.mp4/file",
+"photo1":"https://i.imgur.com/GKDq2F3_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/meyd00286/meyd00286pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/AddText_08-09-09.19.18.jpg",
+"photo4":"https://pics.r18.com/digital/video/meyd00286/meyd00286jp-3.jpg",
+"photo5":"https://pics.r18.com/digital/video/meyd00286/meyd00286jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/kwjayg111fhpa8p/MEYD_286-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
