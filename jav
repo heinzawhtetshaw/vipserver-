@@ -2215,4 +2215,19 @@ Seako Matsushita တောင်းဆိုထားတဲ့သူတွေအ
 "photo5":"https://pics.r18.com/digital/video/meyd00286/meyd00286jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/kwjayg111fhpa8p/MEYD_286-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"WANZ-509mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းအစမှာ အမေနဲ့သမီးစကားပြောတာနဲ့ စတင်ထားပါတယ် သမီးက (သူ့ကိုကြိုက်လို့ဖွင့်ပြောလာတဲ့သူကို) ယဥ်ယဥ်ကျေးကျေးပဲငြင်းလိုက်တဲ့အကြောင်းနဲ့ ထပ်ခါထပ်ခါဖွင့်ပြောခံရကြောင်းပြောပြနေခဲ့တာပါ...
+Asahi Mizuno က ယွကျားဆုံးပါးသွားတဲ့ ကလေးတယောက်အမေပါ ပြဿနာက ငြင်းခံရတဲ့ကောင်လေးပါ နောက်ကနေနောက်ယောင်ခံလိုက်ပြီး Ayane Suzukawa အိမ်ထဲအရောက်မှာ အဓမ္မကျင့်ပါတော့တယ် နောက် သူ့အမေ Asahi Mizuno အပြင်ကပြန်ရောက်လာတော့...
+မင်းသမီးနာမည် Asahi Mizuno .Ayane Suzukawa",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/w/wan/wanz00509/wanz00509_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/d3k1yb8zzxejv4z/Wanz-509.mp4/file",
+"photo1":"https://i.imgur.com/9bZCRsk_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/wanz00509/wanz00509pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220810_163547.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/wanz00509/wanz00509jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/wanz00509/wanz00509jp-4.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
