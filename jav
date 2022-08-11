@@ -2230,4 +2230,18 @@ Asahi Mizuno က ယွကျားဆုံးပါးသွားတဲ့ �
 "photo5":"https://pics.dmm.co.jp/digital/video/wanz00509/wanz00509jp-4.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"VENX-054mnsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက်ျားအိမ်ပြန်မလာလို့ ယောက်ျားရဲ့သားကို ဆွဲစားတဲ့ မေမေလေးအကြောင်းပါ
+မင်းသမီးနာမည် Nenne Ui",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/v/ven/venx00054/venx00054_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/kfcv8ct8z3mpb8s/VENX+054+SD.mp4/file",
+"photo1":"https://i.imgur.com/Wzqfyaf_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/venx00054/venx00054pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220811_185940.jpg",
+"photo4":"https://pics.r18.com/digital/video/venx00054/venx00054jp-1.jpg",
+"photo5":"https://pics.r18.com/digital/video/venx00054/venx00054jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/z92j4pkjzxzg62c/VENX+054-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
