@@ -2244,4 +2244,18 @@ Asahi Mizuno က ယွကျားဆုံးပါးသွားတဲ့ �
 "photo5":"https://pics.r18.com/digital/video/venx00054/venx00054jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/z92j4pkjzxzg62c/VENX+054-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-584mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဖေဖြစ်သူက မြေးချီချင်ပေမယ့် သားဖြစ်သူက အာသဝေါကုန်ခမ်းကာ ဆေးလိပ်ပဲတစ်ချိန်လုံးသောက်နေလို့ စိတ်မရှည်တဲ့ ယောက္ခထီးက ကြားကနေ ကလေးရအောင် ၀င်စွမ်းဆောင်ခဲ့ပါတော့တယ်...
+မင်းသမီးနာမည် Nanao Nakano",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mey/meyd00584/meyd00584_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/8cb52gyt2o4czmf/MEYD_584-SD.mp4/file",
+"photo1":"https://i.imgur.com/u5z8lnE_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00584/meyd00584pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220812_193224.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00584/meyd00584jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00584/meyd00584jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/zc5tqgcb7gszguv/MEYD_584-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
