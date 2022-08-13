@@ -2258,4 +2258,18 @@ Asahi Mizuno က ယွကျားဆုံးပါးသွားတဲ့ �
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00584/meyd00584jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/zc5tqgcb7gszguv/MEYD_584-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MUDR-182mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဆယ်ကျော်သက်မင်းသမီးလေး  Rara Kudo က တောမှာနေတဲ့ ကျောင်းသူလေးအဖြစ်သရုပ်ဆောင်ထားပြီး မြို့ကနေနွေရာသီလာလည်တဲ့ အကိုတစ်၀မ်းကွဲနဲ့ မစားဖူးတဲ့ အသီးစားကြည့်တဲ့ကားလေးပါ အခုမှ အတွေ့အကြုံရှိတဲ့ Rara Kudo လေးက သူ့အကိုကို ခဏခဏ သွားသွားရှုပ်ပြီး ငှက်ပျောသီးစားချင်လို့ ပူဆာနေတဲ့အကြောင်းလေးပါ....
+မင်းသမီးနာမည် Lala Kudo",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mud/mudr00182/playlist.m3u8",
+"download":"https://www.mediafire.com/file/uirxp98ftj0tfh1/MUDR+182-SD.mp4/file",
+"photo1":"https://i.imgur.com/XS3D4xK_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/mudr00182/mudr00182pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/AddText_08-13-07.49.27.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mudr00182/mudr00182jp-1.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220813_194501.jpg",
+"dapp":"https://www.mediafire.com/file/xuqbf3th93dt53y/MUDR+182-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
