@@ -2272,4 +2272,19 @@ Asahi Mizuno က ယွကျားဆုံးပါးသွားတဲ့ �
 "photo5":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220813_194501.jpg",
 "dapp":"https://www.mediafire.com/file/xuqbf3th93dt53y/MUDR+182-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPX-736mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
+ဆိုင်မန်နေဂျာတို့ရဲ့ ပညာပေးဇာတ်လမ်း...
+မင်းသမီးနာမည် Miu Shiramine",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00736/playlist.m3u8",
+"download":"https://www.mediafire.com/file/3i1lkxilbau3z5a/IPX-736.mp4/file",
+"photo1":"https://i.imgur.com/fpsau3l_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00736/ipx00736pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220814_184301.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00736/ipx00736jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00736/ipx00736jp-10.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
