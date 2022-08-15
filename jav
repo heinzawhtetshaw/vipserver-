@@ -2287,4 +2287,19 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.dmm.co.jp/digital/video/ipx00736/ipx00736jp-10.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"DASD-619mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လူမည်းအင်္ဂလိပ်ဆရာတစ်ယောက်က  ဆတ်ဆလူးစိန်ဓာတ်ဘူးပိန် မင်းသမီးငယ်ငယ်လေးအိမ်မှာ အချိန်ပိုင်းသွားသင်တဲ့ကားလေးပါ
+လူကသာငယ်ပေမယ့် ငှက်ပျောသီး သခွားသီး ခရမ်းသီးဆို  ခပ်ကြီးကြီးမှကြိုက်တဲ့ အင်နိုးစန့်ပုံစံကလေးမလေးက လူမည်းအင်္ဂလိပ်ဆရာကို ညစ်ညမ်းတဲ့အင်္ဂလိပ်စကားတွေ သွားသွားပြောပါတယ် ဆရာတပည့်အကန့်ပဲထားချင်တဲ့ ကိုလူမည်းကို မမြင်သင့်မမြင်အပ်တာတွေသွားသွားပြပြီး အင်္ဂလိပ်လို အမည်နာမတွေမေးကာ နောက်ပိုင်းကျဘာတွေဆက်ဖြစ်မလဲဆိုတာကတော့...
+မင်းသမီးနာမည် Ayame Yosai",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/d/das/dasd00619/dasd00619_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/27vtsulbg5im17o/DASD+619-SD.mp4/file",
+"photo1":"https://i.imgur.com/tN51jDO_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/dasd00619/dasd00619pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220815_194350.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/dasd00619/dasd00619jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/dasd00619/dasd00619jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/lxbaporpunt09e0/DASD+619-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
