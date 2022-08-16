@@ -2302,4 +2302,19 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.dmm.co.jp/digital/video/dasd00619/dasd00619jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/lxbaporpunt09e0/DASD+619-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NIMA-007mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နာမည်ကြီး manga တစ်ခုဖြစ်တဲ့ Unbalance ကိုပြန်ရိုက်ထားပြီး ရွာကို မရောက်တာကြာတဲ့ အကိတ်မြေးမလေးနဲ့ အတိတ်မေ့နေတဲ့အဘိုးကြီးတို့ဇာတ်လမ်းလေးပါ
+အလှလေး Mio Kimijima  ရဲ့ အလှအပတွေကို တစ်ဝကြီးကြည့်ရှူရမှာဖြစ်ပြီး manga နဲ့တစ်ထပ်တည်းကျအောင်ရိုက်ကူးထားတာပါ အတိတ်မေ့ပြီး အိုမင်းနေပေမယ့် နို့ကြိုက်တတ်တဲ့ အဘိုးက သေဆုံးသွားတဲ့သူ့ဇနီးနဲ့ တူတဲ့ မြေးမလေးကို  သူ့ဇနီးနာမည်ခေါ်ပြီး...
+မင်းသမီးနာမည် Mio Kimijima",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/n/nim/nima00007/nima00007_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/rwu63o2wcnskswt/NIMA+007-SD(480P).mp4/file",
+"photo1":"https://i.imgur.com/fMvAraW_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/nima00007/nima00007pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220816_195153.jpg",
+"photo4":"https://pics.r18.com/digital/video/nima00007/nima00007jp-2.jpg",
+"photo5":"https://pics.r18.com/digital/video/nima00007/nima00007jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/aoqz179k16s9997/NIMA+007-HD(720P).mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
