@@ -2317,4 +2317,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/nima00007/nima00007jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/aoqz179k16s9997/NIMA+007-HD(720P).mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HND-840mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အစ်မကရည်းစားကိုအိမ်ခေါ်လာပြီး တစ်ညအိပ်ခိုင်းတာကို တည်ကြည်လေးနက်ပါတယ်ဆိုတဲ့ ညီမဖြစ်သူ အိချိခ က ဘယ်လိုလှည့်ဖျားဆွဲစားမလဲ ကြည့်ရှု့ခံစားရမယ် ပြီးတော့ ယောကျာ်းလေးအမြင်နေရာကနေရိုက်ပြထားတဲ့ပြကွက်တွေက ကြည့်လို့ပိုပြီးမိုက်စေမှာပါ...
+မင်းသမီးနာမည် Ichika Matsumoto ",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/h/hnd/hnd00840/hnd00840_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/izi0pcs98z85fch/HND-840.mp4/file",
+"photo1":"https://i.imgur.com/WJICMaG_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/hnd00840/hnd00840pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp1/main/IMG_20220817_185606.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/hnd00840/hnd00840jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/hnd00840/hnd00840jp-8.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
