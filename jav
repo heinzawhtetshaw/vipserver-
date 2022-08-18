@@ -2331,4 +2331,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.dmm.co.jp/digital/video/hnd00840/hnd00840jp-8.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-171mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီစော်လေးက ရှယ်မိုက်ပါလားဟေ့
+မင်းသမီးနာမည် Marin Hinata",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/s/ssi/ssis00171/ssis00171_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/yi484ts0p5pdtfr/SSIS-171.mp4/file",
+"photo1":"https://i.imgur.com/wNdHGmS_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ssis00171/ssis00171pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ssis00171/ssis00171jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/ssis00171/ssis00171jp-7.jpg",
+"photo5":"https://pics.r18.com/digital/video/ssis00171/ssis00171jp-6.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
