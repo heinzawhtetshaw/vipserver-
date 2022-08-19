@@ -2345,4 +2345,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/ssis00171/ssis00171jp-6.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA-376mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငယ်ချစ်ဦး‌ကောင်မလေးရဲ့ အမေကို စား
+မင်းသမီးနာမည် Yuri Honma",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mia/miaa00376/miaa00376_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/69im2wwutegqmyj/MIAA+376-SD.mp4/file",
+"photo1":"https://i.imgur.com/Cag1c8T_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/miaa00376/miaa00376pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp2/main/IMG_20220819_191348.jpg",
+"photo4":"https://pics.r18.com/digital/video/miaa00376/miaa00376jp-1.jpg",
+"photo5":"https://pics.r18.com/digital/video/miaa00376/miaa00376jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/mrhl5c7iz3mi3d1/MIAA+376-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
