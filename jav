@@ -2375,4 +2375,19 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://raw.githubusercontent.com/heinh247/ppp2/main/AddText_08-20-06.27.33.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-984mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဖေဖေရဲ့ မယားငယ်ဖစ်တဲ့ မေမေလေး ကိုမှ 
+ချစ်မိနေတဲ့ မောင်ဇော်
+မင်းသမီးနာမည် Umi Natsukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00984/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bs0cx7paxhktf9l/Jul-984mmsub.mp4/file",
+"photo1":"https://i.imgur.com/9dBQg0i_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00984/jul00984pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00984/jul00984jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp2/main/AddText_08-21-08.27.54.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/ppp2/main/IMG_20220821_202007.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
