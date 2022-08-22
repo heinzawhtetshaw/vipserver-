@@ -2390,4 +2390,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://raw.githubusercontent.com/heinh247/ppp2/main/IMG_20220821_202007.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"GVG-108mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မောင်လေးကို ကရာတေးသင်ပေးဖို့အိမ်ခေါ်လာတဲ့ ကို Micky ကိုမြင်ကတည်းက နိုင်ငံခြားသားတွေနဲ့ တေ့ကြည့်ချင်နေတဲ့ ချစ်စရာမျက်နှာပေးနဲ့ ကောင်မငယ် ရဲ့ ဇာတ်လမ်း
+မင်းသမီးနာမည် Risa Shimizu",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/1/13g/13gvg108/13gvg108_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/6oll79euo1x0ibt/GVG_108-SD.mp4/file",
+"photo1":"https://i.imgur.com/2O9i2Ik_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/13gvg00108/13gvg00108pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp2/main/IMG_20220822_163455.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp2/main/IMG_20220822_163043.jpg",
+"photo5":"https://pics.r18.com/digital/video/13gvg00108/13gvg00108jp-14.jpg",
+"dapp":"https://www.mediafire.com/file/q4j0tuah2hzfldm/GVG_108-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
