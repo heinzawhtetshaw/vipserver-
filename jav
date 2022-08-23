@@ -2404,4 +2404,21 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/13gvg00108/13gvg00108jp-14.jpg",
 "dapp":"https://www.mediafire.com/file/q4j0tuah2hzfldm/GVG_108-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-698mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဖြူဖြူဖွေးဖွေး ရေဆေးငါးကြီး လာပါပြီ
+အိန္ဒြေကြီးတဲ့ဆရာမကို တဆင့်ချင်း
+ဘယ်လိုကြွေအောင်ချွေသွားလဲဆိုတာ
+ရင်ခုန်စွာနဲ့ပဲ ကြည့်ရှုခံစားလိုက်ပါ 
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00698/jul00698_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ki8ed6tc079d9xf/Jul-698.mp4/file",
+"photo1":"https://i.imgur.com/4nL25CT_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00698/jul00698pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp2/main/IMG_20220823_181817.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp2/main/AddText_08-23-06.22.01.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00698/jul00698jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/434bhu22u5qddni/Jul-698hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
