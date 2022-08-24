@@ -2421,4 +2421,21 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/jul00698/jul00698jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/434bhu22u5qddni/Jul-698hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPX-792mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လက်ထပ်ဖို့ အိမ်ခေါ်လာတဲ့ ညီလေး ရဲ့ ကောင်မလေးကို လိုးတာ
+အားနည်းချက်ကို ကိုင်ထားတော့ ကောင်မလေးက မငြင်းနိုင်ရှာဘူး
+စော်လေးက ရုပ်ချောပီး အမွေးထူထူနဲ့ 
+တအားချစ်ဖို့ကောင်းတာနော်
+မင်းသမီးနာမည် Hikari Azusa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00792/playlist.m3u8",
+"download":"https://www.mediafire.com/file/mbnc05j9vv3efjv/Ipx-792mmsub.mp4/file",
+"photo1":"https://i.imgur.com/V42bKxj_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00792/ipx00792pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipx00792/ipx00792jp-4.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00792/ipx00792jp-2.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/ppp2/main/PicsArt_08-24-07.32.56.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
