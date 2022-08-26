@@ -2438,4 +2438,19 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://raw.githubusercontent.com/heinh247/ppp2/main/PicsArt_08-24-07.32.56.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-342mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းဖစ်သူက အလုပ်ကြိုးစားလို့ မိန်းမကို အချိန်သိပ်မပေးနိုင်ခဲ့ပါ
+ပျော်ရွှင်မှုတွေပျောက်ဆုံးနေတဲ့ ဇနီးချောလေးကို ဘေးအိမ်က အိုရှာမာဆိုတဲ့ဦးလေးကြီးက ဘယ်လိုပုံစံနဲ့ ဝိုက်သွားမလဲဆိုတာကိုတော့...
+မင်းသမီးနာမည် Michiru Kujo",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00342/adn00342_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/p4fxiq3ibno01dd/Adn-342mmsub.mp4/file",
+"photo1":"https://i.imgur.com/B3J6rsX_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/adn00342/adn00342pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp2/main/IMG_20220826_182306.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp2/main/AddText_08-26-06.25.07.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00342/adn00342jp-10.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
