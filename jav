@@ -2445,7 +2445,7 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 ပျော်ရွှင်မှုတွေပျောက်ဆုံးနေတဲ့ ဇနီးချောလေးကို ဘေးအိမ်က အိုရှာမာဆိုတဲ့ဦးလေးကြီးက ဘယ်လိုပုံစံနဲ့ ဝိုက်သွားမလဲဆိုတာကိုတော့...
 မင်းသမီးနာမည် Michiru Kujo",
 "watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00342/adn00342_dmb_w.mp4",
-"download":"",
+"download":"https://www.mediafire.com/file/p4fxiq3ibno01dd/Adn-342.mp4/file",
 "photo1":"https://i.imgur.com/B3J6rsX_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.r18.com/digital/video/adn00342/adn00342pl.jpg",
 "photo3":"https://raw.githubusercontent.com/heinh247/ppp2/main/IMG_20220826_182306.jpg",
