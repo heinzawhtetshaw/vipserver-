@@ -2459,7 +2459,7 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 ခင်ပွန်းက အပီးမြန် တပ်ထွက်ကောင်ဆိုတော့ အာသာမပြေဖစ်နေတဲ့ စော်လေးက ယောက္ခမထီးကြီးနဲ့တွေ့မှပဲ ထွက်ပါပြေးနေရတယ်
 မင်းသမီးနာမည် Rena Kodama",
 "watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00702/jul00702_dmb_w.mp4",
-"download":"https://www.mediafire.com/file/py10enild54ywt0/Jul-702mmsub.mp4/file",
+"download":"https://www.mediafire.com/file/si55i6i51d9rkq6/Jul-702mmsub.mp4/file",
 "photo1":"https://i.imgur.com/bFg835I_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.r18.com/digital/video/jul00702/jul00702pl.jpg",
 "photo3":"https://pics.r18.com/digital/video/jul00702/jul00702jp-1.jpg",
