@@ -2467,4 +2467,20 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/jul00702/jul00702jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/py10enild54ywt0/Jul-702mmsub.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-016mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇနီးသည်က ကိုယ်ဝန်နဲ့မို့ မစားရတဲ့အပြင် ဖုန်းထဲမှာ မှန်းထုနေကြ စော်ပုံလေးတွေပါ ဇနီးက ဖျက်ပစ်လိုက်တော့ ကုန်ကြမ်းမရှိလို့ ဂွင်းထုဖို့ အခက်ကြုံနေတဲ့ သမက်လေး
+ဒါကို မကြည့်ရက်တော့တဲ့ ယောက္ခမ
+ဘာဆက်ဖစ်မလဲ
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00016/playlist.m3u8",
+"download":"https://www.mediafire.com/file/n1wgqahfjncsjyo/Juq-016mmsub.mp4/file",
+"photo1":"https://i.imgur.com/xrxOkiE_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00016/juq00016pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp2/main/received_802739057588982.jpeg",
+"photo4":"https://raw.githubusercontent.com/heinh247/ppp2/main/AddText_08-28-08.18.20.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00016/juq00016jp-4.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
