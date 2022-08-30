@@ -2468,4 +2468,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00016/juq00016jp-4.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SHKD-676mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ အိမ်မှာ၀င်ပုန်းနေတဲ့ ၀ရမ်းပြေးတစ်ယောက်ကို မြွေပြွေးခါးပိုက်ပိုက်ထားမိလျက်သားဖြစ်နေတဲ့ ကောင်မလေးတစ်ယောက်အကြောင်းပဲဖြစ်ပါတယ်
+မင်းသမီးနာမည် Rina Ishihara",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/shk/shkd00676/shkd00676_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/gnbjah9rf89y58m/%255BDark_TV_Premium%255DSHKD_676-HD.mp4/file",
+"photo1":"https://i.imgur.com/RLpj2B4_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/shkd00676/shkd00676pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/shkd00676/shkd00676jp-9.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/shkd00676/shkd00676jp-10.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/shkd00676/shkd00676jp-12.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
