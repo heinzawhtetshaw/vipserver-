@@ -2482,4 +2482,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.dmm.co.jp/digital/video/shkd00676/shkd00676jp-12.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAE-275mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မချောလေး ၂ယောက်ရဲ့ အမေနောက်အိမ်ထောင်ပြုတော့ မောင်လေးတစ်ယောက်အဆစ်ရလိုက်ပါတယ် မောင်လေးနဲ့လဲ တစ်ခန်းထဲ အတူတူအိပ်ကြရပါတယ် ချစ်စရာကောင်းတဲ့မောင်လေးကို အရုပ်လေးလိုသဘောထားပြီး ညီအစ်မ ၂ယောက် ဘယ်လိုထင်တိုင်းကြဲမလဲဆိုတာကတော့....
+မင်းသမီးနာမည် Mio Kimijima, Monami Takarada",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mia/miae00275/miae00275_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/enk03j5guq87i0w/%255BDark_TV_Premium%255DMIAE_275-SD%2528480P%2529.m4v/file",
+"photo1":"https://i.imgur.com/SLLBVbG_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/miae00275/miae00275pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp2/main/IMG_20220831_173713.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/miae00275/miae00275jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/miae00275/miae00275jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/q5ooii1zz4nn60s/%255BDark_TV_Premium%255DMIAE_275-Hd%2528720P%2529.m4v/file",
+"candownload":"",
 "wcode":"တစ်"}]
