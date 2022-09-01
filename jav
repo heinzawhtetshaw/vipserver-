@@ -2496,4 +2496,19 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.dmm.co.jp/digital/video/miae00275/miae00275jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/q5ooii1zz4nn60s/%255BDark_TV_Premium%255DMIAE_275-Hd%2528720P%2529.m4v/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"KIRE-009mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခုတလော အရမ်းကိတ်ပြီး ကြင်နာတတ်တဲ့ မေမေလေးရဲ့ အပြုစုအယုယတွေကြောင့် ကျနော် အရမ်းစိတ်လှုပ်ရှားနေရပါတယ်
+ဘာဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Akane Soma",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/1/1ki/1kire009/1kire009_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/mdr1sc8xh6z3fen/%255BDark_TV%255DKIRE_009-SD.m4v/file",
+"photo1":"https://i.imgur.com/XzSzj27_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/1kire00009/1kire00009pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/1kire00009/1kire00009jp-7.jpg",
+"photo4":"https://pics.r18.com/digital/video/1kire00009/1kire00009jp-9.jpg",
+"photo5":"https://pics.r18.com/digital/video/1kire00009/1kire00009jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/l6d5ra6yzlz8k7u/%255BDark_TV%255DKIRE-009-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
