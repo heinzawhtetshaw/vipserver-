@@ -2511,4 +2511,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/1kire00009/1kire00009jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/l6d5ra6yzlz8k7u/%255BDark_TV%255DKIRE-009-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUFE-386mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက်ျားဆို ယင်ဖိုတောင် မသန်းဖူးတဲ့ သမီးပျိုလေးကို ပထွေးက ရှယ်ဝိုက်
+မင်းသမီးနာမည် Uta Iori",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/juf/jufe00386/jufe00386_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/56cdz749jfhv0gj/Jufe-386mmsub.mp4/file",
+"photo1":"https://i.imgur.com/uzPJdhI_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jufe00386/jufe00386pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/ppp2/main/IMG_20220902_124041.jpg",
+"photo4":"https://pics.r18.com/digital/video/jufe00386/jufe00386jp-4.jpg",
+"photo5":"https://pics.r18.com/digital/video/jufe00386/jufe00386jp-12.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
