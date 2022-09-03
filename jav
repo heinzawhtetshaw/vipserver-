@@ -2525,4 +2525,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/jufe00386/jufe00386jp-12.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUY-208mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဆရာက ဆရာမချောချောလေးကိုရွှေလက်ချောင်းဆိုတဲ့ အပြာစာအုပ်ပေးဖတ်ပြီး အတူတူအသွားအပြန်လုပ်တဲ့ ရထားပေါ်မှာ ဇာတ်လမ်းထဲကအတိုင်းဖြစ်အောင်တမင်လုပ်တဲ့ ဇာတ်ကားလေးပါ စိတ်ကူးယဉ်တတ်တဲ့ဆရာမလေးက အပြာစာအုပ်ဖတ်လိုက် ရထားပေါ်က ရွှေလက်ချောင်းကိုမျှော်လိုက်နဲ့ ရွှေလက်ချောင်းကို စွဲလန်းသွားခဲ့ပါတော့တယ်...
+မင်းသမီးနာမည် Kanae Matsuyuki",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/juy/juy00208/juy00208_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/94upi6ev2hg91vr/JUY+208-SD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/heinh247/pp3/main/PicsArt_09-03-04.23.36.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juy00208/juy00208pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/pp3/main/IMG_20220903_162135.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juy00208/juy00208jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juy00208/juy00208jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/a88h4ve1kng4tbh/JUY+208-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
