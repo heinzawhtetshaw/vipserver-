@@ -2539,4 +2539,23 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.dmm.co.jp/digital/video/juy00208/juy00208jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/a88h4ve1kng4tbh/JUY+208-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPX-881mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းရဲ့ အစမှာ ဖေဖေရဲ့သူငယ်ချင်း  ဦးလေးကြီးတစ်ယောက်က သူမရေချိုးနေတုန်း ချုပ်လိုးခဲ့တယ်
+သူမဟာ နာကျင်စွာ အော်ငိုနေပေမယ့်
+အဖေကိုတော့ ပြန်မတိုင်ခဲ့ပါဘူး  
+နောက်ဆုံးမှာ ဒီဦးလေးကြီးကို ချစ်မိသွားပါတော့တယ်
+ဒီစော်လေးက ဒီကားမှာ အရမ်းမိုက်တာနော်
+ဒီကားလေး စာတန်းထိုးပေးဖို့တောင်းဆိုကြလွန်းလို့
+မင်းသမီးနာမည် Ema Futaba",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00881/playlist.m3u8",
+"download":"https://www.mediafire.com/file/67289tzd5yuz4bn/ipx-881mmsub.mp4/file",
+"photo1":"https://i.imgur.com/nr67mUT_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00881/ipx00881pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/pp3/main/AddText_09-04-05.13.59.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00881/ipx00881jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00881/ipx00881jp-10.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
