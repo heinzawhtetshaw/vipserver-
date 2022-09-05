@@ -2558,4 +2558,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.dmm.co.jp/digital/video/ipx00881/ipx00881jp-10.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSNI-865mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူဌေးနဲ့ ဝန်ထမ်း‌မလေး
+မင်းသမီးနာမည် Yua Mikami",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/s/ssn/ssni00865/ssni00865_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/vt7wed2grwy5kqe/SSNI-865-Mr-SD.mp4/file",
+"photo1":"https://i.imgur.com/yP1SoUK_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ssni00865/ssni00865pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ssni00865/ssni00865jp-9.jpg",
+"photo4":"https://pics.r18.com/digital/video/ssni00865/ssni00865jp-10.jpg",
+"photo5":"https://pics.r18.com/digital/video/ssni00865/ssni00865jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/a5oz0vd8vfr6c2t/SSNI-865-Mr-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
