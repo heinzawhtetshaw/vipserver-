@@ -2572,4 +2572,21 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/ssni00865/ssni00865jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/a5oz0vd8vfr6c2t/SSNI-865-Mr-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"RBK-010mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေ အလုပ်ကိစ္စနဲ့ ခရီးထွက်တုန်းက ပထွေးဆီမှာ ရှယ်အလိုးခံလိုက်ရတဲ့ စော်လေး 
+သူမမှာ ရွေးချယ်စရာမရှိခဲ့ပါ
+ဒီကားမှာ မင်းသမီးက ရှယ်မိုက်တယ် 
+တကယ်ကို ဖြိုချင်စရာကြီးကွာ 
+မင်းသမီးနာမည် Kanon Ibuki",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/r/rbk/rbk00010/rbk00010_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/r2oh97ztfi67fay/RBK-010mmsub.mp4/file",
+"photo1":"https://i.imgur.com/cuYR8zF_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/rbk00010/rbk00010pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/pp3/main/IMG_20220906_161228.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/pp3/main/AddText_09-06-04.24.07.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/pp3/main/IMG_20220906_161641.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
