@@ -2589,4 +2589,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://raw.githubusercontent.com/heinh247/pp3/main/IMG_20220906_161641.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-998mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကုမ္ပဏီကနေထွက်မယ့် Marina Shiraishi ရဲ့ နှုတ်ဆက်ပွဲကို လုပ်ဖော်ကိုင်ဘက်တွေနဲ့ ရေပူစမ်းမှာ ကျင်းပကြရင်း သူဌေး အဘိုးကြီးတွေ တက်လိုးတာ ခံလိုက်ရ
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00998/playlist.m3u8",
+"download":"https://www.mediafire.com/file/x7hotva67ywd5am/JUL+998-SD.mp4/file",
+"photo1":"https://i.imgur.com/rVyp9NW_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00998/jul00998pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00998/jul00998jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00998/jul00998jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00998/jul00998jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/kiasyh6s8t8sfu1/JUL+998-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
