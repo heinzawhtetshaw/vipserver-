@@ -2603,4 +2603,34 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00998/jul00998jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/kiasyh6s8t8sfu1/JUL+998-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NITR-312mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဘိုးကြီးနဲ့ ချွေးမလေး
+မင်းသမီးနာမည် Yui Hatano",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/4/49n/49nitr312/49nitr312_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/kdertyr4fhrz55a/%255BDark_TV%255DNITR_312-SD.m4v/file",
+"photo1":"https://i.imgur.com/x9zQJrm_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/49nitr00312/49nitr00312pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/pp3/main/IMG_20220908_172630.jpg",
+"photo4":"https://pics.r18.com/digital/video/49nitr00312/49nitr00312jp-3.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/pp3/main/IMG_20220908_172643.jpg",
+"dapp":"https://www.mediafire.com/file/qqemy4vilh2zmw9/%255BDark_TV%255DNITR_312-HD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-760mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကိုရှည်ကြီး ရဲ့ မိန်းမကို အချိန်ပိုဆင်းခိုင်းပီး
+နေ့တိုင်းအဝလိုးတဲ့သူဌေးနဲ့ မိန်းမ အလုပ်ကပြန်လာတာကို ထမင်းဟင်းချက်ပီး စောင့်နေခဲ့တဲ့  
+ကိုရှည်ကြီးရဲ့ ရင်နှစ်ဖွယ် ဒရမ်မာ
+မင်းသမီးနာမည် Hitomi Honda",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mey/meyd00760/meyd00760_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/0idifwdf2sb4v7f/meyd-760mmsub.mp4/file",
+"photo1":"https://i.imgur.com/ZJQWK60_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/meyd00760/meyd00760pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/pp3/main/IMG_20220908_182750.jpg",
+"photo4":"https://pics.r18.com/digital/video/meyd00760/meyd00760jp-1.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/pp3/main/AddText_09-08-06.36.22.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
