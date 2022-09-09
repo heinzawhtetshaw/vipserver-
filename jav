@@ -2633,4 +2633,19 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://raw.githubusercontent.com/heinh247/pp3/main/AddText_09-08-06.36.22.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPX-668mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းသားဆိုးအုပ်စု လက်ချက်မိသွားတဲ့ ဆရာမ‌လေး 
+ဆရာမ အချောလေးနော်
+မင်းသမီးနာမည် Miu Shiramine",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00668/playlist.m3u8",
+"download":"https://www.mediafire.com/file/clniuyb908y6cef/IPX_668-SD.mp4/file",
+"photo1":"https://i.imgur.com/TZXIqZf_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00668/ipx00668pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipx00668/ipx00668jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00668/ipx00668jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00668/ipx00668jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/j1geertr80e1j0f/IPX_668-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
