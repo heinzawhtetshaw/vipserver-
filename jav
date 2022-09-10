@@ -2648,4 +2648,19 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.dmm.co.jp/digital/video/ipx00668/ipx00668jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/j1geertr80e1j0f/IPX_668-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSPD-148mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းဖစ်သူဆေးရုံ တက်နေတုန်း ဦးလေးကြီး တစ်ယောက်နဲ့ ရင်းနှီးလာရာကနေ အလိုးခံလိုက်ရတဲ့ကောင်မလေး
+ယောကျာ်းဖစ်သူသာ သိသွားခဲ့ရင် ...
+မင်းသမီးနာမည် Jessica Kizaki",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/ssp/sspd00148/sspd00148_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/0ar82b1u6swqf1b/SSPD-148.mp4/file",
+"photo1":"https://i.imgur.com/MAy074S_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/sspd00148/sspd00148pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/pp3/main/AddText_09-10-06.38.02.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/pp3/main/IMG_20220910_183101.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/pp3/main/IMG_20220910_183225.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
