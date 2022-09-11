@@ -2663,4 +2663,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://raw.githubusercontent.com/heinh247/pp3/main/IMG_20220910_183225.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA-272mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေသေဆုံးသွားပီးတဲ့နောက်ပိုင်း ပထွေးနဲ့အတူ နေခဲ့ရတဲ့ မောင်နှမ နှစ်ယောက် ဘယ်လိုတွေဆက်ဖစ်မှာလဲ
+မင်းသမီးနာမည် Ichika Matsumoto",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/m/mia/miaa00272/miaa00272_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/y0bjgrwabp8dv45/MIAA+272+-SD(420P).mp4/file",
+"photo1":"https://i.imgur.com/q1k9ppw_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/miaa00272/miaa00272pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/pp3/main/FB_IMG_1662900124281.jpg",
+"photo4":"https://pics.r18.com/digital/video/miaa00272/miaa00272jp-10.jpg",
+"photo5":"https://pics.r18.com/digital/video/miaa00272/miaa00272jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/i4pfkmwl3psfc85/MIAA+272+-HD(720P).mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
