@@ -2677,4 +2677,19 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/miaa00272/miaa00272jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/i4pfkmwl3psfc85/MIAA+272+-HD(720P).mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUFE-365mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လီလီသည် သူမုန်းတဲ့ သူဌေးနဲ့အတူ အလုပ်ခရီးထွက်ရမှာမို့အရမ်းစိတ်ညစ်နေခဲ့ပါတယ်
+ဒီခရီးစဉ်တွင် လီလီကြောင့် အလုပ်ကိစ္စ မအောင်မြင်ဖစ်သွားခဲ့ရာ သူဌေးက ဒေါသထွက်ပီး ဟိုတယ်မှာ အပီလိုးသတ် 👍
+မင်းသမီးနာမည် Nao Yuri",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/juf/jufe00365/jufe00365_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/0jefrrw3u3t1jj8/jufe-365+480p.mp4/file",
+"photo1":"https://i.imgur.com/arjMV5i_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jufe00365/jufe00365pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/jufe00365/jufe00365jp-5.jpg",
+"photo4":"https://pics.r18.com/digital/video/jufe00365/jufe00365jp-8.jpg",
+"photo5":"https://pics.r18.com/digital/video/jufe00365/jufe00365jp-4.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
