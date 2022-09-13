@@ -2692,4 +2692,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/jufe00365/jufe00365jp-4.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-264mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်မှာဝိတ်ချဖို့ကြိုးစားပြီးလေ့ကျင့်ခန်းလုပ်တဲ့ ကောင်မလေးကို ယောက္ခမကြီးက အပြင်းစားလေ့ကျင့်ခန်းတွေနဲ့ ထရိန်နင်ဆင်းပေးလိုက်ပြီး..သားဖြစ်သူက မိမိအပေါ် အသက်ကြီးလို့ မလုပ်နိုင်မကိုင်နိုင်ဖြစ်နေပြီလို့ ပြောတဲ့ စကားကို ငါမအိုသေးကြောင်း လက်တွေ့ သက်သေပြခဲ့ပါတယ်...
+မင်းသမီးနာမည် Oka Erina",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/j/jul/jul00264/jul00264_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/m6aww22frm4yhsx/JUL+264-SD.mp4/file",
+"photo1":"https://i.imgur.com/G1zkCpA_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/jul00264/jul00264pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/jul00264/jul00264jp-2.jpg",
+"photo4":"https://pics.r18.com/digital/video/jul00264/jul00264jp-1.jpg",
+"photo5":"https://pics.r18.com/digital/video/jul00264/jul00264jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/5l2l0f2kd9a4l3m/JUL+264-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
