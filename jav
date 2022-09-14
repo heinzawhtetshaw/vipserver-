@@ -2706,4 +2706,19 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/jul00264/jul00264jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/5l2l0f2kd9a4l3m/JUL+264-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-293mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မြို့တက်ပီး အလုပ်လုပ်နေတဲ့ ခင်ပွန်းကြောင့် ရွာမှာအထီးကျန်နေခဲ့တဲ့ ဟာနာ ဆိုတဲ့ မိန်းမငယ်လေးကို 
+ရွာကို ခဏအလည်ရောက်လာတဲ့ မြို့သားက ဘယ်လိုအကွက်တွေနဲ့ လိုးပစ်မလဲဆိုတာကိုတော့...
+မင်းသမီးနာမည် Kana Kusakabe",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00293/adn00293_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/4ukgnsjdyxzha98/Adn-293_sd.mp4/file",
+"photo1":"https://i.imgur.com/gz9DZiC_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/adn00293/adn00293pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/pp3/main/IMG_20220914_162935.jpg",
+"photo4":"https://pics.r18.com/digital/video/adn00293/adn00293jp-3.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00293/adn00293jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/jkgb6gpdsdxs9zj/Adn-293mmsub.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
