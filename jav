@@ -2737,4 +2737,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/nsfs00037/nsfs00037jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/c663lk16yjx8468/NSFS_037-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NSPS-436mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သာမန်မိသားစုဘဝလေးကနေ မွေးဖွားလာတဲ့ Ai Uehara တစ်ယောက် ပိုက်ဆံချမ်းသာတဲ့ ယောက်ျားကိုရလို့ ချမ်းသာလာပေမယ့် သူမဘဝဟာ ပျော်စရာကောင်းမနေပါဘူး ယောကျာ်းဟာ အချိန်တိုင်း အလုပ်မှာပဲ အာရုံရှိလို့ သူမဟာ အထီးကျန်နေခဲ့ပါတယ်
+မင်းသမီးနာမည် Ai Uehara",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/n/nsp/nsps436/nsps436_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/2okws2v05y3w8ie/NSPS_436-SD.mp4/file",
+"photo1":"https://i.imgur.com/6NlyGlO_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsps00436/nsps00436pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nsps00436/nsps00436jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsps00436/nsps00436jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsps00436/nsps00436jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/shzch02f6zsqnyn/NSPS_436-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
