@@ -2751,4 +2751,20 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.dmm.co.jp/digital/video/nsps00436/nsps00436jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/shzch02f6zsqnyn/NSPS_436-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-147mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မျက်နှာလေးနဲ့ အိုးကြီးက လုံး၀ကိုပြည့်စုံနေတာပါ
+
+ယောက်ျားက အလုပ်ကိစ္စနဲ့ ခရီးထွက်နေတဲ့ တစ်ပတ်အတွင်းမှာ သူမအရမ်းမုန်းပါတယ်ဆိုတဲ့ ယောက်ျားရဲ့ သူဌေးက ရှယ်လိုးတာ သူမကို
+မင်းသမီးနာမည် Yura Kano",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/s/ssi/ssis00147/ssis00147_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/n46a8zp2f8l5i0q/Ssis-147sd.mp4/file",
+"photo1":"https://i.imgur.com/Gqkl4vm_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/ssis00147/ssis00147pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/ssis00147/ssis00147jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/ssis00147/ssis00147jp-9.jpg",
+"photo5":"https://pics.r18.com/digital/video/ssis00147/ssis00147jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/mcimavy2gd9lv7i/Ssis-147hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
