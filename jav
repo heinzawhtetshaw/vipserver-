@@ -2767,4 +2767,19 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/ssis00147/ssis00147jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/mcimavy2gd9lv7i/Ssis-147hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HMN-160mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သမီးရဲ့ကောင်လေးကို 
+သမီးအလစ်မှာ ဆွဲစားလိုက်တဲ့ယောက္ခမ
+မင်းသမ‌ီးနာမည် Riho Fujimori",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/h/hmn/hmn00160/hmn00160_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/nuu51jdfssjndvo/HMN_160-SD.mp4/file",
+"photo1":"https://i.imgur.com/1BfbFn3_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/hmn00160/hmn00160pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/hmn00160/hmn00160jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/hmn00160/hmn00160jp-5.jpg",
+"photo5":"https://pics.r18.com/digital/video/hmn00160/hmn00160jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/x8ri7igp1imwxuq/HMN_160-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
