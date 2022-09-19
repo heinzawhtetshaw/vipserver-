@@ -2782,4 +2782,18 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/hmn00160/hmn00160jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/x8ri7igp1imwxuq/HMN_160-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"DLDSS-030mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မတွေ့ရတာကြာတဲ့ အဖေတူအမေကွဲ မမနဲ့အလွမ်းသယ်တဲ့ မောင်လေးတစ်ယောက်ရဲ့ ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Suzume Mino",
+"watch":"https://awscc3001.r18.com/litevideo/freepv/1/1dl/1dldss030/1dldss030_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/y4a6h8zhh6jhznr/DLDSS_030-SD.mp4/file",
+"photo1":"https://i.imgur.com/iw6cCvm_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.r18.com/digital/video/1dldss00030/1dldss00030pl.jpg",
+"photo3":"https://pics.r18.com/digital/video/1dldss00030/1dldss00030jp-1.jpg",
+"photo4":"https://pics.r18.com/digital/video/1dldss00030/1dldss00030jp-3.jpg",
+"photo5":"https://pics.r18.com/digital/video/1dldss00030/1dldss00030jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/ecie8crm6ox3upv/DLDSS_030-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
