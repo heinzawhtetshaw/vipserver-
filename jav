@@ -2796,4 +2796,20 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.r18.com/digital/video/1dldss00030/1dldss00030jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/ecie8crm6ox3upv/DLDSS_030-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-493mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းက ဘဲ့နဲ့ပြတ်လို့ အသဲကွဲနေတာကို 
+မကြည့်ရက်လို့ ခင်ပွန်းဖစ်သူကို ခွင့်တောင်းပီး ရေပူစမ်းကို အဖော်လိုက်လာပေးခဲ့ပါတယ် 
+အဲမှာရေပူစမ်းက ကောင်လေးတွေက သူတို့ကို လာQတော့တာပဲ ဘာဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Yuzu Shirakawa .Hikari Ninomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ati/atid00493/playlist.m3u8",
+"download":"https://www.mediafire.com/file/1shf3ub80m2pk6w/Atid-493480p.mp4/file",
+"photo1":"https://i.imgur.com/7PcSMx6_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00493/atid00493pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/atid00493/atid00493jp-8.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00493/atid00493jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00493/atid00493jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/9zorvorvw1lqrt4/Atid-493mmsub.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
