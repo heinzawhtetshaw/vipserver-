@@ -2807,7 +2807,7 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "download":"https://www.mediafire.com/file/1shf3ub80m2pk6w/Atid-493480p.mp4/file",
 "photo1":"https://i.imgur.com/7PcSMx6_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.dmm.co.jp/digital/video/atid00493/atid00493pl.jpg",
-"photo3":"https://pics.dmm.co.jp/digital/video/atid00493/atid00493jp-8.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/atid00493/atid00493jp-11.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/atid00493/atid00493jp-8.jpg",
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00493/atid00493jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/9zorvorvw1lqrt4/Atid-493mmsub.mp4/file",
