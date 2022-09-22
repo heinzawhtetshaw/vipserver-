@@ -2812,4 +2812,21 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00493/atid00493jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/9zorvorvw1lqrt4/Atid-493mmsub.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-735mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းက ပုံမှန် မသမပေးလို့
+Ex နဲ့ပြန်ခိုးစားတာ 
+
+စော် ပြည့်ဖြိုးနေတာလေးက တကယ်လှတယ်
+မင်းသမီးနာမည် Rena Kodama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00735/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bz8t846gtutuf1r/Jul-735sd.mp4/file",
+"photo1":"https://i.imgur.com/H8XF55Q_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00735/jul00735pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00735/jul00735jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00735/jul00735jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00735/jul00735jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/hueuzzflxegz6qx/Jul-735hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
