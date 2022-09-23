@@ -2829,4 +2829,18 @@ Ex နဲ့ပြန်ခိုးစားတာ
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00735/jul00735jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/hueuzzflxegz6qx/Jul-735hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"DRPT-015mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကလေးလေးလိုမျက်နှာလေးနဲ့ အထက်တန်းကျောင်းသူမလေး Lara Kudo တစ်ယောက် သူမအဘိုးမွေးနေ့မှာ အမျိုးတွေစုံပြီး ဦးလေး ၂ယောက်နဲ့ပြန်တွေ့ပါတယ် ဦးလေး ၂ယောက်ကလဲ အိပ်စရာနေရာမရှိလို့ သူမဘေးမှာ၀င်အိပ်ရင်းနဲ့....
+မင်းသမီးနာမည် Lala Kudo",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1dr/1drpt015/playlist.m3u8",
+"download":"https://www.mediafire.com/file/hjf8g8bbk95eajr/DRTP_015-SD.mp4/file",
+"photo1":"https://i.imgur.com/RH06JRQ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1drpt00015/1drpt00015pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1drpt00015/1drpt00015jp-12.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1drpt00015/1drpt00015jp-10.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1drpt00015/1drpt00015jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/dedigc3ep6phcdd/DRTP_015-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
