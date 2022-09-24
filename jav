@@ -2858,4 +2858,18 @@ Ex နဲ့ပြန်ခိုးစားတာ
 "photo5":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20220924_163606.jpg",
 "dapp":"https://www.mediafire.com/file/lt3uoanye9722ak/Fsdss-070.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-701mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မ နဲ့မောင် ဇာတ်လမ်းလေး
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00701/playlist.m3u8",
+"download":"https://www.mediafire.com/file/eogqfqyfebmpcia/MEYD_701_-SD.mp4/file",
+"photo1":"https://i.imgur.com/8E2I4lf_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00701/meyd00701pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/meyd00701/meyd00701jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00701/meyd00701jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00701/meyd00701jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/yzjrko6rvsz0ed4/MEYD_701_HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
