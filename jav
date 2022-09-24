@@ -2843,4 +2843,19 @@ Ex နဲ့ပြန်ခိုးစားတာ
 "photo5":"https://pics.dmm.co.jp/digital/video/1drpt00015/1drpt00015jp-11.jpg",
 "dapp":"https://www.mediafire.com/file/dedigc3ep6phcdd/DRTP_015-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"FSDSS-070mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အသင်း‌ခေါင်းဆောင်ကို သနားလို့ အလိုလိုက်မိရာမှ
+ဒုက္ခလှလှကြီး တွေ့သွားရတဲ့စော်လေး.....
+မင်းသမီးနာမည် Nene Yoshitaka",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1fs/1fsdss070/1fsdss070_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ab4ml3i2ciry9wh/Fsdss-070sd.mp4/file",
+"photo1":"https://i.imgur.com/MEifwYF_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1fsdss00070/1fsdss00070pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_09-24-04.38.12.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20220924_163505.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20220924_163606.jpg",
+"dapp":"https://www.mediafire.com/file/lt3uoanye9722ak/Fsdss-070.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
