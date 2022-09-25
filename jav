@@ -2872,4 +2872,18 @@ Ex နဲ့ပြန်ခိုးစားတာ
 "photo5":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20220924_163606.jpg",
 "dapp":"https://www.mediafire.com/file/lt3uoanye9722ak/Fsdss-070.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-176mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဓာတ်လှေကားထဲမှာ အလိုးခံလိုက်ရတဲ့ ဇာတ်လမ်းလေး
+မင်းသမီးနာမည် Hinano Rikuhata",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00176/jul00176_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/a4ifr5f160ggofb/JUL_176-SD.mp4/file",
+"photo1":"https://i.imgur.com/8HO5CC5_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00176/jul00176pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00176/jul00176jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00176/jul00176jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00176/jul00176jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/h0wj6jp755o6gqq/JUL_176-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
