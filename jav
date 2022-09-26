@@ -2894,12 +2894,12 @@ Ex နဲ့ပြန်ခိုးစားတာ
 သူကတော့ကတိအတိုင်း သူများဇနီးကို လက်ဖျားနဲ့တောင် မထိပေမယ့် သူရဲ့ချစ်ဇနီးလေးကတော့..
 မင်းသမီးနာမည် Minaho Ariga",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00930/playlist.m3u8",
-"download":"https://www.mediafire.com/file/auw0jz6ymbbwmdu/Jul-930.mp4/file",
+"download":"https://www.mediafire.com/file/mx75rolt0efm09g/Jul-930sd.mp4/file",
 "photo1":"https://i.imgur.com/aeHDVqs_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.dmm.co.jp/digital/video/jul00930/jul00930pl.jpg",
 "photo3":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_09-26-05.32.49.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/jul00930/jul00930jp-2.jpg",
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00930/jul00930jp-9.jpg",
-"dapp":"t",
+"dapp":"https://www.mediafire.com/file/auw0jz6ymbbwmdu/Jul-930.mp4/file",
 "candownload":"",
 "wcode":"တစ်"}]
