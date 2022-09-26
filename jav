@@ -2886,4 +2886,20 @@ Ex နဲ့ပြန်ခိုးစားတာ
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00176/jul00176jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/h0wj6jp755o6gqq/JUL_176-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-930mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းစုံတွဲ ဘေးအိမ်ကို ပြောင်းလာလို့ အပျော်အနေနဲ့
+လိင်ကိစ္စမပါဘူးလို့ ကတိပေးပီး ဇနီးချင်းသုံးရက်ကြာ နေရာလဲခဲ့တယ်
+သူကတော့ကတိအတိုင်း သူများဇနီးကို လက်ဖျားနဲ့တောင် မထိပေမယ့် သူရဲ့ချစ်ဇနီးလေးကတော့..
+မင်းသမီးနာမည် Minaho Ariga",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00930/playlist.m3u8",
+"download":"https://www.mediafire.com/file/auw0jz6ymbbwmdu/Jul-930.mp4/file",
+"photo1":"https://i.imgur.com/aeHDVqs_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00930/jul00930pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_09-26-05.32.49.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00930/jul00930jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00930/jul00930jp-9.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
