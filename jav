@@ -2902,4 +2902,19 @@ Ex နဲ့ပြန်ခိုးစားတာ
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00930/jul00930jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/auw0jz6ymbbwmdu/Jul-930.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-078mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နွေရာသီကျောင်းပိတ်ရက်မှာ မေမေလေးနဲ့ကျနော်
+နွေရာသီကျောင်းပိတ်ရက် တောကိုပြန်လာတဲ့ MC နဲ့ သူ့ရဲ့မေမေလေးတို့ကြားက ဖိုက်တင်ဇာတ်လမ်းလေး
+မင်းသမီးနာမည် Kanna Fuji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00078/playlist.m3u8",
+"download":"https://www.mediafire.com/file/zu86wnjnjutayuj/JUQ+078sd.mp4/file",
+"photo1":"https://i.imgur.com/tiUgb4A_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00078/juq00078pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20220927_180752.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00078/juq00078jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00078/juq00078jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/858bfo6pv87np6u/JUQ+078-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
