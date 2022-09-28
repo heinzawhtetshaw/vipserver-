@@ -2917,4 +2917,18 @@ Ex နဲ့ပြန်ခိုးစားတာ
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00078/juq00078jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/858bfo6pv87np6u/JUQ+078-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-477mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လူမည်း ကတုံးနဲ့ ဂျပန်လူမျိုး ကတုံး တို့ ၂ကတုံးပေါင်းပြီး အခုတလောရေပန်းစားနေတဲ့ အန်တီကြီးနဲ့ အတူတူ ကြမ်းထားတာ
+မင်းသမီးနာမည် Mako Oda",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ati/atid00477/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ahtyg5karkts5mc/ATID+477-SD.mp4/file",
+"photo1":"https://i.imgur.com/Vp45drm_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00477/atid00477pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20220928_154105.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00477/atid00477jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00477/atid00477jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/8vbzryz6hozvlw1/ATID+477-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
