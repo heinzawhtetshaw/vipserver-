@@ -2931,4 +2931,19 @@ Ex နဲ့ပြန်ခိုးစားတာ
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00477/atid00477jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/8vbzryz6hozvlw1/ATID+477-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-527mmsub",
+"info":"မြန်မာစာတန်းထိုး 
+Ririko သည် ငယ်ရွယ်စဉ်တွင် မုဆိုးမဖြစ်လာပြီး သူမ၏သမီးလင်မယားနှင့်အတူ နေထိုင်ခဲ့သည်.
+ယောက္ခမနဲ့ သမက် တွေ့ကြပါပီ
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00527/jul00527_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/v56veep7j9w2p9l/Jul-527sd.mp4/file",
+"photo1":"https://i.imgur.com/HtBomqD_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00527/jul00527pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20220928_224000.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_09-28-10.49.39.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00527/jul00527jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/rc8rvwjpy8lm87i/Jul-527hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
