@@ -2941,7 +2941,7 @@ Ririko သည် ငယ်ရွယ်စဉ်တွင် မုဆိုး�
 "download":"https://www.mediafire.com/file/v56veep7j9w2p9l/Jul-527sd.mp4/file",
 "photo1":"https://i.imgur.com/HtBomqD_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.dmm.co.jp/digital/video/jul00527/jul00527pl.jpg",
-"photo3":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20220928_224000.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20220928_230847.jpg",
 "photo4":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_09-28-10.49.39.jpg",
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00527/jul00527jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/rc8rvwjpy8lm87i/Jul-527hd.mp4/file",
