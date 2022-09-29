@@ -2946,4 +2946,18 @@ Ririko သည် ငယ်ရွယ်စဉ်တွင် မုဆိုး�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00527/jul00527jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/rc8rvwjpy8lm87i/Jul-527hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"DLDSS-056mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက်ျားဖြစ်သူရဲ့ ကျေးဇူးရှင်ကို ကျေးဇူးဆပ်တဲ့ ကောင်မလေးတစ်ယောက်အကြောင်း
+မင်းသမီးနာမည် Suzume Mino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1dl/1dldss056/playlist.m3u8",
+"download":"https://www.mediafire.com/file/zcghtehew425b8p/DLDSS_056-SD.mp4/file",
+"photo1":"https://i.imgur.com/OHb0wO0_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1dldss00056/1dldss00056pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1dldss00056/1dldss00056jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1dldss00056/1dldss00056jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1dldss00056/1dldss00056jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/envdtcon7dv39do/DLDSS_056-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
