@@ -2960,4 +2960,18 @@ Ririko သည် ငယ်ရွယ်စဉ်တွင် မုဆိုး�
 "photo5":"https://pics.dmm.co.jp/digital/video/1dldss00056/1dldss00056jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/envdtcon7dv39do/DLDSS_056-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-915mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Delivery ပို့တဲ့ ကိုလူမဲနဲ့ ရင်းနှီးသွားခဲ့ရာ လူမဲလီးကြီးနဲ့အဆော်ခံလိုက်ရတယ်
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00915/playlist.m3u8",
+"download":"https://www.mediafire.com/file/x9u3ju9r47uofny/JUL+915-SD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/heinh247/photo/main/PicsArt_09-30-05.43.36.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00915/jul00915pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_09-30-05.35.11.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00915/jul00915jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00915/jul00915jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/vj6e0k29igogjop/JUL+915-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
