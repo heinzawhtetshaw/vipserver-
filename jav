@@ -2974,4 +2974,19 @@ Delivery ပို့တဲ့ ကိုလူမဲနဲ့ ရင်းနှ
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00915/jul00915jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/vj6e0k29igogjop/JUL+915-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NATR-683mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိမိအား FA ဟု ပျက်ရယ်ပြုသည့် ကောင်မလေးတစ်ယောက်ကို လက်စားချေတဲ့ဇာတ်လမ်းလေးပါ
+နဂိုကတည်းက ရည်းစားမရှိလို့ မျက်နှာငယ်နေပါတယ်ဆိုမှ အလိုက်မသိဘဲ စနောက်လိုက်ရာမှာတစ်ဖက်လူက ဒေါသထွက်သွားခဲ့ရာ...
+မင်းသမီးနာမည် Kokone Mizutani (Rio Fujisaki)",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nat/natr683/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ehtm7j4y1s2o34r/NATR_683-SD.mp4/file",
+"photo1":"https://i.imgur.com/JjEbyp1_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/natr00683/natr00683pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_10-02-12.07.29.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_10-02-12.10.17.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/natr00683/natr00683jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/dcubvtg30eeepni/NATR_683-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
