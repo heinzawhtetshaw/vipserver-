@@ -2989,4 +2989,34 @@ Delivery ပို့တဲ့ ကိုလူမဲနဲ့ ရင်းနှ
 "photo5":"https://pics.dmm.co.jp/digital/video/natr00683/natr00683jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/dcubvtg30eeepni/NATR_683-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"OBA-307mmsub",
+"info":"မြန်မာစာတန်းထိုး 
+အန်တီကြီး ကားကြိုက်တဲ့သူတွေ အတွက်
+ရုံးမှာလူသစ်ဖြစ်ပေမယ့် တက်တက်ကြွကြွမရှိလှတဲ့ ဒီပရက်ရှင်သမားလေး MC က သန့်ရှင်းရေးလုပ်တဲ့ အဒေါ်ကြီးတစ်ယောက်အဝတ်လဲနေတာကိုမြင်ပြီးကတည်းက...
+မင်းသမီးနာမည် Yukine Kuramoto",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/o/oba/oba00307/oba00307_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/p8hrynxoou1y52q/OBA_307-SD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/heinh247/photo/main/PicsArt_10-02-06.41.16.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/oba00307/oba00307pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20221002_183700.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20221002_183721.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/oba00307/oba00307jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/5rhvh6kcu0hyfqg/OBA_307-HD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ABW-061mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူများရည်းစားကို အကြပ်ကိုင်လိုးတာ
+စော်က ငြင်းပေမယ့် အလိုးခံလိုက်ရတယ်
+မင်းသမီးနာမည် Maria Aine",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/118/118abw061/118abw061_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/xi104krnor043il/Abw-061sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/heinh247/photo/main/PicsArt_10-02-06.58.19.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/118abw00061/118abw00061pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/118abw00061/118abw00061jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/118abw00061/118abw00061jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/118abw00061/118abw00061jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/7w8ziqzw3u4lln5/Abw-061hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
