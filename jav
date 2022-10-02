@@ -2352,7 +2352,7 @@ Coffee Shop က ဝိတ်တာကောင်မလေးနဲ့
 မိန်းမသေသွားလို့ အဖုတ်ငတ်နေတဲ့ ယောက္ခမထီးကြီးဟာ သားဖစ်သူ ခရီးထွက်တုန်း ချွေးမကို ဆယ်စက္ကန့်လောက် ထည့်ခွင့်ပြုပါဆိုပီး အဝလိုးတဲ့ ဇာတ်ကား
 မင်းသမီးနာမည် Miu Shiramine",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00405/playlist.m3u8",
-"download":"https://www.mediafire.com/file/3uma6pb4mxllc4n/Adn-405mmsub.mp4/file",
+"download":"https://www.mediafire.com/file/d77lyrruu1rewyy/Adn-405mmsub.mp4/file",
 "photo1":"https://i.imgur.com/EfV68pq_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.dmm.co.jp/digital/video/adn00405/adn00405pl.jpg",
 "photo3":"https://raw.githubusercontent.com/heinh247/ppp2/main/IMG_20220820_182510.jpg",
