@@ -3019,4 +3019,33 @@ Delivery ပို့တဲ့ ကိုလူမဲနဲ့ ရင်းနှ
 "photo5":"https://pics.dmm.co.jp/digital/video/118abw00061/118abw00061jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/7w8ziqzw3u4lln5/Abw-061hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUX-041mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီကားလေးက အင်းစက်ကားဆိုပေမယ့် ရသမြောက်တဲ့ ဇာတ်ကားလေးတစ်ကားလေးလဲ ဖြစ်ပါတယ်...ဇာတ်လမ်းက ပင်လယ်ကမ်းခြေက နေရာလေးတစ်ခုမှာ ဇာတ်အိမ်တည်ထားပြီး အဖေဖြစ်သူက ငါးဖမ်းရင်းပင်လယ်ထဲမှာ သေဆုံးသွားပြီးနောက်...မုဆိုးမ မိခင်ကြီးနဲ့ MC တို့ နှစ်ယောက်...
+မင်းသမီးနာမည် Yurie Matsushima",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jux/jux00041/jux00041_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/bm3zyaa1pj38spw/%255BDark_TV%255DJUX_041-HD%2528720P%2529.m4v/file",
+"photo1":"https://i.imgur.com/eKFhHss_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jux00041/jux00041pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jux00041/jux00041jp-10.jpg",
+"photo4":"https://i.imgur.com/E2PL4SB_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://i.imgur.com/WL5Bsbx_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"dapp":"https://www.mediafire.com/file/4op9rq6i4mixa29/%255BDark_TV%255DJUX_041-SD%2528480P%2529.m4v/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"STARS-260mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်ကိစ္စနဲ့ ခရီးသွားတုန်း အတူပါလာတဲ့ ချာတိတ်လေးကို လူရိုးလေးလို့ တွေးပီး ဟိုတယ်မှာ တခန်းတည်းအတူနေလိုက်မိပါတယ်
+စော်လေးက တညလုံး မအိပ်ရဘဲ အလိုးခံလိုက်ရတယ် 
+မင်းသမီးနာမည် Yuna Ogura",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1st/1stars260/1stars260_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/x1qh40rsxu4e8e2/STARS-260sd.mp4/file",
+"photo1":"https://i.imgur.com/znq4VZb_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1stars00260/1stars00260pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_10-04-03.33.56.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20221004_152213.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_10-04-03.28.50.jpg",
+"dapp":"https://www.mediafire.com/file/ymbqnknupv6zzhx/STARS-260hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
