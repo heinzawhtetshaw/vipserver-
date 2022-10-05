@@ -3048,4 +3048,18 @@ Delivery ပို့တဲ့ ကိုလူမဲနဲ့ ရင်းနှ
 "photo5":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_10-04-03.28.50.jpg",
 "dapp":"https://www.mediafire.com/file/ymbqnknupv6zzhx/STARS-260hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NGOD-040mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရှော့ပင်းထွက်တဲ့ Asahi Mizuno လေးကို သူခိုးလို့စွပ်စွဲပြီး ဆိုင်မန်နေဂျာက ရုံးခန်းခေါ်က ဟိုရှာဒီရှာ အကုန်နှိုက်ရှာခဲ့ပါတယ်နောက်ရက်တွေမှာလဲ သူမကို ခေါ်ခေါ်၇ှာပြီး ဗွီဒီယိုပါရိုက်ထားလို့ Asahi Mizuno တစ်ယောက်ရုန်းထွက်မရဖြစ်နေခဲ့ပါတယ်...
+မင်းသမီးနာမည် Asahi Mizuno",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/n/ngo/ngod00040/ngod00040_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/frg2m6t7kl6k41h/NGOD+040-SD.mp4/file",
+"photo1":"https://i.imgur.com/4qRtCkY_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ngod00040/ngod00040pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ngod00040/ngod00040jp-7.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ngod00040/ngod00040jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ngod00040/ngod00040jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/m9fu7p5vo3wpj27/NGOD+040-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
