@@ -3062,4 +3062,19 @@ Delivery ပို့တဲ့ ကိုလူမဲနဲ့ ရင်းနှ
 "photo5":"https://pics.dmm.co.jp/digital/video/ngod00040/ngod00040jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/m9fu7p5vo3wpj27/NGOD+040-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDV-125mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အရက်မူးသွားလို့ နောက်ဆုံးရထားလွတ်သွားခဲ့ပါတယ် နေစရာမရှိလို့ နာအိုလေး တစ်ညလိုက်နေခဲ့ပါတယ်
+ယောကျာ်းနဲ့ မိန်းမ တစ်ညတာ အတူဖြတ်သန်း‌ရတော့မှာမို့ ဘာတွေဖစ်မလဲ
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00125/playlist.m3u8",
+"download":"https://www.mediafire.com/file/6mj8z95z2b9rx61/MIDV_125-SD.mp4/file",
+"photo1":"https://i.imgur.com/5Mmor5m_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00125/midv00125pl.jpg",
+"photo3":"https://i.imgur.com/UTsRkrt_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://i.imgur.com/xCMro8L_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://i.imgur.com/QNTSgHp_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"dapp":"https://www.mediafire.com/file/ps3ocivzwwoffl9/MIDV_125-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
