@@ -3077,4 +3077,37 @@ Delivery ပို့တဲ့ ကိုလူမဲနဲ့ ရင်းနှ
 "photo5":"https://i.imgur.com/QNTSgHp_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "dapp":"https://www.mediafire.com/file/ps3ocivzwwoffl9/MIDV_125-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIMK-106mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းကတော့ 
+လက်ထပ်ပီးတဲ့မိန်းကလေးတစ်ယောက်ယောကျာ်းဖြစ်သူရဲ့ရွာကိုလိုက်လာပီးရွာရဲ့ရိုးရာဓလေ့ကိုဆက်ခံရတော့မယ်...
+ရွာရဲ့ရိုးရာဓလေ့ကဘိုးဘွားစဉ်ဆက်ထဲကလက်ဆင့်ကမ်းလာပီးအိမ်ထောင်ကျပီးသားအမျိုးသမီးတွေကိုရွာသူရွာသားတွေနဲ့ပေးနေရတဲ့ရိုးရာလေးဘဲဖြစ်ပါတယ်...
+မင်းသမီးနာမည် Nanjou Ichika",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mim/mimk00106/playlist.m3u8",
+"download":"https://www.mediafire.com/file/mmxl7np2yg173w1/MIMK_106-SD.mp4/file",
+"photo1":"https://i.imgur.com/fBZxoBh_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/mimk00106/mimk00106pl.jpg",
+"photo3":"https://i.imgur.com/IQSKFM8_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://i.imgur.com/SJpV84s_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://pics.dmm.co.jp/digital/video/mimk00106/mimk00106jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/dhk9tgxfsvlgkim/MIMK_106-HD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-032mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ အလုပ်မှာ ငါ့အပေါ်အမြဲအနိုင်ယူတဲ့ 
+မာနကြီးတဲ့‌ကောင်မလေးကို KTV မှာတွေ့လိုက်ရတော့....
+မာနကြီးတဲ့စော်လေးကို လိုးရတာလောက် 
+ကောင်းတဲ့အရသာ ရှိမယ်မထင်ဘူး ဂေါင်းကြီးတို့
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/ssi/ssis00032/ssis00032_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/sn9ytikv1p0uxta/Ssis-032sd.mp4/file",
+"photo1":"https://i.imgur.com/5tY8eZb_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00032/ssis00032pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_10-07-07.42.00.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_10-07-07.34.51.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_10-07-07.37.13.jpg",
+"dapp":"https://www.mediafire.com/file/cwm9b2fzl7l1kg2/Ssis-032hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
