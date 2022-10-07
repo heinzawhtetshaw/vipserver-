@@ -3107,7 +3107,7 @@ Delivery ပို့တဲ့ ကိုလူမဲနဲ့ ရင်းနှ
 "photo2":"https://pics.dmm.co.jp/digital/video/ssis00032/ssis00032pl.jpg",
 "photo3":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_10-07-07.42.00.jpg",
 "photo4":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_10-07-07.34.51.jpg",
-"photo5":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_10-07-07.37.13.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_10-07-08.02.19.jpg",
 "dapp":"https://www.mediafire.com/file/cwm9b2fzl7l1kg2/Ssis-032hd.mp4/file",
 "candownload":"",
 "wcode":"တစ်"}]
