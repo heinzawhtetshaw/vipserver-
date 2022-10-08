@@ -3110,4 +3110,18 @@ Delivery ပို့တဲ့ ကိုလူမဲနဲ့ ရင်းနှ
 "photo5":"https://raw.githubusercontent.com/heinh247/photo/main/AddText_10-07-08.02.19.jpg",
 "dapp":"https://www.mediafire.com/file/cwm9b2fzl7l1kg2/Ssis-032hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SPPD-372mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မေမေနဲ့ ညီအစ်မ ၆ယောက် စုစုပေါင်းမိန်းကလေး ၇ယောက်နဲ့ တစ်အိမ်တည်းမှာ boy ဆိုလို့ MC တစ်ယောက်ပဲရှိပါတယ်
+အင်းစက်ကားလေးပါ",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1sd/1sdde372/1sdde372_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/r85aw2yo1eblhpc/SDDE+372-SD.mp4/file",
+"photo1":"https://i.imgur.com/vCEfpWY_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1sdde00372/1sdde00372pl.jpg",
+"photo3":"https://i.imgur.com/EV0vdGZ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/1sdde00372/1sdde00372jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1sdde00372/1sdde00372jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/6von2fudtsm3jxh/SDDE+372-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
