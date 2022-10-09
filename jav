@@ -3124,4 +3124,19 @@ Delivery ပို့တဲ့ ကိုလူမဲနဲ့ ရင်းနှ
 "photo5":"https://pics.dmm.co.jp/digital/video/1sdde00372/1sdde00372jp-11.jpg",
 "dapp":"https://www.mediafire.com/file/6von2fudtsm3jxh/SDDE+372-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"CAWD-390mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းအစမှာတော့ သူနဲ့တိုင်ပင်မယ့်သူတစ်ယောက်နဲ့ချိန်းတွေ့ခဲ့ပီး သူဖြစ်ပျက်ခဲ့ပုံတွေကိုရင်ဖွင့်နေခဲ့တယ် သူ့မှာစေ့စပ်ထားတဲ့သူလဲရှိတယ်အဲ့တာကိုကုမ္ပဏီကလူတစ်ယောက်ကမနာလိုနေခဲ့ပီး
+တူတူအလုပ်နဲ့ခရီးထွက်ရတဲ့အချိန်မှာ ဟိုတယ်ခန်းကိုတစ်ခန်းဘဲယူလိုက်ပီးသူကြံစီနေတဲ့အတိုင်းဆေးခပ်ခဲ့ပီး Kuromiya လေးကိုလုပ်ချင်တိုင်းလုပ်ခဲ့တယ် ဒီအကြောင်းတွေပြောပြပီးနောက်ဆုံးမှာတော့သူ့တိုင်ပင်ဖော်ကပါ သူပြောခဲ့တဲ့အကြောင်းတွေကိုမှတ်တမ်းတင်ထားပီး သူပါလိုက်စားဖို့ကြံစည်ပါတော့တယ်...
+မင်းသမီးနာမည် Futaba Kurimiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/c/caw/cawd00390/playlist.m3u8",
+"download":"https://www.mediafire.com/file/2cqwwewpxf9zes1/CAWD+390-SD.mp4/file",
+"photo1":"https://i.imgur.com/OBQmtRM_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/cawd00390/cawd00390pl.jpg",
+"photo3":"https://i.imgur.com/r036AEW_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://i.imgur.com/aATkpRI_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://pics.dmm.co.jp/digital/video/cawd00390/cawd00390jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/zy4fc0eyv9sn5qe/CAWD+390-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
