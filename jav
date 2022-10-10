@@ -3138,4 +3138,18 @@ Delivery ပို့တဲ့ ကိုလူမဲနဲ့ ရင်းနှ
 "photo5":"https://pics.dmm.co.jp/digital/video/cawd00390/cawd00390jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/zy4fc0eyv9sn5qe/CAWD+390-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MDYD-856mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိထွေးနဲ့ လင်ပါသားလေး တို့ရဲ့ ဇာတ်လမ်း
+မင်းသမီးနာမည် Anri Okita",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mdy/mdyd00856/mdyd00856_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/iejfadjmyhd4gna/MDYD+856-SD.mp4/file",
+"photo1":"https://i.imgur.com/ohvqgDB_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/mdyd00856/mdyd00856pl.jpg",
+"photo3":"https://i.imgur.com/iMQlM0D_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://i.imgur.com/73go0tV_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://i.imgur.com/CsaUW3B_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"dapp":"https://www.mediafire.com/file/lu9gs42i62tx2qu/MDYD+856-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
