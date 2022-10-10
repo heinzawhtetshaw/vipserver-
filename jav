@@ -3152,4 +3152,19 @@ Delivery ပို့တဲ့ ကိုလူမဲနဲ့ ရင်းနှ
 "photo5":"https://i.imgur.com/CsaUW3B_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "dapp":"https://www.mediafire.com/file/lu9gs42i62tx2qu/MDYD+856-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-409mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက ဆုံးပါးသွားခဲ့လို့ သူမသည် ခင်ပွန်းရဲ့ အဖေ ယောက္ခထီးကြီးဆီကနေ ဖခင်မေတ္တာလိုချင်နေခဲ့သည်
+သို့သော် ယောက္ခမထီးကြီးက သူမကို ဖခင်မေတ္တာဆိုပီး ရှယ်လိုးတာ...
+မင်းသမီးနာမည် Kana Kusakabe",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00409/playlist.m3u8",
+"download":"https://www.mediafire.com/file/0d0ka4sumtnyvfy/Adn-409sd.mp4/file",
+"photo1":"https://i.imgur.com/qRO0gnn_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00409/adn00409pl.jpg",
+"photo3":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20221010_154741.jpg",
+"photo4":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20221010_154429.jpg",
+"photo5":"https://raw.githubusercontent.com/heinh247/photo/main/IMG_20221010_154839.jpg",
+"dapp":"https://www.mediafire.com/file/es6qauyyjww96fd/Adn-409mmsub.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
