@@ -3182,4 +3182,18 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00515/meyd00515jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/m7xf5rctccnwfs1/MEYD_515-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-234mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငယ်ငယ်က ကျွန်ုပ်အား အနိုင်ကျင့်ခဲ့ဖူးသော ဒီကောင်မလေးသည် ယခု အိမ်ထောင်သည် အမျိုးသမီးတစ်ဦးဖြစ်ပြီး ကျွန်ုပ်၏ ကုမ္ပဏီတွင် အချိန်ပိုင်းအလုပ်လုပ်ရန် ရောက်ရှိလာသောကြောင့် ယခုအချိန်တွင် ကလဲ့စားချေရန် အခွင့်အရေးဖြစ်သည်...  
+မင်းသမီးနာမည် Urara Uraraka",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00234/jul00234_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/mfuasnsxhn4lq8d/JUL+234-SD.mp4/file",
+"photo1":"https://i.imgur.com/AIt24BS_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00234/jul00234pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00234/jul00234jp-1.jpg",
+"photo4":"https://i.imgur.com/LtmKUMI_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00234/jul00234jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/u1gy5i06zrnjxwk/JUL+234-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
