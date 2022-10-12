@@ -3205,7 +3205,7 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "download":"https://www.mediafire.com/file/laajds8037ksifk/ATID_401-SD.mp4/file",
 "photo1":"https://i.imgur.com/CK6FxK8_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.dmm.co.jp/digital/video/atid00401/atid00401pl.jpg",
-"photo3":"https://i.imgur.com/ZnHnzmK_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo3":"https://i.imgur.com/ypr4U8q_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo4":"https://pics.dmm.co.jp/digital/video/atid00401/atid00401jp-9.jpg",
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00401/atid00401jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/39v6u35p91q9zrp/ATID_401-HD.mp4/file",
