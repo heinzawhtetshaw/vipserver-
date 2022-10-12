@@ -3196,4 +3196,18 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00234/jul00234jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/u1gy5i06zrnjxwk/JUL+234-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-401mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ထောင်ရှင်မလေးနဲ့ အိမ်နီးချင်းကောင်လေးတို့ရဲ့ ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Saeko Matsushita",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/ati/atid00401/atid00401_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/laajds8037ksifk/ATID_401-SD.mp4/file",
+"photo1":"https://i.imgur.com/CK6FxK8_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00401/atid00401pl.jpg",
+"photo3":"https://i.imgur.com/ZnHnzmK_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00401/atid00401jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00401/atid00401jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/39v6u35p91q9zrp/ATID_401-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
