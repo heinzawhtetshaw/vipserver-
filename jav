@@ -3210,4 +3210,19 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00401/atid00401jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/39v6u35p91q9zrp/ATID_401-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPX-562mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရွာမှာဆိုတော့ အိမ်ကနေ ကျောင်းကို မီနစ် 30ခန့် စက်ဘီးစီးပီးသွားရတာမို့ အထက်တန်းကျောင်းသူလေး သူမဟာ ကြွက်သားတွေနာကျင်နေခဲ့ပါတယ် 
+ဒါကြောင့်အမေဖစ်သူက အနိုပ်ခန်းသွားဖို့ အကြံပေးရာကနေ ဘာတွေဖစ်လာမလဲ...
+မင်းသမီးနာမည် Hikari Azusa",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/i/ipx/ipx00562/ipx00562_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/t3cj8dk7n0ua52x/Ipx-562sd.mp4/file",
+"photo1":"https://i.imgur.com/lDu5Es2_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00562/ipx00562pl.jpg",
+"photo3":"https://i.imgur.com/wRzeE1F_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00562/ipx00562jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00562/ipx00562jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/ebptvec9zshi5s1/Ipx-562mmsub.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
