@@ -3225,4 +3225,18 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/ipx00562/ipx00562jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/ebptvec9zshi5s1/Ipx-562mmsub.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SDMF-002mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မြေးမလေးနဲ့ အဖိုးအို
+မင်းသမီးနာမည် Hinano Kamisaka",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1sd/1sdmf002/1sdmf002_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/7g0jmks3g2jh6f9/SDMF+002-SD.mp4/file",
+"photo1":"https://i.imgur.com/JUNc8hj_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1sdmf00002/1sdmf00002pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1sdmf00002/1sdmf00002jp-10.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1sdmf00002/1sdmf00002jp-11.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1sdmf00002/1sdmf00002jp-16.jpg",
+"dapp":"https://www.mediafire.com/file/6s1tabclul00qdp/SDMF+002-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
