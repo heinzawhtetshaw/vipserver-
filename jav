@@ -3239,4 +3239,19 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/1sdmf00002/1sdmf00002jp-16.jpg",
 "dapp":"https://www.mediafire.com/file/6s1tabclul00qdp/SDMF+002-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PRED-218mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စနိုက်ကျော်မလေး အေးမိစံ
+သူများဘဲကို ဘယ်လိုအကွက်တွေနဲ့ စနိုက်ကျော်သွားမှာလဲ
+မင်းသမီးနာမည် Eimi Fukada",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/p/pre/pred00218/pred00218_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/5bv3ag7bc6cwwg6/PRED+218-SD.mp4/file",
+"photo1":"https://i.imgur.com/bAlh6nN_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00218/pred00218pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/pred00218/pred00218jp-1.jpg",
+"photo4":"https://i.imgur.com/xJOpdz6_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://i.imgur.com/1CPYXma_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"dapp":"https://www.mediafire.com/file/vmvmrqm21jzhxh3/PRED+218-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
