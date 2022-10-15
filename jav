@@ -3254,4 +3254,19 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://i.imgur.com/1CPYXma_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "dapp":"https://www.mediafire.com/file/vmvmrqm21jzhxh3/PRED+218-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-114mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စော်ရှိရဲ့သားနဲ့ ဘေးအခန်းက အိုးတောင့်တဲ့ အမကြီးကိုပဲ နေ့တိုင်းမှန်းထုနေခဲ့ပြီး တစ်နေ့ ဒီအိုးကြီးကို ဖြိုမယ်လို့ ရည်မှန်းချက်တွေနဲ့ ရှင်သန်နေခဲ့တယ်
+ဘာဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Maria Nagai",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00114/playlist.m3u8",
+"download":"https://www.mediafire.com/file/x2xtnf9nm79sdbt/JUQ+114-SD.mp4/file",
+"photo1":"https://i.imgur.com/A0ottOu_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00114/juq00114pl.jpg",
+"photo3":"https://i.imgur.com/yBouo18_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00114/juq00114jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00114/juq00114jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/5zxrusfaatyqypr/JUQ+114-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
