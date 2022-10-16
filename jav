@@ -3283,4 +3283,18 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00377/jul00377jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/abu12yf2to9qomp/JUL_377-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-724mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အသက်ကြီးကြိးအဘိုးကြီးဟာ အမျိုးသမီးငယ်ငယ်ချောချောလေးတစ်ယောက်ကို ယူထားပြီး ကိုယ်မဖတ်တတ်တဲ့စာအုပ်ကိုဝယ်ထားလို့ သူများက လှန်လှန်ဖတ်သွားတဲ့အဖြစ်မျိုး ဖြစ်ခဲ့ရပါတယ် အဘိုးကြီးရဲ့ တပည့်ကျော် မြွေကလေးဟာ ဟိုဘက်ခန်းမှာနေပြီး မီနာ လေးကို ဘယ်လိုပုံစံနဲ့ဝိုက်သွားမလဲဆိုတာ...
+မင်းသမီးနာမည် Mina Kitano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00724/playlist.m3u8",
+"download":"https://www.mediafire.com/file/6extw9i0cwm24uh/MEYD_724-SD.mp4/file",
+"photo1":"https://i.imgur.com/oWrrTys_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00724/meyd00724pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/meyd00724/meyd00724jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00724/meyd00724jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00724/meyd00724jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/huzvdzwvamh0tli/MEYD_724-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
