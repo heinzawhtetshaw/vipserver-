@@ -3269,4 +3269,18 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00114/juq00114jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/5zxrusfaatyqypr/JUQ+114-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-337mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူဌေးက အတွင်းရေးမှူးမလေးသူမကို စားချင်လို့ လစာအများကြီးတိုးပေးတာကို  သူမ မသိခဲ့ပါ
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00377/jul00377_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/92tlayc5km7ndr1/JUL_377-SD.mp4/file",
+"photo1":"https://i.imgur.com/tJUhOqW_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00377/jul00377pl.jpg",
+"photo3":"https://i.imgur.com/jQloVYC_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00377/jul00377jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00377/jul00377jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/abu12yf2to9qomp/JUL_377-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
