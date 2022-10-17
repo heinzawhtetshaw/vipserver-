@@ -3297,4 +3297,19 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00724/meyd00724jp-11.jpg",
 "dapp":"https://www.mediafire.com/file/huzvdzwvamh0tli/MEYD_724-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-861mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဘဝမှာတစ်ခါမှရည်းစားမထားဖူးရှာတဲ့ FA လေး MC ကို အမေက ရည်းစားနဲ့မိတ်ဆက်ပေးဖို့ ပြောလာသောအခါ......
+အမေ့ကိုစိတ်မဆင်းရဲစေချင်ရှာတဲ့ MC လေးက သူငယ်ချင်းရဲ့ရည်းစားကို  ဟန်ဆောင်ရည်းစားလုပ်ပေးဖို့ အခင်ဆုံးသူငယ်ချင်းဆီက ခဏငှားခဲ့ပါတယ်....
+မင်းသမီးနာမည် Uno Kanaya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00861/playlist.m3u8",
+"download":"https://www.mediafire.com/file/yqjrb9tbv8esayj/JUL+861-SD.mp4/file",
+"photo1":"https://i.imgur.com/xlduEgk_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00861/jul00861pl.jpg",
+"photo3":"https://i.imgur.com/5150qeK_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00861/jul00861jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00861/jul00861jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/cpfdu3lw0rafx4z/JUL+861-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
