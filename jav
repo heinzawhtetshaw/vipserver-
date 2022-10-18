@@ -3342,4 +3342,19 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/midv00045/midv00045jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/ufvbnum5zf6kulk/MIDV_045-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-709mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ထောင်ရှင်မလေး Yu ဟာ ယောကျာ်းဖစ်သူရဲ့ အကြွေးတွေကြောင့် အိမ်လခတောင် မပေးနိုင်တော့ပါဘူး
+ဒါကို အိပ်ပိုင်ရှင်ကြီးက အိမ်လခကို ခန္ဓာကိုယ်နဲ့ ရှင်းလို့ရတယ်ဆိုလို့ အံကြိတ်ကာ ပေးဆပ်လိုက်ရတဲ့ ဇာတ်လမ်းလေး
+မင်းသမီးနာမည် Yu Shinoda",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00709/playlist.m3u8",
+"download":"https://www.mediafire.com/file/jnxo5ikmqmhrpda/MEYD+709-SD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/photo/main/PicsArt_10-18-10.54.08.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00709/meyd00709pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/meyd00709/meyd00709jp-11.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00709/meyd00709jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00709/meyd00709jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/ucwgjldmnw3c3ud/MEYD+709-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
