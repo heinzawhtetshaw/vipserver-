@@ -3312,4 +3312,34 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00861/jul00861jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/cpfdu3lw0rafx4z/JUL+861-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUX-424mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အန်တီကြီးကား ကြိုက်တဲ့သူတွေအတွက်
+မင်းသမီးနာမည် Yumi Kazama",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jux/jux00424/jux00424_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/plv60i5scijylzt/%255BDark_TV%255DJUX_424-SD.m4v/file",
+"photo1":"https://i.imgur.com/QuQ7CYW_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jux00424/jux00424pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jux00424/jux00424jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jux00424/jux00424jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jux00424/jux00424jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/qhb3wzzn11rb1sh/%255BDark_TV%255DJUX_424-HD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDV-045mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိန်းမကိုစားရဝသွားပီးရိုးသွားလို့
+အလုပ်ကကောင်မလေးကို စားတဲ့ဇာတ်လမ်းလေးပါ
+ဇာတ်လမ်းက ရိုးရိုးလေးပါပဲ
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00045/playlist.m3u8",
+"download":"https://www.mediafire.com/file/zg9aezjs36rubrb/Midv_045sd.mp4/file",
+"photo1":"https://i.imgur.com/sC2JXLo_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00045/midv00045pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/midv00045/midv00045jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/midv00045/midv00045jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/midv00045/midv00045jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/ufvbnum5zf6kulk/MIDV_045-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
