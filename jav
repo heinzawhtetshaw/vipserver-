@@ -3357,4 +3357,19 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00709/meyd00709jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/ucwgjldmnw3c3ud/MEYD+709-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Jul-855mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့..
+အဝေးမှာကျောင်းတက်ပီးပြန်လာတဲ့ MC တစ်ယောက် ရောက်ရောက်ချင်းမှာဘဲငယ်ဘဝတုန်းက MC ကိုထိန်းကြောင်းခဲ့တဲ့အမကြီးနဲ့ပြန်တွေ့ခဲ့ပါတယ်...အိမ်ပြန်ရောက်တော့ MC အမေကလဲအိမ်မှာနောက်ယောကျာ်းနဲ့ယူတော့မှာဆိုတော့ MC အတွက်အိမ်မှာနေရာမရှိခဲ့ပါဘူးငယ်တုန်းကထိန်းခဲ့တဲ့အမကြီးက သူ့အိမ်ကိုခေါ်ခဲ့ပြီး....
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00855/playlist.m3u8",
+"download":"https://www.mediafire.com/file/z4bg04qsv576hzy/JUL+855-SD.mp4/file",
+"photo1":"https://i.imgur.com/YsexIgC_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00855/jul00855pl.jpg",
+"photo3":"https://i.imgur.com/YUm2UL9_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00855/jul00855jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00855/jul00855jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/wxb4gsgklbjhwji/JUL+855-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
