@@ -3372,4 +3372,19 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00855/jul00855jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/wxb4gsgklbjhwji/JUL+855-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"CAWD-075mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နုံအပြီး ကျပ်မစေ့တဲ့ ကောင်မလေးတစ်ယောက်ဟာ Mc ရဲ့အိမ်ကိုရောက်လာခဲ့ပါတယ်
+မိဘတွေကလည်း မအားလို့ Mc ကို ထိန်းကျောင်းခိုင်းရာကနေ ဘာတွေဖစ်မလဲ...
+မင်းသမီးနာမည် Akari Neo",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/c/caw/cawd00075/cawd00075_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/sa2yekisrur2kqf/CAWD_075-SD.mp4/file",
+"photo1":"https://i.imgur.com/Er9FwQq_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/cawd00075/cawd00075pl.jpg",
+"photo3":"https://i.imgur.com/CptrfJ0_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/cawd00075/cawd00075jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/cawd00075/cawd00075jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/z6wlifbwuptgdfu/CAWD_075-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
