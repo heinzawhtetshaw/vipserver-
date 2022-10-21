@@ -3387,4 +3387,19 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/cawd00075/cawd00075jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/z6wlifbwuptgdfu/CAWD_075-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Atid-420mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်မပြန်ချင်တဲ့ကျောင်းသူလေးကို ဆရာဖစ်သူက လျှောက်သွားနေမှာစိုးလို့ဆိုပီး ဆရာအိမ်သို့ခေါ်လာခဲ့ပါတယ်
+ညရောက်တော့ ကျောင်းသူလေးကို အပီလိုး 👍
+မင်းသမီးနာမည် Ichika Matsumoto",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/ati/atid00420/atid00420_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/25j2s05x63ulbdv/ATID_420-SD.mp4/file",
+"photo1":"https://i.imgur.com/eIHmHwu_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00420/atid00420pl.jpg",
+"photo3":"https://i.imgur.com/VMtIBBU_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00420/atid00420jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00420/atid00420jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/xjrv1wjremt1dkh/ATID_420-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
