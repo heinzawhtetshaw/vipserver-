@@ -3402,4 +3402,19 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00420/atid00420jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/xjrv1wjremt1dkh/ATID_420-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDE-781mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တောသူမလေးနာအိုသည် အလုပ်လုပ်ရန်အတွက်
+တိုကျိုမြို့ရှိ အစ်မတို့ လင်မယားနေအိမ်သို့ရောက်ရှိလာခဲ့တယ် ညရောက်သော် ခဲအိုဖစ်သူက အစ်မကို ညလုံးပေါက်လိုးတဲ့ဒဏ်ကို သူမ သည်းမခံနိုင်တော့ပါ
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mid/mide00781/mide00781_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/buqtlhhkgfafv37/Mide-781+480p.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/photo/main/PicsArt_10-21-08.31.59.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/mide00781/mide00781pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo/main/AddText_10-21-08.51.47.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo/main/AddText_10-21-08.31.08.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mide00781/mide00781jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/x7ie6zzrk25zra2/Mide-781_720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
