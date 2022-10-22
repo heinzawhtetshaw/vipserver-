@@ -3417,4 +3417,20 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/mide00781/mide00781jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/x7ie6zzrk25zra2/Mide-781_720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSNI-781mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အားလပ်ရက်မှာ ယောက်ျားရဲ့ မွေးရပ်မြေကို အလည်ရောက်လာခဲ့တဲ့ ချွေးမချောလေးကို 
+ယောက္ခထီးကြီးက ယောကျာ်းအလစ်မှာ လိုးဖို့ကြံတာ
+အလိုးခံလိုက်ရမလားဆိုတာကိုတော့...
+မင်းသမီးနာမည် Tsukasa Aoi",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/ssn/ssni00781/ssni00781_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/kaftudiciozlj0p/SSNI+781-SD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/photo/main/PicsArt_10-22-06.31.08.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssni00781/ssni00781pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo/main/IMG_20221022_182556.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssni00781/ssni00781jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssni00781/ssni00781jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/jlum9q004hvukot/SSNI+781-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
