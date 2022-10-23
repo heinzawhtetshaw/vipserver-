@@ -3433,4 +3433,19 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/ssni00781/ssni00781jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/jlum9q004hvukot/SSNI+781-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SW-130mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိန်းမယူပီးနောက် စော်အိမ်သို့ ပြောင်းရွေ့လာခဲ့တယ် အဲအိမ်မှာက စော်ရဲ့အမေ နဲ့ ညီအစ်မ လေးယောက်အပြင် အိမ်ဖော်မလေးတစ်ယောက် စုစု ပေါင်းမိန်းမခြောက်ယောက် က ကြိုဆိုနေခဲ့ပါတယ်
+ကျော်ကြီးနဲ့ မိန်းမလှ 7 ယောက်ဇာတ်လမ်းပါ
+ဒီဇာတ်ကားက SD versionပဲရှိတာမို့ နဲနဲဝါးတယ်",
+"watch":"",
+"download":"https://www.mediafire.com/file/dt98xwu6ujjnq63/SW_130-SD.mp4/file",
+"photo1":"https://i.imgur.com/O9yMD5J_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1sw00130/1sw00130pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1sw00130/1sw00130jp-17.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1sw00130/1sw00130jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1sw00130/1sw00130jp-19.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
