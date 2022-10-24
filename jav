@@ -3448,4 +3448,18 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/1sw00130/1sw00130jp-19.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"WAAA-176mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဘေးအခန်းက ချာတိတ်လေးနဲ့ အပျိုကြီးမမ
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/w/waa/waaa00176/playlist.m3u8",
+"download":"https://www.mediafire.com/file/2v0tlnxwqzj0csj/WAAA_176-SD.mp4/file",
+"photo1":"https://i.imgur.com/6ak1TGE_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/waaa00176/waaa00176pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/waaa00176/waaa00176jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/waaa00176/waaa00176jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/waaa00176/waaa00176jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/at84ez5kiogmtat/WAAA_176-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
