@@ -3462,4 +3462,20 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/waaa00176/waaa00176jp-11.jpg",
 "dapp":"https://www.mediafire.com/file/at84ez5kiogmtat/WAAA_176-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-155mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အနိုပ်ခန်းက ကူပွန် လက်ဆောင်ရလာလို့ အမေဖစ်သူသည် သမီးနဲ့ အတူ အနိုပ်ခံရန်အတွက် အနိုပ်ခန်းသို့ ရောက်ရှိလာခဲ့တယ်
+အနိုပ်ခန်းက ဦးလေးကြီးက ကျောင်းသူလေးသာရှိသေးတဲ့ သမီးဖစ်သူကို လိင်ပိုင်းဆိုင်ရာစော်ကားလိုက်ပါတယ်
+ဒါကိုအမေဖစ်သူ သိသွားမလား....
+မင်းသမီးနာမည် Mizuai Yamazaki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00155/playlist.m3u8",
+"download":"https://www.mediafire.com/file/dmu8t3dq0p95qqt/Ssis-155_480p.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/photo/main/PicsArt_10-25-04.56.35.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00155/ssis00155pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo/main/AddText_10-25-04.53.15.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00155/ssis00155jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00155/ssis00155jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/tqgzuoifdsdqgqs/Ssis-155_720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
