@@ -3478,4 +3478,18 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00155/ssis00155jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/tqgzuoifdsdqgqs/Ssis-155_720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"DASD-995mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက္ခထီးနဲ့ ချွေးမ ဇာတ်လမ်းလေး
+မင်းသမီးနာမည် Tsubaki Shiraishi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/das/dasd00995/playlist.m3u8",
+"download":"https://www.mediafire.com/file/rpsan2n1qh6oozm/DASD+995-SD.mp4/file",
+"photo1":"https://i.imgur.com/fQuv0yf_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/dasd00995/dasd00995pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dasd00995/dasd00995jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/dasd00995/dasd00995jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/dasd00995/dasd00995jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/cznu6hgw1zd2oht/DASD+995-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
