@@ -3492,4 +3492,18 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/dasd00995/dasd00995jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/cznu6hgw1zd2oht/DASD+995-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-680mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဘေးအိမ်က နို့ကြီးတဲ့အကိတ်မလေး နဲ့ ကိုလူရိုး
+မင်းသမီးနာမည် Ai Kano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00680/playlist.m3u8",
+"download":"https://www.mediafire.com/file/16pz4og8ne6d368/JUL+680-SD.mp4/file",
+"photo1":"https://i.imgur.com/PzXmzTB_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00680/jul00680pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00680/jul00680jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00680/jul00680jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00680/jul00680jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/plzbc7jzbw0pqbd/JUL+680-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
