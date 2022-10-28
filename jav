@@ -3506,4 +3506,19 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00680/jul00680jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/plzbc7jzbw0pqbd/JUL+680-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA-625mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းဖစ်သူရဲ့‌အကြွေးတွေကြောင့် မီနာလေးဟာ အကြွေးရှင်ဆီမှာ အိမ်ဖော်သုံးရက်လုပ်ရ‌ပါတော့မည် 
+အကြွေးရှင်ဆီမှာ အစားခံလိုက်ရမှာလား ဇာတ်လမ်းတွင်ကြည့်ရှုလိုက်ပါ..
+မင်းသမီးနာမည် Mina Kitano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mia/miaa00625/playlist.m3u8",
+"download":"https://www.mediafire.com/file/qgexc7knaha1luf/Miaa-625+480p.mp4/file",
+"photo1":"https://i.imgur.com/zG77a2z_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00625/miaa00625pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo/main/AddText_10-28-08.43.13.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo/main/AddText_10-28-08.44.17.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo/main/IMG_20221028_202606.jpg",
+"dapp":"https://www.mediafire.com/file/9derdij0og97gqk/Miaa-625+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
