@@ -3521,4 +3521,18 @@ Kanaရဲ့မိဘများသည် ငယ်စဉ်ကတည်းက
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo/main/IMG_20221028_202606.jpg",
 "dapp":"https://www.mediafire.com/file/9derdij0og97gqk/Miaa-625+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"EBOD-895mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Misono တစ်ယောက်ပိုက်ဆံ ရမယ်အထင်နဲ့ မိမိဦးလေး အရွယ်လူကြိးတစ်ယောက်နဲ့ အတူ ညစ်ပတ်နေတဲ့ အခန်းထဲကို ဒိတ်ဖို့လိုက်သွားခဲ့ပါတယ်...Misono တစ်ယောက် ဦးလေးကြီးရဲ့ သိုင်းကွက်တွေအောက်မှာ အလူးအလဲ အံ့တုရင်း သူမ လိုချင်တဲ့ ပိုက်ဆံ ရခဲ့မလားဆိုတာကတော့...
+မင်းသမီးနာမည် Misono Mizuhara",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/e/ebo/ebod00895/playlist.m3u8",
+"download":"https://www.mediafire.com/file/jdsyn0zg0y8m5c6/EBOD+895-SD.mp4/file",
+"photo1":"https://i.imgur.com/N6gItBC_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ebod00895/ebod00895pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo/main/IMG_20221029_131409.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ebod00895/ebod00895jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ebod00895/ebod00895jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/4ra0jhkw18d6sqx/EBOD+895-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
