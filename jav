@@ -3535,4 +3535,32 @@ Misono တစ်ယောက်ပိုက်ဆံ ရမယ်အထင်န
 "photo5":"https://pics.dmm.co.jp/digital/video/ebod00895/ebod00895jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/4ra0jhkw18d6sqx/EBOD+895-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-282mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အပြာစာအုပ်တွေဖတ်ပြီး စိတ်ကူးယဉ်တတ်တဲ့ ကျောင်းသူလေး  Jun Kasui ဟာ ကျောင်းက ဆရာကို မှန်းနေခဲ့ပါတယ်
+မင်းသမ‌ီးနာမည် Jun Kasui",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00282/playlist.m3u8",
+"download":"https://www.mediafire.com/file/lb0cduv0eqbfwag/SSIS+282-SD.mp4/file",
+"photo1":"https://i.imgur.com/7IHzSeD_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00282/ssis00282pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00282/ssis00282jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00282/ssis00282jp-7.jpg",
+"photo5":"https://i.imgur.com/O0L37uW_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"dapp":"https://www.mediafire.com/file/9rr6z4wmas5g351/SSIS+282-HD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"VEMA-154mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းတက်ရတာက လွဲလို့ အကုန်လုံးကို စိတ်ဝင်စားတဲ့ MC တစ်ယောက် ကျောင်းမတတ်ချင်ပေမယ့် ဆရာမ June ကို ကြိုက်နေတာကြောင့် သူမ ပါ၀င်မယ့် ကျောင်းခရီးစဉ်တစ်ခုကို လိုက်ပါခဲ့တယ်
+မင်းသမီးနာမည် June Lovejoy",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/v/vem/vema154/vema154_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/f26bp8rrzaydne1/VEMA+154sd.mp4/file",
+"photo1":"https://i.imgur.com/5Hp5n24_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/vema00154/vema00154pl.jpg",
+"photo3":"https://i.imgur.com/mPVnHMe_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/vema00154/vema00154jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/vema00154/vema00154jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/yg4ijccemok9zgo/VEMA+154-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
