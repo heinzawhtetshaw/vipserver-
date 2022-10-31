@@ -3563,4 +3563,19 @@ Misono တစ်ယောက်ပိုက်ဆံ ရမယ်အထင်န
 "photo5":"https://pics.dmm.co.jp/digital/video/vema00154/vema00154jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/yg4ijccemok9zgo/VEMA+154-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-788mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တက္ကသိုလ်စာမေးပွဲဖြေရန် ဦးလေးတို့ လင်မယား‌နေအိမ်သို့ ရောက်ရှိလာတဲ့ တူတော်မောင်
+ဒေါ်လေးရဲ့ အလှတွေကိုမြင်ပြီးတဲ့နောက် လီးတစ်ချိန်လုံးတောင်နေပြီး စာကျက်၍မရတော့ပါ..
+မင်းသမီးနာမည် Uno Kanaya ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00788/playlist.m3u8",
+"download":"https://www.mediafire.com/file/072gx4jqxo026cp/Jul-788+480p.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/photo/main/PicsArt_10-31-06.14.58.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00788/jul00788pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo/main/AddText_10-31-06.18.49.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo/main/AddText_10-31-05.56.26.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo/main/AddText_10-31-05.58.00.jpg",
+"dapp":"https://www.mediafire.com/file/rqqozj401p81j0u/Jul-788+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
