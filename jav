@@ -3578,4 +3578,20 @@ Misono တစ်ယောက်ပိုက်ဆံ ရမယ်အထင်န
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo/main/AddText_10-31-05.58.00.jpg",
 "dapp":"https://www.mediafire.com/file/rqqozj401p81j0u/Jul-788+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SDMU-942mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စော်လေးက ဝက်ဝံရုပ်တွေကိုချစ်‌တော့ ဝက်ဝံရုပ်ဟန်ဆောင်ပြီး ‌စော်လေးကို လိုးတဲ့ဇာတ်လမ်းလေးပါ
+ဘေဘီလေးက အလန်းလေးနော်
+ဝက်ဝံရုပ်ထဲမှာ ဦးလေးကြီးတစ်ယောက်ရှိ‌နေတာကိုတော့ သူမ မသိခဲ့ပါ
+မင်းသမီးနာမည် Ruru Arisu",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1sd/1sdmu942/1sdmu942_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/arq98ffr60atiaq/SDMU+942sd.mp4/file",
+"photo1":"https://i.imgur.com/Aj8K35r_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1sdmu00942/1sdmu00942pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1sdmu00942/1sdmu00942jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1sdmu00942/1sdmu00942jp-11.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1sdmu00942/1sdmu00942jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/fptvqkctncts0l0/SDMU+942-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
