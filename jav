@@ -3594,4 +3594,19 @@ Misono တစ်ယောက်ပိုက်ဆံ ရမယ်အထင်န
 "photo5":"https://pics.dmm.co.jp/digital/video/1sdmu00942/1sdmu00942jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/fptvqkctncts0l0/SDMU+942-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"WAAA-032mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တစ်ရက်မှာ ကုမ္ပဏီကို နိုင်ငံခြားကလူမဲတွေလာတဲ့အတွက် ဂျပန်စကားတတ်အောင်ယောကျာ်းဖြစ်သူက မိန်းမကိုသင်ခိုင်းခဲ့ပါတယ်
+ယောကျာ်းက ရုံးသွားနေတုန်းမှာဘယ်လိုတွေဖြစ်မလဲဆိုတာကတော့...
+မင်းသမီးနာမည် Ayaka Mochizuki",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/w/waa/waaa00032/waaa00032_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/5vrib9jxoeb82jr/WAAA+032-SD.mp4/file",
+"photo1":"https://i.imgur.com/pHskh6B_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/waaa00032/waaa00032pl.jpg",
+"photo3":"https://i.imgur.com/Ij9ZUeQ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/waaa00032/waaa00032jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/waaa00032/waaa00032jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/nrm5q0jl4pkqqvc/WAAA+032-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
