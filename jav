@@ -3609,4 +3609,18 @@ Misono တစ်ယောက်ပိုက်ဆံ ရမယ်အထင်န
 "photo5":"https://pics.dmm.co.jp/digital/video/waaa00032/waaa00032jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/nrm5q0jl4pkqqvc/WAAA+032-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-008mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီဇာတ်လမ်းက သားကို အမြဲအနိုင်ကျင့်ဘိုကျနေတဲ့ ကောင်ကို မှ သဘောကျခဲ့တဲ့ ရင်ကြီးကြီးနဲ့ အကိတ်အဒေါ်ကြီးရဲ့အကြောင်းပါ။ 
+မင်းသမီးနာမည် Reiko Kobayakawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00008/playlist.m3u8",
+"download":"https://www.mediafire.com/file/h0sx0hokwt4h0wn/JUQ_008-SD.mp4/file",
+"photo1":"https://i.imgur.com/ld7vqy6_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00008/juq00008pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00008/juq00008jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00008/juq00008jp-4.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/myanmar/main/PicsArt_11-02-07.25.55.jpg",
+"dapp":"https://www.mediafire.com/file/uq2e0kiotlkgcqh/JUQ_008-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
