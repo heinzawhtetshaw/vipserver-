@@ -3623,4 +3623,18 @@ Misono တစ်ယောက်ပိုက်ဆံ ရမယ်အထင်န
 "photo5":"https://raw.githubusercontent.com/minimyanmar/myanmar/main/PicsArt_11-02-07.25.55.jpg",
 "dapp":"https://www.mediafire.com/file/uq2e0kiotlkgcqh/JUQ_008-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"DASD-376mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျနော်ရဲ့ ချစ်လှစွာသော ဇနီးချောလေးသည် ကုမ္ပဏီသူဌေးဖစ်သူရဲ့  လှည့်စားခြင်းကိုခံရပီး အလိုးခံလိုက်ရတယ်
+မင်းသမီးနာမည် Meguri",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/d/das/dasd00376/dasd00376_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/w9zh0tcq1eivuzw/Dasd-376+480p.mp4/file",
+"photo1":"https://i.imgur.com/DwINrD2_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/dasd00376/dasd00376pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo/main/IMG_20221103_185118.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo/main/IMG_20221103_185423.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/dasd00376/dasd00376jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/kr1jqqugo14ok6l/Dasd-376+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
