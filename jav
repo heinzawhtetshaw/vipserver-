@@ -3651,4 +3651,21 @@ Misono တစ်ယောက်ပိုက်ဆံ ရမယ်အထင်န
 "photo5":"https://pics.dmm.co.jp/digital/video/wanz00911/wanz00911jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/rzh1xlnqe3rqgr6/WANZ+911-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"VENX-035mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇနီးထက် ဇနီးရဲ့ အမေက ပိုလှနေတဲ့အခါ
+ယောက္ခမကို ချစ်မိသွားတဲ့သမက်လေးရဲ့ ဇာတ်လမ်းပါ
+ဟုတ်ပ ယောက္ခမက ချစ်ဖို့ကောင်းချက်
+အချစ်ဆိုတာ မချစ်မိအောင်ထိန်းချုပ်လေ ကြီးထွားလာလေဆိုတဲ့အရာမျိုးဆိုတော့..
+မင်းသမီးနာမည် Nene Tanaka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/v/ven/venx035/playlist.m3u8",
+"download":"https://www.mediafire.com/file/fhhnfvxvwvn9cas/Venx_035sd.mp4/file",
+"photo1":"https://i.imgur.com/akF2i6D_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/venx00035/venx00035pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo/main/AddText_11-04-09.26.32.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo/main/AddText_11-04-09.27.16.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/venx00035/venx00035jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/yyzok1lcpuaupyo/VENX_035-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
