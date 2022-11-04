@@ -3637,4 +3637,18 @@ Misono တစ်ယောက်ပိုက်ဆံ ရမယ်အထင်န
 "photo5":"https://pics.dmm.co.jp/digital/video/dasd00376/dasd00376jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/kr1jqqugo14ok6l/Dasd-376+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"WANZ-911mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက္ခထီးကို မုန်းတယ်
+မင်းသမီးနာမည် Kaho Imai ",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/w/wan/wanz00911/wanz00911_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/qsjalc7zlaherye/WANZ+911-SD.mp4/file",
+"photo1":"https://i.imgur.com/JRw3bBi_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/wanz00911/wanz00911pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo/main/IMG_20221104_114447.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/wanz00911/wanz00911jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/wanz00911/wanz00911jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/rzh1xlnqe3rqgr6/WANZ+911-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
