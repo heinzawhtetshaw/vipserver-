@@ -3668,4 +3668,19 @@ Misono တစ်ယောက်ပိုက်ဆံ ရမယ်အထင်န
 "photo5":"https://pics.dmm.co.jp/digital/video/venx00035/venx00035jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/yyzok1lcpuaupyo/VENX_035-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-132mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိသားစုကငွေရေးကြေးရေးအဆင်မပြေ ယောက်ျားက ငွေမရှာနိုင်တော့ မိန်းမဖြစ်သူ အကိတ်မက
+မာဆတ်မှာအလုပ်လုပ်ရင်း ၀င်ငွေရှာတဲ့ ဇာတ်ကားလေးပဲဖြစ်ပါတယ် သူငယ်ချင်းယောက်ျားဖြစ်သူလဲ မာဆတ်လာရင်းတွေ့ကြရာ၀ယ်...
+မင်းသမီးနာမည် Ai Kano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00132/playlist.m3u8",
+"download":"https://www.mediafire.com/file/4593x5cp1xawybf/JUQ+132sd.mp4/file",
+"photo1":"https://i.imgur.com/QC7zY6r_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00132/juq00132pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo/main/IMG_20221105_212524.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo/main/IMG_20221105_212217.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00132/juq00132jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/8v9cnvkhh7gqse5/JUQ+132-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
