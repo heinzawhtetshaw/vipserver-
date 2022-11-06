@@ -3683,4 +3683,20 @@ Misono တစ်ယောက်ပိုက်ဆံ ရမယ်အထင်န
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00132/juq00132jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/8v9cnvkhh7gqse5/JUQ+132-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ROE-035mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Yoichi ဟာ အိမ်ပိုင်ရှင်သမီးကို မတရားပြန်လုပ်ဖို ကြံတာကို ‌အမေဖြစ်သူက တွေ့ပြီး လုပ်ချင်ရင် သူများသားသမီးတွေကို မလုပ်ပါနဲ့ အမေ့ကိုလုပ်ပါဆိုကာ ကြမ်းကြတဲ့အင်းစက် ဇာတ်ကားပါ
+မင်းသမီးနာမည် Miki Yoshii 
+
+မင်မင်ဆီမှာ wifi ပျက်နေလို့ မနက်ဖြန်ကျမှ vip အတွက် ငယ်ငယ်ချောချော အကိတ်လေးတစ်ကား အက်မင်ကိုယ်တိုင် ဘာသာပြန်တင်ပေးပါမယ်နော်",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roe/roe00035/playlist.m3u8",
+"download":"https://www.mediafire.com/file/triswl1lu9ujbtl/%255BDark_TV%255DROE_035-SD.m4v/file",
+"photo1":"https://i.imgur.com/U3TQSwa_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/roe00035/roe00035pl.jpg",
+"photo3":"https://i.imgur.com/r6FqM23_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/roe00035/roe00035jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/roe00035/roe00035jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/k7pkpfcirr6gysb/%255BDark_TV%255DROE_035-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
