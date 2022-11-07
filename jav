@@ -3699,4 +3699,19 @@ Yoichi ဟာ အိမ်ပိုင်ရှင်သမီးကို မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/roe00035/roe00035jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/k7pkpfcirr6gysb/%255BDark_TV%255DROE_035-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"EBOD-776mmsub",
+"info":"မြန်မာစာတန်းထိုး
+‌အဖေနောက်မိန်းမယူလိုက်တာကို ကျောင်းသူလေး Kanonက သဘောမကျပါဘူး
+မိ‌ဘတွေဟန်းနီးမွန်းသွားတဲ့အခါမှာတော့ မိထွေးရဲ့သားက သူ့အပေါ်မုန်းတီးနေတဲ့ကျောင်းသူလေး Kanonကို အပီလိုးတာ
+မင်းသမီးနာမည် Kanon Ibuki ",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/e/ebo/ebod00776/ebod00776_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/8ibp6zgcz6n6d4d/Ebod-776+480.mp4/file",
+"photo1":"https://i.imgur.com/9Q3TNh2_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ebod00776/ebod00776pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/myanmar/main/AddText_11-07-08.09.37.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/myanmar/main/AddText_11-07-08.08.00.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ebod00776/ebod00776jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/i92wkbsyb9rlc8q/Ebod-776+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
