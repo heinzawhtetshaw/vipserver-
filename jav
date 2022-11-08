@@ -3714,4 +3714,18 @@ Yoichi ဟာ အိမ်ပိုင်ရှင်သမီးကို မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ebod00776/ebod00776jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/i92wkbsyb9rlc8q/Ebod-776+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-058mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက္ခမထီးနဲ့ ချွေးမ ဇာတ်လမ်း
+မင်းသမီးနာမည် Minami Kurisu ",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00058/jul00058_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/yosnxthbadrn4vg/JUL+058-SD.mp4/file",
+"photo1":"https://i.imgur.com/6ovnhiV_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00058/jul00058pl.jpg",
+"photo3":"https://i.imgur.com/ffqRtdz_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00058/jul00058jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00058/jul00058jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/k0fvu6irz48ngs3/JUL+058-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
