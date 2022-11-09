@@ -3728,4 +3728,19 @@ Yoichi ဟာ အိမ်ပိုင်ရှင်သမီးကို မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00058/jul00058jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/k0fvu6irz48ngs3/JUL+058-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-064mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းရဲ့ အခင်ဆုံးသူငယ်ချင်းက 
+ခင်ပွန်းမသိအောင် ကျမကိုချုပ်လိုးတယ်
+မင်းသမီးနာမည် Hinata Kimitsuka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00064/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ge76d81dtx1slia/JUQ_064-SD.mp4/file",
+"photo1":"https://i.imgur.com/5ygd5up_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00064/juq00064pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221109_182113.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00064/juq00064jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00064/juq00064jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/8ynsxoo9mbi7pnz/JUQ_064-HD720.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
