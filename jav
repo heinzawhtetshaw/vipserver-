@@ -3743,4 +3743,18 @@ Yoichi ဟာ အိမ်ပိုင်ရှင်သမီးကို မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00064/juq00064jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/8ynsxoo9mbi7pnz/JUQ_064-HD720.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-060mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ ဒီကားလေးမှာတော့ MC ဟာ တစ်ချိန်က သူ့ သူဌေးရဲ့ အနှိမ်ကို မျိုးစုံခံခဲ့ရပြီး တဲ့ နောက်စိတ်နာကာ အလုပ်ထွက်ပြီး သူကိုယ်တိုင် ပိုက်ဆံရှိလာတဲ့အခါမှာ သူဌေးမိန်းမကို ပြန်စားတဲ့ကားလေးပဲဖြစ်ပါတယ်...
+မင်းသမီးနာမည် Reiko Kobayakawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00060/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ou03yc6ptuxy22q/JUQ+060-SD.mp4/file",
+"photo1":"https://i.imgur.com/WI8P3bY_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00060/juq00060pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00060/juq00060jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00060/juq00060jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00060/juq00060jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/6le58h522embrxt/JUQ+060-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
