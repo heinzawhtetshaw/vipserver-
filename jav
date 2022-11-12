@@ -3757,4 +3757,18 @@ Yoichi ဟာ အိမ်ပိုင်ရှင်သမီးကို မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00060/juq00060jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/6le58h522embrxt/JUQ+060-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPD-364mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နိုင်ငံခြားသူအိမ်ဖော်မလေး နဲ့ ‌ကျော်ကြီး
+မင်းသမီးနာမည် Stacey",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/p/ppp/pppd00364/pppd00364_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/xkwf3k8qp1oj3f8/PPPD+364-SD.mp4/file",
+"photo1":"https://i.imgur.com/4f4fVm9_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/pppd00364/pppd00364pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/pppd00364/pppd00364jp-7.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/pppd00364/pppd00364jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pppd00364/pppd00364jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/wy8txqzvlmcg037/PPPD+364-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
