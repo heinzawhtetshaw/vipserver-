@@ -3771,4 +3771,19 @@ Yoichi ဟာ အိမ်ပိုင်ရှင်သမီးကို မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/pppd00364/pppd00364jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/wy8txqzvlmcg037/PPPD+364-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-633mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းဖစ်သူအလုပ်များနေတုန်း ရွာကရည်းစားဟောင်းနဲ့ ခင်ပွန်းမသိအောင် အလိုးခံလိုက်တဲ့ အိမ်ထောင်သည်မလေး Ai Sayama
+မင်းသမီးနာမည် Ai Sayama
+ဒီမင်းသမီးကိုလူတိုင်းကြိုက်ကြလို့ ဘာသာပြန်တင်ဆက်ပေးလိုက်ပါတယ်",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mey/meyd00633/meyd00633_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/khdjey9vpkmi46e/Meyd-633+480p.mp4/file",
+"photo1":"https://i.imgur.com/qSANKcs_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00633/meyd00633pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_11-12-08.16.24.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_11-12-08.23.10.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/received_6221876734506887.jpeg",
+"dapp":"https://www.mediafire.com/file/tskg9eejlpy524z/Meyd-633+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
