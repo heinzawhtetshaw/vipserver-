@@ -3786,4 +3786,20 @@ Yoichi ဟာ အိမ်ပိုင်ရှင်သမီးကို မ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/received_6221876734506887.jpeg",
 "dapp":"https://www.mediafire.com/file/tskg9eejlpy524z/Meyd-633+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-058mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငှေးက ဝန်ထမ်းမလေးကိုတစ်ဖက်သတ်ကြိုက်နေခဲ့တာကိုဖွင့်မပြောခဲ့တော့
+နောက်ဆုံးမှာ ဖွင့်ပြောရဲတဲ့ သူ့တပည့်နောက်ကိုဘဲပါသွားတော့တယ်..
+ဒါပေမယ့်သူဌေးက အချစ်ဆိုတာ ရယူခြင်းလို့ သတ်မှတ်ထားသူဆိုတော့ ဇာတ်လမ်းလေးကတော့ ကြည့်လို့ကောင်းမှာတော့အမှန်ပဲ
+မင်းသမီးနာမည် Hijiri Maihara",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00058/playlist.m3u8",
+"download":"https://www.mediafire.com/file/h35uwadmfbx2z6z/JUQ+058-SD.mp4/file",
+"photo1":"https://i.imgur.com/YM7TFDQ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00058/juq00058pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00058/juq00058jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00058/juq00058jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00058/juq00058jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/gz8llg2x9kji8w3/JUQ+058-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
