@@ -3802,4 +3802,21 @@ Yoichi ဟာ အိမ်ပိုင်ရှင်သမီးကို မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00058/juq00058jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/gz8llg2x9kji8w3/JUQ+058-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-541mmsub",
+"info":"မြန်မာစာတန်းထိုး
+‌သူနာပြုမလေး မီမီ သည် မကြာခင်မှာပဲ ချစ်ရတဲ့ ဆရာဝန်နဲ့လက်ထပ်တော့မှာဖစ်ပါတယ်
+ဒါပေမယ့် သူတို့ဆေးရုံကို သေခါနီးလူနာတစ်ယောက်ရောက်ရှိလာခဲ့တယ် ထိုလူမ‌ှာမီမီ ရဲ့ ရည်းစားဟောင်းဖစ်နေခဲ့တယ်
+လက်ရှိရည်းစားက မထိရက်မကိုင်ရက်လောက်အောင်ချစ်ရတဲ့မီမီလေးကို ရည်းစားဟောင်းကတော့ တကယ်ကြုံးတာ 
+မင်းသမီးနာမည် Yua Mikami 
+ဒီကားအရမ်းကောင်းတာနော် ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00541/playlist.m3u8",
+"download":"https://www.mediafire.com/file/3es6sdt5x6iyofo/Ssis-541+480p.mp4/file",
+"photo1":"https://i.imgur.com/1MkvQTL_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00541/ssis00541pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_11-14-09.52.46.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_11-14-09.53.57.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/received_2349266265236427.jpeg",
+"dapp":"https://www.mediafire.com/file/ha27fe88knnz7d0/Ssis-541+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
