@@ -3819,4 +3819,18 @@ Yoichi ဟာ အိမ်ပိုင်ရှင်သမီးကို မ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/received_2349266265236427.jpeg",
 "dapp":"https://www.mediafire.com/file/ha27fe88knnz7d0/Ssis-541+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUFE-208mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လင်မယားနှစ်ယောက် အားလပ်ရက်ခရီးစဉ် တစ်ခု ထွက်လာရာကနေ လူမည်းတစ်ဦးနဲ့တွေ့ဆုံခဲ့သည်  အဲလူမဲဟာ ခင်ပွန်းအလစ်မှာ ဇနီးသည်ကို အဝလိုးသွားတဲ့ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Hijiri Maihara ",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/juf/jufe00208/jufe00208_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/dwdp2s2s7eyxjnd/JUFE+208-SD.mp4/file",
+"photo1":"https://i.imgur.com/kkL3roO_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00208/jufe00208pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jufe00208/jufe00208jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jufe00208/jufe00208jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jufe00208/jufe00208jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/c2fuc8q2dqi8u29/%255BDark_TV%255DJUFE_208-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
