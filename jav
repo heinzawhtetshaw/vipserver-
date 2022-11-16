@@ -3833,4 +3833,21 @@ Yoichi ဟာ အိမ်ပိုင်ရှင်သမီးကို မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jufe00208/jufe00208jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/c2fuc8q2dqi8u29/%255BDark_TV%255DJUFE_208-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-103mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အကိတ်ကြိုက်သူများနဲ့အန်တီကြိုက်သူများအတွက်
+သမီးလင်မယားကို ကလေးရအောင် ရေပူစမ်းမှာအဝကြုံးဖို့ ယောက္ခထီးက စီစဉ်ပေးခဲ့ပြီး မိသားစုလိုက်ခရီးထွက်လာခဲ့တယ်
+ဒါပေမယ့် သမက်ကတော့ ရေပူစမ်းမှာ လူလစ်တုန်း ယောက္ခမ ကိုကြုံးတာ
+မင်းသမီးနာမည် Nina Nishimura 
+ဖက်တီးမကိုမှ စားဖို့ချိန်နေတဲ့သူတွေအတွက် ဒီကားလေးက အကြိုက်တွေ့မှာပါ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00103/playlist.m3u8",
+"download":"https://www.mediafire.com/file/4x043fqhcde6msf/JUQ+103-SD.mp4/file",
+"photo1":"https://i.imgur.com/P4nrFI3_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00103/juq00103pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221116_185359.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00103/juq00103jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00103/juq00103jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/7ls8tl43z037ovy/JUQ+103-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
