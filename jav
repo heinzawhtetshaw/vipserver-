@@ -3850,4 +3850,21 @@ Yoichi ဟာ အိမ်ပိုင်ရှင်သမီးကို မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00103/juq00103jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/7ls8tl43z037ovy/JUQ+103-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-495mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရထားပေါ်မှာ ဖင်ကိုင်ခံလိုက်ရလို့ ယောကျာ်းတွေကို ကြောက်သွားပီး ရည်းစားတောင်မထားဘဲ ငါးနှစ်ကြာနေလာခဲ့တဲ့သူမ
+ဒါပေမယ့်လည်း မိန်းမလှလေး နဲ့ ဒုတ် ဆိုတာရှောင်လွဲလို့မရတဲ့အရာတွေဆိုတော့..
+အထိမခံ ယောကျာ်းတွေကိုကြောက်နေတဲ့သူမကို  ဘယ်သူလိုးသွားမှာလဲ
+မင်းသမီးနာမည် Yura Kano 
+အငြိုးတွေကို ပေးဆပ်ရာကနေ ချစ်မိသွားခဲ့တဲ့ဇာတ်လမ်းလေး",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00495/playlist.m3u8",
+"download":"https://www.mediafire.com/file/xtqbf42vwlp95y7/Ssis-495+480p.mp4/file",
+"photo1":"https://i.imgur.com/uj6igag_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00495/ssis00495pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_11-17-03.11.24.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_11-17-03.13.08.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221117_150725.jpg",
+"dapp":"https://www.mediafire.com/file/b28xpueg2dizyas/Ssis-495+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
