@@ -3867,4 +3867,19 @@ Yoichi ဟာ အိမ်ပိုင်ရှင်သမီးကို မ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221117_150725.jpg",
 "dapp":"https://www.mediafire.com/file/b28xpueg2dizyas/Ssis-495+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-020mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို့ ဆေးဖိုးဝါးခ အတွက် ပိုက်ဆံလိုလို့ ရွေးချယ်စရာမရှိဘဲ ရရာ အလုပ်တွေလုပ်ရာကနေ ကျောင်းတုန်းက ဆရာဖစ်သူ နဲ့ ပြန်လည် ဆုံတွေ့ခဲ့ပါတော့သည်
+ဆရာဆိုသည်မှာ Lily ကျောင်းသူဘဝတုန်းကတောင် ကြိတ်ဖို့ အမြဲကြံစည်နေတာမို့ ပိုက်ဆံလိုနေတဲ့ Lily တစ်ယောက် ဆရာဆီမှာ အလိုးခံလိုက်ရမလား...
+မင်းသမီးနာမည် Lily Hart",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00020/playlist.m3u8",
+"download":"https://www.mediafire.com/file/13sj6sra8p0brgr/JUQ+020-SD.mp4/file",
+"photo1":"https://i.imgur.com/IO1vjAb_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00020/juq00020pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00020/juq00020jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00020/juq00020jp-2.jpg",
+"photo5":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220711_152733.jpg",
+"dapp":"https://www.mediafire.com/file/kvigt5dbclr462w/JUQ+020-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
