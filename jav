@@ -3882,4 +3882,18 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://raw.githubusercontent.com/shawlin247/pp2/main/IMG_20220711_152733.jpg",
 "dapp":"https://www.mediafire.com/file/kvigt5dbclr462w/JUQ+020-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"RKB-227mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိထွေးကိုလိုးတာ 
+မင်းသမီးနာမည် Akari Asagiri ",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/b/bkd/bkd227/bkd227_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/saqufvmdgd02xqi/BKD+227-SD.mp4/file",
+"photo1":"https://i.imgur.com/C5lMZh1_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/bkd00227/bkd00227pl.jpg",
+"photo3":"https://i.imgur.com/vGj1AnZ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/bkd00227/bkd00227jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/bkd00227/bkd00227jp-16.jpg",
+"dapp":"https://www.mediafire.com/file/b5m2konj2p4qigs/%255BDark_TV%255DBKD_227-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
