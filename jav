@@ -3896,4 +3896,20 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://pics.dmm.co.jp/digital/video/bkd00227/bkd00227jp-16.jpg",
 "dapp":"https://www.mediafire.com/file/b5m2konj2p4qigs/%255BDark_TV%255DBKD_227-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MVSD-523mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူမဟာအိမ်ထောင်သက် ငါးနှစ်ကြာလာတဲ့အခါမှာတော့ အိမ်မှာနေရပျင်းလာလို့ ကိုယ်ပိုင်အနိုပ်ခန်းလေးတစ်ခုကို စဖွင့်ခဲ့ပါတယ် 
+အဲချိန်မှာအိမ်နားက ဦးလေးကြီးတစ်ယောက်က
+သူမရဲ့ အနိုပ်ဆိုင်ကို အနိုပ်ခံဖို့ဆိုပီးလာရောက်ကာ သူမကိုလိုးဖို့ကြံ‌ပါတော့သည်
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mvs/mvsd00523/playlist.m3u8",
+"download":"https://www.mediafire.com/file/nt45cwg51nniynt/Mvsd-523+480p.mp4/file",
+"photo1":"https://i.imgur.com/R2JQ3vF_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/mvsd00523/mvsd00523pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_11-20-07.36.23.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_11-20-07.37.15.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_11-20-07.34.19.jpg",
+"dapp":"https://www.mediafire.com/file/jrpq3qjb4oadg2l/Mvsd-523+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
