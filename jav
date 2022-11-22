@@ -3912,4 +3912,20 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_11-20-07.34.19.jpg",
 "dapp":"https://www.mediafire.com/file/jrpq3qjb4oadg2l/Mvsd-523+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-035mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဓာတ်ပုံရိုက်ခါနီးမှ မော်ဒယ်မလာလို့ သူဌေးက 
+ကိုရှည်ကြီးရဲ့ဇနီးကို မော်ဒယ် လုပ်ပေးဖို့ ကူညီတောင်းလာတဲ့အခါ..
+မော်ဒယ်အဖစ် ကူညီပေးရာကနေ ရှယ်လိုးခံလိုက်ရတဲ့ အကိတ်မလေးရဲ့ ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Marina Shiraishi ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00035/playlist.m3u8",
+"download":"https://www.mediafire.com/file/n5x76zqf0ozgqka/Juq-035+480p.mp4/file",
+"photo1":"https://i.imgur.com/mzA7nlV_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00035/juq00035pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221122_213301.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221122_213544.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_11-22-09.37.59.jpg",
+"dapp":"https://www.mediafire.com/file/thrnbpyxqzbojmb/Juq-035+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
