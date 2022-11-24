@@ -3942,4 +3942,18 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00099/juq00099jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/p7ch0ok2c7skixp/JUQ+099HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-086mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိုးရွာတဲ့ ညတစ်ည မှာ ရွာလာလည်တဲ့ မရီးကို တစ်ညလုံးလိုးလိုက်တဲ့ ကျော်ကြီး
+မင်းသမီးနာမည် Hijiri Maihara",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00086/playlist.m3u8",
+"download":"https://www.mediafire.com/file/10r1ufptvrp1ml7/JUQ+086SD.mp4/file",
+"photo1":"https://i.imgur.com/yjwNYVN_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00086/juq00086pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00086/juq00086jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00086/juq00086jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00086/juq00086jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/o92wyvrciuoi3b4/JUQ+086HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
