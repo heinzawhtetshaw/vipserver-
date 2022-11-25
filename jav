@@ -3956,4 +3956,19 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00086/juq00086jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/o92wyvrciuoi3b4/JUQ+086HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-049mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းဖစ်သူ ရာထူးတက်ဖို့အတွက် 
+ယောကျာ်းရဲ့အထက်အရာရှိပြောင်ကြီးကို အိမ်ခေါ်ထမင်းဖိတ်ကျွေးတဲ့ ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00049/playlist.m3u8",
+"download":"https://www.mediafire.com/file/obi2qumfozr18sd/JUQ+049SD.mp4/file",
+"photo1":"https://i.imgur.com/EolKMRl_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00049/juq00049pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221125_190153.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221125_190353.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00049/juq00049jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/xcog4kqk9o6lchn/JUQ+049HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
