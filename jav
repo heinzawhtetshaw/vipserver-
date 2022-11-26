@@ -3986,4 +3986,20 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00049/juq00049jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/xcog4kqk9o6lchn/JUQ+049HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDV-175mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီကောင်မလေးဟာ ချမ်းသာစွာမွေးဖွားလာပေမယ့် အသက် 21 နှစ်အရွယ်ရောက်တဲ့အချိန်မှာတော့ အဖေဖစ်သူရဲ့ အလုပ်ဟာ ဒေဝါလီခံလိုက်ရပီး ဆင်းရဲသွားခဲ့ပါတယ်
+သူဌေးသမီးဖစ်တဲ့သူမဟာ လောကဓံကိုအံတုရင်း 
+မုန့်ဆိုင်တစ်ဆိုင်မှာ အလုပ်ဝင်လုပ်ရာမှ သူ့ကိုသဘောကျနေတဲ့ ဆိုင်မန်နေဂျာရဲ့ ဒစ်ကြီးကိုတော့ အံကြိတ်ခံနိုင်ပါ့မလား..
+မင်းသမ‌ီးနာမည် Rikka Ono ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00175/playlist.m3u8",
+"download":"https://www.mediafire.com/file/slkmjxstcjtob11/Midv-175+480p.mp4/file",
+"photo1":"https://i.imgur.com/yAC1sg7_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00175/midv00175pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_11-26-07.10.50.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_11-26-07.51.11.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221126_192818.jpg",
+"dapp":"https://www.mediafire.com/file/u50x1zjtupe6f4i/Midv-175_720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
