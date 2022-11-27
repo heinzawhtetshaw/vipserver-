@@ -4002,4 +4002,18 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221126_192818.jpg",
 "dapp":"https://www.mediafire.com/file/u50x1zjtupe6f4i/Midv-175_720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-098mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဖောက်ပြန်တဲ့ယောက်ျားကို မကျေနပ်တဲ့ နာအို က  sugar daddy စပွန်ဆာ အကြီးစားရှာခဲ့ပါတယ် ယောက်ျားကို လက်စားချေချင်တာကြောင့် တခြားလူဆီမှာ အလိုးခံတဲ့ နာအိုလေး
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00098/playlist.m3u8",
+"download":"https://www.mediafire.com/file/8t7anliye6d2w29/JUQ_098SD.mp4/file",
+"photo1":"https://i.imgur.com/oBTZVol_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00098/juq00098pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00098/juq00098jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00098/juq00098jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00098/juq00098jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/8f55835tt2l41er/JUQ_098HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
