@@ -4016,4 +4016,19 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00098/juq00098jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/8f55835tt2l41er/JUQ_098HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUX-976mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီတစ်ခါ အန်တီကြီးတွေအလှည့်လာပီဗျာ
+ယောကျ်ားနဲ့လက်ပူးလက်ကြပ်မိထားတဲ့ကြားက ဟိုဘက်ခန်းကကောင်နဲ့ ထပ်ပလေးခဲ့တဲ့ အန်တီကြီးရဲ့ အကြမ်းအရမ်း ဘဝရသ ဇာတ်လမ်းစုံကို ပိတ်ကားထက်မှာ သရုပ်ပီပီကြည့်ရှူရမှာဖြစ်ပါတယ်.....
+မင်းသမီးနာမည် Nozomi Tanihara",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jux/jux00976/jux00976_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/6ffleys44h8ggca/JUX+976SD.mp4/file",
+"photo1":"https://i.imgur.com/lRcPHRB_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jux00976/jux00976pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jux00976/jux00976jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jux00976/jux00976jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jux00976/jux00976jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/mi5c7n31rqvozd1/JUX+976HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
