@@ -4031,4 +4031,18 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://pics.dmm.co.jp/digital/video/jux00976/jux00976jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/mi5c7n31rqvozd1/JUX+976HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-125mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရွာကိုပြန်လာတဲ့ကောင်လေးနဲ့ မမကြီးတို့ရဲ့ ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Marina Shiraishi ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00125/playlist.m3u8",
+"download":"https://www.mediafire.com/file/lfavc55dhcjh3iu/Juq_125sd.mp4/file",
+"photo1":"https://i.imgur.com/dz0afQR_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00125/juq00125pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221129_220419.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00125/juq00125jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00125/juq00125jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/w08go5z8rfwv9eq/JUQ_125_HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
