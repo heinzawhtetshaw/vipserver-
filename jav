@@ -4045,4 +4045,20 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00125/juq00125jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/w08go5z8rfwv9eq/JUQ_125_HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-150mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဦးလေးကြီးဟာ သမီးအရွယ်သာရှိတဲ့နာအိုလေးကို လိုးချင်နေပေမယ့် အသက် 50ကျော်ဦလေးကြီးတစ်ယောက်အနေနဲ့ နာအိုလေးဆီက အချစ်ကိုရဖို့ကတကယ်ကို မဖစ်နိုင်ပါဘူး
+ဒါပေမယ့် အကြံပိုင်လှတဲ့ ဒီလူကြီးဟာ နာအိုလေးကို သားဖစ်သူနဲ့ လက်ထပ်ပေးခဲ့ပါတယ်
+ပီးမှသူလိုချင်တဲ့အကွက်ကို ရအောင်ရွေ့မယ်ဆိုတဲ့ အကြံဆိုးကြီးနဲ့ပေါ့...
+မင်းသမီးနာမည် Nao Jinguji ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00150/playlist.m3u8",
+"download":"https://www.mediafire.com/file/yvvc4rq6a9iktxc/Juq-150+480p.mp4/file",
+"photo1":"https://i.imgur.com/Xde3U25_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00150/juq00150pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221130_200725.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221130_201320.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00150/juq00150jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/384w8sw1m25980f/Juq-150+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
