@@ -4061,4 +4061,20 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00150/juq00150jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/384w8sw1m25980f/Juq-150+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-367mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တိုက်ခန်းအသစ်ဝယ်လိုက်ပီးတဲ့နောက် 
+အဲဒီတိုက်ခန်းရဲ့ ဘေးအခန်းမှာနေတဲ့ အစ်မကြီးကို ကြွေသွားခဲ့ရတယ်
+သူမ မှာယောကျာ်းရှိပေမယ့် ကျနော်အချစ်တွေက ရပ်တန့်လို့မရခဲ့ဘူး
+မင်းသမီးနာမည် Hikari Kisaki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00367/playlist.m3u8",
+"download":"https://www.mediafire.com/file/uy1znhzppq5qrii/ADN_367SD.mp4/file",
+"photo1":"https://i.imgur.com/qcX7Uma_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00367/adn00367pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221201_205113.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00367/adn00367jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00367/adn00367jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/zigoo9ttq8c3lqw/ADN_367HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
