@@ -4077,4 +4077,18 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00367/adn00367jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/zigoo9ttq8c3lqw/ADN_367HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDE-933mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရည်းစားက အလုပ်ရှုပ်နေသမျှကာလပက်လုံးမှာ အဝှာမပြုရပဲ အောင့်အီးသည်းခံနေရတဲ့ MC Yuduru တစ်ယောက် အားလပ်ရပ်ရာသီရောက်တဲ့အခါမှာ တော့ ရေပူစမ်းခရီးကို အတူသွားကြရင်း အောင့်ထားသမျှ ဖြည်ချကာ အဝလိုး
+မင်းသမီးနာမည် Fumika Nakayama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/mide00933/playlist.m3u8",
+"download":"https://www.mediafire.com/file/p0vl24ws7vpz9ej/MIDE_933SD.mp4/file",
+"photo1":"https://i.imgur.com/m7uRO0l_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/mide00933/mide00933pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mide00933/mide00933jp-9.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mide00933/mide00933jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mide00933/mide00933jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/uvxji1rhc1emwze/MIDE_933HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
