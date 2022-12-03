@@ -4091,4 +4091,18 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://pics.dmm.co.jp/digital/video/mide00933/mide00933jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/uvxji1rhc1emwze/MIDE_933HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-041mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကုမ္ပဏီမှာ အမြဲတမ်းသောက်တလွဲလုပ်တတ်တဲ့ MC တစ်ယောက် ဘော့စ်အစ်မကြီး Nina  ရဲ့ နေ့စဉ် ဆူပူခြင်းကိုခံနေရပါတယ် MC တစ်ယောက်တည်းလွှတ်ထားရင် သောက်တလွဲတွေထပ်လုပ်နေမှာစိုးလို့ ဘော့စ် မမ Nina ကိုယ်တိုင် စောင့်ပြီး အချိန်ပိုဆင်းရင်း..
+မင်းသမီးနာမည် Nina Nishimura ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00041/playlist.m3u8",
+"download":"https://www.mediafire.com/file/i669iepl0mej7h5/JUQ+041SD.mp4/file",
+"photo1":"https://i.imgur.com/cn3sYoU_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00041/juq00041pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221203_200940.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221203_201001.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00041/juq00041jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/zn4v5k5hznga3uq/JUQ+041HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
