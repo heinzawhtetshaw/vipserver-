@@ -4105,4 +4105,18 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00041/juq00041jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/zn4v5k5hznga3uq/JUQ+041HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-360mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူနာပြုဆရာမလေး ၃ယောက်နဲ့ လူဆိုးကြီးတစ်ယောက်ပါ၀င်တဲ့ ဇာတ်ကြမ်းကားလေးဖြစ်ပါတယ်
+‌‌သူနာပြုလေးတွေက အချောတွေနော်",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/ati/atid00360/atid00360_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/dczy0fb8t9jvs76/ATID+360SD.mp4/file",
+"photo1":"https://i.imgur.com/xhAE8Ss_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00360/atid00360pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/atid00360/atid00360jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00360/atid00360jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00360/atid00360jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/4rsk66i8od0vm72/ATID+360HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
