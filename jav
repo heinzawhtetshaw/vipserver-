@@ -4119,4 +4119,22 @@ Lilyသည် ယောက်ျားဖစ်သူကို ကုဖို�
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00360/atid00360jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/4rsk66i8od0vm72/ATID+360HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-072mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ပရိသတ်တို့ စောင့်စားနေတဲ့ကားကောင်းလေး တစ်ကားလာပါပီ
+တောင်တန်းတွေဆီသွားချင်‌နေပေမယ့် ခင်ပွန်းက မအားလို့ တစ်ယောက်တည်းခရီးထွက်လာရာကနေ
+တောထဲမှာ ဒစ်ကြီးနဲ့ အလိုးခံလိုက်ရတဲ့ ဇနီးချောလေး 
+Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ ဆင်ဆာမပါဘဲ ကြည့်ရမှာဆိုတော့ လုံးဝလက်မလွတ်သင့်ဘူး ပရိသတ်ကြီးတို့
+မင်းသမီးကလည်း လှချက်ပဲ
+မင်းသမီးနာမည် Misuzu Tachibana ",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/adn/adn00072/adn00072_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/q46cieki251d9tm/Adn-072+480p.mp4/file",
+"photo1":"https://i.imgur.com/b6iRVD4_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00072/adn00072pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_12-06-07.40.46.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_12-06-07.41.28.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221206_193029.jpg",
+"dapp":"https://www.mediafire.com/file/gyae6iveer5qhxo/Adn-072+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
