@@ -4137,4 +4137,18 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221206_193029.jpg",
 "dapp":"https://www.mediafire.com/file/gyae6iveer5qhxo/Adn-072+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"DLDSS-079mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဖေနဲ့သမီး အင်းစက်ကားလေးပါ
+မင်းသမီးနာမည် Ayaka Tomoda",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1dl/1dldss079/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bj74xwcxvenjns4/DLDSS+079SD.mp4/file",
+"photo1":"https://i.imgur.com/6JZfekL_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1dldss00079/1dldss00079pl.jpg",
+"photo3":"https://i.imgur.com/szedppO_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/1dldss00079/1dldss00079jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1dldss00079/1dldss00079jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/mwwi1njeq1tum92/DLDSS+079HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
