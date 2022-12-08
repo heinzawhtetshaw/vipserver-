@@ -4151,4 +4151,18 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://pics.dmm.co.jp/digital/video/1dldss00079/1dldss00079jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/mwwi1njeq1tum92/DLDSS+079HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-449mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မျက်စိရှေ့မှာမဟုတ်တာ လုပ်နေတာကို လက်ပိုက် ကြည့်မနေတတ်တဲ့ မမ SakiOkuda ဟာ သူ့အိမ်မှာငှားနေတဲ့ ဆိုးဆိုးပေပေ ကောင်လေးတစ်ယောက်က စတိုးဆိုင်မှာ ပစ္စည်းခိုးနေတာကို ဖမ်းမိပြီး ဆူလိုက်တာကို လူဆိုးလေးဟာ မာနထိခိုက်ရတာကြောင့် နေရာတကာ ဆရာကြီးလုပ်တတ်တဲ့ မမ Saki ကို လူအုပ်ဖွဲပြီး Lesson ပေးတာကိုကြည့်ရမှာပဲဖြစ်ပါတယ်...
+မင်းသမီးနာမည် Saki Okuda ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00449/playlist.m3u8",
+"download":"https://www.mediafire.com/file/v9jdwuzq3m1bwq6/SSIS_449SD.mp4/file",
+"photo1":"https://i.imgur.com/b8vjGhr_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00449/ssis00449pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00449/ssis00449jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00449/ssis00449jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00449/ssis00449jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/qrkodbvrkt0aa2k/SSIS_449HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
