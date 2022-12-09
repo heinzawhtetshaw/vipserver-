@@ -4165,4 +4165,19 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00449/ssis00449jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/qrkodbvrkt0aa2k/SSIS_449HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-772mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းရဲ့ သူဌေးဆီကနေ အလိုးခံလိုက်ရတဲ့ သူမ
+သူဌေးဆိုတဲ့ဘဲကြီးက တကယ်လိုးတာ
+မင်းသမီးနာမည် Non Ohana",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00772/playlist.m3u8",
+"download":"https://www.mediafire.com/file/smi5bezomytpd9i/MEYD+772SD.mp4/file",
+"photo1":"https://i.imgur.com/8qHjP3b_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00772/meyd00772pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221209_180308.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00772/meyd00772jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00772/meyd00772jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/u2adpzxc568str7/MEYD+772HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
