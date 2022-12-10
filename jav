@@ -4180,4 +4180,34 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00772/meyd00772jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/u2adpzxc568str7/MEYD+772HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-554mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အရမ်းလှတဲ့ ဂျပန်မှာ နာမည်ကြီးမင်းသမီးလေး Aoi Tsukasa ရဲ့ သုံးနာရီကြာဆက်တိုက်မနားတမ်းကြမ်းတဲ့ ဇာတ်ကြမ်းကားလေး
+မင်းသမီးနာမည် Tsukasa Aoi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00554/playlist.m3u8",
+"download":"https://www.mediafire.com/file/5fnsa45ltyketi5/SSIS+554SD.mp4/file",
+"photo1":"https://i.imgur.com/qcXOf2W_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00554/ssis00554pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00554/ssis00554jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00554/ssis00554jp-10.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00554/ssis00554jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/xp0ux1fu32obtj6/%255BDark_TV%255DSSIS_554%257EHD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"FSDSS-477mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရုံးမှာ သူဌေးရဲ့ အလုပ်အရမ်းခိုင်းတာကြောင့်
+ပင်ပန်းနေရတဲ့ ချစ်စရာကောင်မလေး Iragashi ဟာ အလုပ်ဘယ်လောက်များလဲဆိုရင် အလုပ်တွေများလွန်းတာကြောင့် ‌အိမ်ကနေ ဘော်လီ၀တ်ဖို မေ့ပြီး ရုံးကို အပြေးလာရတဲ့အထိပါပဲ 
+အဲ့လိုနဲ့ သူဌေးက မြင်သွားပြီး အချိန်ပိုဆင်းခိုင်းပီး အမုန်းလိုးတာကို ကြည့်ရမှာပါ...
+မင်းသမီးနာမည် Natsu Igarashi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1fs/1fsdss477/playlist.m3u8",
+"download":"https://www.mediafire.com/file/sv126ux1tzctonf/FSDSS-477SD.mp4/file",
+"photo1":"https://i.imgur.com/KC2QtxQ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1fsdss00477/1fsdss00477pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1fsdss00477/1fsdss00477jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1fsdss00477/1fsdss00477jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1fsdss00477/1fsdss00477jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/cje4bguumoteo94/FSDSS-477HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
