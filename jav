@@ -4193,4 +4193,18 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://pics.dmm.co.jp/digital/video/1fsdss00477/1fsdss00477jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/cje4bguumoteo94/FSDSS-477HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-140mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူ့မိန်းမRiriko ကို ကိုယ်၀န်ရဖိုကြိုးစားနေတာ ၁၂နှစ်ရှိပြီ ဖြစ်ပြီး နောက်ဆုံးမှာတော့ ကိုယ်၀န်ရခဲ့ပါတယ်။ဒရာမာဆန်ဆန် ဖြစ်ရပ်တစ်ခုက MC ဟာ မျိုးမအောင်တဲ့ အမြုံကောက်ဖြစ်နေတာကို ဆေးစစ်ချက်အရသိရှိလိုက်ရတဲ့ အခါ သူ့မိန်းမ ဗိုက်ထဲက ကလေးဟာ သူ့ကလေးမဟုတ်မှန်းသိပြီး ဘာတွေဆက်ဖြစ်မယ်ဆိုတာ ကြည့်ရမှာပဲဖြစ်ပါတယ်
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00140/playlist.m3u8",
+"download":"https://www.mediafire.com/file/y9k2tdt4gyj4li6/JUQ+140SD.mp4/file",
+"photo1":"https://i.imgur.com/jXHoW2n_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00140/juq00140pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00140/juq00140jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221211_173953.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00140/juq00140jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/ux9giaengber12m/JUQ+140HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
