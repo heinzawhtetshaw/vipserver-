@@ -1036,21 +1036,6 @@ Lily Hart မှာ သားတစ်ယောက်ရှိပြီး သ�
 "dapp":"https://www.mediafire.com/file/it2ka2rbyzrknmy/SHKD+751-HD.mp4/file",
 "candownload":"",
 "wcode":"တစ်"},
-{"name":"ADN-351mmsub",
-"info":"မြန်မာစာတန်းထိုး
-ဇာတ်လမ်းလေးကတော့ ၁၀ မီလီယံတန်ဖိုးရှိတဲ့ ပန်းချီကားကိုပျက်စီးစေမိလို့ အလျော်အစားနေနဲ့ သူဌေးစုံတွဲနဲ့ အတွဲချင်းလဲစားရတဲ့ MC ရဲ့အကြောင်းလေးပါ
-အလုပ်မှာ အမှားကြီးကြီးလုပ်မိတဲ့ MC ဟာ ၁၀မီလီယံလျော်ဖို့ ပိုက်ဆံမရှိတဲ့အတွက် သူဌေးဖြစ်သူကမ်းလှမ်းတဲ့ ကိစ္စကို အဓိပ္ပာယ်မရှိမှန်းသိလျက်နဲ့ လက်ခံလိုက်ရပါတယ် အဲဒါကတော့ သူဌေးလင်မယားနဲ့ MC တို့လင်မယား စနေ တနင်္ဂနွေတိုင်းအတွဲလဲဖို့ပဲဖြစ်ပါတယ် ဒါပေမယ့် စည်းမျဉ်းစည်းကမ်းအရ ဘယ်အတွဲမှ ညစ်ညမ်းတာတွေမလုပ်ရပါဘူးတဲ့
-မင်းသမီးနာမည် Airi Kijima",
-"watch":"https://awscc3001.r18.com/litevideo/freepv/a/adn/adn00351/adn00351_dmb_w.mp4",
-"download":"https://www.mediafire.com/file/g56p7d3jc50ni5e/ADN+351-SD.mp4/file",
-"photo1":"https://i.imgur.com/4S2x3Pw_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-"photo2":"https://pics.r18.com/digital/video/adn00351/adn00351pl.jpg",
-"photo3":"https://pics.r18.com/digital/video/adn00351/adn00351jp-11.jpg",
-"photo4":"https://pics.r18.com/digital/video/adn00351/adn00351jp-5.jpg",
-"photo5":"https://pics.r18.com/digital/video/adn00351/adn00351jp-7.jpg",
-"dapp":"https://www.mediafire.com/file/ku7yfxo7g2fycg1/ADN+351-HD.mp4/file",
-"candownload":"",
-"wcode":"တစ်"},
 {"name":"URE-049mmsub",
 "info":"မြန်မာစာတန်းထိုး
 ဇာတ်လမ်းလေးကတော့ manga ကိုပြန်ရိုက်ထားတဲ့ သားအမိ ၂တွဲ အင်းဆက်ကားလေးပါ
