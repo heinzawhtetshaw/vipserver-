@@ -4207,4 +4207,19 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00140/juq00140jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/ux9giaengber12m/JUQ+140HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDE-187mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ချောချောလှလှလေးမှ ကြည့်ချင်တဲ့သူတွေအတွက် လာပါပီ
+သူဌေးက မိမိ‌လက်အောက်က ဝန်ထမ်းမှာ ဇနီးချောလေး ရှိတာကိုသိသွားတဲ့အခါမှာတော့ သူမရဲ့ဘဝလေးဟာ ဘာတွေဆက်ဖစ်မလဲ
+မင်းသမီးနာမည် Yui Nishikawa",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mid/mide00187/mide00187_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/owu33rslb7cevn8/Mide-187+480p.mp4/file",
+"photo1":"https://i.imgur.com/5trBi8Q_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/mide00187/mide00187pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo1/main/AddText_12-12-08.18.36.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221212_195606.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221212_200658.jpg",
+"dapp":"https://www.mediafire.com/file/pzfvp53nqmurti4/Mide-187_720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
