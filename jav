@@ -4222,4 +4222,18 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo1/main/IMG_20221212_200658.jpg",
 "dapp":"https://www.mediafire.com/file/pzfvp53nqmurti4/Mide-187_720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-757mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ဖော်အဒေါ်ကြီးနဲ့ အထီးကျန်နေတဲ့ လုလင်ပျို
+မင်းသမီးနာမည် Rin Okae",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00757/playlist.m3u8",
+"download":"https://www.mediafire.com/file/9kcy8hd6hpcfh82/JUL+757SD.mp4/file",
+"photo1":"https://i.imgur.com/dWKFTau_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00757/jul00757pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00757/jul00757jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00757/jul00757jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00757/jul00757jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/kiav73tz6midaxu/JUL+757HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
