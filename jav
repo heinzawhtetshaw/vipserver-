@@ -4252,4 +4252,19 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://pics.dmm.co.jp/digital/video/dass00014/dass00014jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/awb107bemo18mzw/DASS+014HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"OBA-384mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အန်တီကြီးကား ကြိုက်သူတွေအတွက်
+အမျိုးသားမရှိတော့လို့ အဖော်မဲ့အထီးကျန်နေသူ အထန်အန်တီကြီးဟာ အိမ်အလည်လာတဲ့ အမျိုးသားရဲ့အကို(ခဲအို) နဲ့ဘာတွေဖစ်မလဲ...
+မင်းသမီးနာမည် Ayaka Makimura",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/o/oba/oba00384/oba00384_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/49fmae105r31nmq/OBA+384SD.mp4/file",
+"photo1":"https://i.imgur.com/0DKW9I0_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/oba00384/oba00384pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/oba00384/oba00384jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/oba00384/oba00384jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/oba00384/oba00384jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/o8tvo1kkdxiq92v/OBA+384HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
