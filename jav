@@ -4236,4 +4236,20 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00757/jul00757jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/kiav73tz6midaxu/JUL+757HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"DASS-014mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သားဖစ်သူ လက်ထပ်ထားတဲ့ကောင်မလေးက 
+ဖူးပွင့်ခိုင်လိုမျိုး အဖော်အချွတ်မော်ဒယ်ဆိုတာ အဖေဖစ်သူသိသွားတဲ့အခါ
+ဘာတွေဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Sumire Mizukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/das/dass00014/playlist.m3u8",
+"download":"https://www.mediafire.com/file/vu9htj0kxkq6tms/DASS+014SD.mp4/file",
+"photo1":"https://i.imgur.com/ea6mdqi_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/dass00014/dass00014pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dass00014/dass00014jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/dass00014/dass00014jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/dass00014/dass00014jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/awb107bemo18mzw/DASS+014HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
