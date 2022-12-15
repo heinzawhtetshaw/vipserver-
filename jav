@@ -4267,4 +4267,19 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://pics.dmm.co.jp/digital/video/oba00384/oba00384jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/o8tvo1kkdxiq92v/OBA+384HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPX-771mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ချစ်ရတဲ့ကောင်လေးနဲ့ လက်ထပ်ရတော့မှာမို့ ပျော်ရွင်နေခဲ့တဲ့သူမ
+ဒါပေမယ့်လည်း သူ့လက်ထပ်မယ့်ချစ်သူရဲ့ အစ်ကိုက မုဒိန်းကောင်ဖစ်နေတဲ့အခါ သူမ ပျော်နိုင်ပါ့အုံးမလား
+မင်းသမီးနာမည် Miu Shiramine",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00771/playlist.m3u8",
+"download":"https://www.mediafire.com/file/7dr5ifla13kxcqj/Ipx-771+480p.mp4/file",
+"photo1":"https://i.imgur.com/GGTti9V_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00771/ipx00771pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/AddText_12-15-09.07.13.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/AddText_12-15-08.54.14.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00771/ipx00771jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/83c54hwgcuxz1s8/Ipx-771+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
