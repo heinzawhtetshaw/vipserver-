@@ -4282,4 +4282,18 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://pics.dmm.co.jp/digital/video/ipx00771/ipx00771jp-11.jpg",
 "dapp":"https://www.mediafire.com/file/83c54hwgcuxz1s8/Ipx-771+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-084mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းအမေကို ဆွဲစားလိုက်တဲ့ ကောင်လေး
+မင်းသမီးနာမည် Maki Hojo",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00084/playlist.m3u8",
+"download":"https://www.mediafire.com/file/48waqk3wf0s5ebf/JUQ+084SD.mp4/file",
+"photo1":"https://i.imgur.com/raLUEhz_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00084/juq00084pl.jpg",
+"photo3":"https://i.imgur.com/6cD5T2d_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00084/juq00084jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00084/juq00084jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/fbieomdel34i0b8/JUQ+084HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
