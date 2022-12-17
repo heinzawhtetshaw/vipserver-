@@ -4296,4 +4296,18 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00084/juq00084jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/fbieomdel34i0b8/JUQ+084HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"RBK-056mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဘဝကနောက်ဆုံးအချိန်ရောက်နေတယ့်လူပျိုအဖိုးကြီးတစ်ယောက်က သူ့ကိုယ်သူသတ်သေဖို့ကြိုးစားနေတယ့်အချိန်ငယ်ငယ်ကလာလာကစားတတ်တယ့် hana(ပန်းလေး)ဆိုတယ့်ကလေးမလေးက သူ့အိမ်ကို မမျှော်လင့်ပဲ အလည်ရောက်လာခဲ့ပါတယ်... 
+မင်းသမီးနာမည် Non Ohana",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/rbk/rbk00056/playlist.m3u8",
+"download":"https://www.mediafire.com/file/uugaw0no6sfpv02/RBK+056SD.mp4/file",
+"photo1":"https://i.imgur.com/VV4pVWb_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/rbk00056/rbk00056pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/rbk00056/rbk00056jp-9.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/rbk00056/rbk00056jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/rbk00056/rbk00056jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/3ketazybufg9ggj/RBK+056HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
