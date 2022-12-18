@@ -4310,4 +4310,19 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://pics.dmm.co.jp/digital/video/rbk00056/rbk00056jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/3ketazybufg9ggj/RBK+056HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ALDN-008mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အန်တီဆိုဒ်တွေ ကြိုက်တဲ့သူတွေအတွက်
+ယောက္ခမနဲ့သမက် ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Hana Haruna",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ald/aldn00008/playlist.m3u8",
+"download":"https://www.mediafire.com/file/x2p1ftke9t2f4y4/ALDN+008SD.mp4/file",
+"photo1":"https://i.imgur.com/LC5Ke9g_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/aldn00008/aldn00008pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/aldn00008/aldn00008jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/aldn00008/aldn00008jp-11.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/aldn00008/aldn00008jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/bp13pclycrnvw9u/ALDN+008HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
