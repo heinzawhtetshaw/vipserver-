@@ -4325,4 +4325,19 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://pics.dmm.co.jp/digital/video/aldn00008/aldn00008jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/bp13pclycrnvw9u/ALDN+008HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPX-848mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဖေနောက်မိန်းမယူလိုက်လို့ မိထွေးရဲ့သမီးက ကျနော် အစ်မဖစ်လာခဲ့ပါတယ်
+အဖေအမေ မရှိတဲ့အချိန်တွေဆို ကျနော်ကိုအမြဲအနိုင်ကျင့်နေတဲ့သူမကို အခွင့်အရေးရတာနဲ့ လိုးသတ်...
+မင်းသမီးနာမည် Hikari Azusa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00848/playlist.m3u8",
+"download":"https://www.mediafire.com/file/hzrwnjb959wucyf/Ipx-848+480p.mp4/file",
+"photo1":"https://i.imgur.com/AMa7x2q_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00848/ipx00848pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221219_215932.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221219_220011.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221219_220044.jpg",
+"dapp":"https://www.mediafire.com/file/60kpuvb9wjt06z7/Ipx-848+720+p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
