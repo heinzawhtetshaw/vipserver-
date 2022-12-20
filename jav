@@ -4340,4 +4340,32 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221219_220044.jpg",
 "dapp":"https://www.mediafire.com/file/60kpuvb9wjt06z7/Ipx-848+720+p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"CJOD-264mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ထောင်ဖောက်ပြေးလာတဲ့မင်းသမီးဟာ MCအိမ်မှာ၀င်ပုန်းနေရင်း ထောင်ထဲမှာယောင်္ကျားတွေနဲ့ဝေးကွာနေလိုဆာလောင်နေတဲ့မမတယောက် MCကိုမနားတမ်းဘယ်လိုတေနွှာမလဲဆိုတာကြည့်ရှုလိုက်ကြရအောင်ဗျာ...
+မင်းသမီးနာမည် Sumire Mizukawa",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/c/cjo/cjod00264/cjod00264_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/hn6kyi6g9mq5uee/CJOD-264-SD.mp4/file",
+"photo1":"https://i.imgur.com/fmpY9qW_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/cjod00264/cjod00264pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/cjod00264/cjod00264jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/cjod00264/cjod00264jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/cjod00264/cjod00264jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/tgs8ncvipejj5j8/CJOD-264-HD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUFE-416mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လက်ထပ်ထားတဲ့ ၁၀ နှစ်အတွင်းမှာ အကြင်နာတွေရော့လာတဲ့ Ai Sayama ယောက်ျားဟာ ညဖက်တွေမှာလည်းသူမကို မကြင်နာတော့ပါဘူး
+မင်းသမီးနာမည် Ai Sayama ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juf/jufe00416/playlist.m3u8",
+"download":"https://www.mediafire.com/file/qrq3n25qdtux1g3/JUFE+416HD(480P).mp4/file",
+"photo1":"https://i.imgur.com/URWrl13_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00416/jufe00416pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221220_234419.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221220_234528.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jufe00416/jufe00416jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/ll1hp1pwl7rxpnl/JUFE+416HD(720P).mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
