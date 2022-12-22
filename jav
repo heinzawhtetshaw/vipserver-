@@ -4368,4 +4368,18 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://pics.dmm.co.jp/digital/video/jufe00416/jufe00416jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/ll1hp1pwl7rxpnl/JUFE+416HD(720P).mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-822mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဦးလေးကြီးတွေနဲ့ရင်ဆိုင်ရတော့မယ့် အိမ်ထောင်ရှင်မလေး ရီနာ..
+မင်းသမီးနာမည် Rena Kodama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00822/playlist.m3u8",
+"download":"https://www.mediafire.com/file/wyszjdpqlgqee9j/Jul-822+480P.mp4/file",
+"photo1":"https://i.imgur.com/GgdmlMD_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00822/jul00822pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/AddText_12-22-08.17.20.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/AddText_12-22-08.18.49.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221222_201228.jpg",
+"dapp":"https://www.mediafire.com/file/e81fymfa6i8rd67/Jul-822+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
