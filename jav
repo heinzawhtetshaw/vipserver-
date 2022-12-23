@@ -4395,6 +4395,6 @@ Ena koumeတိုလင်မယားဟာ အားလပ်ရက်ရတ�
 "photo3":"https://pics.dmm.co.jp/digital/video/jufe00131/jufe00131jp-3.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/jufe00131/jufe00131jp-12.jpg",
 "photo5":"https://pics.dmm.co.jp/digital/video/jufe00131/jufe00131jp-10.jpg",
-"dapp":"VatLxEkxpz3M493Zt4MfArjJaKufan76M9OqFbvs1MEQ4fdJwOhpS65LQEEaMwQ4Ts+jlYH3UEU23FquL/bnaA/ilSoSelEfGcIvqXG50Nc=",
+"dapp":"9Ay/fDlcTQuq2YOF1zu6QZw4VIqwkWB8HkJljb+RyYrC/QBQRkt1VdtTENNCHgoc/NC9b6o/TMYCCssCj95W4a112hvwzmXqcbkQof0fzLE=",
 "candownload":"t",
 "wcode":"တစ်"}]
