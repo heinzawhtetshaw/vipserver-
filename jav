@@ -4382,4 +4382,19 @@ Bus ကားပေါ်က ဇာတ်လမ်းလေးကိုမှ �
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221222_201228.jpg",
 "dapp":"https://www.mediafire.com/file/e81fymfa6i8rd67/Jul-822+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUFE-131mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အစ်ကိုဖစ်သူရဲ့ မိန်းမကိုမှ လိုးမိသွားတဲ့ဇာတ်လမ်းလေး
+Ena koumeတိုလင်မယားဟာ အားလပ်ရက်ရတုန်းနယ်ပြန်လာခဲ့ပါတယ် အိမ်သာအရမ်းတက်ချင်နေတဲ့Enaဟာအိမ်သာထဲလူရှိမရှိ ရှေ့နောက်မကြည့်ဘဲ အိမ်သာပေါ်ထိုင်ချလိုက်ချိန် အိပ်သာထဲဂွင်းထုနေတဲ့ကောင်ရဲ့ဒုတ်ပေါ်ထိုင်မိ...
+မင်းသမီးနာမည် Ena Koume",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/juf/jufe00131/jufe00131_dmb_w.mp4",
+"download":"9Ay/fDlcTQuq2YOF1zu6QYYn/F+bL8+Pmic3rC/CmpERj6d+LaaFdSy/NdobCjyAggoDEkQ3NHv8O0wFdcmR6IKrljte50DAyjGy5Le86QM=",
+"photo1":"https://i.imgur.com/xxHUZJQ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00131/jufe00131pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jufe00131/jufe00131jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jufe00131/jufe00131jp-12.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jufe00131/jufe00131jp-10.jpg",
+"dapp":"VatLxEkxpz3M493Zt4MfArjJaKufan76M9OqFbvs1MEQ4fdJwOhpS65LQEEaMwQ4Ts+jlYH3UEU23FquL/bnaA/ilSoSelEfGcIvqXG50Nc=",
+"candownload":"t",
 "wcode":"တစ်"}]
