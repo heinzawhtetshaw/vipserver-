@@ -4397,4 +4397,21 @@ Ena koumeတိုလင်မယားဟာ အားလပ်ရက်ရတ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jufe00131/jufe00131jp-10.jpg",
 "dapp":"9Ay/fDlcTQuq2YOF1zu6QZw4VIqwkWB8HkJljb+RyYrC/QBQRkt1VdtTENNCHgoc/NC9b6o/TMYCCssCj95W4a112hvwzmXqcbkQof0fzLE=",
 "candownload":"t",
+"wcode":"တစ်"},
+{"name":"JUL-194mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒဏ်ရာတွေပေးသွားတဲ့ ခင်ပွန်းဖစ်သူရဲ့ သူဌေး
+ကောင်မလေးက ကြောက်လို့ ငိုနေတာတောင် လိုးရက်တယ်ကွာ
+
+ဒီကားက ဒီမင်းသမီးကြီးရဲ့ နာမည်ကြီးကားလေးပါ
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00194/jul00194_dmb_w.mp4",
+"download":"lMUVvuca7rPstb548JXyx+JNkrW0eZWp1didGB+oP42lO8lRnwznoMoH3yA9ld75yYFkisLbKgF2G6axju+fueJipIxyRbrzBo4ZVXbF8jo=",
+"photo1":"https://i.imgur.com/fEelWrY_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00194/jul00194pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221224_205132.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221224_205531.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221224_205010.jpg",
+"dapp":"lMUVvuca7rPstb548JXyx/FSo8lKdT9PfGV/YfERfJ5JqR+dLXj1R+d7W9l4QoD/EUN1pOOdIBvG2Y3cwmxEV/NfN8J6pvBu8UkjveDz0/I=",
+"candownload":"s",
 "wcode":"တစ်"}]
