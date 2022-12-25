@@ -4414,4 +4414,19 @@ Ena koumeတိုလင်မယားဟာ အားလပ်ရက်ရတ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221224_205010.jpg",
 "dapp":"lMUVvuca7rPstb548JXyx/FSo8lKdT9PfGV/YfERfJ5JqR+dLXj1R+d7W9l4QoD/EUN1pOOdIBvG2Y3cwmxEV/NfN8J6pvBu8UkjveDz0/I=",
 "candownload":"s",
+"wcode":"တစ်"},
+{"name":"JUL-973mmsub",
+"info":"မြန်မာစာတန်းထိုး
+kobayashiလို ခေါ်တဲ့ကောင်လေးဟာအတန်းဖော်သူငယ်ချင်းရဲ့အမေကိုကြွေလို့ အိမ်ထိအလည်လာခဲ့ပါတယ် 
+kobayashi ဟာမိခင်ငယ်ငယ်ထဲကဆုံးသွားလို့ မိခင်မေတ္တာငတ်နေတဲ့ကောင်လေးဖြစ်နေတဲ့အတွက် သူငယ်ချင်းအမေကို အမေလိုသဘောထားပြီးဖက်လိုရမလားဆိုပြီးခွင့်တောင်းခဲ့ပါတယ် သနားလိုပေးဖက်တာကို...
+မင်းသမီးနာမည် Ai Kano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00973/playlist.m3u8",
+"download":"https://www.mediafire.com/file/q287cdepsch2e53/JUL+973-MRSD.mp4/file",
+"photo1":"https://i.imgur.com/MwaSMgw_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00973/jul00973pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00973/jul00973jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00973/jul00973jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00973/jul00973jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/6m77x739uxgup2r/JUL+973-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
