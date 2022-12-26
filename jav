@@ -4429,4 +4429,18 @@ kobayashi ဟာမိခင်ငယ်ငယ်ထဲကဆုံးသွာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00973/jul00973jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/6m77x739uxgup2r/JUL+973-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-455mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်ခရီးစဉ်မှာ သူဌေးလိုးတာခံလိုက်ရတဲ့ကောင်မလေး
+မင်းသမီးနာမည် Shiose",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00455/playlist.m3u8",
+"download":"https://www.mediafire.com/file/uh14h8sm6ephc7v/SSIS+455SD.mp4/file",
+"photo1":"https://i.imgur.com/Yn9nM99_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00455/ssis00455pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221226_211230.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221226_211017.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00455/ssis00455jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/jpagi0705ffwo27/SSIS+455HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
