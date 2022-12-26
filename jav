@@ -4443,4 +4443,18 @@ kobayashi ဟာမိခင်ငယ်ငယ်ထဲကဆုံးသွာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00455/ssis00455jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/jpagi0705ffwo27/SSIS+455HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPE-018mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အရမ်းလှတဲ့ Sumire Mizukawa လေးရဲ့ ထူးခြားတဲ့ အနှိပ်နည်းပညာကို ခံယူပြီးတဲ့ အခါ ငါးရှည့်ကို ဆားနဲ့ပက်သလိုထွန့်ထွန့်လူးနေပြီး အရမ်းမိုက်နေတာလေးကိုကြည့်ရမှာပဲဖြစ်ပါတယ်...
+မင်းသမီးနာမည် Sumire Mizukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/ppp/pppe00018/playlist.m3u8",
+"download":"https://www.mediafire.com/file/fuk8m80plfnew4f/PPPE-018-MRSD.mp4/file",
+"photo1":"https://i.imgur.com/WxLUNpU_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/pppe00018/pppe00018pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221227_011814.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221227_011744.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pppe00018/pppe00018jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/fe5cgkidm3wi3bg/PPPE-018-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
