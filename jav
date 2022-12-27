@@ -4457,4 +4457,19 @@ kobayashi ဟာမိခင်ငယ်ငယ်ထဲကဆုံးသွာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/pppe00018/pppe00018jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/fe5cgkidm3wi3bg/PPPE-018-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"VENX-164mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇနီးနဲ့ ယောက္ခမကို မှားပီးတက်လိုးမိရာက 
+ဘာတွေဖြစ်သွားမလဲ
+မင်းသမီးနာမည် Momo Minami",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/v/ven/venx164/playlist.m3u8",
+"download":"https://www.mediafire.com/file/s2uaonb14qcpxk9/VENX+164SD.mp4/file",
+"photo1":"https://i.imgur.com/DjvJsJx_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/venx00164/venx00164pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/AddText_12-27-11.45.18.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/venx00164/venx00164jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/venx00164/venx00164jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/wwqvcqpd50sc7o8/VENX+164HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
