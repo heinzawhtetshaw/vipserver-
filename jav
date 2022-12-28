@@ -4472,4 +4472,20 @@ kobayashi ဟာမိခင်ငယ်ငယ်ထဲကဆုံးသွာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/venx00164/venx00164jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/wwqvcqpd50sc7o8/VENX+164HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPX-747mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဆေးရုံအုပ်ရဲ့သားက လက်ထပ်ခွင့်တောင်းထားလို့ အနာဂတ်ကိုတွေးပီး ပျော်ရွင်နေသော သူနာပြုဆရာမလေး နာမီ
+ဒီဆေးရုံကိုလူနာအဖြစ်ရောက်လာခဲ့တဲ့ ပြောင်ကြီးကလည်း သူနာပြုဆရာမလေးကို လိုးချင်နေခဲ့ပါတယ်
+ဘယ်သူအရင် လိုးခွင့်ရမလဲဆိုတာ‌ကိုတော့....
+မင်းသမီးနာမည် Nanami Misaki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00747/playlist.m3u8",
+"download":"GF3Gx9SaiWPi8FxWywXFrDHg31wQcbc+w3TxwcQL75P+hk5AJEGOjQIcgdzY4vSqVOM0B53yI/FD+Ac16lPlK2vq6d/vooEA+qUq68N1rdg=",
+"photo1":"https://i.imgur.com/dzUhyZr_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00747/ipx00747pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221228_154323.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221228_154445.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221228_154410.jpg",
+"dapp":"GF3Gx9SaiWPi8FxWywXFrPmJA0AYiSgRIwMr1bwHp1tCKcDrdhhnNt3bSRc7dIUl7fVWH6btYGZrDxPXFo0l7PW5D2vN0541m0sOtsBZt+M=",
+"candownload":"b",
 "wcode":"တစ်"}]
