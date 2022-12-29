@@ -4488,4 +4488,32 @@ kobayashi ဟာမိခင်ငယ်ငယ်ထဲကဆုံးသွာ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221228_154410.jpg",
 "dapp":"GF3Gx9SaiWPi8FxWywXFrPmJA0AYiSgRIwMr1bwHp1tCKcDrdhhnNt3bSRc7dIUl7fVWH6btYGZrDxPXFo0l7PW5D2vN0541m0sOtsBZt+M=",
 "candownload":"b",
+"wcode":"တစ်"},
+{"name":"MIMK-058mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်ကားလေးမှာတော့ ကိုယောင်္ကျားမရှိချိန်မှာဖောက်ပြန်တတ်တဲ့မိန်းမတွေကို တစုတစည်းရိုက်ပြထားပြီးမင်းသမီးသုံးလက်နဲ့ကြည့်ရှုရမှာပါ
+မင်းသမီးနာမည် Minako Komukai",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mim/mimk00058/mimk00058_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ncz2xjk82n4yl0u/MIMK_058SD.mp4/file",
+"photo1":"https://i.imgur.com/YwnxNMd_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/mimk00058/mimk00058pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mimk00058/mimk00058jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mimk00058/mimk00058jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mimk00058/mimk00058jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/gci70yhrsldcp2l/MIMK_058HD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-081mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိန်းမကို သူစိမ်းတွေနဲ့ ပေးလိုးတဲ့ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00081/playlist.m3u8",
+"download":"https://www.mediafire.com/file/byydgcg9l88julv/JUQ_081SD.mp4/file",
+"photo1":"https://i.imgur.com/XYWyogo_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00081/juq00081pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00081/juq00081jp-10.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221229_192719.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221229_192946.jpg",
+"dapp":"https://www.mediafire.com/file/ab315gv0s8tzavn/JUQ_081HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
