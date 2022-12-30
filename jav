@@ -4516,4 +4516,18 @@ kobayashi ဟာမိခင်ငယ်ငယ်ထဲကဆုံးသွာ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221229_192946.jpg",
 "dapp":"https://www.mediafire.com/file/ab315gv0s8tzavn/JUQ_081HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-155mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီ‌စော်ကြီးကိုမြင်တာနဲ့‌ ကြွေသွားလို့ အိမ်ထဲခိုးဝင်ပီး ချုပ်လိုးတဲ့ ဇာတ်လမ်း
+မင်းသမီးနာမည် Asahi Mizuno",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/adn/adn00155/adn00155_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/72c3as261wc7i81/ADN+155SD.mp4/file",
+"photo1":"https://i.imgur.com/hs5su9t_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00155/adn00155pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/adn00155/adn00155jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00155/adn00155jp-9.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221231_004955.jpg",
+"dapp":"https://www.mediafire.com/file/2ars56bgtqf3eh5/ADN+155HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
