@@ -4530,4 +4530,18 @@ kobayashi ဟာမိခင်ငယ်ငယ်ထဲကဆုံးသွာ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221231_004955.jpg",
 "dapp":"https://www.mediafire.com/file/2ars56bgtqf3eh5/ADN+155HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-353mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သားရဲ့သူငယ်ချင်းကို ကျွန်မမတားဆီးနိုင်ခဲ့ပါ
+မင်းသမီးနာမည် Maki Tomoda",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00353/jul00353_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ndmysf0094t9ssa/JUL_353SD.mp4/file",
+"photo1":"https://i.imgur.com/hCzZWqD_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00353/jul00353pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20221231_222623.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00353/jul00353jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00353/jul00353jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/o2ek135b0p8o29r/JUL_353HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
