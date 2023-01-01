@@ -4544,4 +4544,18 @@ kobayashi ဟာမိခင်ငယ်ငယ်ထဲကဆုံးသွာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00353/jul00353jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/o2ek135b0p8o29r/JUL_353HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"RKI-612mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အေးမိစံ ဟာ တက္ကသိုလ်ကျောင်းသူ လေးဖြစ်ပြီး သက်ကြီးရွယ်အိုစောင့်ရှောက်ရေးတစ်ခုမှာ Volunteer ၀င်လုပ်နေတာဖြစ်ပါတယ်။ တစ်နေ့ သူ သွားလုပ်တဲ့ အိမ်က အဖိုးကြီးကိုစောင့်ရှောက်ရင်း အခန်းတစ်ခန်းထဲမှာ မဟုတ်တာလုပ်နေတဲ့ ကျော်ကြီးနဲ့တွေ့သွားပြီး ကျော်ကြီးရဲ့ ဖမ်းချုပ်ခြင်းခံခဲ့ရပါတယ်....
+မင်းသမီးနာမည် Eimi Fukada",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/rki/rki00612/playlist.m3u8",
+"download":"https://www.mediafire.com/file/2wrxzsl13yqhhm3/RKI+612SD.mp4/file",
+"photo1":"https://i.imgur.com/QquEvFx_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/rki00612/rki00612pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230102_005744.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/rki00612/rki00612jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/rki00612/rki00612jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/hz3riba10kbf0az/RKI+612HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
