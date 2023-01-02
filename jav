@@ -4558,4 +4558,19 @@ kobayashi ဟာမိခင်ငယ်ငယ်ထဲကဆုံးသွာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/rki00612/rki00612jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/hz3riba10kbf0az/RKI+612HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"CAWD-041mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ပထွေးရဲ့သား သူ့မရဲ့ stepbro က ဂိမ်းပဲဆော့နေတော့ မိဘတွေကစိတ်မချမ်းသာရဘူးပေါ့...ဂိမ်းပဲဆော့နေတော့ လူညွှန့်တုန်းမှာစိုးတာကြောင့် တရက်မိဘတွေခရီးသွားတုန်း...
+မင်းသမီးနာမည် Remu Hayami
+ဘေဘီ ကြိုက်တဲ့သူတွေအတွက်ပါ အကိတ်လေးတွေ‌က နောက်နေ့လာပါမယ်နော်",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/c/caw/cawd00041/cawd00041_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/c3rjxdz50hlehs2/Cawd-041+480p.mp4/file",
+"photo1":"https://i.imgur.com/ChZBKga_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/cawd00041/cawd00041pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230103_002355.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230103_002437.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/cawd00041/cawd00041jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/qx07xlfiz4q3bj7/Cawd-041hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
