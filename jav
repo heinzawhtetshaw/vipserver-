@@ -4573,4 +4573,18 @@ kobayashi ဟာမိခင်ငယ်ငယ်ထဲကဆုံးသွာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/cawd00041/cawd00041jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/qx07xlfiz4q3bj7/Cawd-041hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ROE-008mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Kyokoဟာ အိမ်ထောင်ရှင်မကောင်းတယောက်ဖြစ်ပြီး ယောင်္ကျားရဲ့မယားပါသားလေးအပေါ်လဲ တော်တော်လေးကြင်နာတတ်တဲ့မိန်းမတယောက်ပါ ဒါပေမယ့် အရှက်အကြောက်ကြီးတာကြောင့်ဘဲကြီးက သူ့မိန်းမကိုဘယ်လိုသိုင်းကွက် တွေပြပြီး အရည်ပျော်ကျလာအောင်လုပ်မလဲဆိုတာကို...
+မင်းသမီးနာမည် Kyoko Ichikawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roe/roe00008/playlist.m3u8",
+"download":"https://www.mediafire.com/file/oky5mqdxyau91ek/ROE-008SD.mp4/file",
+"photo1":"https://i.imgur.com/ChlMgkc_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/roe00008/roe00008pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/roe00008/roe00008jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/roe00008/roe00008jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/roe00008/roe00008jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/ucmz6sfbgmbvcn0/ROE-008HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
