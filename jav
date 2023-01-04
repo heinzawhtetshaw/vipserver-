@@ -4587,4 +4587,22 @@ Kyokoဟာ အိမ်ထောင်ရှင်မကောင်းတယ�
 "photo5":"https://pics.dmm.co.jp/digital/video/roe00008/roe00008jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/ucmz6sfbgmbvcn0/ROE-008HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-432mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကဲ အထူးစပယ်ရှယ်ကားကောင်းလေး လာပါပီ
+မင်းသမီးကြည့်ရတာနဲ့ လုံးဝတန်နေပီ ဒီကားကတော့
+သူဌေးက ကောင်မလေးကို လစာတိုးပေးပီး သူ့ရဲ့အတွင်းရေးမှူး လုပ်ခိုင်းခဲ့ပါတယ်
+ပီးမှ ရုံးခန်းထဲမှာတင် အဝလိုးတာ
+စော်လေးက အတွင်းရေးမှူးနေရာ မလိုချင်တော့ဘူးတဲ့ အဝလိုးခံထိပြီးမှ 🤧
+မင်းသမီးနာမည် An Mitsumi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00432/playlist.m3u8",
+"download":"Ddu4NKCabifeInmOmtRQERrydkjYDq1lgQKvw2N4fJm/pnXFJ7oO3mBwDbxNXbeVngbIaeRSHKf7TEiE4Xia7rIRbNm3R6lKbvwyLzFPMSA=",
+"photo1":"https://i.imgur.com/liU4rwe_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00432/adn00432pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/AddText_01-04-10.45.24.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/AddText_01-04-10.30.23.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230104_222122.jpg",
+"dapp":"Ddu4NKCabifeInmOmtRQEXhivHv5dzOsKo62SokOVUdpJVh5qUzXnNrY/XgsetvMi2zo5aTq68jbjw1UAI3naeF8mM4upzxbhmzwj/foq9w=",
+"candownload":"d",
 "wcode":"တစ်"}]
