@@ -4605,4 +4605,18 @@ Kyokoဟာ အိမ်ထောင်ရှင်မကောင်းတယ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230104_222122.jpg",
 "dapp":"Ddu4NKCabifeInmOmtRQEXhivHv5dzOsKo62SokOVUdpJVh5qUzXnNrY/XgsetvMi2zo5aTq68jbjw1UAI3naeF8mM4upzxbhmzwj/foq9w=",
 "candownload":"d",
+"wcode":"တစ်"},
+{"name":"NGOD-134mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နိုင်ငံခြားသူ ကျွန်ုပ်ချွေးမ
+မင်းသမီးနာမည် June Lovejoy",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/n/ngo/ngod00134/ngod00134_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/trwa8jn8348ubf2/NGOD-134SD.mp4/file",
+"photo1":"https://i.imgur.io/xCho3WH_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ngod00134/ngod00134pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ngod00134/ngod00134jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ngod00134/ngod00134jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ngod00134/ngod00134jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/axals8089l6rayi/NGOD-134HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
