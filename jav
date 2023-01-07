@@ -4619,4 +4619,18 @@ Kyokoဟာ အိမ်ထောင်ရှင်မကောင်းတယ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ngod00134/ngod00134jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/axals8089l6rayi/NGOD-134HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SAME-032mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ချမ်းသာပီးအလုပ်ကြိုးစားတဲ့ ခင်ပွန်းကိုရထားလို့ ပျော်ရွင်မယ်လို့ထင်ခဲ့ပေမယ့် ခင်ပွန်းဟာ အလုပ်မှာပဲ အချိန်ကုန်နေလို့ သူမဘဝဟာ အထီးကျန်နေခဲ့ပါတယ် ...
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/sam/same00032/playlist.m3u8",
+"download":"H4GZZ/Db6EVz1dXSh5Nu2Cr7rIy6nZZ93nOtVjsmbyFSNENCWIklmm4+zwEwVU5GwCfcc15J1PGnloDd/pjbqaMCqX3Z6NXViJjUBxXP1xk=",
+"photo1":"https://i.imgur.io/qziwBYV_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/same00032/same00032pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/AddText_01-07-09.19.36.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/AddText_01-07-09.20.46.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230107_211146.jpg",
+"dapp":"H4GZZ/Db6EVz1dXSh5Nu2G48XQiSMnpLkOSYXjhvDxEIeweGHcLCdLaEb4RJZoNRAL6WWlgoJvJfu8qd62xEwp07VLwwlxC4liJqVK2sa4s=",
+"candownload":"g",
 "wcode":"တစ်"}]
