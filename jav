@@ -4633,4 +4633,19 @@ Kyokoဟာ အိမ်ထောင်ရှင်မကောင်းတယ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230107_211146.jpg",
 "dapp":"H4GZZ/Db6EVz1dXSh5Nu2G48XQiSMnpLkOSYXjhvDxEIeweGHcLCdLaEb4RJZoNRAL6WWlgoJvJfu8qd62xEwp07VLwwlxC4liJqVK2sa4s=",
 "candownload":"g",
+"wcode":"တစ်"},
+{"name":"ALDN-014mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Mayuတိုလင်မယားဟာအိမ်ထောင်ရေးကောငွေကြေးကောအဆင်မပြေပါဖူး 
+ဒီလိုနဲ့mayuရဲ့ယောင်္ကျားဟာအကြံရပြီး သူ့အလုပ်ရှင်မန်နေဂျာကို မိန်းမကိုမြူဆွယ်ခိုင်းပီး သူကပိုက်ဆံခိုးဖိုကြံရွယ်ပါတော့တယ်
+မင်းသမီးနာမည် Mayu Suzuki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ald/aldn00014/playlist.m3u8",
+"download":"https://www.mediafire.com/file/0ofq36ew5eyjjox/ALDN-014SD.mp4/file",
+"photo1":"https://i.imgur.io/Vi5b9qP_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/aldn00014/aldn00014pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/aldn00014/aldn00014jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/aldn00014/aldn00014jp-20.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/aldn00014/aldn00014jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/hf7y18wob0h620a/ALDN-014HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
