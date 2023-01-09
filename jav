@@ -4648,4 +4648,18 @@ Mayuတိုလင်မယားဟာအိမ်ထောင်ရေးက�
 "photo5":"https://pics.dmm.co.jp/digital/video/aldn00014/aldn00014jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/hf7y18wob0h620a/ALDN-014HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SHKD-549mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မုဒိမ်းကောင်လက်ချက်မိသွားတဲ့ အပျိုလေး
+မင်းသမီးနာမည် Sho Nishino",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/shk/shkd00549/shkd00549_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/xds2g3tpq7ewz6j/SHKD_549SD.mp4/file",
+"photo1":"https://i.imgur.io/4t8ga9Z_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/shkd00549/shkd00549pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230109_134422.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/shkd00549/shkd00549jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/shkd00549/shkd00549jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/m7c2kk8babfh3hg/SHKD_549HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
