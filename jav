@@ -4662,4 +4662,18 @@ Mayuတိုလင်မယားဟာအိမ်ထောင်ရေးက�
 "photo5":"https://pics.dmm.co.jp/digital/video/shkd00549/shkd00549jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/m7c2kk8babfh3hg/SHKD_549HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-095mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ညီလေးရဲ့မိန်းမကို လိုး
+မင်းသမီးနာမည် Asami Mizuhana",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00095/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bjhat0ef2s931vv/JUQ-095-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/J624oDz_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00095/juq00095pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230110_141239.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230110_141600.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00095/juq00095jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/qe9x3vx9flpm1fy/JUQ-095-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
