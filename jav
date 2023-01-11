@@ -4676,4 +4676,19 @@ Mayuတိုလင်မယားဟာအိမ်ထောင်ရေးက�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00095/juq00095jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/qe9x3vx9flpm1fy/JUQ-095-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-425mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကလေးလိုချင်ပေမယ့် ယောကျာ်းက မဖြစ်ထွန်းလို့
+သူငယ်ချင်းယောကျာ်းဆီမှာ ဖင်ချခံလိုက်တဲ့စော်ကြီး
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00425/jul00425_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/jp8kzcnnzvvurxi/JUL-425SD.mp4/file",
+"photo1":"https://i.imgur.io/BpOzukz_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00425/jul00425pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230111_132852.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00425/jul00425jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00425/jul00425jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/2nfxbic6vox6bfc/JUL-425HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
