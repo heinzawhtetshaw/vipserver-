@@ -4691,4 +4691,18 @@ Mayuတိုလင်မယားဟာအိမ်ထောင်ရေးက�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00425/jul00425jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/2nfxbic6vox6bfc/JUL-425HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-541mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လူမဲကပ္ပလီနဲ့ ဝန်ထမ်းမလေး
+မင်းသမီးနာမည် Natsu Hanabuchi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ati/atid00541/playlist.m3u8",
+"download":"https://www.mediafire.com/file/8fzzk235vwntl81/ATID-541-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/NFAXSY6_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00541/atid00541pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230112_114700.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00541/atid00541jp-10.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00541/atid00541jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/luh3rj1wxlj0ybz/ATID-541-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
