@@ -4705,4 +4705,18 @@ Mayuတိုလင်မယားဟာအိမ်ထောင်ရေးက�
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00541/atid00541jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/luh3rj1wxlj0ybz/ATID-541-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NGOD-173mmsub",
+"info":"မြန်မာစာတန်းထိုး
+MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ်သာသိပြီး ရည်းစားတောင်မထားဖူးသေးတဲ့ Loser တစ်ကောင်ဖြစ်ပြီး လောလောလတ်လတ်လေးအိမ်ကိုပြောင်းလာတဲ့ သမီးတစ်‌ယောက်အမေ Single Mother မမ Sumire Mizukawa နဲ့ တိုက်ပေါ်က ဆင်းတဲ့ ဓာတ်လှေကားမှ ခဏခဏတွေ့ကြရင်း နဲ့ ဆွဲစားခြင်းခံလိုက်ရ
+မင်းသမီးနာမည် Sumire Mizukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/ngo/ngod00173/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ovxcba7c56smga0/NGOD+173SD.mp4/file",
+"photo1":"https://i.imgur.io/Y1Nq2mm_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ngod00173/ngod00173pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ngod00173/ngod00173jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ngod00173/ngod00173jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ngod00173/ngod00173jp-18.jpg",
+"dapp":"https://www.mediafire.com/file/tozkf463qphvm0e/NGOD+173HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
