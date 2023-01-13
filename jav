@@ -4719,4 +4719,19 @@ MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ
 "photo5":"https://pics.dmm.co.jp/digital/video/ngod00173/ngod00173jp-18.jpg",
 "dapp":"https://www.mediafire.com/file/tozkf463qphvm0e/NGOD+173HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUFE-028mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီမင်းသမီး တောင်းဆိုနေကြလို့ တင်ပေးလိုက်ပါတယ်
+မနဲ့မောင် ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Sana Matsunaga",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/juf/jufe00028/jufe00028_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/8ynckk8jen6zux8/Jufe-028+480p.mp4/file",
+"photo1":"https://i.imgur.io/jS8hHez_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00028/jufe00028pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230113_214509.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230113_214110.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jufe00028/jufe00028jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/aaz52fmvjpmfbbp/Jufe-028+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
