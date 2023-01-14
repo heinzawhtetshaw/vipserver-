@@ -4734,4 +4734,19 @@ MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ
 "photo5":"https://pics.dmm.co.jp/digital/video/jufe00028/jufe00028jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/aaz52fmvjpmfbbp/Jufe-028+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-017mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နယ်မြို့လေးကိုရောက်ကာစ လင်မယားစုံတွဲဟာ အိမ်နီးနားချင်းတွေနဲ့ ရင်းနှီးချင်တာကြောင့် သူတို့ခေါ်တဲ့ ရွက်ဖျင်တဲ ပျော်ပွဲစားတစ်ခုကို လိုက်ပါလာခဲ့တယ် ... 
+ယောကျာ်းဖစ်သူဟာ အရက်မူးနေအောင်တိုက်ခံလိုက်ရပီး ကောင်မလေးကတော့....
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00017/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ruin34tuovdi4i1/JUQ-017-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/LcKgdF3_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00017/juq00017pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00017/juq00017jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00017/juq00017jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00017/juq00017jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/303jjmmc5agxnwm/JUQ-017-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
