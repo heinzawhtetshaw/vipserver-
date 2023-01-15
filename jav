@@ -4749,4 +4749,18 @@ MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00017/juq00017jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/303jjmmc5agxnwm/JUQ-017-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"CAWD-428mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လင်မယားနှစ်ယောက်ဟာ ဖခင်ကြီးရဲ့ မြည်းချီချင်မှုကိုတောင့်တခြင်းကြောင့် ကြိုးစားချင်ပေမယ့် ယောက်ျားဟာ အိမ်မကပ်တာကြောင့် ကြိုးစားဖိုအချိန်မရဘဲ မိန်းမဖြစ်သူမှာတစ်ယောက်ထဲ လက်သမားဖြစ်နေတာကို အဖိုးကြီးတွေ့သွားတဲ့ အခါ ...
+မင်းသမီးနာမည် Mayuki Ito",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/c/caw/cawd00428/playlist.m3u8",
+"download":"https://www.mediafire.com/file/77px5y4y0xsyetw/CAWD-428-MrSD.mp4/file",
+"photo1":"https://i.imgur.io/06TYuQY_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/cawd00428/cawd00428pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/cawd00428/cawd00428jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/cawd00428/cawd00428jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/cawd00428/cawd00428jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/n1dj8zmtc5ov2cg/CAWD-428-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
