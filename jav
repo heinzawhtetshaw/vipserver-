@@ -4763,4 +4763,23 @@ MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ
 "photo5":"https://pics.dmm.co.jp/digital/video/cawd00428/cawd00428jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/n1dj8zmtc5ov2cg/CAWD-428-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIMK-056mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီကားလေး အရမ်းကောင်းတာဟေ့
+ရည်းစားရှိတဲ့သူမဟာ ချစ်သူနဲ့အတူစက်ဘီးစီးရင်း လူတစ်ယောက်ကိုမတော်တဆတိုက်မိပြီး အဲလူလက်ကျိုးသွားခဲ့ပါတယ်
+ဒါကိုကောင်မလေးဖစ်သူက မကြည့်ရက်လို့ ကူညီပေးဖို့ဆုံးဖြတ်ခဲ့ပါတယ် အဲဒီလူမှာက အကြံဆိုးကြီးရှိတာကိုတော့ သူမ မသိခဲ့ပါ
+
+ကောင်မလေးက ရည်းစားရှိတယ်ဆိုပေမယ့် အနမ်းတောင်ခံဖူးတာမဟုတ်ဘူး...
+မင်းသမီးက ဒီကားမှာ တအားကိုလှနေတာ
+မင်းသမီးနာမည် Sora Shiina",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mim/mimk00056/mimk00056_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/2uhqyv897t4idyd/Mimk-056+480p.mp4/file",
+"photo1":"https://i.imgur.io/ALtvK4a_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/mimk00056/mimk00056pl.jpg",
+"photo3":"https://i.imgur.io/kb5vfPg_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://i.imgur.io/8XASTAI_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://i.imgur.io/FyqS95x_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"dapp":"https://www.mediafire.com/file/srnu8luafg9lb2r/Mimk-056+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
