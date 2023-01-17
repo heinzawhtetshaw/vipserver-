@@ -4782,4 +4782,18 @@ MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230116_205917.jpg",
 "dapp":"https://www.mediafire.com/file/srnu8luafg9lb2r/Mimk-056+720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUX-121mmsub",
+"info":"မြန်ုမာစာတန်းထိုး
+နိုင်ငံခြားသူဆရာမလေး
+မင်းသမီးနာမည် Angelina",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jux/jux00121/jux00121_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/hguw5vf501toi8l/JUX+121SD.mp4/file",
+"photo1":"https://i.imgur.io/uyFqkSk_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jux00121/jux00121pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230117_191205.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jux00121/jux00121jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jux00121/jux00121jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/mp2c95dvame7v1c/JUX+121HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
