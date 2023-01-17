@@ -4777,9 +4777,9 @@ MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ
 "download":"https://www.mediafire.com/file/2uhqyv897t4idyd/Mimk-056+480p.mp4/file",
 "photo1":"https://i.imgur.io/ALtvK4a_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.dmm.co.jp/digital/video/mimk00056/mimk00056pl.jpg",
-"photo3":"https://i.imgur.io/kb5vfPg_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-"photo4":"https://i.imgur.io/8XASTAI_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-"photo5":"https://i.imgur.io/FyqS95x_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230116_205536.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230116_205602.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230116_205917.jpg",
 "dapp":"https://www.mediafire.com/file/srnu8luafg9lb2r/Mimk-056+720p.mp4/file",
 "candownload":"",
 "wcode":"တစ်"}]
