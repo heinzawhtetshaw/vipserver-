@@ -4796,4 +4796,19 @@ MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ
 "photo5":"https://pics.dmm.co.jp/digital/video/jux00121/jux00121jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/mp2c95dvame7v1c/JUX+121HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"URE-073mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူမမှာ သားတယောက်ရှိပီး သူ့နာမည်ကတော့နက်ဆုကီပါ တနေ့မှာတော့နက်ဆုကီဟာ သူ့ကျောင်းကသူငယ်ချင်းတွေအတွက် သူ့အမေကိုသူ့ကောင်မလေးအဖြစ်ဟန်ဆောင်ပေးပြီးဗွီဒီယိုအတူတူရိုက်ပေးဖိုတောင်းဆိုလာတဲ့အခါ...
+မင်းသမီးနာမည် Ririko Kinoshita
+လေးနာရီ နီးပါးကြာတဲ့ဇာတ်ကားမို့ ဖိုင်ဆိုဒ်2gbကျော်ပါတယ်နော်",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/u/ure/ure00073/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ruoovgn4uhsi5yg/URE-073-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/akJCQn9_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ure00073/ure00073pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230118_191354.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/photo3/main/IMG_20230118_191423.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ure00073/ure00073jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/6c2czrnacrpb3g9/URE-073-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
