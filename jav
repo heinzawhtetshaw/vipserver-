@@ -4811,4 +4811,19 @@ MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ
 "photo5":"https://pics.dmm.co.jp/digital/video/ure00073/ure00073jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/6c2czrnacrpb3g9/URE-073-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-540mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လူမည်းတွေကိုသွားမရှုပ်သင့်ကြောင်း သင်ခန်းစာရတဲ့ကားလေးပါ
+သူများမိန်းမကို အကြွေးနဲ့သိမ်းပြီး ရှယ်ဘုတာနော်
+မင်းသမီးနာမည် Reiko Kobayakawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ati/atid00540/playlist.m3u8",
+"download":"https://www.mediafire.com/file/roks4snidaw6paq/ATID-540-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/kGaUGHt_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00540/atid00540pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230119_195544.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230119_195655.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00540/atid00540jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/onlyoii1akzfmos/ATID-540-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
