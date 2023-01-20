@@ -4826,4 +4826,18 @@ MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00540/atid00540jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/onlyoii1akzfmos/ATID-540-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-128mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းရဲ့ အစ်မ ကိုလိုးတာ
+မင်းသမီးနာမည် Ai Mukai",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00128/playlist.m3u8",
+"download":"https://www.mediafire.com/file/at0ii9ow7zdrsf2/JUQ-128-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/RW41Nt5_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00128/juq00128pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00128/juq00128jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00128/juq00128jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00128/juq00128jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/4s5rptr63wbv6u9/JUQ-128-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
