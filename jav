@@ -4840,4 +4840,18 @@ MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00128/juq00128jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/4s5rptr63wbv6u9/JUQ-128-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-725mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လင်ပါသားနှစ်ယောက် စာမေးပွဲကျလို့ စိတ်ဓာတ်တွေကျနေတာကြောင့် အဲ့ဒီ့အကြောင်းပြချက်နဲ့ ပဲ မိထွေး ဖြစ်သူကို အမုန်းစွဲပါတော့တယ်။ 
+မင်းသမီးနာမည် Rin Okae",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00725/playlist.m3u8",
+"download":"https://www.mediafire.com/file/z23or13lchhscyg/JUL-725-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/AlI52G7_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00725/jul00725pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00725/jul00725jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00725/jul00725jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00725/jul00725jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/zs92yf7ju9gj4jm/JUL-725-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
