@@ -4854,4 +4854,19 @@ MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00725/jul00725jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/zs92yf7ju9gj4jm/JUL-725-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"STARS-410mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူမကို ရထားပေါ်မှာ နှာဘူးတွေရန်ကနေ ကာကွယ်ပေးခဲ့လို့ ဒီလူကြီးအပေါ် ရင်ခုန်သွားခဲ့ပါတယ်
+ချစ်တယ်ဆိုတဲ့စကားကို သူမဘက်က စပြောလိုက်ပီးနောက်ပိုင်း အဲလူကြီးကတော့ သူမကိုတွေ့တဲ့နေရာမှာ လိုးတော့တာပါပဲ
+မင်းသမီးနာမည် Mahiro Tadai",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1st/1stars410/playlist.m3u8",
+"download":"6qNoM29gBko/ixtq1wdHu1WTie6Lk9dWRlJh+2t2r83PXv+DaN5YFoKSrABScklPLM2J8SkrVhyVxXxCPQNWbkXbxBdLeURy3fgo9O3yKqE=",
+"photo1":"https://i.imgur.io/OKehjKu_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1stars00410/1stars00410pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230122_211740.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/AddText_01-22-09.40.30.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1stars00410/1stars00410jp-11.jpg",
+"dapp":"6qNoM29gBko/ixtq1wdHu5e6ajbV46Ym/hJ/2d/5vJHwfNjBEu/j5mteKg+jJKmNJ5fjAaSRK4Xuners0Sm9NRQefZrAogUYbSNZsHEUuz8=",
+"candownload":"lock",
 "wcode":"တစ်"}]
