@@ -4869,4 +4869,18 @@ MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ
 "photo5":"https://pics.dmm.co.jp/digital/video/1stars00410/1stars00410jp-11.jpg",
 "dapp":"6qNoM29gBko/ixtq1wdHu5e6ajbV46Ym/hJ/2d/5vJHwfNjBEu/j5mteKg+jJKmNJ5fjAaSRK4Xuners0Sm9NRQefZrAogUYbSNZsHEUuz8=",
 "candownload":"lock",
+"wcode":"တစ်"},
+{"name":"JUL-893mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိန်းမအလစ်မှာ ယောက္ခမကိုတက်ချတဲ့ သားမက်
+မင်းသမီးနာမည် Uno Kanaya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00893/playlist.m3u8",
+"download":"https://www.mediafire.com/file/z9vgr9bgilahl3l/JUL-893-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/op9kzDO_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00893/jul00893pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00893/jul00893jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00893/jul00893jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00893/jul00893jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/0raf4wq7g933eoz/JUL-893-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
