@@ -4883,4 +4883,18 @@ MC ဟာ အလုပ်နဲ့အိမ် အိမ်နဲ့အလုပ
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00893/jul00893jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/0raf4wq7g933eoz/JUL-893-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-563mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Yuna ဟာ အလုပ်က ဘဲတစ်ပွေနဲ့ သူ့ယောက်ျားမသိအောင်ဖောက်ပြန်နေပါတယ်။ တစ်နေ့တော့ ငယ်လေး..ကိုမခွဲနိုင်တဲ့ Yuna ဟာ ယောက်ျားကို အလုပ်ခရီးထွက်မယ်အကြောင်းပြပြီး ရေပူစမ်းဟိုတယ် ကို လင်ငယ်နဲ့အတူခိုးသွားရင်း .....
+မင်းသမီးနာမည် Yuna Kitano",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00563/jul00563_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/3o6e8qexnwa8oiz/JUL-563SD.mp4/file",
+"photo1":"https://i.imgur.io/KV1AirM_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00563/jul00563pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00563/jul00563jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00563/jul00563jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00563/jul00563jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/hjsbz43d214u1x1/JUL-563HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
