@@ -4897,4 +4897,19 @@ Yuna ဟာ အလုပ်က ဘဲတစ်ပွေနဲ့ သူ့ယေ
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00563/jul00563jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/hjsbz43d214u1x1/JUL-563HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-542mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဥက္ကဌကြီးရဲ့အတွင်းရေးမှူးမလေးဟာ အလွန်အားကိုးရပီး ချောမောလှပတဲ့သူမို့ ဉက္ကဌကြီးဟာ အပိုင်သိမ်းဖို့ဥထားပေမယ့် အတွင်းရေးမှူးမလေးကတော့ ဝန်ထမ်းတစ်ယောက်နဲ့ လက်ထပ်သွားခဲ့ပါတယ်..
+ဒါပေမယ့်လည်း ဥက္ကဌကြီးမှာက စားရမယ့်ကံပါလာတဲ့အခါ ဘာတွေဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Ai Kano",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00542/jul00542_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/zjef9yufwqb2twm/JUL-542SD.mp4/file",
+"photo1":"https://i.imgur.io/1kICWWo_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00542/jul00542pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00542/jul00542jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00542/jul00542jp-2.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/AddText_01-25-11.35.51.jpg",
+"dapp":"https://www.mediafire.com/file/bqq8oy5115sjt0y/JUL-542HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
