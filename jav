@@ -4912,4 +4912,19 @@ Yuna ဟာ အလုပ်က ဘဲတစ်ပွေနဲ့ သူ့ယေ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/AddText_01-25-11.35.51.jpg",
 "dapp":"https://www.mediafire.com/file/bqq8oy5115sjt0y/JUL-542HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-812mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရထားမမှီလို့ဆိုပီးအိမ်မှာလာတည်းရင်း လိုးသွားတာ
+ကောင်မလေးက ဘယ်လိုမှကိုရုန်းမရဘူး စားဘဲကြီးက အသွင်းမြန်ချက်
+မင်းသမီးနာမည် Asahi Mizuno",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00812/playlist.m3u8",
+"download":"https://www.mediafire.com/file/it9zef9g67rs9as/JUL-812-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/hFGxaHt_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00812/jul00812pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00812/jul00812jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00812/jul00812jp-10.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00812/jul00812jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/shpvyyggl79zbh4/JUL-812-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
