@@ -4927,4 +4927,18 @@ Yuna ဟာ အလုပ်က ဘဲတစ်ပွေနဲ့ သူ့ယေ
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00812/jul00812jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/shpvyyggl79zbh4/JUL-812-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"FOCS-101mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လက်ထပ်ခါနီးမို့ ပျော်ရွင်နေသောသူမကို ရည်းစားဟောင်းက အကြပ်ကိုင်ပီးလိုးသွားတာ
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/f/foc/focs00101/playlist.m3u8",
+"download":"https://www.mediafire.com/file/rue4r931rdpiclc/FOCS-101SD.mp4/file",
+"photo1":"https://pics.dmm.co.jp/digital/video/focs00101/focs00101ps.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/focs00101/focs00101pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/AddText_01-28-11.54.02.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/focs00101/focs00101jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/focs00101/focs00101jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/tq2pl2fzf7o2rtr/FOCS-101HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
