@@ -4934,7 +4934,7 @@ Yuna ဟာ အလုပ်က ဘဲတစ်ပွေနဲ့ သူ့ယေ
 မင်းသမီးနာမည် Jun Suehiro",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/f/foc/focs00101/playlist.m3u8",
 "download":"https://www.mediafire.com/file/rue4r931rdpiclc/FOCS-101SD.mp4/file",
-"photo1":"https://pics.dmm.co.jp/digital/video/focs00101/focs00101ps.jpg",
+"photo1":"https://i.imgur.io/QtpJq47_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.dmm.co.jp/digital/video/focs00101/focs00101pl.jpg",
 "photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/AddText_01-28-11.54.02.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/focs00101/focs00101jp-3.jpg",
