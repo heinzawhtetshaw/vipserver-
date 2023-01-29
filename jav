@@ -4941,4 +4941,20 @@ Yuna ဟာ အလုပ်က ဘဲတစ်ပွေနဲ့ သူ့ယေ
 "photo5":"https://pics.dmm.co.jp/digital/video/focs00101/focs00101jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/tq2pl2fzf7o2rtr/FOCS-101HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPX-595mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဘဝဆိုတာ အမြဲတမ်း အနိုင်မရပါဘူးဆိုတာ သင်ခန်းစာပေးထားတာပါ
+အန်နာ‌ဆိုတဲ့ကောင်မလေး ဟာ သူ့လက်အောက်ငယ်သားလူသစ်‌လေးကိုနိုမ်ချဆက်ဆံပီး မာနကိုချိုးနိုမ်ခဲ့ပါတယ်
+ဘာတွေဆက်ဖစ်မလဲ....
+မင်းသမီးနာမည် Anna Kami",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/i/ipx/ipx00595/ipx00595_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ky94tr2qw0nddec/Ipx-595+480p.mp4/file",
+"photo1":"https://i.imgur.io/mtfp9J0_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00595/ipx00595pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230129_200101.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/AddText_01-29-09.16.34.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/AddText_01-29-09.17.24.jpg",
+"dapp":"https://www.mediafire.com/file/x33ona39xr5mbkb/Ipx-595_720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
