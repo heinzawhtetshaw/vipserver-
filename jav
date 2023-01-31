@@ -4957,4 +4957,18 @@ Yuna ဟာ အလုပ်က ဘဲတစ်ပွေနဲ့ သူ့ယေ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/AddText_01-29-09.17.24.jpg",
 "dapp":"https://www.mediafire.com/file/x33ona39xr5mbkb/Ipx-595_720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-180mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Jun ရဲ့ယောက်ျားဟာ သူမ မပြင်တတ်မဆင်တတ်တာကို မကြိုက်တာကြောင့် သူ့ရဲ့စီနီယာတစ်ယောက်ဖွင့်ထားတဲ့ ‌Beauty Saloon ကိုသွားပြီး အလှတွေပြင်ခိုင်းတဲ့အခါမှာ...
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00180/playlist.m3u8",
+"download":"https://www.mediafire.com/file/30cjgs1g6bcamxr/JUQ-180-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/Nrw8zEX_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00180/juq00180pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230131_111432.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230131_111518.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230131_111651.jpg",
+"dapp":"https://www.mediafire.com/file/6w9xwqejq6sk79s/JUQ-180-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
