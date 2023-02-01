@@ -4971,4 +4971,19 @@ Jun ရဲ့ယောက်ျားဟာ သူမ မပြင်တတ်�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230131_111651.jpg",
 "dapp":"https://www.mediafire.com/file/6w9xwqejq6sk79s/JUQ-180-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"RBD-352mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရုပ်ရှင်သွားကြည့်တာ နှာဘူးလက်ချက်မိသွားတဲ့ ကောင်မလေး..
+ရည်းစားရှိပေမယ့် လက်ကိုင်ရုံလောက်သာ အတွေ့အကြုံရှိသေးတဲ့သူမကို မုဒိန်းနှာဘူးကောင်က လိုးသွားတာ 
+မင်းသမီးနာမည် Sho Nishino",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/r/rbd/rbd00352/rbd00352_dmb_s.mp4",
+"download":"6qNoM29gBko/ixtq1wdHu5e6ajbV46Ym/hJ/2d/5vJED740l6pah/I0pWgOpbR4QVRmWt05o6pv3qsQSXfPbzperuLVAAQ3PGdS0lw7Swuc=",
+"photo1":"https://i.imgur.io/4lWYSRL_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/rbd00352/rbd00352pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/AddText_02-01-02.41.40.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230201_143214.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230201_143519.jpg",
+"dapp":"6qNoM29gBko/ixtq1wdHu7fRN0IcleQ9OMI66km+NPz0T+UWfAGiG017LHRZWn/vlhtjShBAeRbx3KrWe9RWoRecin/kpyXo7R3d96sQe9A=",
+"candownload":"lock",
 "wcode":"တစ်"}]
