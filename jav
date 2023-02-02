@@ -4986,4 +4986,18 @@ Jun ရဲ့ယောက်ျားဟာ သူမ မပြင်တတ်�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230201_143519.jpg",
 "dapp":"6qNoM29gBko/ixtq1wdHu7fRN0IcleQ9OMI66km+NPz0T+UWfAGiG017LHRZWn/vlhtjShBAeRbx3KrWe9RWoRecin/kpyXo7R3d96sQe9A=",
 "candownload":"lock",
+"wcode":"တစ်"},
+{"name":"DASS-068mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရုံးမှာအတူလုပ်တဲ့အလှလေးကို ညစာကျွေးမယ်ဆိုပီး အရက်တိုက်ကာအမုန်းလိုးတဲ့ လူယုတ်မာဂတုံး
+မင်းသမီးနာမည် Shirato Hana",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/das/dass00068/playlist.m3u8",
+"download":"https://www.mediafire.com/file/rgmzttbxj6ctzq7/DASS-068-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/vkFwnZh_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/dass00068/dass00068pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/AddText_02-02-08.18.57.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230202_201218.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230202_201741.jpg",
+"dapp":"https://www.mediafire.com/file/9mmeef1q5xye2lb/DASS-068-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
