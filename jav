@@ -5000,4 +5000,18 @@ Jun ရဲ့ယောက်ျားဟာ သူမ မပြင်တတ်�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230202_201741.jpg",
 "dapp":"https://www.mediafire.com/file/9mmeef1q5xye2lb/DASS-068-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-795mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငယ်သူငယ်ချင်းနဲ့ ယောက်ျားမသိအောင်
+မင်းသမီးနာမည် Kana Mito",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00795/playlist.m3u8",
+"download":"https://www.mediafire.com/file/yfopjyjcw5xgrqv/JUL-795-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/xPQsI8i_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00795/jul00795pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230204_123040.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230204_123235.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00795/jul00795jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/u9o1twyzt5hukl2/JUL-795-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
