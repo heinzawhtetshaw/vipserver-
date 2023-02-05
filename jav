@@ -5014,4 +5014,18 @@ Jun ရဲ့ယောက်ျားဟာ သူမ မပြင်တတ်�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00795/jul00795jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/u9o1twyzt5hukl2/JUL-795-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ABW-290mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရွာက ငယ်သူငယ်ချင်းလေးနဲ့
+မင်းသမီးနာမည် Airi Suzumura",
+"watch":"https://mgstage.javtrailers.com/https://sample.mgstage.com/sample/prestige/abw/290/abw-290_20221003T193801.mp4",
+"download":"https://www.mediafire.com/file/gzpf6wxe81qiku9/ABW-290-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/6XTJuDs_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://image.mgstage.com/images/prestige/abw/290/pb_e_abw-290.jpg",
+"photo3":"https://image.mgstage.com/images/prestige/abw/290/cap_e_1_abw-290.jpg",
+"photo4":"https://image.mgstage.com/images/prestige/abw/290/cap_e_10_abw-290.jpg",
+"photo5":"https://image.mgstage.com/images/prestige/abw/290/cap_e_12_abw-290.jpg",
+"dapp":"https://www.mediafire.com/file/ny1yre13ftg6oue/ABW-290-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
