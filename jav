@@ -5028,4 +5028,18 @@ Jun ရဲ့ယောက်ျားဟာ သူမ မပြင်တတ်�
 "photo5":"https://image.mgstage.com/images/prestige/abw/290/cap_e_12_abw-290.jpg",
 "dapp":"https://www.mediafire.com/file/ny1yre13ftg6oue/ABW-290-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-415mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူဌေးရဲ့မိန်းမကို လိုး
+မင်းသမ‌ီးနာမည် Rin Okae",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00415/jul00415_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/8nywcdcapnaniwh/JUL-415SD.mp4/file",
+"photo1":"https://i.imgur.io/0KAvmch_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00415/jul00415pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00415/jul00415jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00415/jul00415jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00415/jul00415jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/28i9f7lo16nyvsm/JUL-415HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
