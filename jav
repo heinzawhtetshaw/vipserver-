@@ -5053,7 +5053,7 @@ Jun ရဲ့ယောက်ျားဟာ သူမ မပြင်တတ်�
 "photo2":"https://pics.dmm.co.jp/digital/video/meyd00780/meyd00780pl.jpg",
 "photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230208_123225.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/meyd00780/meyd00780jp-3.jpg",
-"photo5":https://pics.dmm.co.jp/digital/video/meyd00780/meyd00780jp-10.jpg"",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00780/meyd00780jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/h5eoa5fv96942gf/MEYD+780HD.mp4/file",
 "candownload":"",
 "wcode":"တစ်"}]
