@@ -5056,4 +5056,19 @@ Jun ရဲ့ယောက်ျားဟာ သူမ မပြင်တတ်�
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00780/meyd00780jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/h5eoa5fv96942gf/MEYD+780HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"FADSS-503mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေ နောက်ယောက်ျားယူလိုက်တာကြောင့် ပထွေးတစ်ယောက် ရလာခဲ့တယ် ဒါပေမယ့် သမီးဖြစ်သူကတော့ ပထွေးကိုမုန်းပါတယ်
+ဘာတွေဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Kaname Momojiri",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1fs/1fsdss503/playlist.m3u8",
+"download":"6qNoM29gBko/ixtq1wdHuwO0qr/olmDaa1NxfWEci3ozxTMxLMM1HIsczxonUsycUQCSoJDSCor1NahQU5PGU5VMqG7gUGQXmR3yKsDv204=",
+"photo1":"https://i.imgur.io/61x8Mw5_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1fsdss00503/1fsdss00503pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/AddText_02-08-10.54.55.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1fsdss00503/1fsdss00503jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1fsdss00503/1fsdss00503jp-6.jpg",
+"dapp":"6qNoM29gBko/ixtq1wdHu1+JV1SVvdVF0wbOZ+CY4dFGT6Tgu4SmwrFtSwyKl9ZeMWyHPdcHe9E+RpfAhqxABm+yWDOLlNsA3+tG13YUfV4=",
+"candownload":"lock",
 "wcode":"တစ်"}]
