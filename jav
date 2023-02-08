@@ -5042,4 +5042,18 @@ Jun ရဲ့ယောက်ျားဟာ သူမ မပြင်တတ်�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00415/jul00415jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/28i9f7lo16nyvsm/JUL-415HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD-780mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းအလစ်မှာ အိမ်နီးနားချင်းနဲ့ဖောက်ပြန်တဲ့ဇနီး
+မင်းသမီးနာမည် Kanako Ioka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00780/playlist.m3u8",
+"download":"https://www.mediafire.com/file/v7c3ph5jidcgcxm/MEYD+780SD.mp4/file",
+"photo1":"https://i.imgur.io/BigfnFy_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00780/meyd00780pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230208_123225.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00780/meyd00780jp-3.jpg",
+"photo5":https://pics.dmm.co.jp/digital/video/meyd00780/meyd00780jp-10.jpg"",
+"dapp":"https://www.mediafire.com/file/h5eoa5fv96942gf/MEYD+780HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
