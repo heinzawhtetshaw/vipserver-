@@ -5071,4 +5071,19 @@ Jun ရဲ့ယောက်ျားဟာ သူမ မပြင်တတ်�
 "photo5":"https://pics.dmm.co.jp/digital/video/1fsdss00503/1fsdss00503jp-6.jpg",
 "dapp":"6qNoM29gBko/ixtq1wdHu1+JV1SVvdVF0wbOZ+CY4dFGT6Tgu4SmwrFtSwyKl9ZeMWyHPdcHe9E+RpfAhqxABm+yWDOLlNsA3+tG13YUfV4=",
 "candownload":"lock",
+"wcode":"တစ်"},
+{"name":"ROE-098mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အင်းစက်ကြိုက်သူတွေအတွက်
+Takashi ဟာ ငယ်ငယ်ကတည်းက ဖခင် ဆုံးသွားတာကြောင့်မိခင်ရဲ့ပြုစုစောင့်ရှောက်မှုအောက်မှာကြီးပြင်းလာတာနဲ့အညီ တစ်နေ့အမေဟာ အလုပ်က ဘဲတစ်ပွေနဲ့ကြိုက်နေပြီးနောက်အိမ်ထောင်ပြုဖိုကြံနေတဲ့ အခါမှာသူ့ရဲ့မသိစိတ်ထဲမှာ ကိန်းအောင်းနေတဲ့ ချစ်စိတ်တွေနိုးထလာပြီး ရေပူစမ်းခရီးဆိုပြီးအကြောင်းပြကာ မြှူစွယ်ပြီး လက်မထပ်ဖို စည်းရုံးသိမ်းသွင်းတာကိုကြည့်ရမှာပဲဖြစ်ပါတယ်...
+မင်းသမီးနာမည် Rieko Hiraoka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roe/roe00098/playlist.m3u8",
+"download":"https://www.mediafire.com/file/cc1p8wp964w4xq9/ROE_098SD.mp4/file",
+"photo1":"https://i.imgur.io/nF2stcW_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/roe00098/roe00098pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/roe00098/roe00098jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/roe00098/roe00098jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/roe00098/roe00098jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/0ofn84xae8vl476/ROE_098HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
