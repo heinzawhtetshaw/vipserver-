@@ -5086,4 +5086,18 @@ Takashi ဟာ ငယ်ငယ်ကတည်းက ဖခင် ဆုံးသ
 "photo5":"https://pics.dmm.co.jp/digital/video/roe00098/roe00098jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/0ofn84xae8vl476/ROE_098HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ROE-010mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းနဲ့ ကွိုင်တက်ပီး အိမ်ပေါ်ကဆင်းလာတဲ့ ယောက္ခမကြီးကို သမက်က အိမ်မှာခေါ်တင်ထားပီး လိုး
+မင်းသမီးနာမည် Momoko Isshiki ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roe/roe00010/playlist.m3u8",
+"download":"https://www.mediafire.com/file/prqmsobeccyyjt0/ROE-010SD.mp4/file",
+"photo1":"https://i.imgur.io/bVCqckF_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/roe00010/roe00010pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/roe00010/roe00010jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/roe00010/roe00010jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/roe00010/roe00010jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/v4t21t88xmxmp38/ROE-010HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
