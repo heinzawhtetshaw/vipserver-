@@ -5100,4 +5100,18 @@ Takashi ဟာ ငယ်ငယ်ကတည်းက ဖခင် ဆုံးသ
 "photo5":"https://pics.dmm.co.jp/digital/video/roe00010/roe00010jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/v4t21t88xmxmp38/ROE-010HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NIMA-013mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မောင်ဇော်ရဲ့ တစ်ဦးတည်းသော ချစ်သူကောင်မလေးကို စီနီယာဉီးလေးကြီးက အကြပ်ကိုင်ပီးလိုး
+မင်းသမီးနာမည် Ichika Seta",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nim/nima00013/playlist.m3u8",
+"download":"6qNoM29gBko/ixtq1wdHu1H1gNvtNpcTy/fjnklYEbOduF0UwVuDylyA/PovFNjjzrg0OFMvPonAOqalXUarMyBGIVAsK+uQ67DqM44jdvo=",
+"photo1":"https://i.imgur.io/ZTRaeik_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/nima00013/nima00013pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230212_220843.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230212_215944.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230212_220243.jpg",
+"dapp":"6qNoM29gBko/ixtq1wdHu+eIQVFsiWQ9k2GOn6TdkpA/4+DKDvJB9HPNfunRl/HGQYPar/g4c2cUlZB3IsQPT5ftUusR/bzEzKitSZvC2VA=",
+"candownload":"lock",
 "wcode":"တစ်"}]
