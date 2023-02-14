@@ -5114,4 +5114,18 @@ Takashi ဟာ ငယ်ငယ်ကတည်းက ဖခင် ဆုံးသ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230212_220243.jpg",
 "dapp":"6qNoM29gBko/ixtq1wdHu+eIQVFsiWQ9k2GOn6TdkpA/4+DKDvJB9HPNfunRl/HGQYPar/g4c2cUlZB3IsQPT5ftUusR/bzEzKitSZvC2VA=",
 "candownload":"lock",
+"wcode":"တစ်"},
+{"name":"JUQ-171mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မာနကြီးတဲ့သူဌေးမမကိုစား
+မင်းသမီးနာမည် Hana Haruna",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00171/playlist.m3u8",
+"download":"https://www.mediafire.com/file/9vqo9avdfck01km/JUQ+171SD.mp4/file",
+"photo1":"https://i.imgur.io/lKyvB0w_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00171/juq00171pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230214_150002.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/AddText_02-14-03.02.56.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230214_150139.jpg",
+"dapp":"https://www.mediafire.com/file/2v2oswmrzkk8j0k/JUQ+171HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
