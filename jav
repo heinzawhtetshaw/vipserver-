@@ -5128,4 +5128,19 @@ Takashi ဟာ ငယ်ငယ်ကတည်းက ဖခင် ဆုံးသ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230214_150139.jpg",
 "dapp":"https://www.mediafire.com/file/2v2oswmrzkk8j0k/JUQ+171HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUFE-408mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အန်တီကြိုက်တဲ့သူတွေအတွက်
+ဦးလေးရဲ့ ဇနီးကိုဝိုက်တဲ့ ဇာတ်လမ်းလေး
+မင်းသမီးနာမည် Mako Oda",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juf/jufe00408/playlist.m3u8",
+"download":"https://www.mediafire.com/file/8s7fndvdwndcbcs/JUFE-408-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/ZU2Xw9E_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00408/jufe00408pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230216_004504.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230216_004530.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jufe00408/jufe00408jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/ecwtz07wyn94r3d/JUFE-408-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
