@@ -5143,4 +5143,19 @@ Takashi ဟာ ငယ်ငယ်ကတည်းက ဖခင် ဆုံးသ
 "photo5":"https://pics.dmm.co.jp/digital/video/jufe00408/jufe00408jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/ecwtz07wyn94r3d/JUFE-408-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"VENX-108mmsub",
+"info":"မြန်ုမာစာတန်းထိုး
+အင်းစက်ဖန်တွေအတွက် 
+အဖေဟာ သားနဲ့အမေ ဖြစ်သူကို အလေးမထား အိမ်ပြန်မလာဘဲ အမေ့ကိုအထီးကျန်အောင်လုပ်နေတာကို သည်းမခံနိုင်တော့တဲ့ ကျော်ကြီးဟာ မေမေ့ ကို ဂရုစိုက်ပေးခွင့်‌တောင်းပြီး မိုးလင်းပေါက်ကို ဖြည့်ဆည်းပါတော့တယ်....
+မင်းသမီးနာမည် Kanako Ioka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/v/ven/venx108/playlist.m3u8",
+"download":"https://www.mediafire.com/file/o7mb9gbqzpqop2v/VENX-108SD.mp4/file",
+"photo1":"https://i.imgur.io/B0N9OVf_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/venx00108/venx00108pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230216_223407.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/venx00108/venx00108jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/venx00108/venx00108jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/673943h972myn4g/VENX-108HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
