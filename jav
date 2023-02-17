@@ -5158,4 +5158,21 @@ Takashi ဟာ ငယ်ငယ်ကတည်းက ဖခင် ဆုံးသ
 "photo5":"https://pics.dmm.co.jp/digital/video/venx00108/venx00108jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/673943h972myn4g/VENX-108HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-519mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူမကို Bus ကားပေါ်မှာ နေ့တိုင်းဖင်လာနှိုက်နေတဲ့ ဘဲကြီးကိုမှ ချစ်မိသွားတာတဲ့ဟ
+
+ကောင်မလေးကို စကားလိုက်ပြောရမှာကြောက်တဲ့သူတွေအတွက်
+ကျော်ကြီးကတော့ စော်လိုက်နည်း တစ်ကွက်ပြလိုက်ပါပီ 😂
+မင်းသမီးနာမည် Nanami Ogura",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00519/playlist.m3u8",
+"download":"https://www.mediafire.com/file/p4li30tk4xl75or/SSIS-519-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/7a9hOGP_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00519/ssis00519pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230217_235508.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00519/ssis00519jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00519/ssis00519jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/lh4vp86kmn3a1o6/SSIS-519-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
