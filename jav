@@ -5175,4 +5175,19 @@ Takashi ဟာ ငယ်ငယ်ကတည်းက ဖခင် ဆုံးသ
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00519/ssis00519jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/lh4vp86kmn3a1o6/SSIS-519-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"WAAA-215mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Ai sayamaဟာသူ့မောင်ကိုစာမေးပွဲမှာအမှတ်ပြည့်ရရင် ဘာမဆိုလုပ်ပေးမယ်လိုကတိပေးလိုက်ပါတယ် 
+အစ်မအလန်းစားကိုရထားတဲ့သူ့မောင်ကဘာတွေခိုင်းမလဲ မိဘတွေခရီးသွားတဲ့၃ရက်အတွင်း မောင်နှမ၂ယောက်ဘာတွေလုပ်ကြမလဲ....
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/w/waa/waaa00215/playlist.m3u8",
+"download":"https://www.mediafire.com/file/e51rx5usv494zo7/WAAA-215-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/U8gtm3p_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/waaa00215/waaa00215pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230218_210109.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230218_210238.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230218_210201.jpg",
+"dapp":"https://www.mediafire.com/file/4v9w6feoq3okbn3/WAAA-215-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
