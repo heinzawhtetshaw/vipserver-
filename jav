@@ -5190,4 +5190,21 @@ Ai sayamaဟာသူ့မောင်ကိုစာမေးပွဲမှ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230218_210201.jpg",
 "dapp":"https://www.mediafire.com/file/4v9w6feoq3okbn3/WAAA-215-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NSFS-099mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လူယုတ်မာသူဌေးနဲ့ ကိုရှည်ကြီးတို့ဇနီးမောင်နှံ တို့ရဲ့ဇာတ်လမ်းလေး
+
+အိမ်မှာညစာလာလာစားတဲ့အပြင် ကိုရှည်ကြီးရဲ့ ဇနီး‌ချောကိုပါ မှန်းထုနေတဲ့လူယုတ်မာသူဌေး
+ဘာတွေဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Tsubasa Hachino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nsf/nsfs00099/playlist.m3u8",
+"download":"https://www.mediafire.com/file/5cn3e66yb38fg9y/NSFS-099SD.mp4/file",
+"photo1":"https://i.imgur.io/WPV9NFq_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsfs00099/nsfs00099pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nsfs00099/nsfs00099jp-11.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsfs00099/nsfs00099jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsfs00099/nsfs00099jp-16.jpg",
+"dapp":"https://www.mediafire.com/file/1ld9mintnkky42z/NSFS-099HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
