@@ -5207,4 +5207,18 @@ Ai sayamaဟာသူ့မောင်ကိုစာမေးပွဲမှ�
 "photo5":"https://pics.dmm.co.jp/digital/video/nsfs00099/nsfs00099jp-16.jpg",
 "dapp":"https://www.mediafire.com/file/1ld9mintnkky42z/NSFS-099HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"VEC-562mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အန်တီMiku နဲ့ သားဖစ်သူရဲ့ သူငယ်ချင်းတို့ရဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Miku Kitagawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/v/vec/vec00562/playlist.m3u8",
+"download":"https://www.mediafire.com/file/pdkfg0q2fs0agjo/VEC-562-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/wXiLpb0_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/vec00562/vec00562pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230220_192018.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230220_192042.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/vec00562/vec00562jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/sf7gjtlmqlieqbl/VEC-562-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
