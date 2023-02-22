@@ -5221,4 +5221,20 @@ Ai sayamaဟာသူ့မောင်ကိုစာမေးပွဲမှ�
 "photo5":"https://pics.dmm.co.jp/digital/video/vec00562/vec00562jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/sf7gjtlmqlieqbl/VEC-562-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"APNS-305mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Jun ဟာအထက်တန်းကျောင်းသူတစ်ယောက်ဖြစ်ပြီး
+အွန်လိုင်းက တွေ့တဲ့ ဘဲတစ်ပွေနဲ့တွဲနေပါတယ်။အဲ့ဘဲက အကြွေးတွေပတ်နေပြီး အကြွေးရှင် ခပ်ကြမ်းကြမ်း ဘဲကြီးတွေဟာ Jun ကိုတွေ့သွားခဲ့ပါတယ်
+Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချေပေးမယ်ဆိုလာတဲ့အခါ...
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/apn/apns305/playlist.m3u8",
+"download":"https://www.mediafire.com/file/n11jdfrral6ksu1/APNS-305-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/yRvhpTS_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/apns00305/apns00305pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/apns00305/apns00305jp-4.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/apns00305/apns00305jp-11.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/apns00305/apns00305jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/n3rjkmizn7matze/APNS-305-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
