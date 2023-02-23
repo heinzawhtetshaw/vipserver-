@@ -5237,4 +5237,21 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/apns00305/apns00305jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/n3rjkmizn7matze/APNS-305-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIMK-075mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဖွင့်ပြောဖို့သတ္တိမရှိခဲ့လို့ ကြိတ်ချစ်ရတဲ့ကောင်မလေးဟာ သူငယ်ချင်းရဲ့ရည်းစားဖစ်သွားခဲ့ပါတယ်
+ဒါပေမယ့်လည်း အရမ်းချစ်ရတဲ့သူမို့ သူမကို ဆုံးရှုံးမခံနိုင်ခဲ့ပါ
+မင်းသမီးအလန်‌းလေးကို မင်းသားက ရှယ်ကြမ်းထားတာမို့
+အရမ်းကောင်းတဲ့ဇာတ်ကားလေးပါ
+မင်းသမီးနာမည် Hikaru Harukaze",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mim/mimk00075/mimk00075_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ebrpyds04gk74xl/Mimk-075-480p.mp4/file",
+"photo1":"https://i.imgur.io/dKAoGEK_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/mimk00075/mimk00075pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230223_154502.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/AddText_02-23-03.56.25.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230223_154142.jpg",
+"dapp":"https://www.mediafire.com/file/mv2wsc1fv5f9t3b/Mimk-075-720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
