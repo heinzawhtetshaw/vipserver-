@@ -5254,4 +5254,18 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230223_154142.jpg",
 "dapp":"https://www.mediafire.com/file/mv2wsc1fv5f9t3b/Mimk-075-720p.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA-705mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လူယုတ်မာသူဌေးနဲ့ ဝန်ထမ်းမလေး
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mia/miaa00705/playlist.m3u8",
+"download":"https://www.mediafire.com/file/clpe2qbywrmqj6a/MIAA-705-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/A4t7Nsu_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00705/miaa00705pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230224_211303.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230224_211517.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/miaa00705/miaa00705jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/bf9osge6g15ewur/MIAA-705-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
