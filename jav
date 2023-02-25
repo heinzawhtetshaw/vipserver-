@@ -5268,4 +5268,18 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/miaa00705/miaa00705jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/bf9osge6g15ewur/MIAA-705-MRHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"VENX-158mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ပူပြင်းတဲ့နွေရာသီမှာ ချွေးသံတရွှရွှနဲ့စိုရွှနေတဲ့ အလန်းစား body နဲ့အမေကိုမြင်တာနဲ့စိတ်ကြွပြီးမထိန်းနိုင်တဲ့ကောင်လေးနဲ့ နွေရာသီမှာချွေးတလုံးလုံးနဲ့သားအမိနှစ်ယောက် ပွဲကြမ်း
+မင်းသမီးနာမည် Yu Kawakami (Shizuku Morino)",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/v/ven/venx00158/playlist.m3u8",
+"download":"https://www.mediafire.com/file/0w4teheg6vp2t3z/VENX-158SD.mp4/file",
+"photo1":"https://i.imgur.io/QxSWTHy_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/venx00158/venx00158pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230225_202326.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/venx00158/venx00158jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/venx00158/venx00158jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/m4pufr3ynw18lqn/VENX-158HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
