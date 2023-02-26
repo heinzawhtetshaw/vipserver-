@@ -5282,4 +5282,18 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/venx00158/venx00158jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/m4pufr3ynw18lqn/VENX-158HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-572mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိထွေးနဲ့ လင်ပါသား တို့ရဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Ayaka Mutou",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00572/jul00572_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/fw8b55oi4ih65e2/JUL-572-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/OpVLR6e_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00572/jul00572pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00572/jul00572jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00572/jul00572jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00572/jul00572jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/yttadhw56dxbxrd/JUL-572-MRHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
