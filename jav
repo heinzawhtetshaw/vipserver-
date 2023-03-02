@@ -5310,7 +5310,7 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/vema00163/vema00163jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/6mow3svmstzdmik/VEMA-163HD.mp4/file",
 "candownload":"",
-"wcode":"",
+"wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXuMACA01PkuP58yOKq7Swr9YQmLQ47Hmzzj+PPTfLKH6evNqaRFDPNLsZNYuYZ7h5w==",
 "hdlink":""},
 {"name":"ROE-074mmsub",
 "info":"မြန်မာစာတန်းထိုး
@@ -5325,5 +5325,5 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/roe00074/roe00074jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/jrkqddf81lq2kuj/ROE-074-MRHD.mp4/file",
 "candownload":"",
-"wcode":"",
+"wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXuMACA01PkuP58yOKq7Swr/LqZXZlahVm55zr9W97XirxIgvtqd3+Qfv8Fx6y/IGSA==",
 "hdlink":""}]
