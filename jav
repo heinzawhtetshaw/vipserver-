@@ -5296,7 +5296,7 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00572/jul00572jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/yttadhw56dxbxrd/JUL-572-MRHD.mp4/file",
 "candownload":"",
-"wcode":"တစ်"},
+"wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXuMACA01PkuP58yOKq7Swr/Z2+bxdymTjXFeq8e7XL62hoOPP1XJ+GWUU1Pf1iOHCQ=="},
 {"name":"VEMA-163mmsub",
 "info":"မြန်မာစာတန်းထိုး
 ဆရာမကို လိုး
