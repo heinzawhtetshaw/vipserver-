@@ -5311,4 +5311,19 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "dapp":"https://www.mediafire.com/file/6mow3svmstzdmik/VEMA-163HD.mp4/file",
 "candownload":"",
 "wcode":"WfG0lRPuxa13t0Ju98TpQtBVTWES3N6emsiovn/CtR8kpP5/5Cqj3qbl5MYrUYjHBDznN8x6dq808oG1h0BQUPy1hesNJRRrt5xCOHVqMno=",
+"hdlink":""},
+{"name":"ROE-074mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းရဲ့ အမေကို ဘု
+မင်းသမီးနာမည် Miki Yoshii",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roe/roe00074/playlist.m3u8",
+"download":"https://www.mediafire.com/file/1o338koxkdl0mxp/ROE-074-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/k8e7nGv_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/roe00074/roe00074pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/roe00074/roe00074jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/roe00074/roe00074jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/roe00074/roe00074jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/jrkqddf81lq2kuj/ROE-074-MRHD.mp4/file",
+"candownload":"",
+"wcode":"WfG0lRPuxa13t0Ju98TpQiCtLGYD6uQxAlqKhJRAObcReDl4xP8CH5B5P19/EOMykEcTJFng3yJUoFPB7iorhytfzPS8faGOWjxjkkYbgX0=",
 "hdlink":""}]
