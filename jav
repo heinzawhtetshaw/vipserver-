@@ -5268,7 +5268,7 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/miaa00705/miaa00705jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/bf9osge6g15ewur/MIAA-705-MRHD.mp4/file",
 "candownload":"",
-"wcode":"တစ်"},
+"wcode":"https://sin1.contabostorage.com/1adf9f1c9ac748caaa6269c674e3ed7e:heinhtet/vipjapan/MIAA-705-MRSD.mp4"},
 {"name":"VENX-158mmsub",
 "info":"မြန်မာစာတန်းထိုး
 ပူပြင်းတဲ့နွေရာသီမှာ ချွေးသံတရွှရွှနဲ့စိုရွှနေတဲ့ အလန်းစား body နဲ့အမေကိုမြင်တာနဲ့စိတ်ကြွပြီးမထိန်းနိုင်တဲ့ကောင်လေးနဲ့ နွေရာသီမှာချွေးတလုံးလုံးနဲ့သားအမိနှစ်ယောက် ပွဲကြမ်း
