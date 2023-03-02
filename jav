@@ -5296,4 +5296,19 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00572/jul00572jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/yttadhw56dxbxrd/JUL-572-MRHD.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"တစ်"},
+{"name":"VEMA-163mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဆရာမကို လိုး
+မင်းသမီးနာမည် Ren Usui",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/v/vem/vema00163/vema00163_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/el9rqlnq4kdcu5y/VEMA-163SD.mp4/file",
+"photo1":"https://i.imgur.io/xMG6n00_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/vema00163/vema00163pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/vema00163/vema00163jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/vema00163/vema00163jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/vema00163/vema00163jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/6mow3svmstzdmik/VEMA-163HD.mp4/file",
+"candownload":"",
+"wcode":"WfG0lRPuxa13t0Ju98TpQtBVTWES3N6emsiovn/CtR8kpP5/5Cqj3qbl5MYrUYjHBDznN8x6dq808oG1h0BQUPy1hesNJRRrt5xCOHVqMno=",
+"hdlink":""}]
