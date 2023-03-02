@@ -5282,7 +5282,7 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/venx00158/venx00158jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/m4pufr3ynw18lqn/VENX-158HD.mp4/file",
 "candownload":"",
-"wcode":"တစ်"},
+"wcode":"https://sin1.contabostorage.com/1adf9f1c9ac748caaa6269c674e3ed7e:heinhtet/vipjapan/VENX-158SD.mp4"},
 {"name":"JUL-572mmsub",
 "info":"မြန်မာစာတန်းထိုး
 မိထွေးနဲ့ လင်ပါသား တို့ရဲ့ဇာတ်လမ်း
