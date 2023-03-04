@@ -5326,4 +5326,20 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "dapp":"https://www.mediafire.com/file/jrkqddf81lq2kuj/ROE-074-MRHD.mp4/file",
 "candownload":"",
 "wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXuMACA01PkuP58yOKq7Swr/LqZXZlahVm55zr9W97XirxIgvtqd3+Qfv8Fx6y/IGSA==",
+"hdlink":""},
+{"name":"NSFS-116mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လင်မယားဆက်ဆံရေးဟာ စိမ်းကားလာပီး ပျော်စရာကောင်းမနေတော့ပါဘူး
+ဒါကြောင့်ဇနီးချောလေးကို တခြားယောကျာ်းတွေနဲ့ပေးလိုး
+မင်းသမီးနာမည် Mio Ueshiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nsf/nsfs00116/playlist.m3u8",
+"download":"https://www.mediafire.com/file/yrpjx8jwherd0oq/NSFS-116SD.mp4/file",
+"photo1":"https://i.imgur.io/xMyvkF6_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsfs00116/nsfs00116pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nsfs00116/nsfs00116jp-20.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsfs00116/nsfs00116jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsfs00116/nsfs00116jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/b28dd52h3gitrwm/NSFS-116HD.mp4/file",
+"candownload":"",
+"wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXmAk9O159GEKxqF3JjjeYz+YJP8hY3OLlLxuaNkUjgQZ",
 "hdlink":""}]
