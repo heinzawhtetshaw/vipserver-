@@ -5342,4 +5342,19 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "dapp":"https://www.mediafire.com/file/b28dd52h3gitrwm/NSFS-116HD.mp4/file",
 "candownload":"",
 "wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXmAk9O159GEKxqF3JjjeYz+YJP8hY3OLlLxuaNkUjgQZ",
+"hdlink":""},
+{"name":"NSFS-091mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မြို့တစ်မြို့ကို အသစ်ပြောင်းလာတဲ့ ဇနီးမောင်နှံနဲ့ အိမ်နီးနားချင်း အဖိုးအို တို့ရဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Kanna Asumi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nsf/nsfs00091/playlist.m3u8",
+"download":"https://www.mediafire.com/file/24yxo2jp4uo5a0v/NSFS-091SD.mp4/file",
+"photo1":"https://i.imgur.io/Ppa1NVG_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsfs00091/nsfs00091pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nsfs00091/nsfs00091jp-17.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsfs00091/nsfs00091jp-11.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsfs00091/nsfs00091jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/8zgdh44t0fmxa8c/NSFS-091HD.mp4/file",
+"candownload":"",
+"wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXuMACA01PkuP58yOKq7Swr8d7ciR3D1WtHaiHRVvkqDnVkxeDre29Qf0IjV3ft62jQ==",
 "hdlink":""}]
