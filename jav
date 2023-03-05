@@ -5357,4 +5357,19 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "dapp":"https://www.mediafire.com/file/8zgdh44t0fmxa8c/NSFS-091HD.mp4/file",
 "candownload":"",
 "wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXuMACA01PkuP58yOKq7Swr8d7ciR3D1WtHaiHRVvkqDnVkxeDre29Qf0IjV3ft62jQ==",
-"hdlink":""}]
+"hdlink":""},
+{"name":"HBAD-447mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျူရှင်ဆရာမ ကိုဝိုက်
+မမဆိုဒ် ကြိုက်တဲ့သူတွေအတွက်
+မင်းသမီးနာမည် Aimi Yoshikawa",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1hb/1hbad447/1hbad447_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ers5fwrrf1l3kpn/HBAD-447SD.mp4/file",
+"photo1":"https://i.imgur.io/eBsB40e_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1hbad00447/1hbad00447pl.jpg",
+"photo3":"https://i.imgur.io/JXT6c54_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://pics.dmm.co.jp/digital/video/1hbad00447/1hbad00447jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1hbad00447/1hbad00447jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/0c6bux8a1yzdrcs/HBAD-447HD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6tky0ZzwIdHLEyGeCHpxQLY1mDnz/4iLuowEVYCOk8Fc="}]
