@@ -5372,4 +5372,18 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/1hbad00447/1hbad00447jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/0c6bux8a1yzdrcs/HBAD-447HD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6tky0ZzwIdHLEyGeCHpxQLY1mDnz/4iLuowEVYCOk8Fc="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6tky0ZzwIdHLEyGeCHpxQLY1mDnz/4iLuowEVYCOk8Fc="},
+{"name":"VENX-181mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိထွေးနဲ့ လင်ပါသား
+မင်းသမီးနာမည် Kanako Ioka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/v/ven/venx181/playlist.m3u8",
+"download":"https://www.mediafire.com/file/z79eppegampybx5/VENX-181SD.mp4/file",
+"photo1":"https://i.imgur.io/D3cZdAv_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/venx00181/venx00181pl.jpg",
+"photo3":"https://i.imgur.io/ZCJ7vNF_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo4":"https://i.imgur.io/mKMWxuL_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo5":"https://pics.dmm.co.jp/digital/video/venx00181/venx00181jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/hdudos6ps63mntj/VENX-181HD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69D0ewfcXvVtZGaMYy52mRjW0Be6/TNU0RQvtpyWHrLM="}]
