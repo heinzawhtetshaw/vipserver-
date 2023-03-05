@@ -5254,7 +5254,7 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230223_154142.jpg",
 "dapp":"https://www.mediafire.com/file/mv2wsc1fv5f9t3b/Mimk-075-720p.mp4/file",
 "candownload":"",
-"wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXuMACA01PkuP58yOKq7Swr9RW3MTiRF+smtTM1TovOj1/lwpTxdS+YieQ5nNVB7arw=="},
+"wcode":""},
 {"name":"MIAA-705mmsub",
 "info":"မြန်မာစာတန်းထိုး
 လူယုတ်မာသူဌေးနဲ့ ဝန်ထမ်းမလေး
