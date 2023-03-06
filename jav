@@ -5386,4 +5386,19 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/venx00181/venx00181jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/hdudos6ps63mntj/VENX-181HD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69D0ewfcXvVtZGaMYy52mRjW0Be6/TNU0RQvtpyWHrLM="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69D0ewfcXvVtZGaMYy52mRjW0Be6/TNU0RQvtpyWHrLM="},
+{"name":"JUFE-377mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မိဘတွေရှိရာ မွေးရပ်မြေသို့ ခဏတာပြန်လာခဲ့ပါတယ်
+အိမ်ရောက်တဲ့အခါ သူမရဲ့မောင်လေးဖစ်သူကတော့ စော်ပစ်ခံရတာကြောင့် အသဲတွေကွဲနေလေရဲ့ ဘာတွေဆက်ဖစ်မလဲ
+မင်းသမီးနာမည် Rena Momozono",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juf/jufe00377/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bqesaxjo4tgpuwq/JUFE-377-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/1ysaG5k_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00377/jufe00377pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230306_191131.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230306_191159.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jufe00377/jufe00377jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/4txf0em5b70o71h/JUFE-377-MRHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6me/jnax8w5bd/iQC34aG3JMRuYz10fs5qjvuWBGlRDE="}]
