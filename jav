@@ -5401,4 +5401,19 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jufe00377/jufe00377jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/4txf0em5b70o71h/JUFE-377-MRHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6me/jnax8w5bd/iQC34aG3JMRuYz10fs5qjvuWBGlRDE="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6me/jnax8w5bd/iQC34aG3JMRuYz10fs5qjvuWBGlRDE="},
+{"name":"AKBS-035mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းကိုစိတ်ဆိုးပီး မိဘအိမ်သို့ရောက်လာခဲ့တဲ့ အစ်မဖစ်သူ
+အင်းစက်ကား
+မင်းသမီးနာမည် Kaho Shibuya",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/akb/akbs035/akbs035_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/h5k8jrjf13cxx90/AKBS_035SD.mp4/file",
+"photo1":"https://i.imgur.io/1EvSgla_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/akbs00035/akbs00035pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230307_210247.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/akbs00035/akbs00035jp-10.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/akbs00035/akbs00035jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/fftby4lzf85n218/AKBS_035HD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6m2lKwEegt0HLZuKjjKj3gRIzP8cRqKSycZ0bO/Xsuyw="}]
