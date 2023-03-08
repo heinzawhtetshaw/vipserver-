@@ -5416,4 +5416,18 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/akbs00035/akbs00035jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/fftby4lzf85n218/AKBS_035HD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6m2lKwEegt0HLZuKjjKj3gRIzP8cRqKSycZ0bO/Xsuyw="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6m2lKwEegt0HLZuKjjKj3gRIzP8cRqKSycZ0bO/Xsuyw="},
+{"name":"JUQ-156mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရုံးမှာ ပင်ပင်ပန်းပန်းအလုပ်လုပ်ရတဲ့ အောက်ခြေဝန်ထမ်းမလေးကို အသစ်ပြောင်းလာတဲ့ အထက်လူကြီးက အနိုင်ကျင့်တဲ့ဇာတ်လမ်းလေးပါ
+မင်းသမ‌ီးနာမည် Minami Yasu",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00156/playlist.m3u8",
+"download":"https://www.mediafire.com/file/kb4hw5aphep6fnm/JUQ-156-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/C9SX5Dh_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00156/juq00156pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00156/juq00156jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230308_162425.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00156/juq00156jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/4dk08gn1ez610ts/JUQ-156-MRHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0+0xKbn5KhuP9frE8PT03Tk="}]
