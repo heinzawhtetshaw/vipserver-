@@ -5430,4 +5430,20 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00156/juq00156jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/4dk08gn1ez610ts/JUQ-156-MRHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0+0xKbn5KhuP9frE8PT03Tk="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0+0xKbn5KhuP9frE8PT03Tk="},
+{"name":"ABW-720mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းက ယခင်အလုပ်ကထွက်လိုက်ရလို့ အလုပ်သစ်ရှာနေခဲ့ပါတယ်
+ဒီချိန်မှာဇနီး‌ချောလေးက အိမ်ငှားခနဲ့ အသုံးစရိတ်လိုတာကြောင့် ငွေတိုးချေးသမားတွေဆိုကနေ ခင်ပွန်းမသိအောင်ငွေချေးခဲ့ရာ... ဘာတွေဆက်ဖစ်မလဲ
+မင်းသမီးနာမည် Airi Suzumura
+အရမ်းကောင်းတာနော် ဒီကားလေး",
+"watch":"https://mgstage.javtrailers.com/https://sample.mgstage.com/sample/prestige/abw/318/abw-318_20221227T143801.mp4",
+"download":"https://www.mediafire.com/file/9x8j8lht9i7tlgm/Abw-318-480p.mp4/file",
+"photo1":"https://i.imgur.io/XaSa9Ij_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://image.mgstage.com/images/prestige/abw/318/pb_e_abw-318.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230309_174615.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p5/main/AddText_03-09-05.51.19.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230309_173951.jpg",
+"dapp":"https://www.mediafire.com/file/wcqw9r87p7vjpf2/Abw-318-720p.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6sMGwA0+5Hxnbw7hKyr37H/LoDgJMZmK0iQvkAfdVz1c="}]
