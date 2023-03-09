@@ -5431,7 +5431,7 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "dapp":"https://www.mediafire.com/file/4dk08gn1ez610ts/JUQ-156-MRHD.mp4/file",
 "candownload":"",
 "wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0+0xKbn5KhuP9frE8PT03Tk="},
-{"name":"ABW-720mmsub",
+{"name":"ABW-318mmsub",
 "info":"မြန်မာစာတန်းထိုး
 ခင်ပွန်းက ယခင်အလုပ်ကထွက်လိုက်ရလို့ အလုပ်သစ်ရှာနေခဲ့ပါတယ်
 ဒီချိန်မှာဇနီး‌ချောလေးက အိမ်ငှားခနဲ့ အသုံးစရိတ်လိုတာကြောင့် ငွေတိုးချေးသမားတွေဆိုကနေ ခင်ပွန်းမသိအောင်ငွေချေးခဲ့ရာ... ဘာတွေဆက်ဖစ်မလဲ
