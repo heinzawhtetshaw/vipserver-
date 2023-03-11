@@ -5446,4 +5446,18 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230309_173951.jpg",
 "dapp":"https://www.mediafire.com/file/wcqw9r87p7vjpf2/Abw-318-720p.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6sMGwA0+5Hxnbw7hKyr37H/LoDgJMZmK0iQvkAfdVz1c="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6sMGwA0+5Hxnbw7hKyr37H/LoDgJMZmK0iQvkAfdVz1c="},
+{"name":"RCT-470mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ story ၂ပုဒ်ပါတဲ့ အမေနဲ့သား အင်းစက်ကားလေးပါ 
+မင်းသမီးနာမည် Marina Matsumoto/Megumi Shino",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1rc/1rct470/1rct470_sm_s.mp4",
+"download":"https://www.mediafire.com/file/ti3g6aclwt5uiat/RCT+470SD.mp4/file",
+"photo1":"https://i.imgur.io/o16f7ev_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1rct00470/1rct00470pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1rct00470/1rct00470jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1rct00470/1rct00470jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1rct00470/1rct00470jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/qnwr627umrbdrfx/RCT+470HD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69dc2XgBfCCcitFICaLXNYGJBg6G5XuBtutp/WE90dsU="}]
