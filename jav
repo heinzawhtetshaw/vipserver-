@@ -5460,4 +5460,18 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/1rct00470/1rct00470jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/qnwr627umrbdrfx/RCT+470HD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69dc2XgBfCCcitFICaLXNYGJBg6G5XuBtutp/WE90dsU="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69dc2XgBfCCcitFICaLXNYGJBg6G5XuBtutp/WE90dsU="},
+{"name":"JUL-279mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းမှာအက အရမ်းတော်တဲ့ ကျောင်းသားတစ်ယောက်ဟာ မာန်တက်နေပြီး သူ့လောက်မတော်တဲ့အကအဖွဲထဲကသူတွေကို နှိမ်ပြောခဲ့လို သူ့အမေ Yuko ကို ဦးတည်ပြီးကလဲ့စားချေလို ပေးဆပ်လိုက်ရတဲ့ ကားကောင်းလေး တစ်ကားကိုကြည့်ရမှာပဲဖြစ်ပါတယ်
+မင်းသမီးနာမည် Yuko Shiraki",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00279/jul00279_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/sjsjg4vphsjr68g/JUL-279-MRSD.mp4/file",
+"photo1":"https://i.imgur.io/E1rxXgV_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00279/jul00279pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230312_123557.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00279/jul00279jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00279/jul00279jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/thcjxvmr1zzbdd1/JUL-279-MRHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RVOTFpedrLLq0qok/bL4Dko="}]
