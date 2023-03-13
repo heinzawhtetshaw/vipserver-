@@ -5481,7 +5481,7 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 မင်းသမီးနာမည် Ichika Matsumoto",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ati/atid00539/playlist.m3u8",
 "download":"https://www.mediafire.com/file/d4rngcsje74xdrf/ATID-539-MRSD.mp4/file",
-"photo1":"https://pics.dmm.co.jp/digital/video/atid00539/atid00539ps.jpg",
+"photo1":"https://i.imgur.io/4gW3vYZ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.dmm.co.jp/digital/video/atid00539/atid00539pl.jpg",
 "photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230313_114524.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/atid00539/atid00539jp-5.jpg",
