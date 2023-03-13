@@ -5474,4 +5474,18 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00279/jul00279jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/thcjxvmr1zzbdd1/JUL-279-MRHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RVOTFpedrLLq0qok/bL4Dko="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RVOTFpedrLLq0qok/bL4Dko="},
+{"name":"ATID-539mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းဆရာမအသစ်လေးနဲ့ ကိုလူမဲ
+မင်းသမီးနာမည် Ichika Matsumoto",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ati/atid00539/playlist.m3u8",
+"download":"https://www.mediafire.com/file/d4rngcsje74xdrf/ATID-539-MRSD.mp4/file",
+"photo1":"https://pics.dmm.co.jp/digital/video/atid00539/atid00539ps.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00539/atid00539pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230313_114524.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00539/atid00539jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00539/atid00539jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/yz3x9mrsh058vl2/ATID-539-MRHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6X3nJVILGzjQINMo+EZZADAHJIi/6nQri7o7sWsouXdM="}]
