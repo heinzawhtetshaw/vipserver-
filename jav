@@ -5517,4 +5517,18 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/pred00044/pred00044jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/k966kxnfq5fglzn/Pred-044-720p.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6f3TG7Z+cR7FzNs5v9pKbLI9RvsaMwxpQe9In6LksIH8="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6f3TG7Z+cR7FzNs5v9pKbLI9RvsaMwxpQe9In6LksIH8="},
+{"name":"HOKS-089mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အင်းစက်ကြိုက်တဲ့သူတွေအတွက်
+ဇာတ်ကားလေးထဲမှာတော့ ဇာတ်လမ်း ၄ မျိုးပါ၀င်ပြီး...လူတွေ ရဲ့ ရတာမလို လိုတာမရဖြစ်တဲ့ အကြောင်းတွေနဲ့...မဖြစ်သင့်တာတွေ ဖြစ်လာတတ်တဲ့...အကြောင်းတွေကို...ဖျော်ဖြေမှုတစ်ခုအနေနဲ့သာ ကြည့်လိုက်ရအောင်",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/h/hok/hoks089/hoks089_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/4nv9hj5r3j1gzy6/HOKS-089%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/yOtizfX_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/hoks00089/hoks00089pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/hoks00089/hoks00089jp-4.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/hoks00089/hoks00089jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/hoks00089/hoks00089jp-13.jpg",
+"dapp":"https://www.mediafire.com/file/2x1ucfryjt8x6xc/HOKS-089%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb62Bqj8mMXcKz3+QR2gIqSGzd5Tv+OmT8rL5q/2wVntpU="}]
