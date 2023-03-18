@@ -5532,4 +5532,18 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/hoks00089/hoks00089jp-13.jpg",
 "dapp":"https://www.mediafire.com/file/2x1ucfryjt8x6xc/HOKS-089%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb62Bqj8mMXcKz3+QR2gIqSGzd5Tv+OmT8rL5q/2wVntpU="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb62Bqj8mMXcKz3+QR2gIqSGzd5Tv+OmT8rL5q/2wVntpU="},
+{"name":"JUQ-197mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အကိတ်မမကိုဘယ်လိုဖြိုရမလဲဆိုတာ သင်ပြပေးသွားတာ 👍
+မင်းသမီးနာမည် Nina Nishimura",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00197/playlist.m3u8",
+"download":"https://www.mediafire.com/file/xpoxsodwpplcjud/JUQ_197%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/hpTW12G_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00197/juq00197pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00197/juq00197jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00197/juq00197jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00197/juq00197jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/7epw7zqsit4azbh/JUQ_197%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I04xoDwWTH6foDsbzzjSLup4="}]
