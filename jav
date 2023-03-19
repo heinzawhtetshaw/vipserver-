@@ -5546,4 +5546,19 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00197/juq00197jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/7epw7zqsit4azbh/JUQ_197%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I04xoDwWTH6foDsbzzjSLup4="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I04xoDwWTH6foDsbzzjSLup4="},
+{"name":"HMN-033mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကိုယ်တိုင် မစိုက်ပျိူးနိုင်တဲ့ အပင်တစ်ပင်ကို တစ်ခြားသူက ဝင်ရောက်စိုက်ပျိူးပေးမယ်ဇာတ်လမ်းလေးပဲဖြစ်ပါတယ်...
+ယောကျာ်းဖစ်သူက မျိုးမအောင်တော့လဲ အခြားတစ်ယောက်ဆီ အကူညီတောင်းရတာပေါ့
+မင်းသမီးနာမည် JULIA JULIA",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00033/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ygl9hexymbx8s9d/HMN-033-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/NcB5lif_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00033/hmn00033pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/hmn00033/hmn00033jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/hmn00033/hmn00033jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/hmn00033/hmn00033jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/xoq4csegs68n1at/HMN-033-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6npm97dvwC1MhLAIYliv5KdS8rlOnmk3TDq4QhxWUH3U="}]
