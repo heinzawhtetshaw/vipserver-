@@ -5561,4 +5561,18 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/hmn00033/hmn00033jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/xoq4csegs68n1at/HMN-033-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6npm97dvwC1MhLAIYliv5KdS8rlOnmk3TDq4QhxWUH3U="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6npm97dvwC1MhLAIYliv5KdS8rlOnmk3TDq4QhxWUH3U="},
+{"name":"SSNI-734mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရုတ်တရက် မိုးရွာလာလို့ မိုးရေတွေစိုပြီး ပြန်ရောက်လာတဲ့ ကျောင်းသူလေးကို ဆရာက နွေးအောင်လုပ်ပေးမယ်ဆိုပီး ဘုတာဟေ့ 😂
+မင်းသမီးနာမည် Yura Kano",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/ssn/ssni00734/ssni00734_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/0ubo8gvrbnlq5y2/SSNI_734%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/HrxQZrd_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssni00734/ssni00734pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssni00734/ssni00734jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssni00734/ssni00734jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssni00734/ssni00734jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/1ug19rh7vcv7gab/SSNI_734%257EHD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
