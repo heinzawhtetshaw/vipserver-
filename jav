@@ -5575,4 +5575,4 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ssni00734/ssni00734jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/1ug19rh7vcv7gab/SSNI_734%257EHD.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6d1ohjf0eHGzM1JwYCLbN6UbLGX/kINqr+nrYsBNq2T8="}]
