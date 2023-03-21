@@ -5575,4 +5575,18 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ssni00734/ssni00734jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/1ug19rh7vcv7gab/SSNI_734%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6d1ohjf0eHGzM1JwYCLbN6UbLGX/kINqr+nrYsBNq2T8="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6d1ohjf0eHGzM1JwYCLbN6UbLGX/kINqr+nrYsBNq2T8="},
+{"name":"SDMF-007mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရည်းစားကောင်လေးကို ရင်ဆိုင်နိုင်ဖို့အတွက် မောင်လေးဖစ်သူနဲ့ သိုင်းကျင့်ခဲ့တဲ့ မမ
+မင်းသမီးနာမည် Kaho Imai",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1sd/1sdmf007/1sdmf007_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/38drpv1wjbu21l7/SDMF_007%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/gkVuRQy_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1sdmf00007/1sdmf00007pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1sdmf00007/1sdmf00007jp-15.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1sdmf00007/1sdmf00007jp-17.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1sdmf00007/1sdmf00007jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/rnd8nu497is11h5/SDMF_007%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DgiaW/5JukSe++ullpOan6whXYpO+uob+PDU7pOnQLc="}]
