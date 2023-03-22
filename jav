@@ -5589,4 +5589,18 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/1sdmf00007/1sdmf00007jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/rnd8nu497is11h5/SDMF_007%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DgiaW/5JukSe++ullpOan6whXYpO+uob+PDU7pOnQLc="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DgiaW/5JukSe++ullpOan6whXYpO+uob+PDU7pOnQLc="},
+{"name":"VENX-168mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက္ခထီးနဲ့ ချွေးမ 
+မင်းသမီးနာမည် Holy Ruri and Ah ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/v/ven/venx168/playlist.m3u8",
+"download":"https://www.mediafire.com/file/tjhuqiu95mnrxkr/VENX_168%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/CUAux7z_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/venx00168/venx00168pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/venx00168/venx00168jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/venx00168/venx00168jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/venx00168/venx00168jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/qgo2d4x91dm9xmj/VENX_168%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69D0ewfcXvVtZGaMYy52mRh4kEftNLAJadv2D95l7qOo="}]
