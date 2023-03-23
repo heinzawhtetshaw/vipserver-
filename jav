@@ -5603,4 +5603,19 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/venx00168/venx00168jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/qgo2d4x91dm9xmj/VENX_168%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69D0ewfcXvVtZGaMYy52mRh4kEftNLAJadv2D95l7qOo="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69D0ewfcXvVtZGaMYy52mRh4kEftNLAJadv2D95l7qOo="},
+{"name":"JUFE-426mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းဖစ်သူရဲ့ တူလေးနဲ့ အန်တီ Ai Sayama တို့ရဲ့ဇာတ်လမ်းလေး
+တူဖစ်သူက‌တော့ အန်တီအကိတ်ကြီးကို ဖြိုနိုင်ပါ့မလား
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juf/jufe00426/playlist.m3u8",
+"download":"https://www.mediafire.com/file/6ql9jznwvogdbqo/JUFE-426-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/uxRjwsD_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00426/jufe00426pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jufe00426/jufe00426jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jufe00426/jufe00426jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jufe00426/jufe00426jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/lbucjdmnc8degu5/JUFE-426-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Bcj61nQCLwIbsvgwf/LbQhgVG5gcaoPmHiQqAgXXFmU="}]
