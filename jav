@@ -5618,4 +5618,21 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jufe00426/jufe00426jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/lbucjdmnc8degu5/JUFE-426-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Bcj61nQCLwIbsvgwf/LbQhgVG5gcaoPmHiQqAgXXFmU="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Bcj61nQCLwIbsvgwf/LbQhgVG5gcaoPmHiQqAgXXFmU="},
+{"name":"PRED-337mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယာဉ်မောင်းလိုင်စင်လိုချင်လို့ ယာဉ်မောင်းသင်တန်းတက်ရန် မြို့ကိုရောက်လာခဲ့တဲ့ တောသူမလေး တစ်ယောက်ရဲ့ဇာတ်လမ်း
+ရွာမှာချစ်ရတဲ့ ကောင်လေး ရှိတာမို့ တခြားဘယ်ယောကျာ်းကိုမှ အရောမဝင်ပါဘူး
+ဒါပေမယ့် သင်တန်းက ကိုကြီးဆိုတဲ့လူကတော့ သူမကိုမြင်တာနဲ့ ဘုချင်နေတာ
+ဘာတွေဆက်ဖစ်မလဲ....
+မင်းသမီးနာမည် Ai Hoshina",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/pre/pred00337/playlist.m3u8",
+"download":"https://www.mediafire.com/file/fxps8qqzugopobe/Pred-337sd.mp4/file",
+"photo1":"https://i.imgur.io/0o3s5Vm_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00337/pred00337pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/AddText_03-24-04.50.32.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p5/main/AddText_03-24-04.43.34.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pred00337/pred00337jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/y36f0u1khmhrer8/Pred-337hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6f3TG7Z+cR7FzNs5v9pKbLCbGGwZ/zsXJuwa7HT29Prs="}]
