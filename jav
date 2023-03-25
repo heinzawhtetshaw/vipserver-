@@ -5635,4 +5635,19 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/pred00337/pred00337jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/y36f0u1khmhrer8/Pred-337hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6f3TG7Z+cR7FzNs5v9pKbLCbGGwZ/zsXJuwa7HT29Prs="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6f3TG7Z+cR7FzNs5v9pKbLCbGGwZ/zsXJuwa7HT29Prs="},
+{"name":"JUQ-134mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ထောင်ရှင်မလေး Ninaကို‌ ဘေးအိမ်က အလုပ်မရှိအကိုင်မရှိကောင်က နေ့တိုင်းလည်းမှန်းထုနေခဲ့ပါတယ်
+မှန်းထုရုံနဲ့အားမရဘဲ လက်တွေ့စားဖို့ ကြံစည်လာတဲ့အခါ
+မင်းသမီးနာမည် Nina Nishimura",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00134/playlist.m3u8",
+"download":"https://www.mediafire.com/file/3628z9xt9d1qi35/JUQ-134-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/0P5xUCm_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00134/juq00134pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00134/juq00134jp-4.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00134/juq00134jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00134/juq00134jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/hgbdqygn54gooqc/JUQ-134-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0/ZanYfiPyanFNUJdgIwyJI="}]
