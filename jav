@@ -5114,7 +5114,7 @@ Takashi ဟာ ငယ်ငယ်ကတည်းက ဖခင် ဆုံးသ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20230212_220243.jpg",
 "dapp":"6qNoM29gBko/ixtq1wdHu+eIQVFsiWQ9k2GOn6TdkpA/4+DKDvJB9HPNfunRl/HGQYPar/g4c2cUlZB3IsQPT5ftUusR/bzEzKitSZvC2VA=",
 "candownload":"lock",
-"wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXuMACA01PkuP58yOKq7Swr/YBmA/7EwpLVxW9H/kRs5PrkfTMDpq297+zA+u6YE1rw=="},
+"wcode":"0ff"},
 {"name":"JUQ-171mmsub",
 "info":"မြန်မာစာတန်းထိုး
 မာနကြီးတဲ့သူဌေးမမကိုစား
