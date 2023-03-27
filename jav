@@ -5268,7 +5268,7 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/miaa00705/miaa00705jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/bf9osge6g15ewur/MIAA-705-MRHD.mp4/file",
 "candownload":"",
-"wcode":"https://sin1.contabostorage.com/1adf9f1c9ac748caaa6269c674e3ed7e:heinhtet/vipjapan/MIAA-705-MRSD.mp4"},
+"wcode":"တစ်"},
 {"name":"VENX-158mmsub",
 "info":"မြန်မာစာတန်းထိုး
 ပူပြင်းတဲ့နွေရာသီမှာ ချွေးသံတရွှရွှနဲ့စိုရွှနေတဲ့ အလန်းစား body နဲ့အမေကိုမြင်တာနဲ့စိတ်ကြွပြီးမထိန်းနိုင်တဲ့ကောင်လေးနဲ့ နွေရာသီမှာချွေးတလုံးလုံးနဲ့သားအမိနှစ်ယောက် ပွဲကြမ်း
@@ -5282,7 +5282,7 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/venx00158/venx00158jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/m4pufr3ynw18lqn/VENX-158HD.mp4/file",
 "candownload":"",
-"wcode":"https://sin1.contabostorage.com/1adf9f1c9ac748caaa6269c674e3ed7e:heinhtet/vipjapan/VENX-158SD.mp4"},
+"wcode":"တစ်"},
 {"name":"JUL-572mmsub",
 "info":"မြန်မာစာတန်းထိုး
 မိထွေးနဲ့ လင်ပါသား တို့ရဲ့ဇာတ်လမ်း
@@ -5296,7 +5296,7 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00572/jul00572jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/yttadhw56dxbxrd/JUL-572-MRHD.mp4/file",
 "candownload":"",
-"wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXuMACA01PkuP58yOKq7Swr/Z2+bxdymTjXFeq8e7XL62hoOPP1XJ+GWUU1Pf1iOHCQ=="},
+"wcode":"တစ်"},
 {"name":"VEMA-163mmsub",
 "info":"မြန်မာစာတန်းထိုး
 ဆရာမကို လိုး
@@ -5310,7 +5310,7 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/vema00163/vema00163jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/6mow3svmstzdmik/VEMA-163HD.mp4/file",
 "candownload":"",
-"wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXuMACA01PkuP58yOKq7Swr9YQmLQ47Hmzzj+PPTfLKH6evNqaRFDPNLsZNYuYZ7h5w==",
+"wcode":"တစ်",
 "hdlink":""},
 {"name":"ROE-074mmsub",
 "info":"မြန်မာစာတန်းထိုး
@@ -5325,7 +5325,7 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/roe00074/roe00074jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/jrkqddf81lq2kuj/ROE-074-MRHD.mp4/file",
 "candownload":"",
-"wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXuMACA01PkuP58yOKq7Swr/LqZXZlahVm55zr9W97XirxIgvtqd3+Qfv8Fx6y/IGSA==",
+"wcode":"တစ်",
 "hdlink":""},
 {"name":"NSFS-116mmsub",
 "info":"မြန်မာစာတန်းထိုး
@@ -5341,7 +5341,7 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/nsfs00116/nsfs00116jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/b28dd52h3gitrwm/NSFS-116HD.mp4/file",
 "candownload":"",
-"wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXmAk9O159GEKxqF3JjjeYz+YJP8hY3OLlLxuaNkUjgQZ",
+"wcode":"တစ်",
 "hdlink":""},
 {"name":"NSFS-091mmsub",
 "info":"မြန်မာစာတန်းထိုး
