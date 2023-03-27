@@ -5356,7 +5356,7 @@ Jun နဲ့ ပေးဒိတ်ရင် အကြွေးတွေချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/nsfs00091/nsfs00091jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/8zgdh44t0fmxa8c/NSFS-091HD.mp4/file",
 "candownload":"",
-"wcode":"PO9giN3g4tpFXC03SJxopU6BZTMpQxFuIBbV4tR5kKlToqMIA+yqg/WIlpNAUeleqmvlUJbualwpZoROEJ5XXuMACA01PkuP58yOKq7Swr8d7ciR3D1WtHaiHRVvkqDnVkxeDre29Qf0IjV3ft62jQ==",
+"wcode":"တစ်",
 "hdlink":""},
 {"name":"HBAD-447mmsub",
 "info":"မြန်မာစာတန်းထိုး
