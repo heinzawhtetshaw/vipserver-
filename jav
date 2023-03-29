@@ -5680,4 +5680,19 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00664/ssis00664jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/6bc08rxjt7d8viq/SSIS_664%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6nLDHUzJ6UdRvv5h8TG3y3EqU9LjPCx/8iiXxByPZq54="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6nLDHUzJ6UdRvv5h8TG3y3EqU9LjPCx/8iiXxByPZq54="},
+{"name":"FSDSS-296mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဘဝမှာတစ်ခါမှာအနိုပ်မခံဖူးလို့ အနိုပ်ခံဖို့ ရောက်လာခဲ့တဲ့အပျိုလေး
+ကောင်မလေးက အရမ်းချစ်စရာကောင်းတော့ အနိုပ်ဆရာလည်း သည်းမခံနိုင်တော့ပဲ တက်လိုး 👍
+မင်းသမီးနာမည် Kaname Momojiri",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1fs/1fsdss296/playlist.m3u8",
+"download":"https://www.mediafire.com/file/aurzph707tzi88v/Fsdss-296sd.mp4/file",
+"photo1":"https://i.imgur.io/4x5fOq2_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1fsdss00296/1fsdss00296pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230329_134223.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230329_134424.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/AddText_03-29-02.03.56.jpg",
+"dapp":"https://www.mediafire.com/file/wxxj6m0a5huscds/Fsdss-296hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb66/dKxtjhtlsaOa2tycXGs7cgNMGKYbxeu4yo1nPF4SQ="}]
