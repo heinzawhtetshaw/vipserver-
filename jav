@@ -5695,4 +5695,18 @@ Rena လေးဟာ သူမရဲ့ချစ်သူနဲ့အတူ မ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/AddText_03-29-02.03.56.jpg",
 "dapp":"https://www.mediafire.com/file/wxxj6m0a5huscds/Fsdss-296hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb66/dKxtjhtlsaOa2tycXGs7cgNMGKYbxeu4yo1nPF4SQ="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb66/dKxtjhtlsaOa2tycXGs7cgNMGKYbxeu4yo1nPF4SQ="},
+{"name":"JUX-496mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အစ်ကိုတို့ လင်မယား မွေးရပ်မြေသို့အလည်လာတုန်းမှာ ညီဖစ်သူက အစ်ကိုရဲ့ဇနီးချောလေးကို ဝိုက်တဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Misaki Honda",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jux/jux00496/jux00496_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/rkhlylyhtkpbny2/JUX_496_-SD.mp4/file",
+"photo1":"https://i.imgur.io/xzDc5Lg_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jux00496/jux00496pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230330_111545.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230330_111610.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jux00496/jux00496jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/4lafwoww2mfx7vg/JUX_496_-HD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6c3wO9Z+ezrorCTARVIlByugoprOQe4fnlSzKJ1fmNlM="}]
