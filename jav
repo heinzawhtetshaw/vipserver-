@@ -5726,4 +5726,20 @@ Mako odaက အကုန်ဂရုလိုက်စိုက်ပေးရ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jux00293/jux00293jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/8ukwbgdlx4vondg/JUX-293-HD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6c3wO9Z+ezrorCTARVIlBylF3Cjdn2KwzUoa6Kxx0v7U="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6c3wO9Z+ezrorCTARVIlBylF3Cjdn2KwzUoa6Kxx0v7U="},
+{"name":"ATID-379mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Tsumugi Akari ဟာ သိပ်ကိုလှပတဲ့ ဇနီးချောလေးဖြစ်ပြီး ယောက်ျားနဲ့အတူ ယောက္ခထီးကြီးနဲ့ပါ နေထိုင်လျက်ရှိပါတယ်။
+အဲ့ယောက္ခထီးကြီးက သူ့မိန်းမ ကွယ်လွန်သွားတာကြောင့် 
+အိမ်မှာ မိန်းမသားဆို‌လို့ ချွေးမ တစ်ယောက်ပဲရှိတော့တဲ့အခါ...
+မင်းသမီးနာမည် Tsumugi Akari",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/ati/atid00379/atid00379_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/jg6ryho4vpx8nnv/ATID_379%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/kmhX4Hd_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00379/atid00379pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230402_103924.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00379/atid00379jp-10.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00379/atid00379jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/bounsxk9jwcpn1c/ATID_379%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6X3nJVILGzjQINMo+EZZADA7WAvlKIXt21UB/gvoAx14="}]
