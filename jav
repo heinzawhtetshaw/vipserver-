@@ -5742,4 +5742,19 @@ Tsumugi Akari ဟာ သိပ်ကိုလှပတဲ့ ဇနီးချ�
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00379/atid00379jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/bounsxk9jwcpn1c/ATID_379%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6X3nJVILGzjQINMo+EZZADA7WAvlKIXt21UB/gvoAx14="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6X3nJVILGzjQINMo+EZZADA7WAvlKIXt21UB/gvoAx14="},
+{"name":"JUL-635mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Ririko ဟာ အိမ်ထောင်ရှိနေပြီး ယောက်ျားဟာ နိုင်ငံခြားမှာအလုပ်လုပ်နေတာကြောင့် သားဖြစ်သူ Makoto နဲ့အတူတူပဲ ဂျပန်မှာနေထိုင်နေပါတယ်။
+ တစ်နေ့တော့ သားဖြစ်သူ Makoto က Yuki Yudzuru ဆိုတဲ့ သူငယ်ချင်းကိုခေါ်လာတဲ့အခါမှာ သနားကမားရုပ်‌ကလေးနဲ့ ဒရာမာခင်းပီး အဒေါ်ကြီးကို ရှယ်ဗျင်းသွားတာ
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00635/playlist.m3u8",
+"download":"https://www.mediafire.com/file/p24gzmkfhit6wkw/JUL-635-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/VScfpuf_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00635/jul00635pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00635/jul00635jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00635/jul00635jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00635/jul00635jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/mkdrq9y02x824lt/JUL-635-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RYEzspsOBGt0m8Jh2EhZvAk="}]
