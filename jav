@@ -5757,4 +5757,18 @@ Ririko ဟာ အိမ်ထောင်ရှိနေပြီး ယော�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00635/jul00635jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/mkdrq9y02x824lt/JUL-635-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RYEzspsOBGt0m8Jh2EhZvAk="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RYEzspsOBGt0m8Jh2EhZvAk="},
+{"name":"JUQ-209mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက္ခမကြီးနဲ့ ချွေးမ
+မင်းသမီးနာမည် Lauren Karen ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00209/playlist.m3u8",
+"download":"https://www.mediafire.com/file/iolzjy0ltpp4zk4/JUQ-209-MRSD.mp4/file",
+"photo1":"https://pics.dmm.co.jp/digital/video/juq00209/juq00209ps.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00209/juq00209pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00209/juq00209jp-2.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230404_210521.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230404_210635.jpg",
+"dapp":"https://www.mediafire.com/file/kzogteoyg13dkge/JUQ-209-MRHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0wpk8CO3TlwIeUCa2FrGP48="}]
