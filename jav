@@ -5771,4 +5771,20 @@ Ririko ဟာ အိမ်ထောင်ရှိနေပြီး ယော�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230404_210635.jpg",
 "dapp":"https://www.mediafire.com/file/kzogteoyg13dkge/JUQ-209-MRHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0wpk8CO3TlwIeUCa2FrGP48="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0wpk8CO3TlwIeUCa2FrGP48="},
+{"name":"SAME-044mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အပျိုဘဝကတည်းက တစ်ဖက်သတ်ချစ်ခဲ့တာမို့ 
+ခပ်ချေချေနေတဲ့သူမကို သည်းခံနိုင်ပေမယ့် သူမရဲ့ သမီးကပါ အထင်မြင်သေးပီး နိုမ့်ချပြောဆိုလာတဲ့အခါ...
+ဒေါသထွက်သွားတဲ့ဒီလူကြီးလက်ထဲက သမီးလေးကိုကာကွယ်ဖို့ အမေဖစ်သူကအကုန်ပေးဆပ်လိုက်ရတော့မှာလား...
+မင်းသမီးနာမည် Kanna Misaki .Azusa Shinonome",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/sam/same00044/playlist.m3u8",
+"download":"https://www.mediafire.com/file/w4nbqe7rtbjd9um/Same-044sd.mp4/file",
+"photo1":"https://i.imgur.io/s3TBm94_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/same00044/same00044pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/AddText_04-05-10.37.31.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p5/main/AddText_04-05-10.38.27.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/AddText_04-05-10.42.03.jpg",
+"dapp":"https://www.mediafire.com/file/7ikapk2kb5uqc6g/Same-044hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6UCtg/3vS0aCsApy0HxvhC6RYfNX1EuTBAIT74JV70uo="}]
