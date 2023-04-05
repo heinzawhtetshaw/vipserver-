@@ -5764,7 +5764,7 @@ Ririko ဟာ အိမ်ထောင်ရှိနေပြီး ယော�
 မင်းသမီးနာမည် Lauren Karen ",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00209/playlist.m3u8",
 "download":"https://www.mediafire.com/file/iolzjy0ltpp4zk4/JUQ-209-MRSD.mp4/file",
-"photo1":"https://pics.dmm.co.jp/digital/video/juq00209/juq00209ps.jpg",
+"photo1":"https://i.imgur.io/Ebj07vE_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.dmm.co.jp/digital/video/juq00209/juq00209pl.jpg",
 "photo3":"https://pics.dmm.co.jp/digital/video/juq00209/juq00209jp-2.jpg",
 "photo4":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230404_210521.jpg",
