@@ -5787,4 +5787,18 @@ Ririko ဟာ အိမ်ထောင်ရှိနေပြီး ယော�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/AddText_04-05-10.42.03.jpg",
 "dapp":"https://www.mediafire.com/file/7ikapk2kb5uqc6g/Same-044hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6UCtg/3vS0aCsApy0HxvhC6RYfNX1EuTBAIT74JV70uo="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6UCtg/3vS0aCsApy0HxvhC6RYfNX1EuTBAIT74JV70uo="},
+{"name":"JUY-635mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်ကားကတော့ နှစ်တစ်နှစ်ရဲ့ မိုးတွေပထမဆုံးရွာတဲ့နေ့မှာ မမရဲ့ အလှအပတွေကို ရင်သပ်ရှူမော အံ့သြဘနန်း တွေ့လိုက်ရတဲ့ ဆယ်ကျော်သက်ကောင်လေးတစ်ယောက်ရဲ့ အကြောင်းပါ
+မင်းသမီးနာမည် Touka Rinne",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/juy/juy00635/juy00635_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ylmlxhji9nav31r/JUY-635%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/TX0slrH_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juy00635/juy00635pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juy00635/juy00635jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juy00635/juy00635jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juy00635/juy00635jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/gdszx3bl2ycxlgx/JUY-635%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6iyHmi+i5apVXRsO+AhNMIQGhw8PjZ/M4mEZyBk0QDUc="}]
