@@ -5801,4 +5801,19 @@ Ririko ဟာ အိမ်ထောင်ရှိနေပြီး ယော�
 "photo5":"https://pics.dmm.co.jp/digital/video/juy00635/juy00635jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/gdszx3bl2ycxlgx/JUY-635%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6iyHmi+i5apVXRsO+AhNMIQGhw8PjZ/M4mEZyBk0QDUc="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6iyHmi+i5apVXRsO+AhNMIQGhw8PjZ/M4mEZyBk0QDUc="},
+{"name":"RCT-699mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လင်မယားစကားများတာ 
+ယောင်္ကျားကအ၀တ်မပေးဘဲအိမ်ပေါ်ကနှင်ချလို့ အ၀တ်ဗလာနဲ့အိမ်နီးနားချင်းကိုအကူညီလိုက်တောင်းကာမှ ရေနစ်သူဝါးကူထိုးသလိုကူညီမယ်တော့မရှိဘဲ ကိုယ်ကျိုးအမြတ်ထုတ်သွားတဲ့ကားလေးပါ
+မင်းသမီးနာမည် Miho Ichiki .Mako Konno",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1tr/1trct00699/1trct00699_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/kquz6v0qydnwcua/RCT_699%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/mLGOY2x_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1trct00699/1trct00699pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230408_001303.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230408_001338.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230408_001453.jpg",
+"dapp":"https://www.mediafire.com/file/sjb1mmiekz81hiq/RCT_699%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69dc2XgBfCCcitFICaLXNYCjDO7gHh3cBk6yRMBiC9Wc="}]
