@@ -5816,4 +5816,18 @@ Ririko ဟာ အိမ်ထောင်ရှိနေပြီး ယော�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230408_001453.jpg",
 "dapp":"https://www.mediafire.com/file/sjb1mmiekz81hiq/RCT_699%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69dc2XgBfCCcitFICaLXNYCjDO7gHh3cBk6yRMBiC9Wc="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69dc2XgBfCCcitFICaLXNYCjDO7gHh3cBk6yRMBiC9Wc="},
+{"name":"NSPS-740mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်လခမပေးနိုင်လို့ အိမ်ရှင်ကိုမရှိရှိတာ ထိုးအပ်လိုက်ရတဲ့ အန်တီHanyu Arisa
+မင်းသမီးနာမည် Arisa Hanyu",
+"watch":"",
+"download":"https://www.mediafire.com/file/6belm4fcg42luk5/NSPS-740%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/wPX5QGs_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsps00740/nsps00740pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230408_202101.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsps00740/nsps00740jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsps00740/nsps00740jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/nj99ongp5tk0ihi/NSPS-740%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6TDEOOPojzYzAlWbeOi4Bss848X42xKgvpemiYedWAJw="}]
