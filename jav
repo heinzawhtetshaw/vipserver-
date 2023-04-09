@@ -5830,4 +5830,19 @@ Ririko ဟာ အိမ်ထောင်ရှိနေပြီး ယော�
 "photo5":"https://pics.dmm.co.jp/digital/video/nsps00740/nsps00740jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/nj99ongp5tk0ihi/NSPS-740%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6TDEOOPojzYzAlWbeOi4Bss848X42xKgvpemiYedWAJw="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6TDEOOPojzYzAlWbeOi4Bss848X42xKgvpemiYedWAJw="},
+{"name":"JUQ-186mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောင်္ကျားနဲ့ဝေးကွာနေတာကြောင့် ဂျင်ဆရာမလေးဟာ ငတ်ပြတ်နေတာကြာနေခဲ့ပါပီ
+ဒါကြောင့် Gym လာဆော့တဲ့လင်မယားနှစ်ယောက်မှာ ယောင်္ကျားကို မိန်းမငုတ်တုတ်ရှေ့မှာတောင် သူ့ဆီမပါပါအောင်ဘယ်လိုတွေမြှူဆွယ်ပြမလဲဆိုတာ..
+မင်းသမီးနာမည် Himari Kinoshita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00186/playlist.m3u8",
+"download":"https://www.mediafire.com/file/1jce590kw7q8l9e/JUQ-186-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/aYYStQE_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00186/juq00186pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00186/juq00186jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00186/juq00186jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00186/juq00186jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/fz99tpds1ics7m2/JUQ-186-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I016MU99vr9FRJNZNRp/135c="}]
