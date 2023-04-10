@@ -5845,4 +5845,20 @@ Ririko ဟာ အိမ်ထောင်ရှိနေပြီး ယော�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00186/juq00186jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/fz99tpds1ics7m2/JUQ-186-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I016MU99vr9FRJNZNRp/135c="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I016MU99vr9FRJNZNRp/135c="},
+{"name":"SSIS-534mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Riko ဆိုတဲ့ကောင်မလေးဟာ ကျော်ကြီးရည်းစားရဲ့ အချစ်ဆုံးသူငယ်ချင်းလေးပါ
+သူမမှာ မက်မွန်သီးလိုလှပတဲ့ဖင်ကြီးကိုပိုင်ဆိုင်ထားတာကို ကျော်ကြီးတစ်ယောက် တွေ့လိုက်ရပီးနောက် စားမဝင် အိပ်မပျော်ဖစ်ပြီး နေ့တိုင်းမှန်းထုနေပါပြီ
+ရည်းစားတောင်မထားဖူးတဲ့ Riko လေးဟာ သူမရဲ့ဖင်ကို ကျော်ကြီး လက်ချက်မမိအောင် ကာကွယ်နိုင်ပါ့မလား...
+မင်းသမီးနာမည် Riko Kasumi (ဒီမင်းသမီးကိုတော့ လုံးဝကြွေတယ်)",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00534/playlist.m3u8",
+"download":"https://www.mediafire.com/file/d7akioyihl47e6q/Ssis-534sd.mp4/file",
+"photo1":"https://i.imgur.io/e9whKrI_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00534/ssis00534pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/AddText_04-10-09.54.38.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p5/main/AddText_04-10-09.57.31.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230410_223011.jpg",
+"dapp":"https://www.mediafire.com/file/mt0i9i5g9hrsy6c/Ssis-534hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECZyFwGNe69zN6KAS3CdUJJA="}]
