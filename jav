@@ -5861,4 +5861,19 @@ Riko ဆိုတဲ့ကောင်မလေးဟာ ကျော်ကြ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230410_223011.jpg",
 "dapp":"https://www.mediafire.com/file/mt0i9i5g9hrsy6c/Ssis-534hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECZyFwGNe69zN6KAS3CdUJJA="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECZyFwGNe69zN6KAS3CdUJJA="},
+{"name":"URE-069mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိသားစုလိုက် ခရီးထွက်ဖို့ပြင်ပြီးမှ ယောကျာ်းဖစ်သူက မအားလို့ မလိုက်ဖစ်တော့ပါ
+ဒီလိုနဲ့ သားအမိနှစ်ယောက် သွားရင် ရေပူစမ်းမှာ ကောင်လေး နှစ်ယောက်နဲ့ဆုံတွေ့ခဲ့ပါတော့တယ်
+မင်းသမီးနာမည် Ai Kano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/u/ure/ure00069/playlist.m3u8",
+"download":"https://www.mediafire.com/file/n5gq8254zy5ipgn/URE-069-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/nY4peTu_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ure00069/ure00069pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ure00069/ure00069jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ure00069/ure00069jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ure00069/ure00069jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/nh6ius69dwn8i8s/URE-069-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6ssMLMbwumuxNr4F5uM3nFu/hZLNwQI58KumaiODhI4s="}]
