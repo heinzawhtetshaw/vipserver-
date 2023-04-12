@@ -5876,4 +5876,18 @@ Riko ဆိုတဲ့ကောင်မလေးဟာ ကျော်ကြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ure00069/ure00069jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/nh6ius69dwn8i8s/URE-069-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6ssMLMbwumuxNr4F5uM3nFu/hZLNwQI58KumaiODhI4s="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6ssMLMbwumuxNr4F5uM3nFu/hZLNwQI58KumaiODhI4s="},
+{"name":"SAME-014mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ထောင်ထွက်မုဒိန်းကောင်
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/sam/same00014/playlist.m3u8",
+"download":"https://www.mediafire.com/file/v405izq9g0utnx0/Same-014sd.mp4/file",
+"photo1":"https://i.imgur.io/8j1kxfb_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/same00014/same00014pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/same00014/same00014jp-4.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/same00014/same00014jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/same00014/same00014jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/em1jzl4ep09wpjv/Same-014hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6UCtg/3vS0aCsApy0HxvhC9ZL0kqtY/OMa7DQN5AxBAQ="}]
