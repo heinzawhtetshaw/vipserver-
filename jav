@@ -5890,4 +5890,18 @@ Riko ဆိုတဲ့ကောင်မလေးဟာ ကျော်ကြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/same00014/same00014jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/em1jzl4ep09wpjv/Same-014hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6UCtg/3vS0aCsApy0HxvhC9ZL0kqtY/OMa7DQN5AxBAQ="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6UCtg/3vS0aCsApy0HxvhC9ZL0kqtY/OMa7DQN5AxBAQ="},
+{"name":"JUL-873mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းနဲ့အဆင်မပြေလို့ အလုပ်က အထက်လူကြီးကို ကုန်းပေးလိုက်တဲ့ လူဖြူမလေး Lily Hart
+မင်းသမီးနာမည် Lily Hart",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00873/playlist.m3u8",
+"download":"https://www.mediafire.com/file/gpc5sz0ta6nswhk/JUL-873-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/ASkuBKZ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00873/jul00873pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230413_132345.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00873/jul00873jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00873/jul00873jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/u7s459askfzelll/JUL-873-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RbphvYwG1L8UlzHzJ9Hgl9o="}]
