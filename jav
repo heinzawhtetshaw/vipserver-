@@ -5904,4 +5904,20 @@ Riko ဆိုတဲ့ကောင်မလေးဟာ ကျော်ကြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00873/jul00873jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/u7s459askfzelll/JUL-873-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RbphvYwG1L8UlzHzJ9Hgl9o="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RbphvYwG1L8UlzHzJ9Hgl9o="},
+{"name":"MIDV-270mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နာအိုမှာ လက်ထပ်ဖို့အထိ ရည်ရွယ်ထားတဲ့ ချစ်သူကောင်လေးရှိပေမယ့် ဘေးအိမ်က ဦးလေးကြီးရဲ့ ဇနီးဖစ်သွားခဲ့ရတယ်
+နာအိုရဲ့နောက်ဆုံးထွက် ဇာတ်ကားသစ်
+‌‌ဒီစော်ကြီးကကြာလေလှလေပဲကွာ
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00270/playlist.m3u8",
+"download":"https://www.mediafire.com/file/obi8ws41dm0vadh/Midv-270sd.mp4/file",
+"photo1":"https://i.imgur.io/Z8BiuOG_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00270/midv00270pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230413_214122.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230413_214823.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230413_214330.jpg",
+"dapp":"https://www.mediafire.com/file/6dwgdbtw3fyjb2x/midv-270hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6HH5EL199OP2PprLyOVmX2SX6nbM2jvZILXC9nMUbObI="}]
