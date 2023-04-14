@@ -5920,4 +5920,20 @@ Riko ဆိုတဲ့ကောင်မလေးဟာ ကျော်ကြ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230413_214330.jpg",
 "dapp":"https://www.mediafire.com/file/6dwgdbtw3fyjb2x/midv-270hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6HH5EL199OP2PprLyOVmX2SX6nbM2jvZILXC9nMUbObI="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6HH5EL199OP2PprLyOVmX2SX6nbM2jvZILXC9nMUbObI="},
+{"name":"JUL-420mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Rihoကယောင်္ကျားနဲ့ရန်ဖြစ်ပြီးကွဲမလိုဖြစ်ကာ ညီမအိမ်လာနေပါတယ် 
+အစ်မလာအိပ်တာကြောင့် ညီမကလဲသူ့ယောင်္ကျားနဲ့တူတူမနေတဲ့အခါ တလလောက်အောင်းထားတဲ့ယောင်္ကျားလဲသည်းခံနိုင်စွမ်းတွေကုန်နေပါပြီ
+ညီမဖစ်တဲ့ဇနီးကပေးမလိုးတော့ အစ်မကို ဆွဲစိ👍
+မင်းသမီးနာမည် Riho Fujimori",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00420/jul00420_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/3z4rry2rigyokqc/JUL-420_-SD.mp4/file",
+"photo1":"https://i.imgur.io/Zp0hgsf_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00420/jul00420pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00420/jul00420jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00420/jul00420jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00420/jul00420jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/8589hz6z2jv2lty/JUL-420_-HD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RX0PKXSVqqQb26LuBm3yK40="}]
