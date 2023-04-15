@@ -5936,4 +5936,20 @@ Rihoကယောင်္ကျားနဲ့ရန်ဖြစ်ပြီး�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00420/jul00420jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/8589hz6z2jv2lty/JUL-420_-HD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RX0PKXSVqqQb26LuBm3yK40="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RX0PKXSVqqQb26LuBm3yK40="},
+{"name":"JUL-255mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဆင်းရဲသားဆိုပေမယ့် သူဌေးသမီးကိုရထားတာမို့ အိမ်အလုပ်တောင်မလုပ်ခိုင်းဘဲ မင်းသမီးလေးလိုထားပါတယ်
+တစ်နေ့မှာတော့ အိမ်ပြောင်းတာကိုကူညီဖို့ အစ်ကိုတစ်ယောက်လိုခင်ရတဲ့ဘော်ဒါကြီးကို အကူညီတောင်းခဲ့မိရာ
+အဲကောင်ကအလစ်မှာ ဇနီးချောလေးကိုဆောင့်လိုး...
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00255/jul00255_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/amnhtm9xq8xxuez/Jul-255sd.mp4/file",
+"photo1":"https://i.imgur.io/8rskTmN_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00255/jul00255pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/AddText_04-15-09.16.02.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p5/main/AddText_04-15-09.19.50.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230415_210646.jpg",
+"dapp":"https://www.mediafire.com/file/4ywycs3fbbfusa9/Jul-255hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6NY6hB4W/+1m/h6dNg1/s4a3KZt7wkyNrWMjofa8SGSg="}]
