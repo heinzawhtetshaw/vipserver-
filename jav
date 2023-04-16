@@ -5952,4 +5952,18 @@ Rihoကယောင်္ကျားနဲ့ရန်ဖြစ်ပြီး�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20230415_210646.jpg",
 "dapp":"https://www.mediafire.com/file/4ywycs3fbbfusa9/Jul-255hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6NY6hB4W/+1m/h6dNg1/s4a3KZt7wkyNrWMjofa8SGSg="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6NY6hB4W/+1m/h6dNg1/s4a3KZt7wkyNrWMjofa8SGSg="},
+{"name":"NACR-600mmsub",
+"info":"မြန်ုမာစာတန်းထိုး
+ယောကျာ်းက ဆန္ဒမဖြည့်ဆည်းပေးနိုင်လို့ အိမ်နီးနားချင်‌ရော သားပါမကျန် အကုန်ပတ်စားတဲ့ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Yuri Oshikawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/h_2/h_237nacr600/playlist.m3u8",
+"download":"https://www.mediafire.com/file/9ymd3h0j8169rbo/NACR-600%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/nSMxNaG_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/h_237nacr00600/h_237nacr00600pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/h_237nacr00600/h_237nacr00600jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/h_237nacr00600/h_237nacr00600jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/h_237nacr00600/h_237nacr00600jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/n7h0dvxwn7jtr8z/NACR-600%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb609ZGOvtWlRVfgBo1mjqtc5X9cBKEXPp3T2pZ9uEe3b0="}]
