@@ -5966,4 +5966,18 @@ Rihoကယောင်္ကျားနဲ့ရန်ဖြစ်ပြီး�
 "photo5":"https://pics.dmm.co.jp/digital/video/h_237nacr00600/h_237nacr00600jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/n7h0dvxwn7jtr8z/NACR-600%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb609ZGOvtWlRVfgBo1mjqtc5X9cBKEXPp3T2pZ9uEe3b0="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb609ZGOvtWlRVfgBo1mjqtc5X9cBKEXPp3T2pZ9uEe3b0="},
+{"name":"MIAA-796mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သက်တော်စောင့်မလေး Sumire
+မင်းသမီးနာမည် Sumire Mizukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mia/miaa00796/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ttaeuvgsphemgc8/MIAA-796-Mr%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/7MpQgMZ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00796/miaa00796pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/miaa00796/miaa00796jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/miaa00796/miaa00796jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/miaa00796/miaa00796jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/wi5gsviwyc0zqln/MIAA-796-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6mnuZR7V5UuBQol7RTxwNvq9MKoJE4JFIonO3DNohW9o="}]
