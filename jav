@@ -5980,4 +5980,20 @@ Rihoကယောင်္ကျားနဲ့ရန်ဖြစ်ပြီး�
 "photo5":"https://pics.dmm.co.jp/digital/video/miaa00796/miaa00796jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/wi5gsviwyc0zqln/MIAA-796-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6mnuZR7V5UuBQol7RTxwNvq9MKoJE4JFIonO3DNohW9o="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6mnuZR7V5UuBQol7RTxwNvq9MKoJE4JFIonO3DNohW9o="},
+{"name":"JUFE-258mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စော်ငြင်းခံရလို့ စိတ်တိုနေတဲ့ မောင်လေးကိုသွားစမိတာ ဟိုကတက်လိုးလို့ ထွက်ပါပြေးခဲ့ရတဲ့အစ်မ
+မောင်လေးကနှာဘူးတတ်လို့ ကောင်မလေးတိုင်းက ရှောင်နေတာကို အစ်မက မသိဘဲသွားစမိရာကနေ ဘာတွေဖစ်မလဲ ...
+အစ်မဖြစ်သူရဲ့ အိုးကရှယ်ကြီးကွာ
+မင်းသမီးနာမည် Akari Neo",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/juf/jufe00258/jufe00258_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/00g19tkacjuexia/Jufe-258sd.mp4/file",
+"photo1":"https://i.imgur.io/YUvMreL_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00258/jufe00258pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230419_221620.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230419_222250.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/AddText_04-19-10.35.05.jpg",
+"dapp":"https://www.mediafire.com/file/n845iya1flvep8n/Jufe-258hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6T2aB6IIslegVBzLzetY7K95IzG0GKWam6xnqlY8k8K4="}]
