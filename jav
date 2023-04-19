@@ -5991,7 +5991,7 @@ Rihoကယောင်္ကျားနဲ့ရန်ဖြစ်ပြီး�
 "download":"https://www.mediafire.com/file/00g19tkacjuexia/Jufe-258sd.mp4/file",
 "photo1":"https://i.imgur.io/YUvMreL_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
 "photo2":"https://pics.dmm.co.jp/digital/video/jufe00258/jufe00258pl.jpg",
-"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230419_221620.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230419_221420.jpg",
 "photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230419_222250.jpg",
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/AddText_04-19-10.35.05.jpg",
 "dapp":"https://www.mediafire.com/file/n845iya1flvep8n/Jufe-258hd.mp4/file",
