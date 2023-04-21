@@ -5996,4 +5996,19 @@ Rihoကယောင်္ကျားနဲ့ရန်ဖြစ်ပြီး�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/AddText_04-19-10.35.05.jpg",
 "dapp":"https://www.mediafire.com/file/n845iya1flvep8n/Jufe-258hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6T2aB6IIslegVBzLzetY7K95IzG0GKWam6xnqlY8k8K4="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6T2aB6IIslegVBzLzetY7K95IzG0GKWam6xnqlY8k8K4="},
+{"name":"RBD-690mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းကအလုပ်များလို့ တစ်ယောက်တည်းရုပ်ရှင်သွားကြည့်လေ့ရှိတဲ့ အိမ်ထောင်ရှင်မလေးရီနာ...
+ရုပ်ရှင်ရုံထဲမှာ နှာဘူးကောင်လက်ချက်မိပီးအလိုးခံလိုက်ရတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Rina Ishihara",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/r/rbd/rbd00690/rbd00690_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/dj8myoc81gzcoxv/Rbd-690sd.mp4/file",
+"photo1":"https://i.imgur.io/yMPhAc5_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/rbd00690/rbd00690pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230421_204811.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/AddText_04-21-08.57.46.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230421_205357.jpg",
+"dapp":"https://www.mediafire.com/file/ug2hcu6xrbog110/Rbd-690hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6gsmYlJkiPxX6J83kZOZ58EYyob56ay6IvGWaFIsj0So="}]
