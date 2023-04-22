@@ -6011,4 +6011,19 @@ Rihoကယောင်္ကျားနဲ့ရန်ဖြစ်ပြီး�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230421_205357.jpg",
 "dapp":"https://www.mediafire.com/file/ug2hcu6xrbog110/Rbd-690hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6gsmYlJkiPxX6J83kZOZ58EYyob56ay6IvGWaFIsj0So="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6gsmYlJkiPxX6J83kZOZ58EYyob56ay6IvGWaFIsj0So="},
+{"name":"NITR-079mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စက္ကူရုပ်လေးတွေနဲ့ပြဇာတ်အသေးလေးတွေလုပ်စားတဲ့ မိသားစု၃ယောက်ဟာ ငွေကြေးအဆင်မပြေတဲ့အတွက်သူငယ်ချင်းအိမ်မှာအကူညီတောင်းနေရပါတယ် 
+ကလေးတွေကဒီလိုပြဇာတ်တွေကိုစိတ်မဝင်စားတော့တဲ့အတွက် လူကြီးတွေအတွက်ဦးတည်ပီးပြဇာတ်လုပ်ဖိုဖြစ်လာပါတော့တယ် ဘယ်လိုပြဇာတ်မျိုးလဲဆိုတာကတော့....
+မင်းသမီးနာမည် Momo Watanabe. Ayumi Shinoda",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/4/49n/49nitr079/49nitr079_dmb_s.mp4",
+"download":"https://www.mediafire.com/file/ok2i7v77suva0un/NITR_079%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/Hnlwgip_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/49nitr00079/49nitr00079pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230422_130423.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/49nitr00079/49nitr00079jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/49nitr00079/49nitr00079jp-10.jpg",
+"dapp":"t",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6rjfxE8536uk9fv97IQ2jr1I/N5j8dvUCtCMNFmLne7s="}]
