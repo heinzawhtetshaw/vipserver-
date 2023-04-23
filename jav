@@ -6026,4 +6026,20 @@ Rihoကယောင်္ကျားနဲ့ရန်ဖြစ်ပြီး�
 "photo5":"https://pics.dmm.co.jp/digital/video/49nitr00079/49nitr00079jp-10.jpg",
 "dapp":"t",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6rjfxE8536uk9fv97IQ2jr1I/N5j8dvUCtCMNFmLne7s="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6rjfxE8536uk9fv97IQ2jr1I/N5j8dvUCtCMNFmLne7s="},
+{"name":"URE-090mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အင်းစက်ကားကြိုက်သူတွေအတွက် 
+ဇာတ်လမ်းကတော့ Ririko ရဲ့ ဘရာစီယာ ပျောက်နေရာကနေ စပါတယ်...
+သူခိုးဖမ်းရာမှာ သူခိုးက ထင်မှတ်မထားတဲ့ သူဖြစ်နေပြီး....
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/u/ure/ure00090/playlist.m3u8",
+"download":"https://www.mediafire.com/file/7g3qgslj72e7j5h/URE-090-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.io/RCNhWz3_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ure00090/ure00090pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ure00090/ure00090jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ure00090/ure00090jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ure00090/ure00090jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/7i68srn1o78nls6/URE-090-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6ssMLMbwumuxNr4F5uM3nFt+Wt8B19ge2JB/IR8jfR/U="}]
