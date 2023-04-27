@@ -6058,4 +6058,20 @@ Rihoကယောင်္ကျားနဲ့ရန်ဖြစ်ပြီး�
 "photo5":"https://pics.dmm.co.jp/digital/video/ipx00151/ipx00151jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/hihjjzbpx2mgr06/Ipx-151hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6HYV5g6B8Vdj1cOz5IW6fFdeLuD9Dxhm7oP6DYmb9kXg="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6HYV5g6B8Vdj1cOz5IW6fFdeLuD9Dxhm7oP6DYmb9kXg="},
+{"name":"JUQ-189mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Reikoရဲ့ယောင်္ကျားဟာ ငယ်ရွယ်ပေမယ့်တော်တဲ့အတွက် အလုပ်မှာလဲလူကြီးဖြစ်ပီး အဲ့အတွက်ဆိုးကျိုးအနေနဲ့ အလုပ်ဝန်ပိလာပါတော့တယ် 
+စိတ်ဖိစီးမှုများလာတာနဲ့အမျှ အိပ်ရာပေါ်မှာလည်းမိန်းမကျေနပ်အောင်မစွမ်းဆောင်နိုင်တော့ပါဖူး 
+Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ်ယောက်နဲ့ဖြစ်ဖူးပါတယ် ဒါကိုသူ့ယောင်္ကျားသိသွားချိန်မှာတော့....
+မင်းသမီးနာမည် Reiko Kobayakawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00189/playlist.m3u8",
+"download":"https://www.mediafire.com/file/j3njyubsp1ztm1z/JUQ-189SD.m4v/file",
+"photo1":"https://i.imgur.io/hpptTO4_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00189/juq00189pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230427_193721.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230427_193559.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00189/juq00189jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/mq9e0jkyjo3kiaf/Juq-189hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu1dY1oLw10ETuOPv4CqeBzg="}]
