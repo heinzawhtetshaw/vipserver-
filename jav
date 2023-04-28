@@ -6074,4 +6074,18 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00189/juq00189jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/mq9e0jkyjo3kiaf/Juq-189hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu1dY1oLw10ETuOPv4CqeBzg="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu1dY1oLw10ETuOPv4CqeBzg="},
+{"name":"JUFE-154mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကောင်မလေးရဲ့ အစ်မကို ဆွဲစား
+မင်းသမီးနာမည် Eimi Fukada",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/juf/jufe00154/jufe00154_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/hx1l8ha57fer5bu/JUFE_154%257ESD.m4v/file",
+"photo1":"https://i.imgur.io/3aaSdYV_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00154/jufe00154pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jufe00154/jufe00154jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jufe00154/jufe00154jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jufe00154/jufe00154jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/44mt7nd94og24pl/JUFE_154%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Bcj61nQCLwIbsvgwf/LbQi1ZYiUM0mOClr20Cwyfpr8="}]
