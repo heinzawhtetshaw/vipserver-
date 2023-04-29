@@ -6088,4 +6088,19 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jufe00154/jufe00154jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/44mt7nd94og24pl/JUFE_154%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Bcj61nQCLwIbsvgwf/LbQi1ZYiUM0mOClr20Cwyfpr8="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Bcj61nQCLwIbsvgwf/LbQi1ZYiUM0mOClr20Cwyfpr8="},
+{"name":"ADN-095mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လင်မယားနှစ်ယောက် အရင်သူဌေးဆီအလုပ်လိုလို့ အကူညီသွားတောင်းပါတယ် 
+သူဌေးကတော့ ဇနီးချောလေးကို သူ့ရဲ့မာဆတ်ဆိုင်မှာဝန်ထမ်းအဖြစ်အလုပ်ခန့်ပေးပြီး ခင်ပွန်းမသိအောင် လိုးတော့တာပေါ့
+မင်းသမီးနာမည် Tsubasa Amami",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/adn/adn00095/adn00095_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/fx6wukorxrl37x3/ADN-095_SD.m4v/file",
+"photo1":"https://i.imgur.io/RrvMzA5_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00095/adn00095pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/adn00095/adn00095jp-10.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00095/adn00095jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00095/adn00095jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/1nq44pmd7ixff9r/ADN-095_HD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RPWdO5W1vdxG91x0Piu3k18GXq4gxJAksrJp+hhtZNg="}]
