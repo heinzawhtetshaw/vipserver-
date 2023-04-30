@@ -6103,4 +6103,35 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00095/adn00095jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/1nq44pmd7ixff9r/ADN-095_HD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RPWdO5W1vdxG91x0Piu3k18GXq4gxJAksrJp+hhtZNg="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RPWdO5W1vdxG91x0Piu3k18GXq4gxJAksrJp+hhtZNg="},
+{"name":"NHDTA-988mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမနဲ့မောင်လေးဇာတ်လမ်းပါ 
+မောင်လေးကဆာလောင်လိုအမကိုအကူညီတောင်းတာကိုဖြေဖျောက်ပေးတဲ့ကားမျိုးလေးပါဘဲ ကြည့်ရတဲ့အချိန်နဲ့တန်ပါတယ်ညိုကီတို့....",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1nh/1nhdta988/1nhdta988_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/xpg9r6d36siesfi/NHDTA-988_SD.mp4/file",
+"photo1":"https://i.imgur.io/1B5mhIU_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1nhdta00988/1nhdta00988pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1nhdta00988/1nhdta00988jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1nhdta00988/1nhdta00988jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1nhdta00988/1nhdta00988jp-4.jpg",
+"dapp":"t",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6SjEuHuwPohbQFGhCeR9dyyE59ezB+uwynbNuAoAfC6w="},
+{"name":"SAME-048mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အစ်ကိုဖစ်သူဆုံးပါးသွားလို့ ကျန်ရစ်သောအစ်ကိုရဲ့ဇနီးချောကို ညီဖစ်သူက မတရားသိမ်းပိုက်တဲ့ဇာတ်လမ်း
+
+ခင်ပွန်းမဆုံးခင်ကာလက ချစ်လွန်းလို့တယုတယ ကိုင်တွယ်ထားတာမို့ အရမ်းလှနေပြီး အိုးတင်းတင်းလေးကို ပိုင်ဆိုင်ထားတဲ့သူမဟာ ...
+ခင်ပွန်းရဲ့ညီက အချစ်မပါတဲ့ 9 လက်မ လီးကြီးနဲ့အဆုံးထိအားနဲ့ထိုးသွင်းခံလိုက်ရတဲ့အခါ....
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/sam/same00048/playlist.m3u8",
+"download":"https://www.mediafire.com/file/1a2pngzbcavw5oc/Same-048sd.mp4/file",
+"photo1":"https://i.imgur.io/bp66Omn_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/same00048/same00048pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/AddText_04-30-11.43.09.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230430_233827.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230430_233620.jpg",
+"dapp":"https://www.mediafire.com/file/m0kso15rnnogfwc/Same-048hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6UCtg/3vS0aCsApy0HxvhC+zjXfpJB0ZCO8fQ6nqfLK8="}]
