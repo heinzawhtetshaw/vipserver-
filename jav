@@ -6134,4 +6134,18 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230430_233620.jpg",
 "dapp":"https://www.mediafire.com/file/m0kso15rnnogfwc/Same-048hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6UCtg/3vS0aCsApy0HxvhC+zjXfpJB0ZCO8fQ6nqfLK8="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6UCtg/3vS0aCsApy0HxvhC+zjXfpJB0ZCO8fQ6nqfLK8="},
+{"name":"NKKD-235mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဟာနာရဲ့ ယောင်္ကျားက ခြေထောက်ထိခိုက်တဲ့အတွက် အလုပ်မသွားနိုင်တော့ပါဖူး အိမ်လခလဲမပေးရသေးတော့ ဟာနာအနေနဲ့အိမ်ရှင်ဆီ လစာခဏဆိုင်းပေးဖိုသွားပြောပါတယ် လစာဆိုင်းပေးတဲ့အနေနဲ့ဘာလုပ်ပေးရမလဲဆိုတာကတော့.....
+မင်းသမီးနာမည် Hana Haruna",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nkk/nkkd00235/playlist.m3u8",
+"download":"https://www.mediafire.com/file/wog9m1vzvxdgb2t/NKKD-235%257ESD.m4v/file",
+"photo1":"https://i.imgur.io/vQJ2jN1_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/nkkd00235/nkkd00235pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nkkd00235/nkkd00235jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nkkd00235/nkkd00235jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nkkd00235/nkkd00235jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/ssfz6hxoehf8idb/NKKD-235%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6awpQv4OB1EYoL1aDlK7iG+q6EgUcZU4CkFJi3pFjBDQ="}]
