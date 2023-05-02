@@ -6148,4 +6148,18 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "photo5":"https://pics.dmm.co.jp/digital/video/nkkd00235/nkkd00235jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/ssfz6hxoehf8idb/NKKD-235%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6awpQv4OB1EYoL1aDlK7iG+q6EgUcZU4CkFJi3pFjBDQ="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6awpQv4OB1EYoL1aDlK7iG+q6EgUcZU4CkFJi3pFjBDQ="},
+{"name":"JUL-967mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အကိုကြီးဆီကနေ ပိုက်ဆံလာချေးတဲ့အပြင် မရီးကိုပါအလွတ်မပေး အတင်းဆွဲစားတဲ့ကားလေးပါ
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00967/playlist.m3u8",
+"download":"https://www.mediafire.com/file/aev652vlt87r2g7/JUL-967-MR%257ESD.m4v/file",
+"photo1":"https://i.imgur.io/VffKTHc_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00967/jul00967pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230502_182027.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00967/jul00967jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00967/jul00967jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/3swf7udbmq0kr6h/JUL-967-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RXogPUB7CEoZV2ZmA5wIPfg="}]
