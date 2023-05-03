@@ -6162,4 +6162,19 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00967/jul00967jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/3swf7udbmq0kr6h/JUL-967-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RXogPUB7CEoZV2ZmA5wIPfg="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KLHcWSoXnAKdsjNLmzo2RXogPUB7CEoZV2ZmA5wIPfg="},
+{"name":"ROE-126mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အင်းစက်ကြိုက်သူတွေအတွက်
+အမေနဲ့သား အင်းစက်ကား
+မင်းသမီးနာမည် Yumi Anno",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roe/roe00126/playlist.m3u8",
+"download":"https://www.mediafire.com/file/of5tbariyenflhd/ROE-126-MR%257ESD.m4v/file",
+"photo1":"https://i.imgur.io/3JbT6u9_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/roe00126/roe00126pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/roe00126/roe00126jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/roe00126/roe00126jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/roe00126/roe00126jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/3or94vsdtoq8bfd/ROE-126-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6D6OVP9mgfX9btAikJYSNlcMT1ijk95bjVIq0nw/7ZfM="}]
