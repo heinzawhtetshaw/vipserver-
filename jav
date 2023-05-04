@@ -6177,4 +6177,21 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "photo5":"https://pics.dmm.co.jp/digital/video/roe00126/roe00126jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/3or94vsdtoq8bfd/ROE-126-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6D6OVP9mgfX9btAikJYSNlcMT1ijk95bjVIq0nw/7ZfM="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6D6OVP9mgfX9btAikJYSNlcMT1ijk95bjVIq0nw/7ZfM="},
+{"name":"JUL-508mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အစားအသောက်ကောင်းတွေကြိုက်တဲ့သူမကို 
+မယားနဲ့ကွဲနေတဲ့ဦးလေးကြီးက ညစာချက်ကျွေးဖို့အိမ်သို့ဖိတ်ခေါ်ခဲ့ပါတယ်
+အစားကောင်းတွေစားရတော့မှာမို့ ပျော်ရွင်နေတဲ့သူမဟာ 
+အလိုးခံရတော့မှာလား...
+မင်းသမီးနာမည် Asahi Mizuno",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00508/jul00508_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/npxwgalenegppvz/Jul-508sd.mp4/file",
+"photo1":"https://i.imgur.io/45byQQk_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00508/jul00508pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230504_165517.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230504_165207.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230504_165241.jpg",
+"dapp":"https://www.mediafire.com/file/5jj9zcdtwsmp1tv/Jul-508hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6NY6hB4W/+1m/h6dNg1/s4dLudrW89hPCqI7AzY5oqKE="}]
