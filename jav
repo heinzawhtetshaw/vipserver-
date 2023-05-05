@@ -6194,4 +6194,19 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230504_165241.jpg",
 "dapp":"https://www.mediafire.com/file/5jj9zcdtwsmp1tv/Jul-508hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6NY6hB4W/+1m/h6dNg1/s4dLudrW89hPCqI7AzY5oqKE="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6NY6hB4W/+1m/h6dNg1/s4dLudrW89hPCqI7AzY5oqKE="},
+{"name":"SDMF-029mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းမှာစော်ငြင်းခံရလို့ စိတ်ညစ်နေတဲ့မောင်လေးနဲ့ ယောကျာ်းနဲ့အဆင်မပြေလို့ မိဘအိမ်ပြန်လာတဲ့ မမ တွေ့ကြပါပီ
+ဒီမင်းသမီးကိုတော့ ‌ရှယ်ကြိုက်တယ်ကွာ
+မင်းသမီးနာမည် Kanna Misaki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1sd/1sdmf00029/playlist.m3u8",
+"download":"https://www.mediafire.com/file/z8nrmyfgcjog425/SDMF-029%257ESD.m4v/file",
+"photo1":"https://i.imgur.io/00E86jJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/1sdmf029/1sdmf029pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1sdmf029/1sdmf029jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1sdmf029/1sdmf029jp-11.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1sdmf029/1sdmf029jp-17.jpg",
+"dapp":"https://www.mediafire.com/file/chtsfq96cbujehn/SDMF-029%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DgiaW/5JukSe++ullpOan75Xo/6o2dOf9Nt36pbBAC8="}]
