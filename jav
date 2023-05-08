@@ -6224,4 +6224,19 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ipz00451/ipz00451jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/3iqq7u2m3wxfsmx/IPZ-451.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RAhN0+VTswlLOhxTuS/iz1WSVB5atlgJ2nmtgMWvUqI="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RAhN0+VTswlLOhxTuS/iz1WSVB5atlgJ2nmtgMWvUqI="},
+{"name":"ATID-556mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းလင်မယား စိတ်ကောက်နေတာကို အခွင့်အရေးယူပြီး
+ရုံးပိတ်ရက်မှာ ဇနီးချင်းအပျော်တမ်းလဲမယ်ဆိုကာ ညရောက်တာနဲ့စည်းကမ်းဖောက်ပြီး သူများမိန်းမကို မညှာမတာလိုးတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ati/atid00556/playlist.m3u8",
+"download":"https://www.mediafire.com/file/srdrx61xiokpnjt/Atid-556sd.mp4/file",
+"photo1":"https://i.imgur.io/kalo7vZ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00556/atid00556pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/atid00556/atid00556jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00556/atid00556jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00556/atid00556jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/mb7i7316kpwmdnd/Atid-556hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
