@@ -6241,31 +6241,17 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "candownload":"",
 "wcode":"တစ်"},
 {"name":"RCT-502mmsub",
-
 "info":"မြန်မာစာတန်းထိုး
-
 ကစားစရာဝက်ဝံရုပ်ကအသက်ဝင်လာပြီး အပျိုလေး တွေကို လိုးတဲ့ကား
-
 ရှားရှားပါးပါး ဇာတ်လမ်းလေးပါ
-
 မင်းသမီးနာမည် Arisu Hayase . Yukari Matsushita",
-
 "watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1rc/1rct502/1rct502_sm_s.mp4",
-
 "download":"https://www.mediafire.com/file/3iw74azk3fz2ouo/Rct-502sd.mp4/file",
-
 "photo1":"https://i.imgur.io/HDDrg5E_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-
 "photo2":"https://pics.dmm.co.jp/digital/video/1rct00502/1rct00502pl.jpg",
-
 "photo3":"https://pics.dmm.co.jp/digital/video/1rct00502/1rct00502jp-1.jpg",
-
 "photo4":"https://pics.dmm.co.jp/digital/video/1rct00502/1rct00502jp-2.jpg",
-
 "photo5":"https://pics.dmm.co.jp/digital/video/1rct00502/1rct00502jp-19.jpg",
-
 "dapp":"https://www.mediafire.com/file/kugbkuypljkfbr8/RCT-502hd.mp4/file",
-
 "candownload":"",
-
 "wcode":"တစ်"}]
