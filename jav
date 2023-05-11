@@ -6254,4 +6254,18 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "photo5":"https://pics.dmm.co.jp/digital/video/1rct00502/1rct00502jp-19.jpg",
 "dapp":"https://www.mediafire.com/file/kugbkuypljkfbr8/RCT-502hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDD-932mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စိတ်ထားကောင်းပြီးရိုးသားလို့ အနိုင်ကျင့်ခံနေရတဲ့ ဆရာမတစ်ယောက်ရဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Meguri (Megu Fujiura)",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mid/midd00932/midd00932_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/j3sutfrhzyexhfg/MIDD-932_-_SD.m4v/file",
+"photo1":"https://i.imgur.io/jw3rcbs_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/midd00932/midd00932pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230511_125923.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230511_130628.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/AddText_05-11-01.13.24.jpg",
+"dapp":"https://www.mediafire.com/file/juody6oaeq149ru/MIDD-932_-_HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
