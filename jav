@@ -6268,4 +6268,19 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/AddText_05-11-01.13.24.jpg",
 "dapp":"https://www.mediafire.com/file/juody6oaeq149ru/MIDD-932_-_HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSPD-156mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ညားခါစဇနီးမောင်နှံဟာ အိမ်အသစ်သို့ပြောင်းရွေ့လာခဲ့ပါတယ်
+တစ်နေ့မှာတော့ ဇနီးဖစ်သူဟာ အရက်မူးရာကနေ အိမ်မှားပြီး ဘေးအိမ်ကဦးလေးကြီးအိမ်သို့ မှားဝင်သွားခဲ့ပါတယ်...
+မင်းသမီးနာမည် Nanami Misaki",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/ssp/sspd00156/sspd00156_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/mn7al2i8poihk52/%255Bbluetv%255DSspd-156sd.mp4/file",
+"photo1":"https://i.imgur.io/LFoi6Pg_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/sspd00156/sspd00156pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/sspd00156/sspd00156jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230512_191059.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/sspd00156/sspd00156jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/qset8szdpyywjzx/%255Bbluetv%255DSspd-156hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
