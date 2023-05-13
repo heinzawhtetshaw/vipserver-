@@ -6283,4 +6283,18 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "photo5":"https://pics.dmm.co.jp/digital/video/sspd00156/sspd00156jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/qset8szdpyywjzx/%255Bbluetv%255DSspd-156hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"VEC-564mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သားရဲ့သူငယ်ချင်းနဲ့ ပွဲကြမ်းတဲ့အမေ
+မင်းသမီးနာမည် Momo Minami",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/v/vec/vec564/playlist.m3u8",
+"download":"https://www.mediafire.com/file/qyddp8fxfjvne5v/VEC_564_-SD.mp4/file",
+"photo1":"https://i.imgur.io/EpDdsIR_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/vec00564/vec00564pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/vec00564/vec00564jp-4.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/vec00564/vec00564jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/vec00564/vec00564jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/nnvu1u4nl67kqwr/VEC-564%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
