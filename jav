@@ -6314,4 +6314,36 @@ Reiko ဟာသူနဲ့မယူခင်က ရုံးကလူနှစ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00073/juq00073jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/aj4ad62bqddz97k/JUQ-073-MR%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-104mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တိုင်ကြားမှုတွေကိုပြန်ဖြေရတဲ့ဌာနမှာ ကူရာရီမာဆိုတဲ့ကောင်မလေးတယောက်အလုပ်လုပ်ပါတယ်
+ဒီလိုနဲ့အတိုင်အတောထူတဲ့customerတယောက်ဟာ သူ့အအေး က မအေးတဲ့အတွက် ဖုန်းနဲ့လှမ်းပီးအထွန့်တက်ပါတော့တယ် ဒါကိုမင်းသမီးတယောက်ဘယ်လောက်ထိတောင်းပန်လိုက်ရတယ်ဆိုတာကတော့....
+မင်းသမီးနာမည် Rio Kuriyama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00104/playlist.m3u8",
+"download":"https://www.mediafire.com/file/5jmt4l690ov1l0u/JUQ-104-MR%257ESD.m4v/file",
+"photo1":"https://i.imgur.io/DCz2OwS_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00104/juq00104pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00104/juq00104jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00104/juq00104jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00104/juq00104jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/fymeh0wcmverpi2/JUQ-104-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"DASD-613mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Time Stop ဇာတ်လမ်း လက်ဖျောက်တချက်တီးပြီး အချိန်ကိုရပ်တန့်နိုင်တဲ့ ကျောင်းဆရာ
+တရက်ကျောင်းသူလေးရဲ့အိမ်ကို တက်ရမယ့်တက္ကသိုလ်အတွက် မိဘနဲ့တွေ့ဆုံကြတယ် 
+ဆရာကအချိန်ရပ်နိုင်တာဖြစ်နိုင်ပြီး သူသုတေသနပြုနေတာကိုပြောပေမယ့် အကုန်လုံးကမယုံပဲ နောက်ပြောင်တယ်ထင်ခဲ့တယ်
+မယုံတော့ သက်သေပြရသေးတာပေါ့ဆိုပြီး ညီမကိုဖုတ်လိုက် အစ်မကိုဝိုက်လိုက်နဲ့ နောက်ဆုံးသူတို့လက်ခံယုံကြည်သွားမလားဆိုတာကတော့……
+မင်းသမီးနာမည် Nonoka Sato. Honoka Tsuji",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/d/das/dasd00613/dasd00613_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/l5tmbd6a4vjfkj1/Dasd-613sd.mp4/file",
+"photo1":"https://i.imgur.io/83VXnSO_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/dasd00613/dasd00613pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dasd00613/dasd00613jp-8.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/dasd00613/dasd00613jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/dasd00613/dasd00613jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/jnu2bg6xq5bbq15/DASD-613hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
