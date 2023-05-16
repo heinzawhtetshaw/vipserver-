@@ -6346,4 +6346,19 @@ Time Stop ဇာတ်လမ်း လက်ဖျောက်တချက်တ
 "photo5":"https://pics.dmm.co.jp/digital/video/dasd00613/dasd00613jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/jnu2bg6xq5bbq15/DASD-613hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-535mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဂျပန်ကယောင်္ကျားနဲ့အိမ်ထောင်ကျတဲ့လီလီလေးဟာ ရေပူစမ်းမသွားဖူးတဲ့အတွက်လိုက်ပို့ဖိုပူဆာပါတော့တယ်
+ဒီလိုနဲ့မသိတဲ့မအူမလည်နိုင်ငံခြားသူလေးဟာ ရေပူစမ်းကဂျပန်စားဘဲလေးတွေနဲ့ ရင်ဆိုင်ရပါတော့မည်
+မင်းသမီးနာမည် Lily Hart",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00535/jul00535_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/01lp2qjve4u0k1t/JUL-535%257ESD.m4v/file",
+"photo1":"https://i.imgur.io/iktkoCe_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00535/jul00535pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00535/jul00535jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00535/jul00535jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00535/jul00535jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/0det7elkpe7fgo0/JUL-535%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
