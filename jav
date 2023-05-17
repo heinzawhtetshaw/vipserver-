@@ -6361,4 +6361,37 @@ Time Stop ဇာတ်လမ်း လက်ဖျောက်တချက်တ
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00535/jul00535jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/0det7elkpe7fgo0/JUL-535%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ROE-012mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အကိတ်မမ Kyouko ဟာရုံးအလုပ်မှာတော်ပေမယ့်စည်းကမ်းကြီးတဲ့အတွက်ကြောက်ကြပါတယ်
+သူမမှာအိုးအကြီးကြီးတွေပိုင်ဆိုင်ထားပေးမယ့် မာနကြီးလွန်းသူမို့ ဘယ်သူမှ အနားမကပ်ရဲကြဘူး
+မာနခဲလေးရဲ့ အိုးကြီး ကို ဘယ်သူဖြိုသွားမလဲ ဇာတ်ကား‌တွင်ကြည့်ရှုလိုက်ပါ
+မင်းသမီးနာမည် Kyoko Ichikawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roe/roe00012/playlist.m3u8",
+"download":"https://www.mediafire.com/file/r2ajzverq4xneev/ROE-012-MR%257ESD.m4v/file",
+"photo1":"https://i.imgur.io/vjghKUT_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/roe00012/roe00012pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/roe00012/roe00012jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/roe00012/roe00012jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/roe00012/roe00012jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/8ikd8bsmvotsqat/ROE-012-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"BNSPS-416mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိန်းမချောချောယူထားပေမယ့် ယာဉ်တိုက်မှုကြောင့် အောက်ပိုင်းသေပီး လီးမတောင်တော့လို့ မလိုးနိုင်တော့ပါ
+
+မိန်းမကလည်းဆာနေမှန်းသိနေတော့ ရိုးသားကြိုးစားတဲ့မောင်ဂတုံးကိုပဲ ဖုတ်ပေးဖို့ အကူအညီတောင်းရပါတော့တယ်။
+မိန်းမကတော့ မချစ်တဲ့လူတယောက်ကို နမ်းတောင်မနမ်းချင်ဘူးလို့ပြောပါတယ် ဒါပေမယ့် ဂတုံးလီးနဲ့တွေ့ပီးတဲ့အချိန်မှ‌ာတော့.....
+မင်းသမီးနာမည် Saki Hatsumi",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/b/bns/bnsps416/bnsps416_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/kk3jqahqqo2phwd/Nsps-416sd.mp4/file",
+"photo1":"https://i.imgur.io/zyJ9sAe_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/bnsps00416/bnsps00416pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230518_002222.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230518_002156.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230518_002341.jpg",
+"dapp":"https://www.mediafire.com/file/ie6q7970g46byzo/NSPS-416hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
