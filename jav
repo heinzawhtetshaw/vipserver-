@@ -6394,4 +6394,18 @@ Time Stop ဇာတ်လမ်း လက်ဖျောက်တချက်တ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230518_002341.jpg",
 "dapp":"https://www.mediafire.com/file/ie6q7970g46byzo/NSPS-416hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-491mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Ririkoဟာ တိုမိုယူကီဆိုတဲ့လင်ပါသားကို သားအရင်းမဟုတ်ပေမယ့် ကိုသားအရင်းလိုဘဲသေချာဂရုစိုက်ပျိုးထောင်ပေးခဲ့ပါတယ် မိထွေးဆိုကတည်းကသွေးရင်းသားရင်းမဟုတ်တော့ခံစားချက်တွေက အမေနဲ့သားအဆင့်ကနေပိုလာတာပေါ့
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00491/jul00491_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/za3qf59vs0p2sqs/JUL-491%257ESD.m4v/file",
+"photo1":"https://i.imgur.io/xFPEFMv_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00491/jul00491pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00491/jul00491jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00491/jul00491jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00491/jul00491jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/u8bq706ip52javg/JUL-491%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
