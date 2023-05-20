@@ -6408,4 +6408,20 @@ Ririkoဟာ တိုမိုယူကီဆိုတဲ့လင်ပါသ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00491/jul00491jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/u8bq706ip52javg/JUL-491%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MVSD-502mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငွေမက်တဲ့ကောင်မလေးကိုမှချစ်မိနေတဲ့ ဆင်းရဲသားအလုပ်သမားဦးလေးကြီး
+ချစ်ရတဲ့ကောင်မလေးက သူ့ကိုရွံ့မုန်းတယ်ဟုဆိုလာတဲ့အခါ...
+မိုးနဲ့မြေလိုကွာခြားလှတဲ့ သူတို့နှစ်ယောက်ရဲ့ အချစ်တိုက်ပွဲ
+မင်းသမီးနာမည် Meisa Kawakita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mvs/mvsd00502/playlist.m3u8",
+"download":"https://www.mediafire.com/file/75x1bxjyj2lbzje/Midv-502sd.mp4/file",
+"photo1":"https://i.imgur.io/5QEX7gJ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/mvsd00502/mvsd00502pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mvsd00502/mvsd00502jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mvsd00502/mvsd00502jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mvsd00502/mvsd00502jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/h29801inqzj6vyp/Midv-502hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
