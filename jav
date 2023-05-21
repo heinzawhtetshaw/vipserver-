@@ -6424,4 +6424,20 @@ Ririkoဟာ တိုမိုယူကီဆိုတဲ့လင်ပါသ�
 "photo5":"https://pics.dmm.co.jp/digital/video/mvsd00502/mvsd00502jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/h29801inqzj6vyp/Midv-502hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PRED-400mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မယားပါသမီးနှစ်ယောက်ကို ဆွဲစိလိုက်တဲ့ပထွေး
+ အငယ်မလေးဟာ မြို့အသစ်မှာ နေသားမကျပဲ ကျောင်းမသွားချင်ဘဲ အိမ်တွင်းပုန်းတဲ့ထိဖြစ်နေပါတယ် အမေဖြစ်သူကလည်း ကိုယ်ဝန်ရလို့ မွေးရက်မြေကို ပြန်သွားခဲ့ပါတယ်....
+ဘာတွေဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Himari Kinoshita ၊ Hinako Mori ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/pre/pred00400/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ohldmy4nvnqd0ob/Pred-400sd.mp4/file",
+"photo1":"https://i.imgur.io/fex9cda_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00400/pred00400pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/Picsart_23-05-21_21-50-41-063.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/Picsart_23-05-21_21-51-15-117.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pred00400/pred00400jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/cvj1xyj0z5lhs4p/PRED-400hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
