@@ -6440,4 +6440,18 @@ Ririkoဟာ တိုမိုယူကီဆိုတဲ့လင်ပါသ�
 "photo5":"https://pics.dmm.co.jp/digital/video/pred00400/pred00400jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/cvj1xyj0z5lhs4p/PRED-400hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HBAD-562mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိဘတွေခရီးသွားလို ဦးလေးအိမ်သွားအိပ်တဲ့ကာနာအဲတယောက် ဦးကြီးကောဦးငယ်ကောနှယောက်လုံးစားတာခံလိုက်ရတဲ့ကောင်မလေးအကြောင်းကြည့်လိုက်ကြပါအုန်း မင်းသမီးဘော်ဒီနဲ့တင်ကြည့်ရတာတန်နေပီဗျို....
+မင်းသမီးနာမည် Kanae Kawahara",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1hb/1hbad562/1hbad562_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/fzck3yeghsxqgj0/hbad-562%257ESD.m4v/file",
+"photo1":"https://i.imgur.io/mE1rC73_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/1hbad00562/1hbad00562pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1hbad00562/1hbad00562jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1hbad00562/1hbad00562jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1hbad00562/1hbad00562jp-17.jpg",
+"dapp":"https://www.mediafire.com/file/jp5fw409vx457ms/hbad-562%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
