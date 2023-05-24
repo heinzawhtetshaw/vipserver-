@@ -6454,4 +6454,19 @@ Ririkoဟာ တိုမိုယူကီဆိုတဲ့လင်ပါသ�
 "photo5":"https://pics.dmm.co.jp/digital/video/1hbad00562/1hbad00562jp-17.jpg",
 "dapp":"https://www.mediafire.com/file/jp5fw409vx457ms/hbad-562%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-717mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရထားပေါ်မှာ အချစ်စစ်ကိုရှာတွေ့သွားကြတဲ့ဇာတ်လမ်းလေး 
+ကျော်ကြီးတစ်ယောက် ကိုယ့်ထက်အသက်10နှစ်လောက်ငယ်တဲ့ ကျောင်းသူလေးဆီကအချစ်ကိုရသွားတာပါ ..
+မင်းသမီးနာမည် Yura Kano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00717/playlist.m3u8",
+"download":"https://www.mediafire.com/file/734snnjpzp8h9gi/Ssis-717sd.mp4/file",
+"photo1":"https://i.imgur.io/QdaVbdc_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00717/ssis00717pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230524_195833.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230524_200001.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230524_200637.jpg",
+"dapp":"https://www.mediafire.com/file/lzqb3efnl73bttl/Ssis-717hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
