@@ -6470,4 +6470,19 @@ Ririkoဟာ တိုမိုယူကီဆိုတဲ့လင်ပါသ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230524_200637.jpg",
 "dapp":"https://www.mediafire.com/file/lzqb3efnl73bttl/Ssis-717hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPZZ-035mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငွေရေးကြေးရေးအဆင်မပြေလို့ Tsubasa တယောက် Dategirl အဖြစ်လုပ်ကိုင်ပီးcustomerတွေနဲ့နေရတဲ့အကြောင်းတွေကိုရိုက်ထားတာပါ 
+Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင်းရတာတန်နေပီဗျို့....
+မင်းသမီးနာမည် Tsubasa Amami",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipz/ipzz00035/playlist.m3u8",
+"download":"https://www.mediafire.com/file/t2bw3h6w7raesqc/IPZZ-035-MR%257ESD.m4v/file",
+"photo1":"https://i.imgur.io/zNmFkV9_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipzz00035/ipzz00035pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipzz00035/ipzz00035jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipzz00035/ipzz00035jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipzz00035/ipzz00035jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/gjuianz0dlg90lg/IPZZ-035-MR%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
