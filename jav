@@ -6485,4 +6485,19 @@ Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင�
 "photo5":"https://pics.dmm.co.jp/digital/video/ipzz00035/ipzz00035jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/gjuianz0dlg90lg/IPZZ-035-MR%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-245mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကိုယ့်မိန်းမကိုသူများစားတာမြင်ရမှ စားဝင်အိပ်ပျော်တဲ့ နာအိုရဲ့ယောင်္ကျားဟာ နာအိုကိုစည်းရုံးပီး
+သူ့ရှေ့မှာယောင်္ကျား ၄ ယောက်လောက်နဲ့နေခိုင်းပါတော့တယ်
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00245/playlist.m3u8",
+"download":"https://www.mediafire.com/file/igdv3g0m9zwrycc/JUQ-245%257ESD.m4v/file",
+"photo1":"https://i.imgur.io/Zz66ArA_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00245/juq00245pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00245/juq00245jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00245/juq00245jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00245/juq00245jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/8dvyfqbj0r7f0bi/JUQ-245%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
