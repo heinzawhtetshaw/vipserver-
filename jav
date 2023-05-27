@@ -6500,4 +6500,19 @@ Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00245/juq00245jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/8dvyfqbj0r7f0bi/JUQ-245%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HMN-151mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်းသမီးကြီး Ai Sayama ကိုယ်တိုင်သရုပ်ဆောင်ထားတဲ့ အိမ်နီးချင်းမမ ဇာတ်လမ်းလေး 
+ကြည့်ရှုခံစားလိုက်ကြပါအုံး ပရိသတ်ကြီးတို့
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00151/playlist.m3u8",
+"download":"https://www.mediafire.com/file/xitybrrof4uyauj/HMN-151-MR%257ESD.m4v/file",
+"photo1":"https://i.imgur.com/5eJf0Ol.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00151/hmn00151pl.jpg",
+"photo3":"https://i.imgur.com/yZWJSXn.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/hmn00151/hmn00151jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/hmn00151/hmn00151jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/dj1c9gryq48hfmf/HMN-151-MR%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
