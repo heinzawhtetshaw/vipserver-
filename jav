@@ -6515,4 +6515,33 @@ Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင�
 "photo5":"https://pics.dmm.co.jp/digital/video/hmn00151/hmn00151jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/dj1c9gryq48hfmf/HMN-151-MR%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUFE-175mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိုးရည်တွေစိုရွှလာတဲ့ရုံး၀န်ထမ်းအကိတ်ကောင်မလေးအသစ်ကိုအလုပ်သွင်းပေးမယ်ဆိုကာအကျပ်ကိုင်ပီး ဘယ်လိုစားမလဲဆိုတာကို ကြည့်ရှုရမှာပါ...
+မင်းသမီးနာမည် Julia Yoshine",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/juf/jufe00175/jufe00175_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ie84u27b0roaion/JUFE_175_-SD.m4v/file",
+"photo1":"https://i.imgur.com/Ja3MuJA.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00175/jufe00175pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jufe00175/jufe00175jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jufe00175/jufe00175jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jufe00175/jufe00175jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/j6o8rexlp4bhfeb/JUFE_175_-HD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"IPX-674mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နာမည်ကြီးဂျပန် Manga ကို Live Action အနေနဲ့ပြန်လည်ဆန်းသစ်ထားပါတယ်
+ဒီဇာတ်ကားထဲမှာတော့ ကျောင်းဆရာပြောင်ကြီးဟာ ကျောင်းသူလေး ဆာကူရာကို အိပ်မွေ့ချပြီးဖုတ်ဖို့ ကြိုးစားပုံတွေ လှည့်ကွက်တွေကို DECENSORED နဲ့ကြည့်ရှုရမှာဖြစ်ပါတယ်
+မင်းသမီးနာမည် Momo Sakura",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00674/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ue31lb5v8bv2ko9/Ipx-674sd.mp4/file",
+"photo1":"https://i.imgur.com/AJjRPOv.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00674/ipx00674pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipx00674/ipx00674jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00674/ipx00674jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00674/ipx00674jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/ln72j9b5x18wmf6/IPX-674hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
