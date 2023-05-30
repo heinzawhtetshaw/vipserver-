@@ -6544,4 +6544,18 @@ Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင�
 "photo5":"https://pics.dmm.co.jp/digital/video/ipx00674/ipx00674jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/ln72j9b5x18wmf6/IPX-674hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HMN-372mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်တွေတအားခိုင်းတဲ့သူဌေးကိုမကျေနပ်လို့ သူဌေးရဲ့ဇနီးချောလေးကို ရှယ်တီးလိုက်တဲ့အလုပ်သမား
+မင်းသမီးနာမည် Mina Kitano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00372/playlist.m3u8",
+"download":"https://www.mediafire.com/file/1kh7fjcu3n5vqti/Hmn-372sd.mp4/file",
+"photo1":"https://i.imgur.com/i46551T.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00372/hmn00372pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/AddText_05-30-09.18.54.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230530_205718.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230530_205946.jpg",
+"dapp":"https://www.mediafire.com/file/iia3gz2j28n68i9/Hmn-372hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
