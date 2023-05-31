@@ -6558,4 +6558,20 @@ Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230530_205946.jpg",
 "dapp":"https://www.mediafire.com/file/iia3gz2j28n68i9/Hmn-372hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HMN-138mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လူရိုးလေးအိုကာတာတို့ ဘေးအိမ်မှာအတူနေစုံတွဲတစ်တွဲရှိပါတယ်
+တစ်နေ့မှာတော့ သူတို့စုံတွဲဟာ ရန်ဖစ်ပြီး ကောင်မလေးကိုအိမ်ထဲပေးမဝင်တော့ပါဘူး
+ဒီလိုနဲ့ဘေးအခန်းကလူရိုးလေးအိုကာတာဟ ကောင်မလေးကိုသနားပြီးမကြည့်ရက်တော့လို့ သူ့အိမ်ထဲဝင်ခိုင်းပြီး အပီဘု 👍
+မင်းသမီးနာမည် Luna Tsukino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00138/playlist.m3u8",
+"download":"https://www.mediafire.com/file/w0kf6t6hclu61tj/HMN_138_-SD.m4v/file",
+"photo1":"https://i.imgur.com/Z84E85x.jpeg",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00138/hmn00138pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/hmn00138/hmn00138jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/hmn00138/hmn00138jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/hmn00138/hmn00138jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/uic48twwg4948lw/HMN_138_-HD.m4v/file",
+"candownload":"",
 "wcode":"တစ်"}]
