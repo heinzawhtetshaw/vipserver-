@@ -6607,4 +6607,19 @@ Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင�
 "photo5":"https://pics.dmm.co.jp/digital/video/pppe00032/pppe00032jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/8q7a4hizgsurocy/PPPE_032_-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA-852mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီကားမှာတော့ Jun သူငယ်ချင်းဟာ 
+သူ့ကိုအိမ်ကိုဖိတ်ပြီးမုန့်ကျွေးသလိုလိုနဲ့ ယောက်ျားအချောလေးရတာကို မသိမသာကပ်ကြွားပြီး Ro နေတာကြောင့် မနာလိုဖြစ်သွားတဲ့ junဟာ သူငယ်ချင်းရဲ့ခင်ပွန်းကို စနှိုက်ကျော်ပါတော့မယ်
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mia/miaa00852/playlist.m3u8",
+"download":"https://www.mediafire.com/file/27kg9bkslroytat/MIAA-852-MR%257ESD.m4v/file",
+"photo1":"https://i.imgur.com/EC7n9w5.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00852/miaa00852pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230604_004719.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230604_004654.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230604_004739.jpg",
+"dapp":"https://www.mediafire.com/file/cwdn2tug8ibqpfu/MIAA-852-MR%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
