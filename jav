@@ -6622,4 +6622,21 @@ Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230604_004739.jpg",
 "dapp":"https://www.mediafire.com/file/cwdn2tug8ibqpfu/MIAA-852-MR%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PRED-209mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်နဲ့ပတ်သက်လာရင် ဟာတာနာကာဆိုတဲ့လူဟာ လုပ်သမျှတလွဲပါ..
+ဒါကြောင့် မာရီယာတစ်ယောက် သူနဲ့တွဲလုပ်ရတာကို ဒေါသထွက်နေတာပေါ့
+ဒါပေမယ့်ဒီလူတော်တဲ့ တစ်နေရာရှိပါတယ်
+ဒါကိုမာရီယာတယောက်သိသွားတဲ့အခါမှာတော့...
+မင်းသမီးနာမည် Maria Nagai",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/p/pre/pred00209/pred00209_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/e3kssq53vuf89yl/Pred_209_-SD.m4v/file",
+"photo1":"https://i.imgur.com/isI4uii.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00209/pred00209pl.jpg",
+"photo3":"https://i.imgur.com/bqybrhN.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/pred00209/pred00209jp-10.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pred00209/pred00209jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/owdiy6o765vq8ys/PRED_209_-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
