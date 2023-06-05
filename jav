@@ -6639,4 +6639,19 @@ Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင�
 "photo5":"https://pics.dmm.co.jp/digital/video/pred00209/pred00209jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/owdiy6o765vq8ys/PRED_209_-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SAME-047mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းကအိမ်ပြန်နောက်ကျလို့ အထီးကျန်နေပါတယ်ဆိုမှ ဘဲကြီးတစ်ဗွေဆီက မုဒိန်းကျင့်ခံလိုက်ရတယ်
+ဒါပေမယ့်လည်း အဓမ္မပြုကျင့်ခံရတာဟာ အထီးကျန်မှုကို ဖြေသိမ့်ဖို့တစ်ခုတည်းသောနည်းလမ်း ဖြစ်နေတဲ့အခါ..
+မင်းသမီးနာမည် Kanako Ioka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/sam/same00047/playlist.m3u8",
+"download":"https://www.mediafire.com/file/v4k11teief1zikb/SAME-047%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/HN8vNcB.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/same00047/same00047pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/same00047/same00047jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/same00047/same00047jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/same00047/same00047jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/kavqzqn6yszhc2l/SAME-047%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
