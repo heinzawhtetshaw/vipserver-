@@ -6009,7 +6009,7 @@ Rihoကယောင်္ကျားနဲ့ရန်ဖြစ်ပြီး�
 "photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230421_204811.jpg",
 "photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/AddText_04-21-08.57.46.jpg",
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230421_205357.jpg",
-"dapp":"https://www.mediafire.com/file/ug2hcu6xrbog110/Rbd-690hd.mp4/file",
+"dapp":"t",
 "candownload":"",
 "wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6gsmYlJkiPxX6J83kZOZ58EYyob56ay6IvGWaFIsj0So="},
 {"name":"NITR-079mmsub",
