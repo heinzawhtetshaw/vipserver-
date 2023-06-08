@@ -6685,4 +6685,20 @@ Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင�
 "photo5":"https://pics.dmm.co.jp/digital/video/1sdde00641/1sdde00641jp-19.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ROYD-100mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သမီးလေး အရွယ်ရောက်နေပီဖစ်လို့ မိဘတွေက အိမ်ထောင်ဖက်နဲ့ ပေးတွေ့ပါတော့မည်...
+လင်ယူရမှာကြောက်တဲ့သူမဟာ  လုပ်ဖော်ကိုင်ဖက် ကျော်ကြီးကို သူ့ရည်းစားအဖြစ်ဟန်ဆောင်ခိုင်းပြီး မိဘတွေနဲ့ မိတ်ဆက်ပေးခဲ့ပါတယ်
+မိဘတွေရိပ်မိသွားမှာစိုးလို့ ပီပြင်အောင်ဟန်ဆောင်နေရပြီး ကျော်ကြီးလက်ချက်လည်း မမိအောင်ကြိုးစားရင်းနဲ့....
+မင်းသမီးနာမည် Meisa Kawakita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roy/royd00100/playlist.m3u8",
+"download":"https://www.mediafire.com/file/wegwdj2ijfbgm5x/Royd-100sd.mp4/file",
+"photo1":"https://i.imgur.com/NWF1Y1x.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/royd00100/royd00100pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230608_210332.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230608_210118.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/royd00100/royd00100jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/t1b2rkjuiqr7lin/Royd-100hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
