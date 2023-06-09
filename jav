@@ -6701,4 +6701,18 @@ Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင�
 "photo5":"https://pics.dmm.co.jp/digital/video/royd00100/royd00100jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/t1b2rkjuiqr7lin/Royd-100hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"IPZZ-022mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မောင်လေးရဲ့ အကြွေးတွေကြောင့် ရာကူဇာခေါင်းဆောင်ကြီးက အစ်မဖစ်သူကို မောင်လေးအသက်မသေ‌‌စေချင်ရင် ငါ့မိန်းမအဖြစ်ဆယ်ရက်နေရမယ်ဟု အပေးအယူလုပ်ခဲ့ပါတယ် 
+မင်းသမီးနာမည် Hikari Azusa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipz/ipzz00022/playlist.m3u8",
+"download":"https://www.mediafire.com/file/hyee05rlqdzueop/IPZZ_022_-SD.mp4/file",
+"photo1":"https://i.imgur.com/FR9XWDs.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipzz00022/ipzz00022pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipzz00022/ipzz00022jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipzz00022/ipzz00022jp-12.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipzz00022/ipzz00022jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/fwciw87z6nirewt/IPZZ_022_-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
