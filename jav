@@ -6715,4 +6715,19 @@ Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင�
 "photo5":"https://pics.dmm.co.jp/digital/video/ipzz00022/ipzz00022jp-11.jpg",
 "dapp":"https://www.mediafire.com/file/fwciw87z6nirewt/IPZZ_022_-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HMN-396mmsub",
+"info":"မြန်ုမာစာတန်းထိုး
+မြို့တွင် စာမေးပွဲဖြေရန်အတွက် အစ်ကိုတို့လင်မယားနေအိမ်သို့ ရောက်ရှိလာသော ခင်ပွန်းရဲ့ညီ....
+မရီး ဖြစ်သူရဲ့ အလှတွေအောက်မှာကျရှုံးသွားပြီး ပွဲကြမ်း
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00396/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ezrbqzg11k6bfa6/Hmn-396sd.mp4/file",
+"photo1":"https://i.imgur.com/AYiUdQv.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00396/hmn00396pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230610_195719.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230610_200008.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230610_200050.jpg",
+"dapp":"https://www.mediafire.com/file/btl9h87o5qig0hq/Hmn-396hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
