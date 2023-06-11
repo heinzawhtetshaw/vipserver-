@@ -6730,4 +6730,23 @@ Amami Tsubasaဆိုတာနဲ့သူပါရင်ကိုဒေါင�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230610_200050.jpg",
 "dapp":"https://www.mediafire.com/file/btl9h87o5qig0hq/Hmn-396hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"RBD-907mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Akari နဲ့ Nao တို့ဟာ သိမ်ချစ်ကြတဲ့ညီမတွေပါ
+အမဖြစ်သူAkari က လက်ထပ်ပြီး ဘဝသစ်ထူထောင်ရမှာမလို့ပျော်နေကြပါတယ်
+တဖက်မှာလည်း Akari အရင်EXက SMS ကနေ သူရဲ့ကိုယ်လုံးတီးပုံတွေပို့ပြီး နှောက်ယှက်နေပါတယ်
+ဒီလိုနဲ့ Akari ရဲ့EX ဟာသူတို့နေတဲ့နေရာကိုရှာတွေ့သွားပြီး ညီမဖြစ်သူ Nao က အိမ်မှာတယောက်တည်းရှိချိန်တံခါးဖွင့်ပေးမိရာမှ…
+မင်းသမီးနာမည် Akari Mitani .Nao Jinguji
+
+နာမည်ကြီးလူကြိုက်များတဲ့ မင်းသမီးနှစ်လတ်ပါဝင်တာမို့ လက်မလွှတ်တမ်း ကြည့်ရှုသင့်ပါတယ်",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/r/rbd/rbd00907/rbd00907_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/16jou4drlz9pz0o/%255BBlueTvApp%255DRbd-690sd.mp4/file",
+"photo1":"https://i.imgur.com/fM4wW5a.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/rbd00907/rbd00907pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/rbd00907/rbd00907jp-9.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/rbd00907/rbd00907jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/rbd00907/rbd00907jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/ox36ekq57tb9e20/%255BBlueTvApp%255D-RBD-907hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
