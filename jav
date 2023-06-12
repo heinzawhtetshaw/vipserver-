@@ -6749,4 +6749,19 @@ Akari နဲ့ Nao တို့ဟာ သိမ်ချစ်ကြတဲ့�
 "photo5":"https://pics.dmm.co.jp/digital/video/rbd00907/rbd00907jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/ox36ekq57tb9e20/%255BBlueTvApp%255D-RBD-907hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN-464mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဖေနောက်အိမ်ထောင်ပြုလိုက်လို့ မောင်ဇော်ဟာအမေအသစ်တစ်ယောက် ရလာခဲ့ပါတယ်
+မိထွေးဖစ်သူကတော့ သားတစ်ယောက်လို သဘောထားပေမယ့်....
+မင်းသမီးနာမည် Yuri Sasahara",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00464/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bqq0moybvwtsqqk/%255BBlueTV%255DAdn-464sd.mp4/file",
+"photo1":"https://i.imgur.com/kxdNJdp.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00464/adn00464pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230612_212147.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00464/adn00464jp-9.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230612_212416.jpg",
+"dapp":"https://www.mediafire.com/file/39t0fmpsi09ea75/%255BBlueTV%255DAdn-464hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
