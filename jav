@@ -6781,4 +6781,23 @@ Akari နဲ့ Nao တို့ဟာ သိမ်ချစ်ကြတဲ့�
 "photo5":"https://pics.dmm.co.jp/digital/video/aldn00146/aldn00146jp-19.jpg",
 "dapp":"https://www.mediafire.com/file/yubri1fs1r99w87/ALDN-146%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NSPS-930mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဦးဂတုံးက ကုမ္ပဏီတခုရဲ့ဌာနမှုးဖြစ်ပါတယ် 
+ဒီမှာဟီဂျိရိရဲ့ခင်ပွန်းက လက်အောက်ငယ်သားဖြစ်ပါတယ် 
+ဒါပေမယ့် ဦးဂတုံးကိုဖြုတ်ချပြီး စီမံကိန်းတခုကို ဟီဂျိရိယောက်ျားကဦးဆောင်ဖို့လုပ်ပါတယ် 
+ဦးဂတုံးဟာ အတွေ့အကြုံရင့်သူမို့ အဲ့ project က စွန့်စားရမှာများပြီး ကုမ္ပဏီဒေဝါလီခံနိုင်တဲ့ထိ ဖြစ်နိုင်တာသိနေပါတယ်
+ထင်တဲ့အတိုင်းပဲဖြစ်ခဲ့ပြီး ဟီဂျိရိလည်း သူ့ယောက်ျားကိုကယ်တင်ဖို့ ဘာတွေပေးဆပ်လိုက်ရမလဲဆိုတာကတော့
+မင်းသမီးနာမည် Hijiri Maihara
+မြန်မာပရိသတ်‌တွေအသဲစွဲ ဂျပန်ဂတုံးကားလေးပါ",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/n/nsp/nsps930/nsps930_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/dvje70jprm16ivu/%255BBlueTVApp%255DNsps-930sd.mp4/file",
+"photo1":"https://i.imgur.com/4XdCOzP.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsps00930/nsps00930pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nsps00930/nsps00930jp-18.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsps00930/nsps00930jp-14.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsps00930/nsps00930jp-15.jpg",
+"dapp":"https://www.mediafire.com/file/rge9gzl2pxk3vy6/%255BBlueTVAppp%255DNsps-930_Hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
