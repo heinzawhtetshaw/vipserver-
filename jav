@@ -6800,4 +6800,18 @@ Akari နဲ့ Nao တို့ဟာ သိမ်ချစ်ကြတဲ့�
 "photo5":"https://pics.dmm.co.jp/digital/video/nsps00930/nsps00930jp-15.jpg",
 "dapp":"https://www.mediafire.com/file/rge9gzl2pxk3vy6/%255BBlueTVAppp%255DNsps-930_Hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-196mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မြေးချီချင်လို သမက်ကိုတလလောက်ဘာမှမဘာခိုင်းဘဲအငတ်ထားထားပီး သမီးနဲ့ရေပူစမ်းမှာလွှတ်ပေးကာမှ သမက်က သမီးဖြစ်သူကိုမဘုဘဲ ယောက္ခမကိုတက်ကြိတ်သွားတဲ့ဇာတ်လမ်းလေး...
+မင်းသမီးနာမည် Kanna Fuji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00196/playlist.m3u8",
+"download":"https://www.mediafire.com/file/xx62mekisz88shc/JUQ-196-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/qwjTMYK.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00196/juq00196pl.jpg",
+"photo3":"https://i.imgur.com/Kibjr9o.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00196/juq00196jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00196/juq00196jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/szljsnvcnoxool6/JUQ-196-MR%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
