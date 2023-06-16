@@ -6814,4 +6814,19 @@ Akari နဲ့ Nao တို့ဟာ သိမ်ချစ်ကြတဲ့�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00196/juq00196jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/szljsnvcnoxool6/JUQ-196-MR%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPD-871mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိန်းမကောင်းတော့ ယောကျာ်းတစ်ထောင်တဲ့
+အေးမိစံကို ယောကျာ်းတစ်သိုက် ဘယ်လို‌တွေကြမ်းသွားမလဲ...
+မင်းသမီးနာမည် Eimi Fukada",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/p/ppp/pppd00871/pppd00871_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/oocgw41bjtx7mvm/PPPD-871SD.mp4/file",
+"photo1":"https://i.imgur.com/Bl5lSwz.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pppd00871/pppd00871pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/pppd00871/pppd00871jp-11.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/pppd00871/pppd00871jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pppd00871/pppd00871jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/2lrv4d8uex2h5qx/PPPD-871HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
