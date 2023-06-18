@@ -6829,4 +6829,18 @@ Akari နဲ့ Nao တို့ဟာ သိမ်ချစ်ကြတဲ့�
 "photo5":"https://pics.dmm.co.jp/digital/video/pppd00871/pppd00871jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/2lrv4d8uex2h5qx/PPPD-871HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-561mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဖေဖစ်သူအတွက်လက်စားချေဖို့ ချစ်သူကောင်လေးရှိပေမယ့်လည်း ဦးလေးကြီးအရွယ် သူဌေးကြီးကိုလက်ထပ်ခဲ့တဲ့ ကောင်မလေးတစ်ယောက်ရဲ့ ဇာတ်လမ်း
+မင်းသမီးနာမည် Miu Shiramine",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ati/atid00561/playlist.m3u8",
+"download":"https://www.mediafire.com/file/l3va8pyytb0d0ko/Atid-561sd.mp4/file",
+"photo1":"https://i.imgur.com/8NWA6a1.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00561/atid00561pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/atid00561/atid00561jp-9.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230618_114303.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00561/atid00561jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/xdp1s6ijksy2vtg/Atid-561hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
