@@ -6860,4 +6860,20 @@ Erika တိုလင်မယားဟာကလေးယူဖိုအတွ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00220/juq00220jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/3eoioox72rhbg86/JUQ-220-MR%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NSPS-848mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အန်တီကြီးတောင်းဆိုထားတဲ့ ဘရိုတို့အတွက်
+သူငယ်ချင်းအိမ်အလည်သွားတုန်း စည်းကမ်းကြီးတဲ့ သူငယ်ချင်းမေမေအန်တီကြီး လက်သမားလုပ်နေတာကို ဗွီဒီယိုခိုးရိုက်ကာ သူမကိုပြလိုက်ပါတယ် 
+အဲ့နောက်ပိုင်းမှာတော့ ကျနော်တို့သူငယ်ချင်း ၂ယောက် အန်တီကြီးနဲ့တွေ့တိုင်း ဗွီဒိယိုလေးပြပြပြီး..
+မင်းသမီးနာမည် Ayako Inoue",
+"watch":"",
+"download":"https://www.mediafire.com/file/ojpvqn14awi5lpm/NSPS_848_-SD.mp4/file",
+"photo1":"https://i.imgur.com/4BZQpPu.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsps00848/nsps00848pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nsps00848/nsps00848jp-10.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsps00848/nsps00848jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsps00848/nsps00848jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/10zbd9g7967k9vj/NSPS848-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
