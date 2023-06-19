@@ -6843,4 +6843,21 @@ Akari နဲ့ Nao တို့ဟာ သိမ်ချစ်ကြတဲ့�
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00561/atid00561jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/xdp1s6ijksy2vtg/Atid-561hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-220mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Erika တိုလင်မယားဟာကလေးယူဖိုအတွက်
+အစွမ်း‌ကုန်ကြိုးစားနေပေမယ့် ဘယ်လိုကြိုးစားကြိုးစားမရပါဘူး။
+ဒါကြောင့်ဆေးစစ်ချက်ယူတဲ့အခါမှာ Erika ယောက်ျား က မစွမ်းတာဖြစ်နေပါတယ်။
+ဒါကိုသိတဲ့ ယောက္ခထီးကြီးက ဒေါပွကာ သူ့ကုမ္ပဏီဆက်ခံမယ့်မျိုးဆက်ကိုမမွေးပေးနိုင်ကြဘူးဆိုပြီး သူတိုလင်မယားကိုအိမ်ပေါ်က နှင်ချဖို့လုပ်လာတဲ့အခါ....
+မင်းသမီးနာမည် Erika Ozaki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00220/playlist.m3u8",
+"download":"https://www.mediafire.com/file/0znldck36knxge9/JUQ-220-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/0TlCbAL.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00220/juq00220pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00220/juq00220jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00220/juq00220jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00220/juq00220jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/3eoioox72rhbg86/JUQ-220-MR%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
