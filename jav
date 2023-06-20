@@ -6876,4 +6876,36 @@ Erika တိုလင်မယားဟာကလေးယူဖိုအတွ�
 "photo5":"https://pics.dmm.co.jp/digital/video/nsps00848/nsps00848jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/10zbd9g7967k9vj/NSPS848-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"VEC-553mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်တူတူလုပ်တဲ့ကောင်လေးက အာယူမီကိုသူ့အိမ်မှာခဏနားဖို့ခေါ်ပါတယ်
+အိမ်ခေါ်ပြီးရည်းစားစကားပြောကာ တစ်ခါတည်းဘုခံလိုက်ရတာ....
+မင်းသမီးနာမည် Ayumi Natsukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/v/vec/vec00553/playlist.m3u8",
+"download":"https://www.mediafire.com/file/cykngpsnogf65up/VEC-553%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/17LrA29.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/vec00553/vec00553pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/vec00553/vec00553jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/vec00553/vec00553jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/vec00553/vec00553jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/s0nqhwxymopel1y/VEC-553%257EHD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-255mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီကားလေးကအရမ်းကိုကောင်းလွန်းပါတယ် ချစ်ပရိသတ်တို့
+Aoi တို့လင်မယားစုံတွဲဟာ အိမ်ထောင်သက် 7 နှစ်ကြာတဲ့အထိ အရမ်းချစ်နေကြတုန်းပါ
+တစ်နေ့မှာတော့ ဇနီးဖစ်သူက အိမ်ထောက်သက် 7 နှစ်ပြည့်တဲ့ အမှတ်တရအနေနဲ့ ကိုယ်လုံးတီး စုံတွဲပုံတွေရိုက်ပြီး သိမ်းထားချင်တယ်ဟုဆိုလာတဲ့အခါ....
+ရိုက်ကွင်းမှာ ခင်ပွန်းဖစ်သူက အဝတ်ဗလာနဲ့ရိုက်ဖို့ သတ္တိမရှိ‌တာကြောင့် ခင်ပွန်းရဲ့ သ‌ူဌေးက အစမ်းသရုပ်ဆောင်ပြမယ်ဆိုပြီး ....
+မင်းသမီးနာမည် Aoi Ichino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00255/playlist.m3u8",
+"download":"https://www.mediafire.com/file/0w2e3834v9je2lq/%255BBlueTVApp%255DJuq-255sd.mp4/file",
+"photo1":"https://i.imgur.com/D8oMgY7.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00255/juq00255pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230620_151148.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230620_151505.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230620_151051.jpg",
+"dapp":"https://www.mediafire.com/file/30sa80dlgb51ovs/%255BBlueTVApp%255DJuq-255hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
