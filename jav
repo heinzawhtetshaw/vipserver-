@@ -6908,4 +6908,19 @@ Aoi တို့လင်မယားစုံတွဲဟာ အိမ်ထေ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230620_151051.jpg",
 "dapp":"https://www.mediafire.com/file/30sa80dlgb51ovs/%255BBlueTVApp%255DJuq-255hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSPD-142mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Saeko ယောက်ျားနေမကောင်းဖြစ်လို့ ဆေးရုံတင်ထားရပါတယ် ဒါပေမယ့်အဲ့ဆေးရုံမှာလျှိုဝှက်ချက်တွေရှိနေပါတယ်
+ဒီဆေးရုံရဲ့ လျို့ဝှက်ချက်က ဘာဖစ်မလဲ
+မင်းသမီးနာမည် Saeko Matsushita",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/ssp/sspd00142/sspd00142_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/za187n29bkjxxyz/Sspd-142sd.mp4/file",
+"photo1":"https://i.imgur.com/cA8Q8Wf.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/sspd00142/sspd00142pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/sspd00142/sspd00142jp-12.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/sspd00142/sspd00142jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/sspd00142/sspd00142jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/ug355kufsjjqcus/SSPD-142hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
