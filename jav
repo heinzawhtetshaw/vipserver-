@@ -6923,4 +6923,19 @@ Saeko ယောက်ျားနေမကောင်းဖြစ်လို�
 "photo5":"https://pics.dmm.co.jp/digital/video/sspd00142/sspd00142jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/ug355kufsjjqcus/SSPD-142hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"URE-057mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Manga ကိုပြန်ရိုက်ထားတာဖြစ်ပြီး 
+တူဖြစ်သူက အန်တီကိုဘယ်လိုအကြပ်ကိုင်ပြီး ရှယ်တီးသွားမလဲဆိုတာကို ကြည့်ရှုရပါမယ်
+မင်းသမီးနာမည် Ayumi Miura",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/u/ure/ure00057/ure00057_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/aqo2cpf3xuevzq6/URE-057-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/eMVrEri.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ure00057/ure00057pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ure00057/ure00057jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ure00057/ure00057jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ure00057/ure00057jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/fds2a4uhz5dd1cj/URE-057-MR%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
