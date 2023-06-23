@@ -6938,4 +6938,34 @@ Manga ကိုပြန်ရိုက်ထားတာဖြစ်ပြီ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ure00057/ure00057jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/fds2a4uhz5dd1cj/URE-057-MR%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HUNBL-069mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျေးဇူးပြုပြီး ငါ့သမီးကိုမထိပါနဲ့
+မအေနဲ့သမီးကို အုပ်စုဖွဲ့ အနိုင်ကျင့်ကြတဲ့ ဇာတ်လမ်း",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hun/hunbl00069/playlist.m3u8",
+"download":"https://www.mediafire.com/file/8yvg90hg38dd4ns/HUNBL-069%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/dEiILKb.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/hunbl00069/hunbl00069pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/hunbl00069/hunbl00069jp-9.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/hunbl00069/hunbl00069jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/hunbl00069/hunbl00069jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/x24ofawelu5rwsr/HUNBL-069%257EHD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SHKD-741mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီတခါတော့ Jail Breaker ဇာတ်လမ်းလေးကြည့်ရှုရမှာဖြစ်ပါတယ်
+Ria Kashii ဟာ အဖေတခုသမီးတခုပါ အခုလည်း သူမင်္ဂလာဆောင်တော့မှာမို့ အဖေ့ကိုတယောက်တည်းမထားခဲ့ချင်တော့ သူ့ကောင်လေးကို အိမ်မှာပဲအတူနေဖို့ပြောနေပါတယ်
+တရက်အဖေအလုပ်သွားနေချိန်မှာ ထောင်ဖက်ပြေးလာတဲ့ မုဒိန်းသမားက အိမ်ထဲအသာလေးဝင်ပြီး…
+မင်းသမီးနာမည် Ria Kashii",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/shk/shkd00741/shkd00741_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/p5fmmgj4c2mlcsy/SHKD-741hd.mp4/file",
+"photo1":"https://i.imgur.com/gSE3Lqf.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/shkd00741/shkd00741pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/shkd00741/shkd00741jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/shkd00741/shkd00741jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/shkd00741/shkd00741jp-11.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
