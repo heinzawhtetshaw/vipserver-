@@ -6968,4 +6968,32 @@ Ria Kashii ဟာ အဖေတခုသမီးတခုပါ အခုလည�
 "photo5":"https://pics.dmm.co.jp/digital/video/shkd00741/shkd00741jp-11.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HTMS-100mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ မြောက်ကိုးရီးယားနိုင်ငံမှ နယ်စပ်ကနေကျော်ပြေးဖို့ ကြိုးစားတဲ့ ကောင်မလေးတွေနဲ့ နယ်စပ်က ဘဲတွေရဲ့ အကြောင်းလေးဖြစ်ပါတယ် ကောင်မလေး ၃ယောက် နယ်စပ်ကျော်ပြေးဖို့ကြိုးစားခဲ့ရာ ဘယ်သူလိုရာပန်းတိုင် ရောက်သွားမလဲဆိုတာကတော့........",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/h/htm/htms100/htms100_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/go8pqa53n3z3029/HTMS-100%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/h2ts9C7.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/htms00100/htms00100pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/htms00100/htms00100jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/htms00100/htms00100jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/htms00100/htms00100jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/e2xmubgu77w6qc0/HTMS-100%257EHD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"FSDSS-129mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီတစ်ခါ မတူကွဲပြားတာလေးကို ကြည့်ရှုရပါမယ်
+ဂျပန်နိုင်ငံရဲ့ ဖာတန်းကိုကြည့်ပြီး ဂျပန်မှာ သွားနေချင်စိတ်တွေ ဖစ်နေပါပီလို့
+မင်းသမီးနာမည် Tina Nanami",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1fs/1fsdss129/1fsdss129_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/jkgmcdibag5x46v/Fsdss-129sd.mp4/file",
+"photo1":"https://i.imgur.com/GUuk0Ds.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1fsdss00129/1fsdss00129pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1fsdss00129/1fsdss00129jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1fsdss00129/1fsdss00129jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1fsdss00129/1fsdss00129jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/tr57r9qngrrwr7o/Fsdss-129hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
