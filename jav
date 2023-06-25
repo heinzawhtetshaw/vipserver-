@@ -6996,4 +6996,32 @@ Ria Kashii ဟာ အဖေတခုသမီးတခုပါ အခုလည�
 "photo5":"https://pics.dmm.co.jp/digital/video/1fsdss00129/1fsdss00129jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/tr57r9qngrrwr7o/Fsdss-129hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-345mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျားမာန်ဟုန်သောက်ထားတဲ့ ယောက္ခထီးက Yui လေးကို ကော်ဖီထဲအိပ်ဆေးထည့်ပြီး နေ့တိုင်းသွေးတိုးစမ်းနေခဲ့ရာ တစ်နေ့မှာတော့ Yui လေးရုတ်တရက်နိုးလာချိန်မှာ အရိပ်မဲမဲရှည်ရှည်ကြီးကို တွေ့လိုက်ပြီးနောက်.....
+မင်းသမီးနာမည် Yui Hatano",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/ati/atid00345/atid00345_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/3tb2v8n55hvl1yz/ATID_345%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/bZDCbIy.jpeg",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00345/atid00345pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/atid00345/atid00345jp-9.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00345/atid00345jp-11.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00345/atid00345jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/fjreq3mbo1zlgs9/ATID_345%257EHD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA-862mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းအလုပ်က ဝင်ငွေနည်းလို့ စတိုးဆိုင်တစ်ခုမှ အချိန်ပိုင်းဝန်ထမ်းဝင်လုပ်နေတဲ့ အိမ်ထောင်ရှင်မလေးကို  စတိုးဆိုင်သူဌေးက ညဘက်အချိန်ပိုဆင်းခိုင်းပြီး ရှယ်တီးလိုက်တဲ့ဇာတ်လမ်းလေးပါ...
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mia/miaa00862/playlist.m3u8",
+"download":"https://www.mediafire.com/file/zuzu3s45gyq6zuy/%255BBlueTVApp%255DMiaa-862sd.mp4/file",
+"photo1":"https://i.imgur.com/CGTNNHs.jpeg",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00862/miaa00862pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230625_200556.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230625_200133.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230625_200431.jpg",
+"dapp":"https://www.mediafire.com/file/hl6nt8j4lh6nt2d/%255BBlueTVApp%255DMiaa-862hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
