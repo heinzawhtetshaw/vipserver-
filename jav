@@ -7024,4 +7024,34 @@ Ria Kashii ဟာ အဖေတခုသမီးတခုပါ အခုလည�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230625_200431.jpg",
 "dapp":"https://www.mediafire.com/file/hl6nt8j4lh6nt2d/%255BBlueTVApp%255DMiaa-862hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS-215mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နွေရာသီကျောင်းပိတ်ရက် တည်းခိုခန်းမှာအလုပ်လုပ်ရင်း mcတယောက် အချစ်ငတ်နေတဲ့ဘောစိမမကိုသနားပီး...
+မင်းသမီးနာမည် Ichika Hoshimiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00215/playlist.m3u8",
+"download":"https://www.mediafire.com/file/nbup7y1dj0v91qs/SSIS-215-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/tApFDGI.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00215/ssis00215pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00215/ssis00215jp-14.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00215/ssis00215jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00215/ssis00215jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/m87jm4auoniycuf/SSIS-215-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"PRED-415mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဆရာမ Yuu Shinoda တယောက် အိမ်ပြန်လာနေတုန်း ညကြီးမိုးချုပ် လမ်းဘေးမှာ Yuuki ဆိုတဲ့ကျောင်းသားလေး ထိုင်နေတာတွေ့သွားပါတယ်
+ဆရာမကအတင်းမေးတော့မှာ မိဘတွေအဆင်မပြေလို့ စိတ်ဒဏ်ရာတွေရနေတဲ့ ကောင်လေးမှန်းသိလိုက်ရပါတယ်
+ဒီလိုဆရာမက သူ့အိမ်ပဲခေါ်လာခဲ့ပြီးဘီယာအတူသောက်ကြရာကနေ....
+မင်းသမီးနာမည် Yu Shinoda",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/pre/pred00415/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ep7rfkr98kzgkda/Pred-425sd.mp4/file",
+"photo1":"https://i.imgur.com/gfpogRU.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00415/pred00415pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/pred00415/pred00415jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/pred00415/pred00415jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pred00415/pred00415jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/agyxoojp3184q15/PRED-415hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
