@@ -7054,4 +7054,20 @@ Ria Kashii ဟာ အဖေတခုသမီးတခုပါ အခုလည�
 "photo5":"https://pics.dmm.co.jp/digital/video/pred00415/pred00415jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/agyxoojp3184q15/PRED-415hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"AVOP-208mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကဲ ရှင်းမှလင်းမှကြိုက်တဲ့ ညိုကီတို့အတွက် 
+UNCENSORED MMSUB လာပါပီ
+Kana Yume ဟာ သူ့အစ်ကိုနေမကောင်းဖြစ်လို့ ဆေးရုံတက်ရချိန် တူလေးနှစ်ယောက်ကို ထိန်းဖို့ဖြစ်လာပါတယ်
+မင်းသမီးနာမည် Kana Yume",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/h/h_0/h_068avop00208/h_068avop00208_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/mf17e2ofuaqn1i4/Avop-208sd.mp4/file",
+"photo1":"https://i.imgur.com/8io893l.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/h_068avop00208/h_068avop00208pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/h_068avop00208/h_068avop00208jp-12.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/h_068avop00208/h_068avop00208jp-14.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/h_068avop00208/h_068avop00208jp-15.jpg",
+"dapp":"https://www.mediafire.com/file/zoe8uftjkp6ns91/AVOP-208hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
