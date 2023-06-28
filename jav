@@ -7086,4 +7086,23 @@ Kana Yume ဟာ သူ့အစ်ကိုနေမကောင်းဖြစ
 "photo5":"https://pics.dmm.co.jp/digital/video/nsps00762/nsps00762jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/9kp7qkiqmvnz35a/NSPS_762_HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-384mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီကားလေးက eimiရဲ့ နာမည်ကြီးဇာတ်ကား‌လေးဖြစ်ပြီး
+Eimi ကို ဘောပြားမလေးအဖြစ် မြင်တွေ့ရမှာဖြစ်ပါတယ် 
+ငယ်ငယ်တည်းက ကျောင်းမှာအနိုင်ကျင့်ခံရတဲ့ ကောင်လေးတယောက်ရှိပါတယ် အဲ့ချိန်ကလူတိုင်းက Eimi ဆို ဒူးတုန်အောင်ကြောက်ကြရပါတယ်ဆိုတော့ အဲ့ကောင်လေးကိုကူညီပေးခဲ့တာပေါ့လေ
+အဲ့ကောင်လေးကလည်း Eimi ကို သူ့ဘဝရဲ့ သူရဲကောင်ကြီးတစ်ယောက်လိုမှတ်ယူထားပါတယ် 
+Eimi ကလည်း အနေအထိုင်ပိရိတော့ မိန်းကလေးမှန်းဘယ်သူမှမသိခဲ့ကြပါဘူး..
+ဒါပေမယ့်လည်း တစ်နေ့မှာတော့.....
+မင်းသမီးနာမည် Eimi Fukada",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/ati/atid00384/atid00384_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/b3pam4klbwsl0vm/%255BBlueTVApp%255DAtid-384sd.mp4/file",
+"photo1":"https://i.imgur.com/fqvzbrE.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00384/atid00384pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/atid00384/atid00384jp-8.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00384/atid00384jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00384/atid00384jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/3zxto2cax6gjsri/%255BBlueTVApp%255DAtid-384hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
