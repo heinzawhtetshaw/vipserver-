@@ -7070,4 +7070,20 @@ Kana Yume ဟာ သူ့အစ်ကိုနေမကောင်းဖြစ
 "photo5":"https://pics.dmm.co.jp/digital/video/h_068avop00208/h_068avop00208jp-15.jpg",
 "dapp":"https://www.mediafire.com/file/zoe8uftjkp6ns91/AVOP-208hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NSPS-762mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အန်တီကြီးသားအမိဇာတ်လမ်း (အင်းစက်)
+အလိုလိုက်လွန်းလို့ အရမ်းဆိုးနေတဲ့သားလေးကို လိမ္မာသွားအောင် ကလေးမုန့်ပေးထိန်းခဲ့တဲ့ မေမေတစ်ယောက်ရဲ့အကြောင်းလေးပါ
+တစ်နေ့မှာတော့ သားဖြစ်သူက မစားသင့်တဲ့အသီးကိုတောင်းဆိုလာသောအခါ..
+မင်းသမီးနာမည် Rena Fukiishi",
+"watch":"",
+"download":"https://www.mediafire.com/file/g5fxdz16sj3ixkc/NSPS_762_SD.mp4/file",
+"photo1":"https://i.imgur.com/w6Lm2g8.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsps00762/nsps00762pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nsps00762/nsps00762jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsps00762/nsps00762jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsps00762/nsps00762jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/9kp7qkiqmvnz35a/NSPS_762_HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
