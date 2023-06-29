@@ -7105,4 +7105,20 @@ Eimi ကလည်း အနေအထိုင်ပိရိတော့ မိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00384/atid00384jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/3zxto2cax6gjsri/%255BBlueTVApp%255DAtid-384hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"STAR-995mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လီလီဆိုတဲ့လုပ်ငန်းရှင်မမကြီးမှာ သူ့ကိုအရမ်းစွဲလန်းနေတဲ့ယိုရီဆိုတဲ့အတွင်းရေးမှူးရှိတာပေါ့
+တစ်အိမ်ထဲလဲတူတူနေပီးနှစ်ယောက်ကGLအတွဲမျိုးပေါ့ လီလီဟာ ရင်းနှီးမြုပ်နှံသူယာမဒါ ကိုရန်ပုံငွေထည့်တဲ့အတွက် ယိုရီကိုထိုးကျွေးလိုက်ပါတယ် 
+ယောင်္ကျားတယောက်နဲ့မနေဖူးတဲ့ ယိုရီတယောက် ဘယ်လိုပြောင်းလဲလာမလဲရှုစားကြပါအုန်း...
+မင်းသမီးနာမည် Iori Kogawa.Yuri Oshikawa",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1st/1star995/1star995_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/79b4npz0xs7zhbd/STAR-995%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/Q5DuLKO.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1star00995/1star00995pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1star00995/1star00995jp-4.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1star00995/1star00995jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1star00995/1star00995jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/zdvk5r62e12xpav/STAR-995%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
