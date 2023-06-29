@@ -7121,4 +7121,20 @@ Eimi ကလည်း အနေအထိုင်ပိရိတော့ မိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/1star00995/1star00995jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/zdvk5r62e12xpav/STAR-995%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA-207mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိဘတွေ စီးပွားပျက်သွားတဲ့အပြင် အဲ့စိတ်နဲ့ပဲဆုံးပါးကုန်ကြလို့ ငယ်သူငယ်ချင်းရဲ့အိမ်မှာ အိမ်ဖော်လုပ်နေရတဲ့သူမဘဝ....
+သူအိမ်ဖော်လုပ်နေတဲ့အိမ်က သူငယ်ချင်းကလည်း သူမကိုကြိတ် crush နေပြီး နှစ်ယောက်သားခံစားချက်တွေရှိနေကြတာပေါ့
+ဒါပေမယ့်လည်း သူငယ်ချင်းရဲ့အဖေကလည်း အပျိုအရွယ်ရောက်နေပီဖြစ်တဲ့သူမကို ကြိတ်ဖို့ကြံစည်နေတဲ့အခါ...
+မင်းသမီးနာမည် Akari Neo",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mia/miaa00207/miaa00207_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ajsoc307bpr85d2/Miaa-207sd.mp4/file",
+"photo1":"https://i.imgur.com/q7voblv.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00207/miaa00207pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/miaa00207/miaa00207jp-4.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/miaa00207/miaa00207jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/miaa00207/miaa00207jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/og3e1oo0o91mlsh/Miaa-207hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
