@@ -7152,4 +7152,19 @@ Eimi ကလည်း အနေအထိုင်ပိရိတော့ မိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ure00033/ure00033jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/v6xt2ighznfzk6t/URE_033-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"VEC-476mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တရက်တော့ အမေဆီကို အမေ့သူငယ်ချင်းအလည်ရောက်လာပါတယ် 
+ကိုယ့်အမေ့သူငယ်ချင်းဆိုတော့ အိုဆာနေတဲ့အန်တီကြီးလိုထင်ထားပေမယ့် ရောက်လာလို့ကြည့်လိုက်တော့ စကားတွေတောင်ထစ်ပြီး ဆွံ့အသွားပါတယ်...
+မင်းသမီးနာမည် Kanon Ibuki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/v/vec/vec00476/playlist.m3u8",
+"download":"https://www.mediafire.com/file/p02iv96q693nest/VEC-476hd.mp4/file",
+"photo1":"https://i.imgur.com/bd4XHyq.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/vec00476/vec00476pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/vec00476/vec00476jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/vec00476/vec00476jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/vec00476/vec00476jp-10.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
