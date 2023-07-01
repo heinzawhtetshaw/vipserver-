@@ -7137,4 +7137,19 @@ Eimi ကလည်း အနေအထိုင်ပိရိတော့ မိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/miaa00207/miaa00207jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/og3e1oo0o91mlsh/Miaa-207hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"URE-033mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောင်္ကျားကခရီးဘဲထွက်နေလို အထီးကျန်နေတဲ့အမေနဲ့ လူပျိုပေါက်ဖြစ်လာချိန်မှာ ဘာမှသေချာမဝေဖန်မခွဲခြားနိုင်တဲ့သားတို့ရဲ့ဇာတ်လမ်း....
+အမေလူမှန်းသူမှန်းမသိမူးနေတိုင်း ခိုးခိုးစားတဲ့သားနဲ့မူးနေလိုသားကိုယောင်္ကျားလိုအမှတ်မှားနေတဲ့အမေနဲ့ဇာတ်လမ်းကဘယ်လိုဇာတ်သိမ်းမလဲဆိုတာကြည့်ရှုလိုက်ကြပါအုန်း...
+မင်းသမီးနာမည် Yuka Oshima",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/u/ure/ure00033/ure00033_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/uu644jqddr9bvby/URE_033-SD.mp4/file",
+"photo1":"https://i.imgur.com/yFSe3Uw.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ure00033/ure00033pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ure00033/ure00033jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ure00033/ure00033jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ure00033/ure00033jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/v6xt2ighznfzk6t/URE_033-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
