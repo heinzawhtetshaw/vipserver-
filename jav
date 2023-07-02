@@ -7167,4 +7167,19 @@ Eimi ကလည်း အနေအထိုင်ပိရိတော့ မိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/vec00476/vec00476jp-10.jpg",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDE-416mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အချိန်ရပ်ပြီး ရှယ်တီးတဲ့ဇာတ်လမ်း
+ချောမောလှပလွန်းတဲ့ အိမ်ထောင်ရှိအမျိုးသမီး တစ်ယောက်ကို အိမ်နီးနားချင်းယောကျ်ားတစ်ယောက်က အချိန်ရပ်ပြီး သူငယ်ချင်းများပါခေါ်ကာ....
+မင်းသမီးနာမည် Shoko Akiyama",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mid/mide00416/mide00416_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/zh4vf10y32ve716/MIDE_416-SD.mp4/file",
+"photo1":"https://i.imgur.com/phHEP4f.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/mide00416/mide00416pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mide00416/mide00416jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mide00416/mide00416jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mide00416/mide00416jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/ge8jlihdrvuim35/MIDE_416-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
