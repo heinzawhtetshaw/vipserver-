@@ -7182,4 +7182,33 @@ Eimi ကလည်း အနေအထိုင်ပိရိတော့ မိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/mide00416/mide00416jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/ge8jlihdrvuim35/MIDE_416-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID-325mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မလန်းထောင်နိုင်တော့တဲ့အဘိုးကြီးက အစွမ်းထက်တဲ့ဆေးတစ်မျိုးကိုရရှိလိုက်ပြီးသကာလ အထီးကျန်နေတဲ့ချွေးမလေးကို ဖလန်းဖလန်းတဲ့ကားလေးပါ
+မင်းသမီးနာမည် Iroha Natsume",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/ati/atid00325/atid00325_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/304qqgrdjv1w7db/ATID_325_-SD.mp4/file",
+"photo1":"https://i.imgur.com/7KKaJCr.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00325/atid00325pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/atid00325/atid00325jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00325/atid00325jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00325/atid00325jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/9b7c1343ag48g1u/ATID_325_-HD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"DASD-353mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်းမိန်းမငါ့ကိုကြိုက်နေတာပါကွာ မယုံရင် ငါလိုက်ပြရမလား ဆိုတဲ့ဂျပန်ကတုံးရဲ့ စကားတွေကို မခံချင်တာကြောင့် ဇနီးသည်ကိုယုံပြီး အလောင်းအစားပြုလုပ်ရာကနေ ဘာတွေဖစ်သွားမလဲ.. 
+မင်းသမီးနာမည် Misaki Honda
+ဂျပန်ဂတုံး ကားလာတောင်းဆိုထားလို့ တင်ပေးလိုက်ပါတယ်",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/d/das/dasd00353/dasd00353_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/wj3hyp3m0zbg198/%255BBlueTVApp%255DDasd-353sd.mp4/file",
+"photo1":"https://i.imgur.com/I9dNNrW.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/dasd00353/dasd00353pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230703_192500.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/dasd00353/dasd00353jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/dasd00353/dasd00353jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/1sua8faorvg2hqk/%255BBlueTVApp%255DDasd-353Hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
