@@ -7211,4 +7211,20 @@ Eimi ကလည်း အနေအထိုင်ပိရိတော့ မိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/dasd00353/dasd00353jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/1sua8faorvg2hqk/%255BBlueTVApp%255DDasd-353Hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"DASD-593mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အချစ်မှာ မျက်စိမရှိဘူးဆိုရင်
+အချစ်မှာ ဘာအရေးကြီးလဲ
+ဇာတ်လမ်းထဲမှာလည်း ရုပ်ချောတဲ့ဘဲနဲ့ ဝတုတ်တဲ့ဘဲနဲ့ ဘာကိုအဓိကထားရွေးသွားလဲမြင်တွေ့ရမှာပါ
+မင်းသမီးနာမည် Yui Nagase",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/d/das/dasd00593/dasd00593_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/lhggnbyk8xqy3oj/Dasd-593sd.mp4/file",
+"photo1":"https://i.imgur.com/qJSkAyO.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/dasd00593/dasd00593pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dasd00593/dasd00593jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/dasd00593/dasd00593jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/dasd00593/dasd00593jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/8p6e68wt866eaqs/DASD-593hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
