@@ -7227,4 +7227,18 @@ Eimi ကလည်း အနေအထိုင်ပိရိတော့ မိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/dasd00593/dasd00593jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/8p6e68wt866eaqs/DASD-593hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NSFS-148mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းဖြစ်သူရဲ့အထက်လူကြီးဟာ ကူညီပေးနားလည်ပေးပီးသဘောကောင်းပြနေပေမယ့် တကယ်တမ်းမှာတော့သဘောရိုးနဲ့မဟုတ်ဘူးဆိုတာကို သိလိုက်ရတဲ့အချိန်မှာတော့ နောက်ကျသွားခဲ့ပါပီ...
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nsf/nsfs00148/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bb5oj9cwhezwjl2/NSFS-148%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/psXpRDn.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsfs00148/nsfs00148pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nsfs00148/nsfs00148jp-8.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsfs00148/nsfs00148jp-16.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsfs00148/nsfs00148jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/zb1wfl1yu8824pd/NSFS-148%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
