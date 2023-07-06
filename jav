@@ -7241,4 +7241,36 @@ Eimi ကလည်း အနေအထိုင်ပိရိတော့ မိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/nsfs00148/nsfs00148jp-11.jpg",
 "dapp":"https://www.mediafire.com/file/zb1wfl1yu8824pd/NSFS-148%257EHD.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"တစ်"},
+{"name":"ALDN-172mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီတခေါက်တော့အမေနဲ့သားအင်းစက်ကားလေးပါ 
+၈တန်းကိုဆယ်နှစ်လောက်ဖြေနေတဲ့သားကိုညီမကအမြဲနှိမ်နေတဲ့အတွက်အမေကအသနားပိုမိပါတယ် 
+အမေကအမြဲအလိုလိုက်နေတေ့ာစာကြိုးစားပါ့မယ်ဆိုကာအမေကိုနားပူနာဆာလုပ်ပီးသူလိုချင်နေတဲ့ဘာကိုတောင်းမလဲဆိုတာကိုတော့.....
+မင်းသမီးနာမည် Chisato Shoda",
+"watch":"",
+"download":"https://www.mediafire.com/file/bc8e62sy8akqnn8/ALDN-172%257ESD.m4v/file",
+"photo1":"https://i.imgur.com/0FUqZmt.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/aldn00172/aldn00172pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/aldn00172/aldn00172jp-14.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/aldn00172/aldn00172jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/aldn00172/aldn00172jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/kxipdy04ry9h4fq/ALDN-172%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6bdlY+aEhWaIFyXMIPu+J5+H7t3XKMh8Fv2OarzwM9U4="},
+{"name":"JUQ-096mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိပ်စက်ဝယ်မယ် လုပ်နေတုန်း ယောက်ျားရဲ့ဦးလေးရောက်လာပြီးတားခဲ့ပါတယ်
+အကြောင်းရင်းကတော့ သူနိုပ်ပေးမယ်ဆိုပြီးတော့ပေါ့
+ပိုက်ဆံမကုန်ဘဲ အနိုပ်ခံရမှာ‌ဆိုတော့ ကံကောင်းပြီလို့ ထင်ခဲ့ပေမယ့်....
+မင်းသမီးနာမည် Aoi Ichino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00096/playlist.m3u8",
+"download":"https://www.mediafire.com/file/xlydwhk174li6v4/Juq-096sd.mp4/file",
+"photo1":"https://i.imgur.com/MuuMMmc.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00096/juq00096pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230706_211756.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230706_211811.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230706_212009.jpg",
+"dapp":"https://www.mediafire.com/file/fsm3l35ngg3gyxu/JUQ-096hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0/XXyehf71VUZqMGAQeNksY="}]
