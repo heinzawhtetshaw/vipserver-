@@ -7273,4 +7273,18 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230706_212009.jpg",
 "dapp":"https://www.mediafire.com/file/fsm3l35ngg3gyxu/JUQ-096hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0/XXyehf71VUZqMGAQeNksY="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0/XXyehf71VUZqMGAQeNksY="},
+{"name":"JUL-437mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရုံးမှာအားနေမှားပီးလူကြီးအဆူခံရလို အားငယ်နေတတ်တဲ့ရုကို သန့်ရှင်းရေး၀န်ထမ်းဖြူဖြူဖွေးဖွေးရေဆေးငါးကြီးယူကိုက ဘယ်လိုတွေအားပေးကူညီသွားမလဲကြည့်လိုက်ကြပါအုန်း..
+မင်းသမီးနာမည် Yuko Shiraki",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00437/jul00437_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/s81pyjipbk0eld9/jul-437%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/1ZnkvkG.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00437/jul00437pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00437/jul00437jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00437/jul00437jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00437/jul00437jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/x41ewxm1n3y0kzu/jul-437%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6QH7W0DPTJ+j5WtD47MlDIhi8vhtFRaU6OxuWNluSdts="}]
