@@ -7287,4 +7287,33 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00437/jul00437jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/x41ewxm1n3y0kzu/jul-437%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6QH7W0DPTJ+j5WtD47MlDIhi8vhtFRaU6OxuWNluSdts="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6QH7W0DPTJ+j5WtD47MlDIhi8vhtFRaU6OxuWNluSdts="},
+{"name":"MIMK-082mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေနဲ့သား အင်းစက်ဇာတ်လမ်း
+မင်းသမီးနာမည် Yu Shinoda",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mim/mimk00082/mimk00082_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/z9i7dgoc23xnz49/MIMK-082-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/EPK9ElV.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/mimk00082/mimk00082pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mimk00082/mimk00082jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mimk00082/mimk00082jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mimk00082/mimk00082jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/k9qqg426hi9qno8/MIMK-082-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6K3gAZkizcwGLbiW00Z8DM4ke3vzP/M9+kx5XgPKYZ9I="},
+{"name":"ATID-563mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ပန်းချီဆရာအတွက် မော်ဒယ်ကိုအချိန်မှီမရှာပေးနိုင်လို့ဇနီးသည်ကို အစားထိုးလိုက်ရပါတယ်
+ခင်ပွန်းဖစ်သူအလုပ်ထုတ်ခံရမှာစိုးလို့ မော်ဒယ်လုပ်ပေးဖို့သဘောတူလိုက်ရတဲ့ ဇနီးချောလေး...
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ati/atid00563/playlist.m3u8",
+"download":"https://www.mediafire.com/file/s1oy5qx7ka2dabt/Atid-563sd.mp4/file",
+"photo1":"https://i.imgur.com/cMbfdQw.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00563/atid00563pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/AddText_07-08-10.08.46.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00563/atid00563jp-2.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230708_220140.jpg",
+"dapp":"https://www.mediafire.com/file/se4cxn1pwfl04o7/Atid-563hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6gQuFq9Ahj1Dnubr8fVLW+nUQErDyHjvf5wYNBFKKjzQ="}]
