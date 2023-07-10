@@ -7316,4 +7316,21 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230708_220140.jpg",
 "dapp":"https://www.mediafire.com/file/se4cxn1pwfl04o7/Atid-563hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6gQuFq9Ahj1Dnubr8fVLW+nUQErDyHjvf5wYNBFKKjzQ="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6gQuFq9Ahj1Dnubr8fVLW+nUQErDyHjvf5wYNBFKKjzQ="},
+{"name":"SSIS-741mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နာမည်ကြီးလာတာနဲ့မာနကြီးလာပြီး 
+လုပ်ဖော်ကိုင်ဖက်တွေအပေါ်နိုမ့်ချဆက်ဆံလာခဲ့တဲ့ ဖက်ရှင်မော်ဒယ် လီလီ
+တစ်နေ့မှာတော့ အဖွဲ့ဝင်အသစ်ဖြစ်တဲ့ ယူကီ ဆိုတဲ့ကောင်လေးကို သွားအနိုင်ကျင့်မိရာကနေ 
+ဘာတွေဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Riri Nanatsumori",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00741/playlist.m3u8",
+"download":"https://www.mediafire.com/file/yrz2v542tyr1gxf/Ssis-741sd.mp4/file",
+"photo1":"https://i.imgur.com/K4h6qde.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00741/ssis00741pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230710_210107.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230710_210143.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00741/ssis00741jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/cxjm6eftc4xsu7j/Ssis-741hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECQnC9X/2mXsI/ofuFY1Rxx0="}]
