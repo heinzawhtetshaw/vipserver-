@@ -7333,4 +7333,19 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00741/ssis00741jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/cxjm6eftc4xsu7j/Ssis-741hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECQnC9X/2mXsI/ofuFY1Rxx0="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECQnC9X/2mXsI/ofuFY1Rxx0="},
+{"name":"PRED-403mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မောင်ဇော်ဆိုတာ စော်တွေကတပတ်ကြာအောင်မတွဲပဲ ပစ်ထားခံနေရတဲ့ စော်ပစ်ကောင်လေးဖြစ်ပါတယ် အကြောင်းကတော့ တစ်ချီ နှစ်ချီနဲ့ မရပဲ အဖုတ်ကြမ်းလို့ဖြစ်ပါတယ်
+တစ်နေ့မှာဆရာမလေးက အလုပ်များလွန်းလို့အိပ်ရေးပျက်ပြီး လမ်းလယ်မှာမူးလဲသွားပါတယ် ဒါကိုမောင်ဇော်ကကူပြီး အိမ်ထိပို့ကာရှယ်တီးပါတော့မည်
+မင်းသမီးနာမည် Karen Yuzuriha",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/pre/pred00403/playlist.m3u8",
+"download":"https://www.mediafire.com/file/tkfzr7x86oo2z3f/Pred-403sd.mp4/file",
+"photo1":"https://i.imgur.com/wKhIm2M.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00403/pred00403pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230711_225122.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230711_225143.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pred00403/pred00403jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/d0myp68esk2jri3/PRED-403hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6iSu6bhNDmib/BOYgXgFTU2lgjFjBbpGvrhpYSflykbI="}]
