@@ -7348,4 +7348,21 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/pred00403/pred00403jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/d0myp68esk2jri3/PRED-403hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6iSu6bhNDmib/BOYgXgFTU2lgjFjBbpGvrhpYSflykbI="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6iSu6bhNDmib/BOYgXgFTU2lgjFjBbpGvrhpYSflykbI="},
+{"name":"FSDSS-580mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နီနီ ဟာ လက်ထပ်ခွင့်တောင်းလာတဲ့ချစ်သူကောင်လေးကို မောင်လေးဘွဲရတဲ့အထိစောင့်ခိုင်းခဲ့ပါတယ်
+အကြောင်းရင်းကတော့ မိဘတွေမရှိတော့တာမို့ မောင်လေးကို သူမ ကြည့်ရှုနေရလို့ဖစ်ပါတယ်
+တစ်နေ့မှာတော့ မောင်လေးဖြစ်သူက ကျောင်းမှာရန်ဖစ်တာကြောင့် ကျောင်းထုတ်ခံရတော့မယ့်အရေးမှကယ်တင်ဖို့ ရှေ့နေ့ဖစ်သူကို အားကိုးရပါတော့မည်
+ရှေ့နေ့ဆိုတဲ့သူကလည်း သူမကို အရူးအမူးစွဲလန်းနေတဲ့သူဖစ်နေတဲ့အခါ...
+မင်းသမီးနာမည် Nene Yoshitaka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1fs/1fsdss589/playlist.m3u8",
+"download":"https://www.mediafire.com/file/a406chrd8feoy4e/Fsdss-589sd.mp4/file",
+"photo1":"https://i.imgur.com/3vRb5MO.jpg",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/1fsdss589/1fsdss589pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230712_210916.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230712_211028.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230712_211052.jpg",
+"dapp":"https://www.mediafire.com/file/36xl4p308iox3iu/Fsdss-589hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb66/dKxtjhtlsaOa2tycXGsxY9/aFJMqlpcSnsElMZgTA="}]
