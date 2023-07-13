@@ -7365,4 +7365,18 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230712_211052.jpg",
 "dapp":"https://www.mediafire.com/file/36xl4p308iox3iu/Fsdss-589hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb66/dKxtjhtlsaOa2tycXGsxY9/aFJMqlpcSnsElMZgTA="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb66/dKxtjhtlsaOa2tycXGsxY9/aFJMqlpcSnsElMZgTA="},
+{"name":"MOND-245mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူဌေးမမနဲ့ အလုပ်သမားကောင်လေးတို့ကြား ကအချစ်ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Shiori Tsukada",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mon/mond00245/playlist.m3u8",
+"download":"https://www.mediafire.com/file/cj1mws6kxwonkj1/MOND-245%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/dDtz6pz.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/mond00245/mond00245pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mond00245/mond00245jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mond00245/mond00245jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mond00245/mond00245jp-17.jpg",
+"dapp":"https://www.mediafire.com/file/4kjk09jvdasgcor/MOND-245%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6oBNpMt8mHvcD0hbxzz+9ChVX8tqxn8oJJnPAEZ9A7jU="}]
