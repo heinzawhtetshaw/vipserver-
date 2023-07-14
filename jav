@@ -7379,4 +7379,20 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/mond00245/mond00245jp-17.jpg",
 "dapp":"https://www.mediafire.com/file/4kjk09jvdasgcor/MOND-245%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6oBNpMt8mHvcD0hbxzz+9ChVX8tqxn8oJJnPAEZ9A7jU="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6oBNpMt8mHvcD0hbxzz+9ChVX8tqxn8oJJnPAEZ9A7jU="},
+{"name":"MEYD-820mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းဖစ်သူက တစ်နေ့မှာသူ့ဇနီးကိုတိုက်ခန်းအသစ်ဆီခေါ်လာခဲ့ပါတယ်
+ဇနီးဖြစ်သူက တိုက်ခန်းအသစ်ရပီလို့ပျော်နေခဲ့ပေမယ့် သူစိမ်းယောကျာ်းတွေဝင်လာတဲ့အချိန်မှာတော့ ခင်ပွန်းက အကြွေးတွေကြောင့် သူမကို ရောင်းစားလိုက်မှန်းသိလိုက်ရတယ်
+နာရီပေါင်း 20 နာရီ ရောင်းစားခံလိုက်ရတဲ့ သူမရဲ့ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Kanna Misaki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00820/playlist.m3u8",
+"download":"https://www.mediafire.com/file/r0r7j46vx1d05ta/Meyd-820sd.mp4/file",
+"photo1":"https://i.imgur.com/cplRJHk.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00820/meyd00820pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230714_223109.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00820/meyd00820jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00820/meyd00820jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/bgg06ddujht7n5f/Meyd-820hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KnM/17Xpa/eAAyL7iKbWasaN7HjU47cK9hHTh3OwiAE="}]
