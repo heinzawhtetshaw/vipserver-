@@ -7395,4 +7395,19 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00820/meyd00820jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/bgg06ddujht7n5f/Meyd-820hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KnM/17Xpa/eAAyL7iKbWasaN7HjU47cK9hHTh3OwiAE="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KnM/17Xpa/eAAyL7iKbWasaN7HjU47cK9hHTh3OwiAE="},
+{"name":"JUQ-237mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းမှာဘယ်အသင်း၀င်လို၀င်ရမလဲမသိဘဲကြောင်ပျောက်နေချိန် ဆရာမလေးရဲ့အလှတွေမှာမြောပီး Mcတယောက်ရေကူးအသင်းမှာပါ၀င်ဖိုဆုံးဖြတ်လိုက်ပါတော့တယ် 
+အသင်း၀င်ပီးမှဆရာမကအိမ်ထောင်နဲ့မှန်းသိလိုက်ရတော့..
+မင်းသမီးနာမည် Yui Hatano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00237/playlist.m3u8",
+"download":"https://www.mediafire.com/file/kmwfqtzfbdkv9rx/juq-237%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/ABdPegD.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00237/juq00237pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00237/juq00237jp-4.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00237/juq00237jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00237/juq00237jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/pmy4msnmz55z7kj/juq-237%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GJ5zUuEFAxT87Sw4YDx843fO4lWJmCawDJJp7ZUTTeQ="}]
