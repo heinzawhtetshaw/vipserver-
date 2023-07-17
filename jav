@@ -7410,4 +7410,19 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00237/juq00237jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/pmy4msnmz55z7kj/juq-237%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GJ5zUuEFAxT87Sw4YDx843fO4lWJmCawDJJp7ZUTTeQ="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GJ5zUuEFAxT87Sw4YDx843fO4lWJmCawDJJp7ZUTTeQ="},
+{"name":"SAME-039mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငွေလိုနေတဲ့ကျောင်းသူလေးကို မုန့်ဖိုးပေးပြီး လက်ပဲကိုင်မှာပါဟုဆိုကာ ရှယ်တီးသွားတဲ့ဆရာ
+ကျောင်းသူလေးက အပျိုပဲရှိသေးတာကိုကွာ
+မင်းသမီးနာမည် Meisa Kawakita",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/sam/same00039/same00039_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/46bcpiyvw2nlluy/Same-039sd.mp4/file",
+"photo1":"https://i.imgur.com/3ljTEC4.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/same00039/same00039pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230717_211552.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230717_211755.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230717_211907.jpg",
+"dapp":"https://www.mediafire.com/file/nxz82dmmovn43sw/Same-039hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6UCtg/3vS0aCsApy0HxvhC4yauBGGffYjNRqJKIUE13M="}]
