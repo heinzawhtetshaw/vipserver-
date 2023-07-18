@@ -7425,4 +7425,18 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230717_211907.jpg",
 "dapp":"https://www.mediafire.com/file/nxz82dmmovn43sw/Same-039hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6UCtg/3vS0aCsApy0HxvhC4yauBGGffYjNRqJKIUE13M="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6UCtg/3vS0aCsApy0HxvhC4yauBGGffYjNRqJKIUE13M="},
+{"name":"DRTP-027mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နွေရာသီမှာ ဘောင်းဘီတိုတိုလေးတွေ မလုံ့တလုံဝတ်ပြီး အိမ်ရှေ့မှာ အိပ်ပျော်နေတတ်တဲ့မမက ကျနော့်ကို ရင်ဖိုစေပါတယ်
+မင်းသမီးနာမည် Nene Tanaka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1dr/1drpt027/playlist.m3u8",
+"download":"https://www.mediafire.com/file/yxgeqtngxjrgvhv/DRTP027sd.m4v/file",
+"photo1":"https://i.imgur.com/5G7oCyu.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1drpt00027/1drpt00027pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1drpt00027/1drpt00027jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1drpt00027/1drpt00027jp-11.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1drpt00027/1drpt00027jp-19.jpg",
+"dapp":"https://www.mediafire.com/file/cozvvfzsm41xykr/DRTP027-HD.m4v/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6SjtN5L1kho0o7ckYM+Y5jSFj9yEm9ejtif19AOVKxiY="}]
