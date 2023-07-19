@@ -7439,4 +7439,19 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/1drpt00027/1drpt00027jp-19.jpg",
 "dapp":"https://www.mediafire.com/file/cozvvfzsm41xykr/DRTP027-HD.m4v/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6SjtN5L1kho0o7ckYM+Y5jSFj9yEm9ejtif19AOVKxiY="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6SjtN5L1kho0o7ckYM+Y5jSFj9yEm9ejtif19AOVKxiY="},
+{"name":"JUQ-201mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ထောင်သက်ငါးနှစ်ပြည့်တဲ့ အမှတ်တရအနေနဲ့ ခင်ပွန်းဖစ်သူနဲ့ စုံတွဲပုံလေး ရိုက်ချင်နေတဲ့ Nao 
+အတွေ့အကြုံမရှိတဲ့ခင်ပွန်းကြောင့် သူဌေးက ကူညီပေးသလိုနဲ့ ကြားကဖြတ်ဝိုက်သွားတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00201/playlist.m3u8",
+"download":"https://www.mediafire.com/file/kmq77ocjykcvl0b/Juq-201sd.mp4/file",
+"photo1":"https://i.imgur.com/TgMsfwl.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00201/juq00201pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00201/juq00201jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230719_192549.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230719_192703.jpg",
+"dapp":"https://www.mediafire.com/file/xq4f6ezkak20a1z/Juq-201hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAuyZkkuaC+jtKBcJOmQMJXGQ="}]
