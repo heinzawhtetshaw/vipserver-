@@ -7454,4 +7454,20 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230719_192703.jpg",
 "dapp":"https://www.mediafire.com/file/xq4f6ezkak20a1z/Juq-201hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAuyZkkuaC+jtKBcJOmQMJXGQ="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAuyZkkuaC+jtKBcJOmQMJXGQ="},
+{"name":"VENX-220mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အင်းစက် ကားလေးပါ
+စာလဲမကြိုးစား အားနေနှာဘူးဘဲထတတ်တဲ့သားက 
+အမေကိုပါဘယ်လိုဒုက္ခပေးအုန်းမလဲကြည့်ရှုလိုက်ကြပါအုန်း
+မင်းသမီးနာမည် Mio Kimijima",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/v/ven/venx220/playlist.m3u8",
+"download":"https://www.mediafire.com/file/v9huodr5tiredcr/VENX220-SD.m4v/file",
+"photo1":"https://i.imgur.com/M1esjIf.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/venx00220/venx00220pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/venx00220/venx00220jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/venx00220/venx00220jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/venx00220/venx00220jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/ugwr2penssht2my/VENX_220-HD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69D0ewfcXvVtZGaMYy52mRnZc0SijlQy/Mtt1SEg2164="}]
