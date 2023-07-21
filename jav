@@ -7470,4 +7470,19 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/venx00220/venx00220jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/ugwr2penssht2my/VENX_220-HD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69D0ewfcXvVtZGaMYy52mRnZc0SijlQy/Mtt1SEg2164="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb69D0ewfcXvVtZGaMYy52mRnZc0SijlQy/Mtt1SEg2164="},
+{"name":"SSIS-583mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဦးနဲ့သမီး အချစ်ဇာတ်လမ်းလေး
+သမီးရဲ့ သူငယ်ချင်းကိုမှ ချစ်မိသွားတာ
+မင်းသမီးနာမည် Yura Kano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00583/playlist.m3u8",
+"download":"https://www.mediafire.com/file/q1dump450o8elyl/Ssis-583sd.mp4/file",
+"photo1":"https://i.imgur.com/m9281tO.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00583/ssis00583pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00583/ssis00583jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00583/ssis00583jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00583/ssis00583jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/h9g5atll50glt0q/SSIS-583hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6nLDHUzJ6UdRvv5h8TG3y3Pha7tQUcIbDlWy7znaNsas="}]
