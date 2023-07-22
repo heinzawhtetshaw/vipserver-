@@ -7485,4 +7485,19 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00583/ssis00583jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/h9g5atll50glt0q/SSIS-583hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6nLDHUzJ6UdRvv5h8TG3y3Pha7tQUcIbDlWy7znaNsas="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6nLDHUzJ6UdRvv5h8TG3y3Pha7tQUcIbDlWy7znaNsas="},
+{"name":"SSIS-787mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခပ်ချေချေနေတတ်တဲ့ချွေးမလေးကိုမှ ဆွဲစားလိုက်တဲ့ ယောက္ခထီး
+အရမ်းကောင်းတယ်ကွာ
+မင်းသမီးနာမည် Tsubasa Mai",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00787/playlist.m3u8",
+"download":"https://www.mediafire.com/file/be91sbfocj5k8xg/Ssis-787sd.mp4/file",
+"photo1":"https://i.imgur.com/L8ePHFj.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00787/ssis00787pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230722_171349.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230722_171626.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00787/ssis00787jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/mad24cjmz47u4g0/Ssis-787hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECQxRlpV7eK14aKAzTcNKzCM="}]
