@@ -7514,4 +7514,18 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/h_237nacr00613/h_237nacr00613jp-15.jpg",
 "dapp":"https://www.mediafire.com/file/9pco5nbyhd7p0rb/NACR-613%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb609ZGOvtWlRVfgBo1mjqtc4QGp9r4zIYbKqkP9ux0aeE="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb609ZGOvtWlRVfgBo1mjqtc4QGp9r4zIYbKqkP9ux0aeE="},
+{"name":"MIDE-777mmsub",
+"info":"မြန်မာစာတန်းထိုး
+‌အမေနောက်အိမ်‌ထောင်ပြုလိုက်တော့ ပထွေးနဲ့အတူ လိုက်နေခဲ့ရတဲ့မောင်နှမနှစ်ယောက်မှာ အမေသေပြီးနောက်ပိုင်း ပထွေးနဲ့ သူတို့မောင်နှမ နှစ်ယောက်ပဲကျန်တော့တဲ့အခါ
+မင်းသမီးနာမည် Shoko Takahashi",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mid/mide00777/mide00777_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/rawirzyaby0i9qf/Mide-777sd.mp4/file",
+"photo1":"https://i.imgur.com/PYj1XYC.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/mide00777/mide00777pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mide00777/mide00777jp-11.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mide00777/mide00777jp-12.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mide00777/mide00777jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/hjoljqcfqi9uz8v/MIDE-777hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6uVwVImGIWaVgrsd/edpuGeTIQlJ5YS+f1es+bTJ6ewU="}]
