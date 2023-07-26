@@ -7529,4 +7529,34 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/mide00777/mide00777jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/hjoljqcfqi9uz8v/MIDE-777hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6uVwVImGIWaVgrsd/edpuGeTIQlJ5YS+f1es+bTJ6ewU="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6uVwVImGIWaVgrsd/edpuGeTIQlJ5YS+f1es+bTJ6ewU="},
+{"name":"JUQ-247mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိန်းမကဗိုက်ကြီးလို ယောက္ခမကြီးက ဟီဒဲဂီတို့အိမ်မှာလိုအပ်တာလာကူပေးပါတယ်
+မင်းသမီးနာမည် Yumi Kazama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00247/playlist.m3u8",
+"download":"https://www.mediafire.com/file/4vl11uba9sq4klc/JUQ-247-MR%257ESD.m4v/file",
+"photo1":"https://i.imgur.com/cnLBLYd.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00247/juq00247pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00247/juq00247jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00247/juq00247jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00247/juq00247jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/p9ywdtp8safcr8y/JUQ-247-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0xxvMypDDXlKKUwHsQ0oWyg="},
+{"name":"EBOD-998mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စော်ကြည်ဘဲလေး မောင်ဇော်
+သူငယ်ချင်းလေးယောက်ရှိကြပေမယ့် ကောင်မလေးနှစ်ယောက်စလုံးက မောင်ဇော်ဆီက အချစ်ကိုပဲလိုချင်နေကြပါ
+မောင်ဇော်ဆိုတာကလည်း ခေသူမဟုတ်တော့ နှစ်ယောက်စလုံးကို ဝိုက်ပီလေ
+မင်းသမီးနာမည် Konatsu Kashiwagi /Minami Sawakita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/e/ebo/ebod00998/playlist.m3u8",
+"download":"https://www.mediafire.com/file/49nd68ddhf2mr9f/Ebod-998sd.mp4/file",
+"photo1":"https://i.imgur.com/pojlTwu.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ebod00998/ebod00998pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230726_174136.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ebod00998/ebod00998jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ebod00998/ebod00998jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/oxc164n45t0s0vn/Ebod-998hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6F3PoPtAyCpO4oXIbyxS3m+ttoQyOZcyZYpsqUN3cTbw="}]
