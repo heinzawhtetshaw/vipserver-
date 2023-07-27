@@ -7559,4 +7559,19 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ebod00998/ebod00998jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/oxc164n45t0s0vn/Ebod-998hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6F3PoPtAyCpO4oXIbyxS3m+ttoQyOZcyZYpsqUN3cTbw="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6F3PoPtAyCpO4oXIbyxS3m+ttoQyOZcyZYpsqUN3cTbw="},
+{"name":"SDDE-700mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိသားစုဝင်တွေချင်းချင်း သာမန်ထက်ရင်းနှီးပီးဆက်ဆံရေးပိုကောင်းလာစေဖို ဟီနာမိုရီဆိုတဲ့အမျိုးသမီးကစာအုပ်ထုတ်ခဲ့ပါတယ်
+အဲ့စာအုပ်ကသူ့ကိုယ်တွေ့အတွေ့အကြုံတွေပါထည့်ရေးထားပီး မိသားစုဝင်တွေချင်းချင်းပိုမိုချစ်ခင်လာပီးဆက်ဆံရေးပိုကောင်းဖို ဘုကြတာဆိုပဲ
+မင်းသမီးနာမည် Hinataiori",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1sd/1sdde700/playlist.m3u8",
+"download":"https://www.mediafire.com/file/50avyd19xz5tz1e/SDDE-700%257ESD.m4v/file",
+"photo1":"https://i.imgur.com/8nTbDtR.jpg",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/1sdde700/1sdde700pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1sdde700/1sdde700jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1sdde700/1sdde700jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1sdde700/1sdde700jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/w8y1l1wq3et2b1i/SDDE-700%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6F3S5pyJKZ3DLH904z/I+Pv9whzykH4uhSbv1dTqKYEQ="}]
