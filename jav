@@ -7574,4 +7574,20 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/1sdde700/1sdde700jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/w8y1l1wq3et2b1i/SDDE-700%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6F3S5pyJKZ3DLH904z/I+Pv9whzykH4uhSbv1dTqKYEQ="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6F3S5pyJKZ3DLH904z/I+Pv9whzykH4uhSbv1dTqKYEQ="},
+{"name":"JUQ-275mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်းသမီးအသစ်လေးရဲ့ ပွဲဦးထွက် ဒရမ်မာ
+သားဖစ်သူနဲ့ အဆင်မပြေဖစ်နေတဲ့ ချွေးမလေးကို ရှယ်တီးပေးလိုက်တဲ့ ယောက္ခထီးပြောင်ကြီး
+မင်းသမီးက တောင့်တယ်ဟ
+မင်းသမီးနာမည် Sayuri Hayama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00275/playlist.m3u8",
+"download":"https://www.mediafire.com/file/t43k8udbnrdyjcs/Juq-275sd.mp4/file",
+"photo1":"https://i.imgur.com/SNPZB2z.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00275/juq00275pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00275/juq00275jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230728_183831.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00275/juq00275jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/poqdr45js9tced8/Juq-275hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu8kpNKqzpVn1JH8ZzE08dMA="}]
