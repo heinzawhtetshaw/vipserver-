@@ -7552,7 +7552,7 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 မင်းသမီးနာမည် Konatsu Kashiwagi /Minami Sawakita",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/e/ebo/ebod00998/playlist.m3u8",
 "download":"https://www.mediafire.com/file/49nd68ddhf2mr9f/Ebod-998sd.mp4/file",
-"photo1":"https://i.imgur.com/pojlTwu.jpg",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p6/main/Picsart_23-07-28_14-07-56-493.jpg",
 "photo2":"https://pics.dmm.co.jp/digital/video/ebod00998/ebod00998pl.jpg",
 "photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230726_174136.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/ebod00998/ebod00998jp-5.jpg",
