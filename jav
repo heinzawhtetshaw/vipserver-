@@ -7590,4 +7590,19 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00275/juq00275jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/poqdr45js9tced8/Juq-275hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu8kpNKqzpVn1JH8ZzE08dMA="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu8kpNKqzpVn1JH8ZzE08dMA="},
+{"name":"JUQ-244mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဆောင်မှူးရီရီဆီမှာနေတဲ့ တာကာရှီဟာ 
+တလလောက်မဘာဘဲနေတဲ့အချိန်မှာ စိတ်တွေထိန်းမရဖြစ်ပီး အပျိုကြီးအဆောင်မှူးရီရီကို....
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00244/playlist.m3u8",
+"download":"https://www.mediafire.com/file/76f2wv0lzo5enis/JUQ-244sd.mp4/file",
+"photo1":"https://i.imgur.com/PWpwZqe.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00244/juq00244pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00244/juq00244jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00244/juq00244jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00244/juq00244jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/tidv824vw08ahao/JUQ-244HD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I09G8rQdxsEkoiEmAxBmN71E="}]
