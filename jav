@@ -7605,4 +7605,18 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00244/juq00244jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/tidv824vw08ahao/JUQ-244HD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I09G8rQdxsEkoiEmAxBmN71E="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I09G8rQdxsEkoiEmAxBmN71E="},
+{"name":"MVSD-533mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဖေယူထားတဲ့နောက်မိန်းမက အလန်းစားလေးဆိုတော့..
+မင်းသမီးနာမည် Rio Ryukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mvs/mvsd00533/playlist.m3u8",
+"download":"https://www.mediafire.com/file/chupvxc8tsn42ek/MVSD-533-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/I2PlO4a.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/mvsd00533/mvsd00533pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mvsd00533/mvsd00533jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mvsd00533/mvsd00533jp-13.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mvsd00533/mvsd00533jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/yyxvl3c4wztez1t/MVSD-533-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6fFX3GAxEsxRGxNIVFSOG6Z+qGvptsfXMH91ZalMklBI="}]
