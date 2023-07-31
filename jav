@@ -7619,4 +7619,20 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/mvsd00533/mvsd00533jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/yyxvl3c4wztez1t/MVSD-533-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6fFX3GAxEsxRGxNIVFSOG6Z+qGvptsfXMH91ZalMklBI="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6fFX3GAxEsxRGxNIVFSOG6Z+qGvptsfXMH91ZalMklBI="},
+{"name":"HMN-359mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေမယ့် 
+သူ့ရဲ့လူသိမခံတဲ့လျှိဝှက်ချက်လေးကတော့ သိက္ခာတောင်မထိန်းနိုင်လောက်အောင်ထန်တာပါဘဲ 
+ဒါကိုကျောင်းသားတယောက်သိသွားချိန်မှာတော့ အကျပ်ကိုင်ပီး ဆရာမကို ဖင်လှန်တီးတော့တာပေါ့
+မင်းသမီးနာမည် Jun Suehiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00359/playlist.m3u8",
+"download":"https://www.mediafire.com/file/hnynv6nxfc5ix7t/HMN-359-MR%257ESD.mp4/file",
+"photo1":"https://i.imgur.com/1zBOuhb.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00359/hmn00359pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/hmn00359/hmn00359jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/hmn00359/hmn00359jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/hmn00359/hmn00359jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/6sdzw8080jxes5f/HMN-359-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6npm97dvwC1MhLAIYliv5KRVYe3gV2ZDTnsCaap9bvWI="}]
