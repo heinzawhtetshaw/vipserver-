@@ -7635,4 +7635,20 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "photo5":"https://pics.dmm.co.jp/digital/video/hmn00359/hmn00359jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/6sdzw8080jxes5f/HMN-359-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6npm97dvwC1MhLAIYliv5KRVYe3gV2ZDTnsCaap9bvWI="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6npm97dvwC1MhLAIYliv5KRVYe3gV2ZDTnsCaap9bvWI="},
+{"name":"JUL-666mmsub",
+"info":"မြန်ုမာစာတန်းထိုး
+လူယုတ်မာသူဌေးကိုမုန်းတီးနေတဲ့ ဝန်ထမ်း‌မလေး
+တစ်နေ့မှာတော့ သူဌေးဖြစ်သူက မဖိတ်ဘဲ
+သူမ အိမ်သို့ရောက်လာခဲ့ပါတယ်
+မင်းသမီးနာမည် Rena Kodama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00666/playlist.m3u8",
+"download":"https://www.mediafire.com/file/yjt4a75vl857ls2/Jul-666sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P7/main/Picsart_23-08-01_21-38-46-804.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00666/jul00666pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00666/jul00666jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00666/jul00666jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00666/jul00666jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/6lcuwxrud99ygff/Jul-666hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6NY6hB4W/+1m/h6dNg1/s4cENVzJHRTtnmsQKzLYfEMQ="}]
