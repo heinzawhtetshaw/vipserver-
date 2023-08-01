@@ -7598,7 +7598,7 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 မင်းသမီးနာမည် Ririko Kinoshita",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00244/playlist.m3u8",
 "download":"https://www.mediafire.com/file/76f2wv0lzo5enis/JUQ-244sd.mp4/file",
-"photo1":"https://i.imgur.com/PWpwZqe.jpg",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p6/main/Picsart_23-08-01_12-33-37-397.jpg",
 "photo2":"https://pics.dmm.co.jp/digital/video/juq00244/juq00244pl.jpg",
 "photo3":"https://pics.dmm.co.jp/digital/video/juq00244/juq00244jp-1.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/juq00244/juq00244jp-2.jpg",
