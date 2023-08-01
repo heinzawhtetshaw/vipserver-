@@ -7583,7 +7583,7 @@ Aoi တယောက် Online Shopping ကြည့်ပြီး အနှိ�
 မင်းသမီးနာမည် Sayuri Hayama",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00275/playlist.m3u8",
 "download":"https://www.mediafire.com/file/t43k8udbnrdyjcs/Juq-275sd.mp4/file",
-"photo1":"https://i.imgur.com/SNPZB2z.jpg",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p6/main/Picsart_23-08-01_13-54-47-983.jpg",
 "photo2":"https://pics.dmm.co.jp/digital/video/juq00275/juq00275pl.jpg",
 "photo3":"https://pics.dmm.co.jp/digital/video/juq00275/juq00275jp-1.jpg",
 "photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230728_183831.jpg",
