@@ -7648,7 +7648,7 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "download":"https://www.mediafire.com/file/yjt4a75vl857ls2/Jul-666sd.mp4/file",
 "photo1":"https://raw.githubusercontent.com/minimyanmar/P7/main/Picsart_23-08-01_21-38-46-804.jpg",
 "photo2":"https://pics.dmm.co.jp/digital/video/jul00666/jul00666pl.jpg",
-"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230801_225157.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00666/jul00666jp-1.jpg",
 "photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/AddText_08-01-11.44.54.jpg",
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230801_225106.jpg",
 "dapp":"https://www.mediafire.com/file/6lcuwxrud99ygff/Jul-666hd.mp4/file",
