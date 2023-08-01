@@ -7638,17 +7638,19 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6npm97dvwC1MhLAIYliv5KRVYe3gV2ZDTnsCaap9bvWI="},
 {"name":"JUL-666mmsub",
 "info":"မြန်ုမာစာတန်းထိုး
-လူယုတ်မာသူဌေးကိုမုန်းတီးနေတဲ့ ဝန်ထမ်း‌မလေး
-တစ်နေ့မှာတော့ သူဌေးဖြစ်သူက မဖိတ်ဘဲ
-သူမ အိမ်သို့ရောက်လာခဲ့ပါတယ်
+ပိုင်ရှင်ရှိတာတောင် သူမကိုချစ်နေသေးတဲ့သူဌေးနဲ့
+သူဌေးကို အရမ်းမုန်းနေတဲ့သူမ...
+ချစ်ရတဲ့ကောင်မလေးဆီကနေ မုန်းတယ်ဆိုတဲ့စကားကို ကြားလိုက်ရတဲ့အခါမှာတော့ ...
+ဘာတွေဆက်ဖစ်မလဲ
+အချစ်နဲ့အမုန်း ထိပ်တိုက်တွေ့ကြတဲ့ဇာတ်လမ်းလေးပါ
 မင်းသမီးနာမည် Rena Kodama",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00666/playlist.m3u8",
 "download":"https://www.mediafire.com/file/yjt4a75vl857ls2/Jul-666sd.mp4/file",
 "photo1":"https://raw.githubusercontent.com/minimyanmar/P7/main/Picsart_23-08-01_21-38-46-804.jpg",
 "photo2":"https://pics.dmm.co.jp/digital/video/jul00666/jul00666pl.jpg",
-"photo3":"https://pics.dmm.co.jp/digital/video/jul00666/jul00666jp-1.jpg",
-"photo4":"https://pics.dmm.co.jp/digital/video/jul00666/jul00666jp-2.jpg",
-"photo5":"https://pics.dmm.co.jp/digital/video/jul00666/jul00666jp-7.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230801_225157.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/AddText_08-01-11.44.54.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230801_225106.jpg",
 "dapp":"https://www.mediafire.com/file/6lcuwxrud99ygff/Jul-666hd.mp4/file",
 "candownload":"",
 "wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6NY6hB4W/+1m/h6dNg1/s4cENVzJHRTtnmsQKzLYfEMQ="}]
