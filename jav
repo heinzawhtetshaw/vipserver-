@@ -7653,4 +7653,19 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230801_225106.jpg",
 "dapp":"https://www.mediafire.com/file/6lcuwxrud99ygff/Jul-666hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6NY6hB4W/+1m/h6dNg1/s4cENVzJHRTtnmsQKzLYfEMQ="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6NY6hB4W/+1m/h6dNg1/s4cENVzJHRTtnmsQKzLYfEMQ="},
+{"name":"MEYD-794mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်း‌လေးကတော့
+ကျောင်းခရီးအတွက် နေရာကိုအရင်လာရွေးတဲ့ ဆရာနဲ့ဆရာမဟာ ဟိုတယ်မှာအိပ်ဖို့ကိုတခန်းဘဲမှားဘွတ်ကင်လုပ်မိတာကြောင့် မတတ်နိုင်ဘဲတခန်းထဲအိပ်မိရာကနေဆရာမက ရှယ်တီးခံလိုက်ရတာ
+မင်းသမီးနာမည် Minami Shirakawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00794/playlist.m3u8",
+"download":"https://www.mediafire.com/file/7i8tnqg1pykof1z/MEYD-794%257ESD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P7/main/Picsart_23-08-03_00-47-58-095.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00794/meyd00794pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/meyd00794/meyd00794jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00794/meyd00794jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00794/meyd00794jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/kdsz6l2vw2gqrjo/MEYD-794%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB37THWRwwh7kKpPEv2/PrdEY="}]
