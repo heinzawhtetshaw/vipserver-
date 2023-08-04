@@ -7683,7 +7683,7 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "photo2":"https://pics.dmm.co.jp/digital/video/ssis00810/ssis00810pl.jpg",
 "photo3":"https://raw.githubusercontent.com/minimyanmar/P7/main/IMG_20230804_170844.jpg",
 "photo4":"https://raw.githubusercontent.com/minimyanmar/P7/main/IMG_20230804_170948.jpg",
-"photo5":"https://raw.githubusercontent.com/minimyanmar/P7/main/IMG_20230804_171119.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P7/main/IMG_20230804_171609.jpg",
 "dapp":"https://www.mediafire.com/file/oig4fld3f0wo003/Ssis-810hd.mp4/file",
 "candownload":"",
 "wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECdDPaTWptlmRRKdlMZQvG+E="}]
