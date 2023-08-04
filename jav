@@ -7668,4 +7668,22 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00794/meyd00794jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/kdsz6l2vw2gqrjo/MEYD-794%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB37THWRwwh7kKpPEv2/PrdEY="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB37THWRwwh7kKpPEv2/PrdEY="},
+{"name":"SSIS-810mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်းသမီးအသစ်လေးရဲ့ ပွဲဦးထွက် ဒရမ်မာဇာတ်လမ်း
+မင်းသမီးရဲ့ ဥပဓိရုပ်ကိုတစ်ချက်ရှိုး လ‌ှချက်ပဲ
+ဇာတ်လမ်းလေးကတော့...
+ချစ်ရတဲ့ကောင်လေးရှိပေမယ့် အရက်မူးနေတုန်း စီနီယာဘဲကြီး တက်လိုးတာခံလိုက်ရတယ်ကွာ
+မင်းသမီးက ရုပ်ပဲချောတာမဟုတ်ဘူး အရပ်အမောင်းရော အိုးရော ရှယ်ပဲ..
+မင်းသမီးနာမည် Rie Miyagi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00810/playlist.m3u8",
+"download":"https://www.mediafire.com/file/w63gwkshnq70f2x/Ssis-810sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P7/main/Picsart_23-08-04_18-24-25-509.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00810/ssis00810pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P7/main/IMG_20230804_170844.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P7/main/IMG_20230804_170948.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P7/main/IMG_20230804_171119.jpg",
+"dapp":"https://www.mediafire.com/file/oig4fld3f0wo003/Ssis-810hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECdDPaTWptlmRRKdlMZQvG+E="}]
