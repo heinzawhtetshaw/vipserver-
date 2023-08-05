@@ -7686,4 +7686,18 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P7/main/IMG_20230804_171609.jpg",
 "dapp":"https://www.mediafire.com/file/oig4fld3f0wo003/Ssis-810hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECdDPaTWptlmRRKdlMZQvG+E="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECdDPaTWptlmRRKdlMZQvG+E="},
+{"name":"NSFS-187mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကိုယ့်မိန်းမကိုသူများစားတာမြင်ရမှအိပ်ပျော်စား၀င်တဲ့ကားလေးလာပါပီ
+မင်းသမီးနာမည် An Komatsu",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nsf/nsfs00187/playlist.m3u8",
+"download":"https://www.mediafire.com/file/201vmu2zgvyrmfo/NSFS-187_SD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P7/main/Picsart_23-08-06_00-14-17-263.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsfs00187/nsfs00187pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nsfs00187/nsfs00187jp-20.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsfs00187/nsfs00187jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsfs00187/nsfs00187jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/gxheqdxshl9wqph/NSFS-187_HD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6v0nUeK3oVqxVS1JU28wAgQyYZVhCgmuCXnL5wlcPE1E="}]
