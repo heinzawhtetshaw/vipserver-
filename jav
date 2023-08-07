@@ -7700,4 +7700,19 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "photo5":"https://pics.dmm.co.jp/digital/video/nsfs00187/nsfs00187jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/gxheqdxshl9wqph/NSFS-187_HD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6v0nUeK3oVqxVS1JU28wAgQyYZVhCgmuCXnL5wlcPE1E="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6v0nUeK3oVqxVS1JU28wAgQyYZVhCgmuCXnL5wlcPE1E="},
+{"name":"MEYD-827mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇနီးချင်းလဲစားတဲ့ ဇာတ်လမ်း
+ကောင်မလေးကရိုးသားပေမယ့်လည်း ယူထားတဲ့ခင်ပွန်းရဲ့ဆန္ဒကြောင့် တခြားယောကျာ်းနဲ့အတူအိပ်ရတော့မည်
+မင်းသမီးနာမည် Sumire Kurokawa/Kanako Ioka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00827/playlist.m3u8",
+"download":"https://www.mediafire.com/file/5e8wvymoled8o4t/Meyd-827sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P7/main/Picsart_23-08-07_19-57-50-015.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00827/meyd00827pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P7/main/IMG_20230807_200806.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00827/meyd00827jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00827/meyd00827jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/brqffeskygyclo9/Meyd-827hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KnM/17Xpa/eAAyL7iKbWaipfafaqcOwKwxv+LUT2h8I="}]
