@@ -7715,4 +7715,19 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00827/meyd00827jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/brqffeskygyclo9/Meyd-827hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KnM/17Xpa/eAAyL7iKbWaipfafaqcOwKwxv+LUT2h8I="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KnM/17Xpa/eAAyL7iKbWaipfafaqcOwKwxv+LUT2h8I="},
+{"name":"ADN-359mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အချစ်မပါဘဲမိဘသဘောတူလိုယူထားရတဲ့ ကာနာဟာယောင်္ကျားကနွေးနွေးထွေးထွေးမရှိဘဲ အလုပ်ဘဲလုပ်နေတဲ့အတွက်လက်ဘဲသုံးနေရပါတယ် 
+ခရိုင်ရုံးမှာအလုပ်လုပ်တဲ့ကာနာက လက်ထပ်စာချုပ်စာတမ်းတွေကိုင်တွယ်ပေးရတာဖြစ်တဲ့အတွက်လာကွာရှင်းတဲ့ယောင်္ကျားတယောက်နဲ့ရုံးမှာဆုံခဲ့ကာ...
+မင်းသမီးနာမည် Kana Kusakabe",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00359/playlist.m3u8",
+"download":"https://www.mediafire.com/file/7aix7wtbp09e4ou/ADN-359_SD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P7/main/Picsart_23-08-08_14-59-15-704.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00359/adn00359pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/adn00359/adn00359jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00359/adn00359jp-11.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00359/adn00359jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/s10wuvlm21jofnc/ADN-359_HD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RPWdO5W1vdxG91x0Piu3kxKx1h0DSvFbguN/O1NkipY="}]
