@@ -7730,4 +7730,37 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00359/adn00359jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/s10wuvlm21jofnc/ADN-359_HD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RPWdO5W1vdxG91x0Piu3kxKx1h0DSvFbguN/O1NkipY="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RPWdO5W1vdxG91x0Piu3kxKx1h0DSvFbguN/O1NkipY="},
+{"name":"WAAA-087mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ကိုရောက်လာတဲ့ ခင်ပွန်းရဲ့ သူငယ်ချင်းငမဲတီးတာ ခံလိုက်ရတဲ့ဇနီး
+မင်းသမီးနာမည် Lala Kudo",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/w/waa/waaa00087/playlist.m3u8",
+"download":"https://www.mediafire.com/file/sk9zdzbm8732u0j/WAAA-087-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-09_22-49-02-133.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/waaa00087/waaa00087pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/waaa00087/waaa00087jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/waaa00087/waaa00087jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/waaa00087/waaa00087jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/3313mrxq1whs1kw/WAAA-087-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6J2gEbZw7S5IzAocgbYWQCHNIgMspdKCNwrq2WwaNcNY="},
+{"name":"JUQ-321mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီမင်းသမီးတောင်းဆိုလွန်းလို့ တင်ပေးလိုက်ပါပီ
+အရမ်းကောင်းတဲ့ ဇာတ်လမ်းလေးပါ
+
+ခင်ပွန်းရဲ့အမှားအတွက် ဇနီးဖစ်သူကို သူဌေးကသူ့အနားမှာ တစ်လကူညီပေးဖို့တောင်းဆိုပါတယ်
+သူဌေးက သူမကိုတစ်ဖက်သတ်ချစ်နေတာဆိုတော့ ပွဲကြမ်းပီပေါ့
+မင်းသမီးကလည်း ရှယ်မိုက်တာကွာ (ဒီလိုကားမျိုးကျော်မသွားသင့်ပါ)
+မင်းသမီးနာမည် Sayuri Hayama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00321/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bv1shhr3bnnr8hy/Juq-321sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-09_22-39-25-525.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00321/juq00321pl.jpg",
+"photo3":"https://github.com/minimyanmar/P7/blob/main/IMG_20230809_220746.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/P7/blob/main/IMG_20230809_220521.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/P7/blob/main/IMG_20230809_221149.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/9l5yzqave4u5wvx/Juq-321hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu15ewKTSTZ2u9if9nHoH26Q="}]
