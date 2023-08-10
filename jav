@@ -7763,4 +7763,18 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "photo5":"https://github.com/minimyanmar/P7/blob/main/IMG_20230809_221149.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/9l5yzqave4u5wvx/Juq-321hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu15ewKTSTZ2u9if9nHoH26Q="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu15ewKTSTZ2u9if9nHoH26Q="},
+{"name":"SSIS-625mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခြေနှစ်ချောင်းမကယ်ကောင်းဆိုသလို Sakiokudတယောက်အနိုင်ကျင့်ခံရတဲ့တပည့်ကို သနားပီးကူညီမိမှ မြွေပွေးခါးပိုက်ပိုက်မိသလို ဆရာမပါတစ်တန်းလုံးစားတာခံလိုက်ရတဲ့ကားလေး....
+မင်းသမီးနာမည် Saki Okuda",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00625/playlist.m3u8",
+"download":"https://www.mediafire.com/file/cnp3wquz2siqasn/SSIS-625-MR%257ESD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P7/main/Picsart_23-08-11_00-45-32-905.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00625/ssis00625pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00625/ssis00625jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00625/ssis00625jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00625/ssis00625jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/6zh34zo65zg7ok8/SSIS-625-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6nLDHUzJ6UdRvv5h8TG3y3K9olvnWDLWoerfOghhPfhQ="}]
