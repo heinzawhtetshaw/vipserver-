@@ -7777,4 +7777,19 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00625/ssis00625jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/6zh34zo65zg7ok8/SSIS-625-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6nLDHUzJ6UdRvv5h8TG3y3K9olvnWDLWoerfOghhPfhQ="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6nLDHUzJ6UdRvv5h8TG3y3K9olvnWDLWoerfOghhPfhQ="},
+{"name":"MVSD-546mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇနီးက အိမ်မှာနေရတာပျင်းလို့ ကိုယ်ပိုင်အနိုပ်ခန်းလေးဖွင့်ချင်တယ်ဆိုလို့ ခင်ပွန်းက ခွင့်ပြုပေးလိုက်ပါတယ်
+အစကတော့ မိန်းကလေးသီးသန့်လက်ခံဖို့ လုပ်ထားပေမယ့် ဝင်ငွေပိုကောင်းအောင် ယောကျာ်းဖောက်သည်ကို လက်ခံမိလိုက်တဲ့အခါမှာတော့....
+မင်းသမီးနာမည် Cocona Yuki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mvs/mvsd00546/playlist.m3u8",
+"download":"https://www.mediafire.com/file/06ta7vnrvufeqh5/Mvsd-546sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-11_22-44-10-971.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/mvsd00546/mvsd00546pl.jpg",
+"photo3":"https://github.com/minimyanmar/P7/blob/main/IMG_20230811_222255.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/P7/blob/main/IMG_20230811_221515.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/P7/blob/main/IMG_20230811_221250.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/bkik8slucb8yxxv/Mvsd-546hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb66yuER3JCKXtn1D+1AHTPqEZGbBli3VtNX5Fqc+VTzrY="}]
