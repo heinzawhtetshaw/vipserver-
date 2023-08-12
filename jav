@@ -7792,4 +7792,19 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "photo5":"https://github.com/minimyanmar/P7/blob/main/IMG_20230811_221250.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/bkik8slucb8yxxv/Mvsd-546hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb66yuER3JCKXtn1D+1AHTPqEZGbBli3VtNX5Fqc+VTzrY="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb66yuER3JCKXtn1D+1AHTPqEZGbBli3VtNX5Fqc+VTzrY="},
+{"name":"CAWD-551mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေမရှိတော့တဲ့နောက်ပိုင်း ‌အဖေ့သူငယ်ချင်းဟာ အိမ်မှာလာနေခဲ့ပြီး အိမ်မှုကိစ္စတွေလုပ်ပေးရင်း အမေတစ်ယောက်လို ယူဟီလေး ပြုစုပျိုးထောင်ပေးခဲ့ပါတယ်
+ဒီလိုနဲ့ ယူဟီလေး အပျိုဖစ်လာတဲ့အချိန်မှာတော့ အဖေအလုပ်သွားနေတုန်း အိမ်မှာကျန်ခဲ့တဲ့ အဖေသူငယ်ချင်း ဦးလေးကြီးက ရှယ်တီးတော့တာပဲ
+မင်းသမီးနာမည် Shitara Yuuhi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/c/caw/cawd00551/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bbc4f3bk22tv84c/Cawd-551sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-12_23-12-43-313.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/cawd00551/cawd00551pl.jpg",
+"photo3":"https://github.com/minimyanmar/P7/blob/main/IMG_20230812_230129.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/cawd00551/cawd00551jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/cawd00551/cawd00551jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/q3dv9dfujjaoek2/Cawd-551hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6N+YQhTDlzJ7gj59rc8CDFuS8e+4q/9mqRKcK5YMaDpw="}]
