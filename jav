@@ -7793,6 +7793,20 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "dapp":"https://www.mediafire.com/file/bkik8slucb8yxxv/Mvsd-546hd.mp4/file",
 "candownload":"",
 "wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb66yuER3JCKXtn1D+1AHTPqEZGbBli3VtNX5Fqc+VTzrY="},
+{"name":"JUQ-160mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သားကိုအနိုင်ကျင့်တဲ့ကျောင်းသားတွေကို တိုင်လိုက်တဲ့အတွက် ကျောင်းနားခံလိုက်ရပါတယ် ဒါကိုမကျေနပ်ကြဘဲအိမ်ထိလက်စားလာချေကြတဲ့အခါမှာတော့....
+မင်းသမီးနာမည် Hijiri Maihara",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00160/playlist.m3u8",
+"download":"https://www.mediafire.com/file/q8vjy7b5nw29ff0/JUQ-160-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-12_23-53-33-511.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00160/juq00160pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00160/juq00160jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00160/juq00160jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00160/juq00160jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/vzpa2u13dhcgwqr/JUQ-160-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I029ozG/uAElX3mS7NjVhVJo="},
 {"name":"CAWD-551mmsub",
 "info":"မြန်မာစာတန်းထိုး
 အမေမရှိတော့တဲ့နောက်ပိုင်း ‌အဖေ့သူငယ်ချင်းဟာ အိမ်မှာလာနေခဲ့ပြီး အိမ်မှုကိစ္စတွေလုပ်ပေးရင်း အမေတစ်ယောက်လို ယူဟီလေး ပြုစုပျိုးထောင်ပေးခဲ့ပါတယ်
