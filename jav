@@ -7821,4 +7821,19 @@ Jun ဟာကျောင်းဆရာမပါ ဆရာမဖြစ်ပေ
 "photo5":"https://pics.dmm.co.jp/digital/video/cawd00551/cawd00551jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/q3dv9dfujjaoek2/Cawd-551hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6N+YQhTDlzJ7gj59rc8CDFuS8e+4q/9mqRKcK5YMaDpw="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6N+YQhTDlzJ7gj59rc8CDFuS8e+4q/9mqRKcK5YMaDpw="},
+{"name":"JUQ-344mmsub",
+"info":"မြန်မာစာတန်းထိုး
+MC တစ်ယောက်ဒုတ်ထိုးမယ်ကိုမှ ကြွေသွားပီး ဒုတ်ထိုးတွေပဲသွားသွားစားရင်း နှစ်ယောက်သားချစ်မိသွားတ‌ဲ့ဇာတ်လမ်းလေး
+မင်းသမီးကတော်တော်လေး ဦးဆောင်နိုင်တာမို့ လက်သွက်တဲ့မင်းသမီးတွေကြိုက်ရင်တော့ ကြည့်သင့်ပါတယ်
+မင်းသမီးနာမည် Kanna Fuji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00344/playlist.m3u8",
+"download":"https://www.mediafire.com/file/fz4kd21onduhz5n/JUQ-344%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-14_01-16-06-319.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00344/juq00344pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00344/juq00344jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00344/juq00344jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00344/juq00344jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/o4xnf08df1aa24p/JUQ-344%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I01RtibUmCtyYpTwzPO9JYsM="}]
