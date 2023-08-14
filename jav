@@ -7836,4 +7836,19 @@ MC တစ်ယောက်ဒုတ်ထိုးမယ်ကိုမှ က�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00344/juq00344jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/o4xnf08df1aa24p/JUQ-344%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I01RtibUmCtyYpTwzPO9JYsM="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I01RtibUmCtyYpTwzPO9JYsM="},
+{"name":"STARS-889mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကိုယ်ကြွေနေတဲ့ကောင်မလေးက သူငယ်ချင်းဖြစ်သူနဲ့ချစ်နေတာကို သိသွားတဲ့အခါမှာတော့..
+သူငယ်ချင်းကိုအရက်မူးအောင်တိုက်ပြီး ကောင်မလေးကို ရှယ်တီးတဲ့ဇာတ်လမ်းလေး
+မင်းသမီးနာမည် Hyakuninka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1st/1stars00889/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ys7ibyceddr0k75/Stars-889sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-14_23-12-54-150.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/1stars889/1stars889pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1stars889/1stars889jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1stars889/1stars889jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1stars889/1stars889jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/qdlgjie9qjqyvtv/Stars-889hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6YM3HXSsy69qfuo9778o0J3zCy7iYFpGgrV+FFLhKoB0="}]
