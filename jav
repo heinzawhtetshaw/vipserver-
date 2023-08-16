@@ -7851,4 +7851,37 @@ MC တစ်ယောက်ဒုတ်ထိုးမယ်ကိုမှ က�
 "photo5":"https://pics.dmm.co.jp/digital/video/1stars889/1stars889jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/qdlgjie9qjqyvtv/Stars-889hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6YM3HXSsy69qfuo9778o0J3zCy7iYFpGgrV+FFLhKoB0="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6YM3HXSsy69qfuo9778o0J3zCy7iYFpGgrV+FFLhKoB0="},
+{"name":"MIDE-776mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သီလရှင်မလေးဟာလူဆင်းရဲတွေကိုကျွေးမွေးစောင့်ရှောက်ဆပးတဲ့သူတော်စင်မလေးပါ
+ဒါပေမယ့်လဲမကောင်းတဲ့လူနဲ့တွေ့လိုက်ရတဲ့ချိန်မှာတော့ သီလရှင်မလေးက ဒီမကောင်းတဲ့လူကိုဆက်ပီးတရားချနိုင်မလား ဘာဆက်ဖြစ်သွားမလဲ
+မင်းသမီးနာမည် Tsubomi Tsubomi",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mid/mide00776/mide00776_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/5ocrzs3tb1cpaof/MIDE-776-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-16_15-43-20-982.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/mide00776/mide00776pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mide00776/mide00776jp-7.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mide00776/mide00776jp-10.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mide00776/mide00776jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/5x2mn0q7p6n8rxe/MIDE-776-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6uVwVImGIWaVgrsd/edpuGZlP9ZqX3zWq1h4hOdNBi5w="},
+{"name":"JUQ-339mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကိုယ့်မိန်းမကို သူငယ်ချင်းကရှယ်တီးသွားတာ
+ဇာတ်လမ်းကတော့...
+ဘေးအိမ်ကသူငယ်ချင်းလင်မယား ရန်ဖစ်ကြလို့ ပြန်တည့်အောင်လုပ်ဖို့ ဇနီးချင်းခဏလဲလိုက်ရပါတယ်
+အတူမအိပ်ရဘူးဆိုတဲ့ သဘောတူညီချက်တွေနဲ့ပေါ့
+ဘာတွေဆက်ဖြစ်မလဲ...
+မင်းသမီးနာမည် Kyoka Tachibana",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00339/playlist.m3u8",
+"download":"https://www.mediafire.com/file/4gbw9k93cvb1x4r/Juq-339sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-16_16-58-26-035.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00339/juq00339pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00339/juq00339jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00339/juq00339jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00339/juq00339jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/7zaxfdz34ubbw7w/Juq-339hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu/wfygV+k3wVfDRRXIDxuz8="}]
