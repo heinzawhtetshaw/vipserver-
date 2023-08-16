@@ -7839,8 +7839,7 @@ MC တစ်ယောက်ဒုတ်ထိုးမယ်ကိုမှ က�
 "wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I01RtibUmCtyYpTwzPO9JYsM="},
 {"name":"STARS-889mmsub",
 "info":"မြန်မာစာတန်းထိုး
-ကိုယ်ကြွေနေတဲ့ကောင်မလေးက သူငယ်ချင်းနဲ့ချစ်နေတာကို သိသွားတဲ့အခါမှာတော့..
-သူငယ်ချင်းကိုအရက်မူးအောင်တိုက်ပြီး ကောင်မလေးကို ရှယ်တီးတဲ့ဇာတ်လမ်းလေး
+သူငယ်ချင်းကိုအရက်မူးအောင်တိုက်ပြီး သူ့ကောင်မလေးကို ရှယ်တီးတဲ့ဇာတ်လမ်းလေး
 မင်းသမီးနာမည် Hyakuninka",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1st/1stars00889/playlist.m3u8",
 "download":"https://www.mediafire.com/file/ys7ibyceddr0k75/Stars-889sd.mp4/file",
