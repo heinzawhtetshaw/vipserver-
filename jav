@@ -7883,4 +7883,18 @@ MC တစ်ယောက်ဒုတ်ထိုးမယ်ကိုမှ က�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00339/juq00339jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/7zaxfdz34ubbw7w/Juq-339hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu/wfygV+k3wVfDRRXIDxuz8="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu/wfygV+k3wVfDRRXIDxuz8="},
+{"name":"SSIS-471mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိဘတွေခရီးထွက်တုန်း မာနကြီးနေတဲ့ပထွေးသမီးကို ရှယ်တီးတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Riko Kasumi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00471/playlist.m3u8",
+"download":"6qNoM29gBko/ixtq1wdHuzgqU/3FayAgNk/9Q/JQUzcFnEYGAFChEcRqdFyT2pIfLpIMx2+YCGVy/1jdCm1W+bes4iGroBEmsWCl6bp1sgo=",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-18_01-32-23-716.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00471/ssis00471pl.jpg",
+"photo3":"https://github.com/minimyanmar/P7/blob/main/IMG_20230818_015201.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/P7/blob/main/IMG_20230818_020123.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/P7/blob/main/IMG_20230818_020526.jpg?raw=true",
+"dapp":"6qNoM29gBko/ixtq1wdHu+eIQVFsiWQ9k2GOn6TdkpAP2qHstrZ/O1vlsre4/F1KVKgpV7WPC7RdeVKUpK05wAKrUNaoYcCLJYttVTbhy38=",
+"candownload":"lock",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECbBQcoyQZxmooa4Hgzj1YVw="}]
