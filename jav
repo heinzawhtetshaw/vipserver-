@@ -7910,7 +7910,7 @@ MC တစ်ယောက်ဒုတ်ထိုးမယ်ကိုမှ က�
 "photo2":"https://pics.dmm.co.jp/digital/video/juq00340/juq00340pl.jpg",
 "photo3":"https://github.com/minimyanmar/P7/blob/main/IMG_20230819_195100.jpg?raw=true",
 "photo4":"https://raw.githubusercontent.com/minimyanmar/P7/main/IMG_20230819_194734.jpg",
-"photo5":"https://github.com/minimyanmar/P7/blob/main/IMG_20230819_195223.jpg",
+"photo5":"https://github.com/minimyanmar/P7/blob/main/IMG_20230819_195223.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/4p1qiwvsvdmsfrq/Juq-340hd.mp4/file",
 "candownload":"",
 "wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu0owMw1L39jhz3YoM4MZ9A8="}]
