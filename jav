@@ -7897,4 +7897,20 @@ MC တစ်ယောက်ဒုတ်ထိုးမယ်ကိုမှ က�
 "photo5":"https://github.com/minimyanmar/P7/blob/main/IMG_20230818_020526.jpg?raw=true",
 "dapp":"6qNoM29gBko/ixtq1wdHu+eIQVFsiWQ9k2GOn6TdkpAP2qHstrZ/O1vlsre4/F1KVKgpV7WPC7RdeVKUpK05wAKrUNaoYcCLJYttVTbhy38=",
 "candownload":"lock",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECbBQcoyQZxmooa4Hgzj1YVw="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECbBQcoyQZxmooa4Hgzj1YVw="},
+{"name":"JUQ-340mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက္ခမကိုရှယ်တီးလိုက်တဲ့ သမက်
+ဇာတ်လမ်းကတော့....
+သမီးလင်မယား အိမ်ထောင် 2 နှစ်ကြာတဲ့အထိ ကလေးမရသေးတာကြောင့် မြေးချီချင်နေတဲ့ ယောက္ခမကြီးဟာ သမက်ဖြစ်သူကို တစ်လတိတိ လိင်မဆက်ဆံခိုင်းတော့ဘဲ သည်းခံခိုင်းရာကနေ...
+မင်းသမီးနာမည် Sayuri Hayama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00340/playlist.m3u8",
+"download":"https://www.mediafire.com/file/8zeoi7m84fv4a4e/Juq-340sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-19_19-26-32-129.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00340/juq00340pl.jpg",
+"photo3":"https://github.com/minimyanmar/P7/blob/main/IMG_20230819_195100.jpg?raw=true",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P7/main/IMG_20230819_194734.jpg",
+"photo5":"https://github.com/minimyanmar/P7/blob/main/IMG_20230819_195223.jpg",
+"dapp":"https://www.mediafire.com/file/4p1qiwvsvdmsfrq/Juq-340hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu0owMw1L39jhz3YoM4MZ9A8="}]
