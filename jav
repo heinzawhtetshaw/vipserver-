@@ -7913,4 +7913,21 @@ MC တစ်ယောက်ဒုတ်ထိုးမယ်ကိုမှ က�
 "photo5":"https://github.com/minimyanmar/P7/blob/main/IMG_20230819_195223.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/4p1qiwvsvdmsfrq/Juq-340hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu0owMw1L39jhz3YoM4MZ9A8="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu0owMw1L39jhz3YoM4MZ9A8="},
+{"name":"MIAA-879mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကောင်မလေး လဲစားတဲ့ဇာတ်လမ်း
+ကိုယ့်ကောင်မလေးအအိုကို သူများထိုးကျွေးပြီး သူများကောင်မလေးအပျိုလေးကို ရှယ်တီးတာကွာ
+မောင်ဉာဏ်ကောင်းနဲ့ ငတုံးကောင် တို့ရဲ့ဇာတ်လမ်းလေးပါ
+မင်းသမီးက ရှယ်လန်းတယ်ကွာ
+မင်းသမီးနာမည် Riko Hashimoto",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mia/miaa00879/playlist.m3u8",
+"download":"6qNoM29gBko/ixtq1wdHuzgqU/3FayAgNk/9Q/JQUzcFqnK8NS9emHNQ1JLpcQTADEmT4PQlrLwdYHR0GfBZgAl3By+C/ZnHtvHhz4BvP7k=",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-20_23-35-03-855.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00879/miaa00879pl.jpg",
+"photo3":"https://github.com/minimyanmar/P7/blob/main/IMG_20230820_212438.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/miaa00879/miaa00879jp-2.jpg",
+"photo5":"https://github.com/minimyanmar/P7/blob/main/IMG_20230820_215145.jpg?raw=true",
+"dapp":"6qNoM29gBko/ixtq1wdHu64FUwo0pcRkKy4tulMfrn8Egbjywd59mjqxJNiJFQf8mc7oDhbSl5COu1TSSOlBGeoyj7XHIL2NZyDQ9o+EUNE=",
+"candownload":"lock",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6d3B4juocdv/sDpA88Z3grIkp4rdSyhWld259BE+euwc="}]
