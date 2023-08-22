@@ -7930,4 +7930,20 @@ MC တစ်ယောက်ဒုတ်ထိုးမယ်ကိုမှ က�
 "photo5":"https://github.com/minimyanmar/P7/blob/main/IMG_20230820_215145.jpg?raw=true",
 "dapp":"6qNoM29gBko/ixtq1wdHu64FUwo0pcRkKy4tulMfrn8Egbjywd59mjqxJNiJFQf8mc7oDhbSl5COu1TSSOlBGeoyj7XHIL2NZyDQ9o+EUNE=",
 "candownload":"lock",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6d3B4juocdv/sDpA88Z3grIkp4rdSyhWld259BE+euwc="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6d3B4juocdv/sDpA88Z3grIkp4rdSyhWld259BE+euwc="},
+{"name":"ADN-388mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အပြောအဆိုရိုင်းစိုင်းပြီး ဒေါသကြီးတဲ့သူဌေးနဲ့ ရိုးသားကြိုးစားတဲ့ဝန်ထမ်းမလေးတို့ကြားက အချစ်အမုန်း တိုက်ပွဲတွေ ကြည့်ရှုလိုက်ကြပါအုံး
+
+နူးညံ့သိမ်မွေ့တဲ့မိန်းကလေးတွေဟာ မာကျောခက်ထန်တဲ့ ယောကျာ်းတွေကိုမှ ရင်ခုန်တယ်ဆိုတာကို ပုံဖော်ထားတဲ့ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00388/playlist.m3u8",
+"download":"6qNoM29gBko/ixtq1wdHu6nuiQSAXLSSnT2lRmVaSTwJrJnHU3tilZJuMqWasTspwRrcfJVdLUvhGhOGOV9YmFqgJsWJFCFVXFVHfZBimRY=",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-22_18-46-01-715.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00388/adn00388pl.jpg",
+"photo3":"https://github.com/minimyanmar/P7/blob/main/IMG_20230822_181327.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00388/adn00388jp-11.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00388/adn00388jp-5.jpg",
+"dapp":"6qNoM29gBko/ixtq1wdHuzLI1YfS0lK2KbRz55YXaM7Zho1GgppmmazLMdRKstrZoqx7ONjxzJFAj9lizvmVRZeBOxFeTKi8CFbfhEhmMMM=",
+"candownload":"lock",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6tBSAhzm892NpvGUWeVa13ZA5ZoBLojLoTLdxvA3io9Q="}]
