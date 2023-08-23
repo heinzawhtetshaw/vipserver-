@@ -7946,4 +7946,19 @@ MC တစ်ယောက်ဒုတ်ထိုးမယ်ကိုမှ က�
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00388/adn00388jp-5.jpg",
 "dapp":"6qNoM29gBko/ixtq1wdHuzLI1YfS0lK2KbRz55YXaM7Zho1GgppmmazLMdRKstrZoqx7ONjxzJFAj9lizvmVRZeBOxFeTKi8CFbfhEhmMMM=",
 "candownload":"lock",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6tBSAhzm892NpvGUWeVa13ZA5ZoBLojLoTLdxvA3io9Q="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6tBSAhzm892NpvGUWeVa13ZA5ZoBLojLoTLdxvA3io9Q="},
+{"name":"IPX-724mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တက်သစ်စမော်ဒယ်တယောက်ရဲ့ ဘဝကြမ်းတမ်းပုံကိုပြသထားတာပါ
+karen kaedeဆိုရင်ဘယ်လောက်လန်းလဲသိနေကြမယ်လိုထင်ပါတယ်
+မင်းသမီးနာမည် Karen Kaede",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00724/playlist.m3u8",
+"download":"https://www.mediafire.com/file/4yq97erkdmorfss/IPX-724%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-08-24_01-06-03-688.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00724/ipx00724pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipx00724/ipx00724jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00724/ipx00724jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00724/ipx00724jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/pwb3n7sgaraojtr/IPX-724%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6ytd31cqGHUmzTc/RsnQH1TMsiQb8cnWV3jcMBiROfc8="}]
