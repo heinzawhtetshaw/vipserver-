@@ -7961,4 +7961,19 @@ karen kaedeဆိုရင်ဘယ်လောက်လန်းလဲသိန
 "photo5":"https://pics.dmm.co.jp/digital/video/ipx00724/ipx00724jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/pwb3n7sgaraojtr/IPX-724%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6ytd31cqGHUmzTc/RsnQH1TMsiQb8cnWV3jcMBiROfc8="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6ytd31cqGHUmzTc/RsnQH1TMsiQb8cnWV3jcMBiROfc8="},
+{"name":"NSPS-994mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အီကာတို လင်မယားအပြင်သွားရင်းကားမတော်တဆမှုဖြစ်လိုအလျော်တောင်းကြရင်းစကားများတဲ့အခါ 
+ယောင်္ကျားရဲ့စကားပြောရင့်သီးမှုကြောင့် တိုက်မိတဲ့လူနှစ်ဦးလဲတော်တော်တင်းသွားပါတော့တယ် ဒီလိုနဲ့လင်ကိုမနိုင်တော့မယားကိုတီးတာ
+မင်းသမီးနာမည် Rika Omi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nsp/nsps994/playlist.m3u8",
+"download":"https://www.mediafire.com/file/atyqp4qsspu3hl5/NSPS-994%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-08-25_00-09-24-330.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsps00994/nsps00994pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nsps00994/nsps00994jp-17.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsps00994/nsps00994jp-11.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsps00994/nsps00994jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/tmdqupgoo30shqo/NSPS-994%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6TDEOOPojzYzAlWbeOi4BsgQ2/JYICPE0lE/re2u2b1U="}]
