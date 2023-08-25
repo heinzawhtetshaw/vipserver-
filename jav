@@ -7990,4 +7990,4 @@ karen kaedeဆိုရင်ဘယ်လောက်လန်းလဲသိန
 "photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230825_205031.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/1rrd9l87l17h8mn/Hmn-419hd.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Z4YgTAtHemIgTHXDpDOUWtf79ZaHV5/zjzHvM06IcYg="}]
