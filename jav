@@ -7976,4 +7976,18 @@ karen kaedeဆိုရင်ဘယ်လောက်လန်းလဲသိန
 "photo5":"https://pics.dmm.co.jp/digital/video/nsps00994/nsps00994jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/tmdqupgoo30shqo/NSPS-994%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6TDEOOPojzYzAlWbeOi4BsgQ2/JYICPE0lE/re2u2b1U="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6TDEOOPojzYzAlWbeOi4BsgQ2/JYICPE0lE/re2u2b1U="},
+{"name":"HMN-419mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သားဖြစ်သူ၏သီးသန့်ကျူရှင်ဆရာက ဇနီးချောလေးကို ရှယ်တီးသွားတဲ့ဇာတ်လမ်း...
+မင်းသမီးနာမည် Mizuki Yayoi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00419/playlist.m3u8",
+"download":"https://www.mediafire.com/file/2rt2r4c0qkovlmc/Hmn-419sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-08-25_21-13-52-030.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00419/hmn00419pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230825_205425.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230825_205702.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230825_205031.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/1rrd9l87l17h8mn/Hmn-419hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
