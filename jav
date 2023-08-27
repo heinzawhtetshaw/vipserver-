@@ -7990,4 +7990,18 @@ karen kaedeဆိုရင်ဘယ်လောက်လန်းလဲသိန
 "photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230825_205031.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/1rrd9l87l17h8mn/Hmn-419hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Z4YgTAtHemIgTHXDpDOUWtf79ZaHV5/zjzHvM06IcYg="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Z4YgTAtHemIgTHXDpDOUWtf79ZaHV5/zjzHvM06IcYg="},
+{"name":"URE-065mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဟင်းသီးဟင်းရွက်ရောင်းတဲ့အဒေါ်ကြီးနဲ့ပတ်သက်ပီး ဇာတ်လမ်းတခုရှိပါတယ် အဲ့ဒါကတော့ယန်း၈၀၀ဖိုးအတိအကျ၀ယ်ရင် အထူး၀န်ဆောင်မှုရှိတယ်ဆိုတာပါဘဲ ဒါတွေကလုပ်ကြံဇာတ်လမ်းလားတကယ်လားဆိုတာကို mc သုံးယောက်သွားရောက်စမ်းသပ်ကြည့်ရာမှာတော့.......
+မင်းသမီးနာမည် Yumi Kazama",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/u/ure/ure00065/ure00065_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/1bvcx1zn9l9c5eo/URE-065%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-08-27_13-30-48-584.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/ure00065/ure00065pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ure00065/ure00065jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ure00065/ure00065jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ure00065/ure00065jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/1dvxcayxpywu5wz/URE-065%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6ssMLMbwumuxNr4F5uM3nFu6Oi7/q6XV01qjOtNOZAaE="}]
