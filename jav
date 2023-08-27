@@ -8004,4 +8004,19 @@ karen kaedeဆိုရင်ဘယ်လောက်လန်းလဲသိန
 "photo5":"https://pics.dmm.co.jp/digital/video/ure00065/ure00065jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/1dvxcayxpywu5wz/URE-065%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6ssMLMbwumuxNr4F5uM3nFu6Oi7/q6XV01qjOtNOZAaE="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6ssMLMbwumuxNr4F5uM3nFu6Oi7/q6XV01qjOtNOZAaE="},
+{"name":"ADN-369mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဆရာမတို့လင်မယားဟာ ငယ်ငယ်စာသင်ပေးခဲ့ဖူးတဲ့ ကျောင်းသားလေးကို လမ်းဘေးမှာအလုပ်လက်မဲ့ဖြစ်ပြီး မှိုင်နေတာတွေ့လို့ အိမ်ခေါ်ပြီးထမင်းကျွေးရာကနေ ဒီဇာတ်လမ်းကို စတင်ထားပါတယ်
+ဘာတွေဆက်ဖြစ်မလဲ..
+မင်းသမီးနာမည် Michiru Kujo",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00369/playlist.m3u8",
+"download":"https://www.mediafire.com/file/13g8pqt3gcf55jd/Adn-369sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-08-27_21-55-32-566.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00369/adn00369pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230827_212044.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230827_212137.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00369/adn00369jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/920wtivprc4fqw2/Adn-369hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6tBSAhzm892NpvGUWeVa13bA6bKEXUnU78VP4jJEf+3M="}]
