@@ -8019,4 +8019,32 @@ karen kaedeဆိုရင်ဘယ်လောက်လန်းလဲသိန
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00369/adn00369jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/920wtivprc4fqw2/Adn-369hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6tBSAhzm892NpvGUWeVa13bA6bKEXUnU78VP4jJEf+3M="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6tBSAhzm892NpvGUWeVa13bA6bKEXUnU78VP4jJEf+3M="},
+{"name":"ADN-462mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက္ခထီးဂွင်းထုနေတာကို ချွေးမဖြစ်သူက မြင်သွားတဲ့အခါ...
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00462/playlist.m3u8",
+"download":"https://www.mediafire.com/file/25jveqp96fqz6kt/ADN-462-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-08-28_18-21-47-192.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00462/adn00462pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230828_181928.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230828_182030.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00462/adn00462jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/2qe782h8x2j25i3/ADN-462-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RPWdO5W1vdxG91x0Piu3k9SQ2qMJOpimm9LSjQ29+yc="},
+{"name":"JUQ-257mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စော်လေးတွေ ရေချိုးပေးတဲ့ နေရာကိုသွားဖို တစ်လလုံး ပိုက်ဆံရောသုတ်ရည်တွေရော စုထားတဲ့ MC တစ်ယောက် မသွားခင်တစ်နေ့မှာ အဆောင်ပိုင်ရှင်အစ်မကြီးရဲ့ ကုန်းကုန်းကွကွ လုပ်နေတာကို မြင်လိုက်ရတော့ နွားသိုးကြိုးပြတ်လုပ်ပါတော့တယ် ဒါပေမယ့်သူဘယ်လိုပြန်ခံစားလိုက်ရလဲဆိုတာကတော့ .....
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00257/juq00257_dmb_w.m3u8",
+"download":"https://www.mediafire.com/file/5s41ngcu97e7joz/JUQ-257-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-08-28_18-06-38-312.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00257/juq00257pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00257/juq00257jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00257/juq00257jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00257/juq00257jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/t7z6frwz8x5ocar/JUQ-257-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I03crAhcwtAIuduBcZO9+He0="}]
