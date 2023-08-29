@@ -8047,4 +8047,20 @@ karen kaedeဆိုရင်ဘယ်လောက်လန်းလဲသိန
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00257/juq00257jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/t7z6frwz8x5ocar/JUQ-257-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I03crAhcwtAIuduBcZO9+He0="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I03crAhcwtAIuduBcZO9+He0="},
+{"name":"JUQ-182mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Company အရဲ့ အရောင်းနံပတ်တစ် နေရာကို
+လူသစ်ဖြစ်တဲ့ ဝန်ထမ်းတယောက်က ရသွားတဲ့အခါမှာ သူ့အထက်အရာရှိ မမ က အချက်လက်ဒေတာကို ပြန်စစ်ဆေးပါတော့တယ်။ 
+Company ရဲ့ Policy ကို လက်တလုံးခြား လုပ်ထားတဲ့ မနူးမနပ် လူသစ်လေးကိုအကြပ်ကိုင်ပြီး ဆွဲစားပါတော့တယ်။ အကြပ်ကိုင်ခံရတဲ့ ဝန်ထမ်းလေးခဗျာ သနားစရာကောင်းလောက်အောင် မျော့မျော့ ပဲ ကျန်ပါတော့တယ်
+မင်းသမီးနာမည် Akari Niimura",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00182/playlist.m3u8",
+"download":"https://www.mediafire.com/file/vjsr9ce7n0uo51t/JUQ-182-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-08-29_23-57-16-030.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00182/juq00182pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00182/juq00182jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00182/juq00182jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00182/juq00182jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/n2gqnaph5bm7z7q/JUQ-182-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I08bzulqFVYoVCHmAUV/P9Ds="}]
