@@ -8063,4 +8063,33 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00182/juq00182jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/n2gqnaph5bm7z7q/JUQ-182-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I08bzulqFVYoVCHmAUV/P9Ds="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I08bzulqFVYoVCHmAUV/P9Ds="},
+{"name":"JUQ-347mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းရဲ့အမေကိုမှ ချစ်မိသွားတဲ့မောင်ဇော်
+မင်းသမီးနာမည် Minoru Tojo",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00347/playlist.m3u8",
+"download":"https://www.mediafire.com/file/gmy3kehtjjrzlj5/Juq-347sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-08-30_19-48-56-796.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00347/juq00347pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230830_194707.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00347/juq00347jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00347/juq00347jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/ipbz3prgkdp7y6n/Juq-347hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAuxiKp1wAzEKWf16yBRnsTXM="},
+{"name":"ADN-172mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းကိုအိမ်ခေါ်လာမိရာကနေ 
+မိန်းမဖြစ်သူ အတီးခံလိုက်ရတဲ့ကားလေး
+မင်းသမီးနာမည် Sakura Kirishima",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/adn/adn00172/adn00172_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/lq1h5xhb183ovxn/Adn-172sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-08-30_20-15-30-452.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00172/adn00172pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230830_201029.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230830_201203.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00172/adn00172jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/65l2n98zl4e4dt0/Adn-172hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6tBSAhzm892NpvGUWeVa13TZTTkh4BwGDPDqmdjrkEMg="}]
