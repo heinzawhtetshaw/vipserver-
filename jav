@@ -8092,4 +8092,18 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00172/adn00172jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/65l2n98zl4e4dt0/Adn-172hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6tBSAhzm892NpvGUWeVa13TZTTkh4BwGDPDqmdjrkEMg="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6tBSAhzm892NpvGUWeVa13TZTTkh4BwGDPDqmdjrkEMg="},
+{"name":"MEYD-546mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူဌေးဖြစ်သူက ကိုယ့်ဝန်ထမ်းရဲ့ မိန်းမ ကိုနိုက်မြည်းသွားတဲ့ ကားလေးပါ
+မင်းသမီးနာမည် Yui Nagase",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mey/meyd00546/meyd00546_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/kj7boig7ku6eqgd/MEYD-546%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-01_00-44-46-572.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00546/meyd00546pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230901_003951.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00546/meyd00546jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00546/meyd00546jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/wmm7f07jqpu3of5/MEYD-546%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB33qb/HTjUH6m87gdEj7hi94="}]
