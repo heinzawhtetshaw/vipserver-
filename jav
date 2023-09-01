@@ -8106,4 +8106,33 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00546/meyd00546jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/wmm7f07jqpu3of5/MEYD-546%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB33qb/HTjUH6m87gdEj7hi94="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB33qb/HTjUH6m87gdEj7hi94="},
+{"name":"MIAA-369mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်ကိစ္စနဲ့အမြဲအလုပ်ရှုပ်နေတဲ့ခင်ပွန်းကို ဇနီးက စိတ်ကုန်နေခဲ့ပါပီ
+တရက်မှာတော့ အိမ်နားလေးက ကောင်လေးရဲ့ နားသွားပြီး ကိုယ့်ရဲ့ အလှပတွေကို Sexy dress လေးတွေဝတ်ပြီး သွားစွပါတော့တယ် အိမ်နားက ငနဲ လေးကလည်း အသက်တာ ငယ်သေးပေမယ့် သိုင်းကျမ်း ကြေအထှာနပ်တဲ့ ဘဲလေး ဖြစ်နေတော့ ..
+မင်းသမီးနာမည် Yu Shinoda",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mia/miaa00369/miaa00369_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/x9vcxrhpeuh0jir/MIAA-369-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-01_20-20-20-242.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00369/miaa00369pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/miaa00369/miaa00369jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/miaa00369/miaa00369jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/miaa00369/miaa00369jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/2d2lld36vu2bwjh/MIAA-369-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6mnuZR7V5UuBQol7RTxwNvti21QocqDVxLoQmI0Eo4PI="},
+{"name":"JUL-393mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကုမ္ပဏီမှာအမှားလုပ်မိတဲ့ခင်ပွန်းဖြစ်သူကို အလုပ်မပြုတ်အောင်ကာကွယ်ဖို့ ကြိုးစားခဲ့တဲ့ဇနီးချောလေး..
+မင်းသမီးနာမည် Hanashiro Ren",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00393/playlist.m3u8",
+"download":"https://www.mediafire.com/file/mihvvot6bpzblft/Juq-393sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-01_21-39-05-473.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00393/juq00393pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230901_212328.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230901_212238.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00393/juq00393jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/qrafl32rfedjw7s/Juq-393Hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu0Mh7vIQQK9NRjd9BWUz/c0="}]
