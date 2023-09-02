@@ -8135,4 +8135,20 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00393/juq00393jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/qrafl32rfedjw7s/Juq-393Hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu0Mh7vIQQK9NRjd9BWUz/c0="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu0Mh7vIQQK9NRjd9BWUz/c0="},
+{"name":"JUQ-277mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့...
+အကိုကြီးက သူ့မိန်းမနဲ့မနေဘဲအိပ်ဘဲအိပ်နေပါတယ် 
+ညီလေးကကူညီသလိုလိုနဲ့စားသွားပီး မရီးကိုတသသဖြစ်အောင်လုပ်ကာ အကိုကြီးတာ၀န်တွေကိုညီလေးကကျေပွန်ပေးနေတဲ့ကားလေးရှုစားလိုက်ပါအုန်း...
+မင်းသမီးနာမည် Aya Ueha",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00277/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bufpjn69bd76gcl/JUQ-277-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-03_00-12-11-841.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00277/juq00277pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00277/juq00277jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00277/juq00277jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00277/juq00277jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/87g0ps71086jcgh/JUQ-277-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I02IXwENgw7Y7/G1YUYuh8f0="}]
