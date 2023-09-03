@@ -8151,4 +8151,33 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00277/juq00277jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/87g0ps71086jcgh/JUQ-277-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I02IXwENgw7Y7/G1YUYuh8f0="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I02IXwENgw7Y7/G1YUYuh8f0="},
+{"name":"PRED-225mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မာရီရာနာဂါအီတယောက်ယောင်္ကျားအလုပ်အရကျေးလက်ဒေသဘက်ကိုပြောင်းလာရတယ် 
+တောဘက်ဖြစ်တာကြောင့်ဘာမှမရှိပူကလဲပူ ယောင်္ကျားကလဲအလုပ်ဘဲလုပ်နေတော့....
+မင်းသမီးနာမည် Maria Nagai",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/p/pre/pred00225/pred00225_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/6v05jti67gataad/PRED-225-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-04_00-18-45-384.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00225/pred00225pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/pred00225/pred00225jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/pred00225/pred00225jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pred00225/pred00225jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/ujtk8fb52halrgl/PRED-225-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6iSu6bhNDmib/BOYgXgFTUySZWMBEPSuVn8rND7DE18s="},
+{"name":"MEYD-380mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက္ခမရဲ့အိမ်ကို ခဏပြန်လာတုန်းလေး မိန်းမရဲ့အစ်မက ဆွဲစားလိုက်တဲ့ဘဲကြီး
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mey/meyd00380/meyd00380_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/hl1d2szsqpeo6f6/MEYD-380%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-04_00-18-09-665.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00380/meyd00380pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/meyd00380/meyd00380jp-10.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00380/meyd00380jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00380/meyd00380jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/4zgbwix64onm2i8/MEYD-380%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB3wrgvDo6kENF553Dl36FeRc="}]
