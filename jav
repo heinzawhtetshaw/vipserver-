@@ -8180,4 +8180,20 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00380/meyd00380jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/4zgbwix64onm2i8/MEYD-380%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB3wrgvDo6kENF553Dl36FeRc="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB3wrgvDo6kENF553Dl36FeRc="},
+{"name":"MIDV-408mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ချစ်ရတဲ့ကောင်လေးနဲ့လက်ထပ်ဖို့တစ်လပဲလိုတော့တာမို့ ပျော်ရွင်နေခဲ့တဲ့ ကောင်မလေး...
+ဒါပေမယ့်လည်း ပါတီတစ်ခုမှာအရက်မူးနေတုန်း စားဘဲကြီး လက်ချက်မိသွားတာကွာ..
+မင်းသမီးက လုံးဝရှယ်
+မင်းသမီးနာမည် Hinano Kuno",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00408/playlist.m3u8",
+"download":"https://www.mediafire.com/file/upkvxlocytzdojw/Midv-408sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-04_20-28-36-071.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00408/midv00408pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230904_194222.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/midv00408/midv00408jp-1.jpg",
+"photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230904_201312.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/73unmgk38rwygu3/Midv-408hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb62OjQ6b8cF2tR5B3eQp8CnYmaRYBwI95RuC4tKCyOqMI="}]
