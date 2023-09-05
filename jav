@@ -8196,4 +8196,18 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230904_201312.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/73unmgk38rwygu3/Midv-408hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb62OjQ6b8cF2tR5B3eQp8CnYmaRYBwI95RuC4tKCyOqMI="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb62OjQ6b8cF2tR5B3eQp8CnYmaRYBwI95RuC4tKCyOqMI="},
+{"name":"JUQ-260mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်လခမပေးနိုင်တဲ့အတွက် ဇနီးဖြစ်သူကိုအိမ်ရှင်က ရှယ်တီးတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Taki Yuina",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00260/playlist.m3u8",
+"download":"https://www.mediafire.com/file/7l01k42cfinhbia/JUQ-260-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-06_00-20-38-222.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00260/juq00260pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00260/juq00260jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00260/juq00260jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00260/juq00260jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/ddq8byiig3szebl/JUQ-260-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0y1rL+pxGrlWsqDtFc2RFn8="}]
