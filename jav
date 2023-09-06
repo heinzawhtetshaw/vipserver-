@@ -8210,4 +8210,18 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00260/juq00260jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/ddq8byiig3szebl/JUQ-260-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0y1rL+pxGrlWsqDtFc2RFn8="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0y1rL+pxGrlWsqDtFc2RFn8="},
+{"name":"MEYD-779mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လင်တော်မောင်ရဲ့ ညီကအရက်မူးပြီး မရီးကိုတီးတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Sumire Kurokawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00779/playlist.m3u8",
+"download":"https://www.mediafire.com/file/qj0oahu1r1i9a79/MEYD-779-RM%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-07_01-13-24-254.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00779/meyd00779pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/meyd00779/meyd00779jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00779/meyd00779jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00779/meyd00779jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/naq9r0lvesleuhc/MEYD-779-RM%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB3xYKKmYIgyq0XltamDeb29c="}]
