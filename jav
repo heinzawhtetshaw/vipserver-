@@ -8227,7 +8227,7 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB3xYKKmYIgyq0XltamDeb29c="},
 {"name":"HMN-439mmsub",
 "info":"မြန်မာစာတန်းထိုး
-ခင်ပွန်းအလုပ်ကိစ္စခရီးသွားတုန်း အိမ်မှာကျန်ခဲ့တဲ့ဇနီးကို ကို ခင်ပွန်းရဲ့အစ်ကိုက ရှယ်တီးတဲ့ဇာတ်လမ်း
+ခင်ပွန်းအလုပ်ကိစ္စခရီးသွားတုန်း အိမ်မှာကျန်ခဲ့တဲ့ဇနီးကို ခင်ပွန်းရဲ့အစ်ကိုက ရှယ်တီးတဲ့ဇာတ်လမ်း
 မင်းသမီးနာမည် Mina Kitano",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00439/playlist.m3u8",
 "download":"https://www.mediafire.com/file/7wcff4wlxgyr1px/Hmn-439sd.mp4/file",
