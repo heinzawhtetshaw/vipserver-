@@ -8224,4 +8224,18 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00779/meyd00779jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/naq9r0lvesleuhc/MEYD-779-RM%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB3xYKKmYIgyq0XltamDeb29c="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB3xYKKmYIgyq0XltamDeb29c="},
+{"name":"HMN-439mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းအလုပ်ကိစ္စခရီးသွားတုန်း အိမ်မှာကျန်ခဲ့တဲ့ဇနီးကို ကို ခင်ပွန်းရဲ့အစ်ကိုက ရှယ်တီးတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Mina Kitano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00439/playlist.m3u8",
+"download":"https://www.mediafire.com/file/7wcff4wlxgyr1px/Hmn-439sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-07_20-31-51-622.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00439/hmn00439pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/hmn00439/hmn00439jp-1.jpg",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230907_201236.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230907_200931.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/gj4m88clxjndb1n/Hmn-439hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Z4YgTAtHemIgTHXDpDOUWvGbLw2hxZ9Dw42B/YpDZnE="}]
