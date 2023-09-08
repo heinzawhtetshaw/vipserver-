@@ -8253,4 +8253,18 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/ipzz00046/ipzz00046jp-11.jpg",
 "dapp":"https://www.mediafire.com/file/gc2j2bcvemjdyok/IPZZ-046-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RAhN0+VTswlLOhxTuS/iz9VzcrP9m+j06R+W0D7gHVs="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RAhN0+VTswlLOhxTuS/iz9VzcrP9m+j06R+W0D7gHVs="},
+{"name":"MEYD-782mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းအလုပ်ခရီးသွားတုန်း ခင်ပွန်းရဲ့ကြီးကြပ်ရေးမှူးက အိမ်ရောက်လာပြီး ဇနီးချောလေးကို အကြပ်ကိုင်ပြီးတီးတဲ့ဇာတ်လမ်း....
+မင်းသမီးနာမည် Hiyori Yoshioka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00782/playlist.m3u8",
+"download":"https://www.mediafire.com/file/91oephsfpz5mp1o/MEYD-782-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-09_01-04-39-893.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00782/meyd00782pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/meyd00782/meyd00782jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00782/meyd00782jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00782/meyd00782jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/mfck3c9zp8xbjff/MEYD-782-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB34SyiKgo5tkznATuFS2nq84="}]
