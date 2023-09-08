@@ -8238,4 +8238,19 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230907_200931.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/gj4m88clxjndb1n/Hmn-439hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Z4YgTAtHemIgTHXDpDOUWvGbLw2hxZ9Dw42B/YpDZnE="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Z4YgTAtHemIgTHXDpDOUWvGbLw2hxZ9Dw42B/YpDZnE="},
+{"name":"IPZZ-046mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းဖြစ်သူက သူ့မကို စိတ်မဝင်စားတော့ပဲ မဂ်လာနှစ်ပန်လည်နေ့မှာတောင် အိမ်ပြန်လာဖို နောက်ကျနေပါတယ် 
+အဲ့နှစ်ပတ်လည်နေ့ညမှာပဲ ယောက္ခထီးဖြစ်သူက နှစ်သိမ့်ပေးပြီး အရက်အတူတူသောက်ရင်း ယောက္ခထီးကြီးက စားပါတော့တယ်...
+မင်းသမီးနာမည် Momo Sakura",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipz/ipzz00046/playlist.m3u8",
+"download":"https://www.mediafire.com/file/cyj7hmkaai50r8k/IPZZ-046-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-08_14-03-54-160.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipzz00046/ipzz00046pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipzz00046/ipzz00046jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipzz00046/ipzz00046jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipzz00046/ipzz00046jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/gc2j2bcvemjdyok/IPZZ-046-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RAhN0+VTswlLOhxTuS/iz9VzcrP9m+j06R+W0D7gHVs="}]
