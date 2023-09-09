@@ -8267,4 +8267,32 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00782/meyd00782jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/mfck3c9zp8xbjff/MEYD-782-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB34SyiKgo5tkznATuFS2nq84="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB34SyiKgo5tkznATuFS2nq84="},
+{"name":"IPX-990mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ညစာကျွေးရဲ့သားနဲ့မစားတဲ့ ယောက်ကျားတယောက်ကို တိတ်တိတ်လေးပညာပြပေးလိုက်တဲ့ ဇတ်ကားပါ။ လှေကားသုံးထစ်ဆင်းရင် လူပျို ပြန်ဖြစ်တာလောက်တော့ သနားတယ်ဆိုပြီး အိမ်အောက်တောင် ဆင်းစရာမလိုတဲ့အကွက်လေးခင်းပြသွားတာပါ
+မင်းသမီးနာမည် Airi Kijima",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00990/playlist.m3u8",
+"download":"https://www.mediafire.com/file/2kumbuqjk9hnrqr/IPX-990-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-09_23-49-01-614.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00990/ipx00990pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipx00990/ipx00990jp-10.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00990/ipx00990jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00990/ipx00990jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/m71pe78ldg2vhus/IPX-990-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6ytd31cqGHUmzTc/RsnQH1fPdKmeCiEOFRmLbCGkgvKc="},
+{"name":"NACR-624mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အသက်ရွယ်ရလာတဲ့ မာကိုအိုဒါတယောက် ငတ်ပြတ်လာတဲ့အခါဘေးနားရှိသမျှလူအကုန်ဆွဲစားတော့မယ့်စားဆော်ကြီးအဖြစ် မြင်တွေ့ရမှာပါ ကဲ ကြည့်ရှုလိုက်ကြပါအုန်း....
+မင်းသမီးနာမည် Mako Oda",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/h_2/h_237nacr624/playlist.m3u8",
+"download":"https://www.mediafire.com/file/uo4vbcb6xqvttvg/NACR-624%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-09_23-44-10-552.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/pppe00033/pppe00033pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/h_237nacr00624/h_237nacr00624jp-7.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/h_237nacr00624/h_237nacr00624jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/h_237nacr00624/h_237nacr00624jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/8yzk6jf03xlpr9g/NACR-624%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb609ZGOvtWlRVfgBo1mjqtc9RhdcSVbKIBq7OSW+agIDU="}]
