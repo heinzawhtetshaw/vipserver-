@@ -8295,4 +8295,33 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/h_237nacr00624/h_237nacr00624jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/8yzk6jf03xlpr9g/NACR-624%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb609ZGOvtWlRVfgBo1mjqtc9RhdcSVbKIBq7OSW+agIDU="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb609ZGOvtWlRVfgBo1mjqtc9RhdcSVbKIBq7OSW+agIDU="},
+{"name":"NACR-636mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိန်းမမယူသေးဖူးလားမေးရမလားဆိုပီးမေးမိတဲ့လူကြီးရဲ့မိန်းမကိုအကျပ်ကိုင်ပီး သုံးရက်လောက်အိပ်ချိန်မရအောင်တီးပေးလိုက်တဲ့ကားလေးအားပေးကြအုန်းဗျို.......
+မင်းသမီးနာမည် Kyoko Maki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/h_2/h_237nacr636/playlist.m3u8",
+"download":"https://www.mediafire.com/file/br4lfedd82paxh3/NACR-636%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-10_19-52-45-095.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/h_237nacr00636/h_237nacr00636pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/h_237nacr00636/h_237nacr00636jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/h_237nacr00636/h_237nacr00636jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/h_237nacr00636/h_237nacr00636jp-15.jpg",
+"dapp":"https://www.mediafire.com/file/3db7rylt0mgqpdg/NACR-636%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb609ZGOvtWlRVfgBo1mjqtcyV3C+aVjhqg0I3L30994lQ="},
+{"name":"JUQ-202mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ထောင်ကျပြီးကတည်းက ခင်ပွန်းက နေမကောင်းဖြစ်ပီး အိပ်ယာထဲလဲနေ‌ရသောကြောင့် ဇနီးဖြစ်သူက ငွေထွက်ရှာပါတော့မယ်
+ကော်ဖီဆိုင်မှာအလုပ်ဝင်လုပ်ပေမယ့် ဝင်ငွေက မလုံလောက်တဲ့အခါ ဘာတွေဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Aoi Ichino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00202/playlist.m3u8",
+"download":"https://www.mediafire.com/file/b3awixzbve57vdd/Juq-202sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-10_20-12-45-273.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00202/juq00202pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230910_200430.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00202/juq00202jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00202/juq00202jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/1kgx9x4vl64ckv5/Juq-202hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu9R8kYw4Ez9ecDryswCrKGo="}]
