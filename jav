@@ -8324,4 +8324,18 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00202/juq00202jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/1kgx9x4vl64ckv5/Juq-202hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu9R8kYw4Ez9ecDryswCrKGo="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu9R8kYw4Ez9ecDryswCrKGo="},
+{"name":"JUX-467mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိန်းမသေပြီးကတည်းက စိတ်သွားတိုင်းကိုယ်မပါဖစ်နေတဲ့ယောက္ခထီးနဲ့ချွေးမတို့ရဲ့ အချစ်ဇာတ်လမ်း
+မင်းသမီးနာမည် Yuna Hayashi",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jux/jux00467/jux00467_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/w02t4mfbjliux4e/JUX-467-SD.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-09-12_00-26-09-535.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/jux00467/jux00467pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jux00467/jux00467jp-9.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jux00467/jux00467jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jux00467/jux00467jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/uw2613d74gq0o1u/JUX-467-HD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6c3wO9Z+ezrorCTARVIlByjB5z/8dosm9XpQyb4BslOw="}]
