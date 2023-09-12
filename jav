@@ -8338,4 +8338,19 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/jux00467/jux00467jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/uw2613d74gq0o1u/JUX-467-HD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6c3wO9Z+ezrorCTARVIlByjB5z/8dosm9XpQyb4BslOw="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6c3wO9Z+ezrorCTARVIlByjB5z/8dosm9XpQyb4BslOw="},
+{"name":"JUQ-052mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းဟောင်းတွေပြန်တွေ့ကြရင်း ဘော်ဒါဆီကပိုက်ဆံချေးတဲ့ကိစ္စကနေ စော်ကိစ္စရောက်သွားပါတော့တယ် 
+စော်ရှိတာမယုံဖူးခေါ်လာပြဆိုလို အာယာတယောက်ယောင်္ကျားသူငယ်ချင်းမက်ဆုတိုကိုကူညီပေးကာ လိုက်သွားပေးရင်းသိသွားချိန်မှာတော့အကျပ်ကိုင်ခံရကာအစားခံလိုက်ရပါတော့တယ်....
+မင်းသမီးနာမည် Aya Ueha",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00052/playlist.m3u8",
+"download":"https://www.mediafire.com/file/0gu97vz24neimqo/JUQ-052-RM%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-12_13-02-38-708.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00052/juq00052pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00052/juq00052jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00052/juq00052jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00052/juq00052jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/kq8ip5picqboyr1/JUQ-052-RM%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0+1UyguGs2IkHRs+pp+dS6U="}]
