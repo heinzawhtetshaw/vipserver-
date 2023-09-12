@@ -8353,4 +8353,18 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00052/juq00052jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/kq8ip5picqboyr1/JUQ-052-RM%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0+1UyguGs2IkHRs+pp+dS6U="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0+1UyguGs2IkHRs+pp+dS6U="},
+{"name":"IPZZ-007mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းသူသစ်လေးကိုအကြပ်ကိုင်ပြီး ရှယ်တီးလိုက်တဲ့ အတန်းပိုင်ဆရာ
+မင်းသမီးနာမည် Hikari Azusa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipz/ipzz00007/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ac6awqyl2ay31uj/Ipzz-007sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-09-13_00-10-51-067.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipzz00007/ipzz00007pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230913_000119.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipzz00007/ipzz00007jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipzz00007/ipzz00007jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/55c7t9ypenmfvsz/Ipzz-007hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb61neJhGUv+uAaygqZ4XLDE8Bkkw54HUbSqx3DRoEsCIE="}]
