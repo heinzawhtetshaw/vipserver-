@@ -8367,4 +8367,33 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/ipzz00007/ipzz00007jp-11.jpg",
 "dapp":"https://www.mediafire.com/file/55c7t9ypenmfvsz/Ipzz-007hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb61neJhGUv+uAaygqZ4XLDE8Bkkw54HUbSqx3DRoEsCIE="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb61neJhGUv+uAaygqZ4XLDE8Bkkw54HUbSqx3DRoEsCIE="},
+{"name":"IPX-920mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မောင်ဇော်ချစ်တဲ့ ဆရာမ
+မင်းသမီးနာမည် Tsumugi Akari",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00920/playlist.m3u8",
+"download":"https://www.mediafire.com/file/yufduhjxpfz8j25/Ipx-920-Mr_-SD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-14_13-54-13-916.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00920/ipx00920pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipx00920/ipx00920jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00920/ipx00920jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00920/ipx00920jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/qvbvtg5pyoz1oo9/Ipx-920-Mr_-HD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6HYV5g6B8Vdj1cOz5IW6fFVtbPP9YuhLn6YrFZ0sAMDw="},
+{"name":"MEYD-808mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဘေ့စ်ဘောကစားသမားတယောက် ပွဲဆော့ခွင့်ပိတ်ခံထားရလို မွေးရပ်မြေရွာဘက်ဆီပြန်လာခဲ့ပါတယ်
+ဆော့ခွင့်ပိတ်ခံထားရလိုအနည်းငယ်depression၀င်နေတဲ့ကစားသမားနဲ့ဘေးအိမ်ကစော်အထန်ကြီးတွေ့တဲ့ချိန်မှာတော့
+မင်းသမီးနာမည် Nene Tanaka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00808/playlist.m3u8",
+"download":"https://www.mediafire.com/file/kvxzn6jqqejrf3x/MEYD-808-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-14_14-00-50-794.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00808/meyd00808pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/meyd00808/meyd00808jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00808/meyd00808jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00808/meyd00808jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/yppsy40c0tmddki/MEYD-808-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB3/QNkWFYPfb9rllIqH5T8r0="}]
