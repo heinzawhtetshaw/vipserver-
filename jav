@@ -8396,4 +8396,20 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00808/meyd00808jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/yppsy40c0tmddki/MEYD-808-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB3/QNkWFYPfb9rllIqH5T8r0="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB3/QNkWFYPfb9rllIqH5T8r0="},
+{"name":"URE-084mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အနေအေးပြီးရိုးသားဖြူစင်လွန်းတဲ့ဇနီးချောလေးကို ရထားလို့ ပျော်ရွင်နေခဲ့တဲ့ခင်ပွန်း.....
+ဒါပေမယ့် ဖြူစင်ခြင်းရဲ့နောက်ကွယ်မှာ ဖောက်ပြန်နေတာကိုသိလိုက်ရတဲ့အခါမှာတော့ ပျော်နိုင်ပါ့အုံးမလား..
+လူတစ်ယောက်ကို အပေါ်ယံကြည့်ရုံနဲ့မသိနိုင်ဘူးဆိုတာ ရိုက်ပြထားတဲ့ဇာတ်ကားလေးပါ
+မင်းသမီးနာမည် Minami Yasu",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/u/ure/ure00084/playlist.m3u8",
+"download":"https://www.mediafire.com/file/392yp5fvraz1d2t/Ure-084sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-14_20-23-49-530.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/ure00084/ure00084pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230914_201509.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230914_201044.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/ure00084/ure00084jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/8uihjdd97mjf4c3/Ure-084hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb61/wW9u8o/zTcnJyJah/QZ9OXS9SpOKAVQ8+x47kCPzo="}]
