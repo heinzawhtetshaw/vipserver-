@@ -8412,4 +8412,20 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/ure00084/ure00084jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/8uihjdd97mjf4c3/Ure-084hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb61/wW9u8o/zTcnJyJah/QZ9OXS9SpOKAVQ8+x47kCPzo="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb61/wW9u8o/zTcnJyJah/QZ9OXS9SpOKAVQ8+x47kCPzo="},
+{"name":"DASS-221mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းနဲ့ရန်ဖြစ်လို့အိမ်ကဆင်းလာပြီး တူဖြစ်သူရဲ့အိမ်သို့ ရောက်လာခဲ့တဲ့ဒေါ်လေး..
+ဒီလိုနဲ့အဒေါ်က မတွေ့တာကြာပီဖြစ်တဲ့ တူလေးကို ငယ်ငယ်တုန်းကလို ရေချိုးပေးတော့တာပေါ့
+တူဖြစ်သူက လူပျိုဖြစ်နေပီဆိုတော့ ရေချိုးပေးရုံနဲ့မရတော့ဘူး...
+မင်းသမီးနာမည် Meari Tachibana",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/das/dass00221/playlist.m3u8",
+"download":"https://www.mediafire.com/file/68tg2grl11tuzo3/Dass-221sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-16_00-23-48-493.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/dass00221/dass00221pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dass00221/dass00221jp-2.jpg",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230916_000442.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/dass00221/dass00221jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/dhlw8bzmfa8tofr/Dass-221hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RebnLGRla0ARfCdN+6GudbA2JV7ZUkF0nvbIsN9KJ3Y="}]
