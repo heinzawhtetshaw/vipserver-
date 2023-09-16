@@ -8428,4 +8428,21 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/dass00221/dass00221jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/dhlw8bzmfa8tofr/Dass-221hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RebnLGRla0ARfCdN+6GudbA2JV7ZUkF0nvbIsN9KJ3Y="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RebnLGRla0ARfCdN+6GudbA2JV7ZUkF0nvbIsN9KJ3Y="},
+{"name":"NACR-684mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အရက်သမားတွေကိုသတိပေးထားတဲ့ ဇာတ်ကားလေးဖြစ်ပါတယ်
+အလုပ်တွေအရမ်းပိနေလို့ မိန်းမကို ဂရုမစိုက်မိဘဲ ပင်ပန်းလို့အရက်ပဲသောက်မိနေတယ်
+တစ်ရက်တော့ အရက်အမူးလွန်ပြီး ကို့လက်အောက်ငယ်သားက အိမ်လိုက်ပို့ပေးရတယ်..
+တပည့်နဲ့ မိန်းမ နောက်တော့ ဘာတွေဆက်ဖြစ်မလဲ အဆုံးထိကြည့်ပေးကြပါ.
+မင်းသမီးနာမည် Yui Hatano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/h_2/h_237nacr00684/playlist.m3u8",
+"download":"https://www.mediafire.com/file/vg0tmolofjggtl2/Nacr-684sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-16_21-21-25-515.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/h_237nacr00684/h_237nacr00684pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230916_212045.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/h_237nacr00684/h_237nacr00684jp-19.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/h_237nacr00684/h_237nacr00684jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/64ztit4mrupnsrz/Nacr-684Hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6AuDMrx6vJXcDF7RHoa6LbSibZALfF2WRdvvjzE9mYiA="}]
