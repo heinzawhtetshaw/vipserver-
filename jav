@@ -8445,4 +8445,19 @@ Company ရဲ့ Policy ကို လက်တလုံးခြား လု�
 "photo5":"https://pics.dmm.co.jp/digital/video/h_237nacr00684/h_237nacr00684jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/64ztit4mrupnsrz/Nacr-684Hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6AuDMrx6vJXcDF7RHoa6LbSibZALfF2WRdvvjzE9mYiA="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6AuDMrx6vJXcDF7RHoa6LbSibZALfF2WRdvvjzE9mYiA="},
+{"name":"JUQ-263mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြီး တိုက်ခန်းတစ်ခန်းကိုပြောင်းလာကြပါတယ် 
+ဘေးအခန်းက လူကြီး နှစ်ယောက်က Kana ကိုကြိုက်ပြီး စားပါတော့တယ်...
+မင်းသမီးနာမည် Kanna Misaki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00263/playlist.m3u8",
+"download":"https://www.mediafire.com/file/r4p8y2bwkuf3are/JUQ-263-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-09-17_18-20-06-341.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00263/juq00263pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00263/juq00263jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00263/juq00263jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00263/juq00263jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/tq447tllrx68bd1/JUQ-263-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0+k3FjvxPE5t5mmPYKrPRGI="}]
