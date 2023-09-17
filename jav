@@ -8460,4 +8460,19 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00263/juq00263jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/tq447tllrx68bd1/JUQ-263-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0+k3FjvxPE5t5mmPYKrPRGI="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I0+k3FjvxPE5t5mmPYKrPRGI="},
+{"name":"SHKD-575mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မကြည့်မိလိုက်ရင်နောင်တရသွားမယ့်ကား Mako oda ဆို bodyကပြောစရာမလိုဖူးဆိုတာသိကြမှာပါ 
+ဒီကားထဲမှာ ယောကျာ်းမရှိတုန်း ရေပိုက်ပြင်သမားက ရှယ်တီးတာကွာ
+မင်းသမီးနာမည် Mako Oda",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/shk/shkd00575/shkd00575_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/h5y4zl1f3rl9248/SHKD-575%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-17_23-52-48-662.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/shkd00575/shkd00575pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/shkd00575/shkd00575jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/shkd00575/shkd00575jp-11.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/shkd00575/shkd00575jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/glall4ibid40bik/SHKD-575%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6bKBodR8HMwhKQ5dVghwfqg/TX76dUOJBns3ZqykgWh4="}]
