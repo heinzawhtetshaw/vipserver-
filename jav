@@ -8490,4 +8490,18 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jux00748/jux00748jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/09xh5qeugmom60q/JUX-748%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6c3wO9Z+ezrorCTARVIlBymwcUwT+jiEd9UNUcLTDcuA="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6c3wO9Z+ezrorCTARVIlBymwcUwT+jiEd9UNUcLTDcuA="},
+{"name":"JUQ-392mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ချစ်လှစွာသောမိန်းမဖြစ်သူကို အယုံကြည်လွန်ပြီး သစ္စာရှိကြောင်းကို စမ်းသပ်ဖို့ လက်အောက်ငယ်သား တစ်ယောက်နဲ့ 3 နာရီလောက်ထားခဲ့တဲ့အခါမှာတော့..
+မင်းသမီးနာမည် Kana Mito",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00392/playlist.m3u8",
+"download":"https://www.mediafire.com/file/6m8bov0hgc8b9rb/Juq-392sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-19_00-22-13-896.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00392/juq00392pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00392/juq00392jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00392/juq00392jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00392/juq00392jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/ni57kdlq1wapfmk/JUQ-392hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I08hm0pxLxzt5vFTakM4I2/k="}]
