@@ -8475,4 +8475,19 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/shkd00575/shkd00575jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/glall4ibid40bik/SHKD-575%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6bKBodR8HMwhKQ5dVghwfqg/TX76dUOJBns3ZqykgWh4="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6bKBodR8HMwhKQ5dVghwfqg/TX76dUOJBns3ZqykgWh4="},
+{"name":"JUX-748mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက်ျား ဝင်ငွေနဲ့ အိမ်မှာ မရပ်တည်နိုင်တဲ့အခါ အပြင်ထွက်ပြီး အာမခံ Company မှာ အလုပ်ဝင်လုပ်လည်း Takase တယောက် အလုပ်က အဆင်မပြေဖြစ်နေတာပါ
+သူ့ မန်နေဂျာက သူ့ Body အလှကို အသုံးချပြီး Customer များလာအောင် စကက်တိုလေး ဝတ်ပြီး Promotion ဆင်းခိုင်းရာကနေ...
+မင်းသမီးနာမည် Yuna Takase",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jux/jux00748/jux00748_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/4haynd6x488ruk5/JUX-748%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-18_22-50-28-567.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/jux00748/jux00748pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jux00748/jux00748jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jux00748/jux00748jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jux00748/jux00748jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/09xh5qeugmom60q/JUX-748%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6c3wO9Z+ezrorCTARVIlBymwcUwT+jiEd9UNUcLTDcuA="}]
