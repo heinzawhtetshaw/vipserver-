@@ -8504,4 +8504,22 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00392/juq00392jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/ni57kdlq1wapfmk/JUQ-392hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I08hm0pxLxzt5vFTakM4I2/k="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I08hm0pxLxzt5vFTakM4I2/k="},
+{"name":"JUFE-492mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကြမ်းကြမ်းတမ်းတမ်း ကား ကြည့်ချင်ရင်တော့
+ဒီကားလေးက အဆင်ပြေမှာပါ။Momo တယောက် စာတော်တဲ့အပြင် Body builder လုပ်နေတဲ့ ကျောင်းသူလေးပါ 
+တရက်မှာ ဘောလုံးအသင်းက မန်နေဂျာ ထွက်သွားလို့ သူ့ကိုအကူညီတောင်းပါတယ်
+(ဘာ မန်နေဂျာလဲတော့မသိဘူး) သူမကတော့တက်ကြွစွာနဲ့ပဲလက်ခံလိုက်ပေမယ့်
+မန်နေဂျာအလုပ်က ဘာတွေဖြစ်မလဲ
+မင်းသမီးနာမည် Rena Momozono",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juf/jufe00492/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bnkmc2a28te5hkn/JUFE-492-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-20_12-59-16-724.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00492/jufe00492pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jufe00492/jufe00492jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jufe00492/jufe00492jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jufe00492/jufe00492jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/d6iacidh5es2pkm/JUFE-492-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Bcj61nQCLwIbsvgwf/LbQvo2Z/gj/kofkNjGhCwQkmk="}]
