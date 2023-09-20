@@ -8522,4 +8522,20 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jufe00492/jufe00492jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/d6iacidh5es2pkm/JUFE-492-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Bcj61nQCLwIbsvgwf/LbQvo2Z/gj/kofkNjGhCwQkmk="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Bcj61nQCLwIbsvgwf/LbQvo2Z/gj/kofkNjGhCwQkmk="},
+{"name":"DVAJ-583mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တစ်ခါတုန်းကအရမ်းလိမ္မာပြီး မိဘစကားနားထောင်တဲ့ ကောင်မလေးတစ်ယောက်ရှိပါတယ်
+တစ်နေ့မိဘတွေနယ်ပြန်တော့ အိမ်မှာစာလုပ်မယ်ဆိုပြီးကျန်ခဲ့တဲ့ ကောင်မလေးကို 
+အိမ်နီးနားချင်းလဲဖြစ် ငယ်သူငယ်ချင်းလည်းဖြစ်တဲ့ ကျော်ကြီးက ရှယ်တီးသွားတဲ့ကားလေး
+မင်းသမီးနာမည် Meisa Kawakita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/dva/dvaj00583/playlist.m3u8",
+"download":"https://www.mediafire.com/file/6bu6xhlp8hvs7qd/Dvaj-583sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-20_14-28-15-073.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/dvaj00583/dvaj00583pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dvaj00583/dvaj00583jp-1.jpg",
+"photo4":"https://github.com/minimyanmar/p6/blob/main/IMG_20230920_142410.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/dvaj00583/dvaj00583jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/hnz5wp9t4j05xxz/DVAJ-583hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6h1F0UIRvv7AW+0h8er+LbxM/DPaJEk2+K4h8NG2SeGc="}]
