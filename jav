@@ -8554,4 +8554,18 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00089/juq00089jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/aucyexefr6erh1f/Juq-089Hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu0REjOoX60kBOO0pePeKA8Y="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu0REjOoX60kBOO0pePeKA8Y="},
+{"name":"NGOD-001mmsub",
+"info":"မြန်မာစာတန်းထိုး
+၀ပ်ရှော့ဆရာရဲ့အလုပ်သမားက ၀ပ်ရှော့ပိုင်ရှင်ရဲ့မိန်းမကိုဆွဲစားတဲ့ကားလေးပါ ဇာတ်လမ်းကရိုးရှင်းတာမလိုအများကြီးမပြောတော့ပါဖူး Ruri saijo ဆိုထဲကမင်းသမီးအနေထားကိုသိနေလောက်ပီထင်ပါတယ် ကြည့်လိုက်ကြပါအုန်း....
+မင်းသမီးနာမည် Ruri Saijo",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/n/ngo/ngod00001/ngod00001_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/mnvxh40p3hduag0/Ngod-001sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-22_00-58-17-366.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/ngod00001/ngod00001pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ngod00001/ngod00001jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ngod00001/ngod00001jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ngod00001/ngod00001jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/pdyd67ppsx7a2er/NGOD-001hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb63BLkaS0dycIibaxd4X3Y2B6OP+Q0BBR89cZs/VSnOQc="}]
