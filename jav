@@ -8538,4 +8538,20 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/dvaj00583/dvaj00583jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/hnz5wp9t4j05xxz/DVAJ-583hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6h1F0UIRvv7AW+0h8er+LbxM/DPaJEk2+K4h8NG2SeGc="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6h1F0UIRvv7AW+0h8er+LbxM/DPaJEk2+K4h8NG2SeGc="},
+{"name":"JUQ-089mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တိုကျိုမြို့က အိမ်လေးတစ်အိမ်မှာ အဖေနဲ့အမေရယ် သမီးနဲ့ သားမက်ရယ် လေးယောက်ပျော်ရွှင်စွာနေထိုင်ကြတယ်
+ဂျပန်နွေရာသီမှာ ယောက္ခမတစ်ယောက် ပူလွန်းလို့ ရေထွက်သောက်ရင်း သားမက်ရဲ့အာသာဖြေနေတာကို တွေ့သွားတယ်
+သမီးဖြစ်သူ ကျောင်းသားဟောင်းတွေ့ဆုံပွဲသွားနေတုန်း သားမက်က မူးပြီးတော့ ယောက္ခမနဲ့မိန်းမကို မှားတီးမိတာ
+မင်းသမီးနာမည် Reiko Kobayakawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00089/playlist.m3u8",
+"download":"https://www.mediafire.com/file/s04erbqh3tcx72e/Juq-089sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-21_12-24-41-626.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00089/juq00089pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230921_122259.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230921_122225.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00089/juq00089jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/aucyexefr6erh1f/Juq-089Hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAu0REjOoX60kBOO0pePeKA8Y="}]
