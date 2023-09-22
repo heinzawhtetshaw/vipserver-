@@ -8583,4 +8583,18 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00600/ssis00600jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/w7cj94dta2mt1ad/Ssis-600Hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECViU7ntayjoYKXxxhh6Q8xo="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECViU7ntayjoYKXxxhh6Q8xo="},
+{"name":"NACR-642mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိုးရေတွေရွှဲလာတဲ့ဂိုက်ဆရာမအကိတ်တလိုင်း momo ရဲ့ရေစိုအလှတွေမြင်ပီး ဘယ်လိုတွေဖြုတ်မလဲကြည့်လိုက်ကြပါအုန်း...
+မင်းသမီးနာမည် Momo Minami",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/h_2/h_237nacr642/playlist.m3u8",
+"download":"https://www.mediafire.com/file/g4s3lsl268jw80k/NACR-642%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-22_20-47-03-726.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/h_237nacr00642/h_237nacr00642pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/h_237nacr00642/h_237nacr00642jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/h_237nacr00642/h_237nacr00642jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/h_237nacr00642/h_237nacr00642jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/89gyhci8q4dcroy/NACR-642%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb609ZGOvtWlRVfgBo1mjqtcz2sRg7tBuK5PoEGkhYaMYU="}]
