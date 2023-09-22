@@ -8568,4 +8568,19 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ngod00001/ngod00001jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/pdyd67ppsx7a2er/NGOD-001hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb63BLkaS0dycIibaxd4X3Y2B6OP+Q0BBR89cZs/VSnOQc="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb63BLkaS0dycIibaxd4X3Y2B6OP+Q0BBR89cZs/VSnOQc="},
+{"name":"SSIS-600mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိစုတစ်ယောက် အိမ်မှာအဝတ်လျှော်စက်ပျက်လို့ ဆိုင်သွားလျှော်ရင်း သဘောမနောကောင်းတဲ့ ဆူဇူကီနဲ့တွေ့ခဲ့တယ်
+ချောမောလှပတဲ့ မိစုလေးကို ဆူဇူကီတစ်ယောက် ဘယ်လိုဂွင်ဆင်ပြီကြံမလဲ အဆုံးထိကြည့်ပေးပါ
+မင်းသမီးနာမည် Ichika Hoshimiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00600/playlist.m3u8",
+"download":"https://www.mediafire.com/file/decry6oadw2cbsj/Ssis-600sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-22_14-27-51-741.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00600/ssis00600pl.jpg",
+"photo3":"https://github.com/minimyanmar/p6/blob/main/IMG_20230922_142608.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00600/ssis00600jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00600/ssis00600jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/w7cj94dta2mt1ad/Ssis-600Hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb676VEFh/1qgAAIoi8uxuECViU7ntayjoYKXxxhh6Q8xo="}]
