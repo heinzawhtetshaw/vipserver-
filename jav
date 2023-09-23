@@ -8626,4 +8626,20 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/hmn00340/hmn00340jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/3cv2s6e9ugsfuc5/Hmn-340Hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Z4YgTAtHemIgTHXDpDOUWpk4lojJ0Zm2BRve6M3Y1PA="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Z4YgTAtHemIgTHXDpDOUWpk4lojJ0Zm2BRve6M3Y1PA="},
+{"name":"JUQ-360mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လင်မယားနှစ်ယောက်ဦးစီးပြီး တည်ထောင်ထားတဲ့ကုမ္ပဏီဟာ သုံးနှစ်ကြာလာခဲ့ပါပီ
+ခင်ပွန်းဖစ်သူက ကုမ္ပဏီကိစ္စတွေနဲ့ပဲ နပန်းလုံးနေရလို့ မိန်းမကိုဘုဖို့ အချိန်မရှိဘူးဖစ်နေပါတယ်
+ဒါကို သူဌေးကြီးတစ်ယောက်က သိသွားပြီး သူများဇနီးချောလေးကို အကြပ်ကိုင်ပြီး ရှယ်တီးသွားတဲ့ဇာတ်လမ်း...
+မင်းသမီးနာမည် Aina Namiki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00360/playlist.m3u8",
+"download":"https://www.mediafire.com/file/4cuzad5o374ov3h/Juq-360sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-24_01-02-17-633.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00360/juq00360pl.jpg",
+"photo3":"https://github.com/minimyanmar/p6/blob/main/IMG_20230924_004647.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/p6/blob/main/IMG_20230924_004844.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/p6/blob/main/IMG_20230924_004603.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/fcbviexvqvpk6kf/Juq-360hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
