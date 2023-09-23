@@ -8597,4 +8597,33 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/h_237nacr00642/h_237nacr00642jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/89gyhci8q4dcroy/NACR-642%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb609ZGOvtWlRVfgBo1mjqtcz2sRg7tBuK5PoEGkhYaMYU="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb609ZGOvtWlRVfgBo1mjqtcz2sRg7tBuK5PoEGkhYaMYU="},
+{"name":"WAAA-147mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ညီမလေးက အိမ်ကို သူ့ဘဲနဲ့ မိတ်ဆက်ပေးမယ် ဆိုပြီ ခေါ်လာရာကနေ...
+မင်းသမီးနာမည် Luna Tsukino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/w/waa/waaa00147/playlist.m3u8",
+"download":"https://www.mediafire.com/file/3ydx1b1ovnj0brj/WAAA-147-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-23_16-57-13-130.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/waaa00147/waaa00147pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/waaa00147/waaa00147jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/waaa00147/waaa00147jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/waaa00147/waaa00147jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/sm3a5vaze2u5ufo/WAAA-147-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"HMN-340msmub",
+"info":"မြန်မာစာတန်းထိုး
+ဧကရီတို့ သမီးရည်းစားနဲ့ ကိုတုတ်ကြီးတို့ရဲ့ ဇာတ်လမ်းလေးပဲဖြစ်ပါတယ်
+နောက်ဆုံးမှ ဇာတ်လမ်းကို ဇာတ်ရည်လည်မှာမလို့ အဆုံးထိကြည့်ပေးကြပါခဗျ
+မင်းသမီးနာမည် Akari Mitani",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00340/playlist.m3u8",
+"download":"https://www.mediafire.com/file/vhawjfzv3kwyssl/Hmn-340sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-23_16-56-36-657.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00340/hmn00340pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/hmn00340/hmn00340jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/hmn00340/hmn00340jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/hmn00340/hmn00340jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/3cv2s6e9ugsfuc5/Hmn-340Hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Z4YgTAtHemIgTHXDpDOUWpk4lojJ0Zm2BRve6M3Y1PA="}]
