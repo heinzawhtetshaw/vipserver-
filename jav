@@ -8642,4 +8642,4 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://github.com/minimyanmar/p6/blob/main/IMG_20230924_004603.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/fcbviexvqvpk6kf/Juq-360hd.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAuwujnJFPhuzu6cqijsmOUds="}]
