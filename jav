@@ -8642,4 +8642,32 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://github.com/minimyanmar/p6/blob/main/IMG_20230924_004603.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/fcbviexvqvpk6kf/Juq-360hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAuwujnJFPhuzu6cqijsmOUds="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6DSuiQVGHT5UpfTlEMuJAuwujnJFPhuzu6cqijsmOUds="},
+{"name":"VEC-575mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်အတူလုပ်တဲ့စော်အကိတ်ကြီးကို မိုးရွာတဲ့နေ့မှာ အိမ်မပြန်ခိုင်းဘဲ ရှယ်ဖြိုတဲ့ကား
+မင်းသမီးနာမည် Summer Yagi Satsuki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/v/vec/vec575/playlist.m3u8",
+"download":"https://www.mediafire.com/file/tzh7k0a8m8413s4/VEC-575%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-25_16-23-58-381.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/vec00575/vec00575pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/vec00575/vec00575jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/vec00575/vec00575jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/vec00575/vec00575jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/glk5rchpx5w4gpn/VEC-575%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6EK58vFfSgprS45BYgUBKxfAfurh260RQH3HAioZYY1U="},
+{"name":"EYAN-064mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေ တစ်ခုသားတစ်ခုနေလာတဲ့ ဘဝမှာသားဖြစ်သူက အနိုင်ကျင့်ခံရတာကြောင့် အနိုင်ကျင့်တဲ့လူကို နောက်တစ်ခါအနိုင်ထပ်မကျင့်တော့အောင် ပြောရင်းနဲ့ အနိုင်ကျင့်တဲ့ကောင်က တစ်ခါလုပ်ခွင့်ပေးဖို့တောင်းဆိုလာတဲ့အခါ...
+မင်းသမီးနာမည် Yurina Momose",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/e/eya/eyan00064/eyan00064_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/9woc9ujxp429qlh/Eyan-064sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-25_16-24-33-976.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/eyan00064/eyan00064pl.jpg",
+"photo3":"https://github.com/minimyanmar/p6/blob/main/AddText_09-25-04.23.02.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/eyan00064/eyan00064jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/eyan00064/eyan00064jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/ksdawzkrcse0qpd/Eyan-064Hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Im0QMknvLwPNeElouisqW5snEb5IbSsvf2txh7ZTiH4="}]
