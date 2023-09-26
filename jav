@@ -8670,4 +8670,33 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/eyan00064/eyan00064jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/ksdawzkrcse0qpd/Eyan-064Hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Im0QMknvLwPNeElouisqW5snEb5IbSsvf2txh7ZTiH4="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Im0QMknvLwPNeElouisqW5snEb5IbSsvf2txh7ZTiH4="},
+{"name":"NACR-625mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ပိုက်ဆံသိပ်မရှိတဲ့ သူ့အဖေကိုဘာလိုမိန်းမငယ်ငယ်ချောချောလေးကဘာလိုလက်ထပ်တာလဲသိချင်နေပါတယ် 
+အဲ့လိုနဲ့ကင်မရာတွေတပ်ရင်းသူသိလိုက်ရမယ့်အဖြေကဘာလဲဆိုတာတော့....
+မင်းသမီးနာမည် Kasumi Shirakawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/h_2/h_237nacr625/playlist.m3u8",
+"download":"https://www.mediafire.com/file/mau3nvtf231drw3/NACR-625%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-26_21-05-37-564.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/h_237nacr00625/h_237nacr00625pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/h_237nacr00625/h_237nacr00625jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/h_237nacr00625/h_237nacr00625jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/h_237nacr00625/h_237nacr00625jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/ctipqe1lcb84o2o/NACR-625%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb609ZGOvtWlRVfgBo1mjqtc2CXdD7KUxnQur80B/NGV+c="},
+{"name":"IQQQ-07mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဆရာမနဲ့ကျောင်းသား ဇာတ်လမ်းလေးပါ
+မင်းသမီးနာမည် Yumi Kazama",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/h/h_0/h_086iqqq07/h_086iqqq07_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/o7hjqz8v5g687cs/Iqqq-07sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-09-26_21-31-54-537.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/h_086iqqq00007/h_086iqqq00007pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/h_086iqqq00007/h_086iqqq00007jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/h_086iqqq00007/h_086iqqq00007jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/h_086iqqq00007/h_086iqqq00007jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/9c22jbfqwb82g6p/IQQQ-07.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6c+qXt+B5ITTqjxWJDwwBe3Iiyelqg8J5Zm+8Uo3PnWY="}]
