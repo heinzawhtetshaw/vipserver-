@@ -8699,4 +8699,20 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/h_086iqqq00007/h_086iqqq00007jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/9c22jbfqwb82g6p/IQQQ-07.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6c+qXt+B5ITTqjxWJDwwBe3Iiyelqg8J5Zm+8Uo3PnWY="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6c+qXt+B5ITTqjxWJDwwBe3Iiyelqg8J5Zm+8Uo3PnWY="},
+{"name":"JUL-179mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းလင်မယားရန်ဖြစ်လို့ ဇနီးချင်းခဏလဲပေးလိုက်မိရာကနေ ချစ်ဇနီးကို သူငယ်ချင်းက လိုးသွားတာကွာ 
+ဒါကြောင့်စိတ်နာပြီး သူငယ်ချင်းရဲ့ဇနီးချောလေးကို ပြန်လိုးတဲ့ဇာတ်လမ်း
+ကျော်ကြီးကတော့ငိုမနေဘူး သူများ‌မိန်းမကိုပြန်တီးတာ တခြားကားတွေနဲ့မတူဘူး..
+မင်းသမီးနာမည် Aika Yamagishi ၊ Kana Mito",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00179/jul00179_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/exxcdy4h6qqzi8e/Jul-179sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-28_00-39-51-471.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00179/jul00179pl.jpg",
+"photo3":"https://github.com/minimyanmar/p6/blob/main/IMG_20230928_002935.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00179/jul00179jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00179/jul00179jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/6tov7yjhbtdp5hp/Jul-179Hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6NY6hB4W/+1m/h6dNg1/s4VXgoZ8ZZaJcyFuvuXiRA5g="}]
