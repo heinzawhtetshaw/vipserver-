@@ -8715,4 +8715,18 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00179/jul00179jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/6tov7yjhbtdp5hp/Jul-179Hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6NY6hB4W/+1m/h6dNg1/s4VXgoZ8ZZaJcyFuvuXiRA5g="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6NY6hB4W/+1m/h6dNg1/s4VXgoZ8ZZaJcyFuvuXiRA5g="},
+{"name":"ROYD-132mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်လာလည်တဲ့သူငယ်ချင်းရဲ့ကောင်မလေးကို ရှယ်တီးတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Amiri Saitou",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roy/royd00132/playlist.m3u8",
+"download":"https://www.mediafire.com/file/uenbpobopfj2qs3/Royd-132sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-09-29_00-49-54-954.png?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/royd00132/royd00132pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/royd00132/royd00132jp-1.jpg",
+"photo4":"https://github.com/minimyanmar/p6/blob/main/IMG_20230929_003736.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/royd00132/royd00132jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/0e3ngexfs301urx/Royd-132hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6qCmgV3Zqa9Gt4Q2jOpCVQz308mMjfY+NZX05rscvskE="}]
