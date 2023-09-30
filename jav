@@ -8743,4 +8743,37 @@ Kana တိုလင်မယားက ကြင်စဦးဖြစ်ပြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/vec00415/vec00415jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/nccmrps3k3iasce/VEC-415hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6EK58vFfSgprS45BYgUBKxZ70v/Z7acTX85NtSs0BbPA="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6EK58vFfSgprS45BYgUBKxZ70v/Z7acTX85NtSs0BbPA="},
+{"name":"JUQ-240mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းအားကစားအခန်းကအမျိုးသမီးအ၀တ်လဲခန်းမှာခိုးစားနေတဲ့ခဇုယနဲ့ သူ့စော်အကိတ်ကို 
+စီနီယာတယောက်ကမြင်ပီး video ချောင်းရိုက်မှတ်တမ်းတင်ထားကာ အကျပ်ကိုင်ပါတော့တယ် 
+ကောင်လေးကျောင်းထုတ်မခံရအောင် ကောင်မလေးတစ်ယောက်ပြုသမျှနုရတဲ့ဘ၀ကိုရောက်ပါတော့တယ်.....
+မင်းသမီးနာမည် Sumire Mizukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00240/playlist.m3u8",
+"download":"https://www.mediafire.com/file/2aowamcgkvq2edl/JUQ-240-RM%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-10-01_03-12-58-867.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00240/juq00240pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00240/juq00240jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00240/juq00240jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00240/juq00240jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/3o7enb3le3f6k3v/JUQ-240-RM%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6GU8pQKYQBRgs9lzPtT3I05A0yXgWUL//kj7qeUpnNeg="},
+{"name":"ADN-396mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Miu ဆိုတဲ့ကောင်မလေးကို သူဌေးကြီးက မက်လုံးပေးပြီး စားဖို့လုပ်ပေမယ့် သူမကတော့အချစ်ကိုပဲရွေးချယ်ပြီး 
+အလုပ်အတူတူလုပ်တဲ့ လူအေးနဲ့လက်ထပ်ခဲ့ပြီး အလုပ်ပါထွက်လိုက်ပါတယ်
+နောက် ၂ နှစ်ကြာတော့ Miu တယောက်ပိုက်ဆံလိုပြီး အလုပ်ပြန်ဝင်လုပ်ဖို့ဖြစ်လာခဲ့ပါတယ် 
+ဒီလိုနဲ့သူဌေးကြီးနဲ့ပြန်တွေ့လာရတဲ့အခါ အစားမခံရအောင်တဖန်ကြိုးစားရင်းနဲ့...
+မင်းသမီးနာမည် Miu Shiramine",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00396/playlist.m3u8",
+"download":"https://www.mediafire.com/file/h16e3wci2pr5k67/Adn-396sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-10-01_03-12-14-640.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00396/adn00396pl.jpg",
+"photo3":"https://github.com/minimyanmar/p6/blob/main/IMG_20231001_030416.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/p6/blob/main/IMG_20231001_030022.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/p6/blob/main/IMG_20231001_030132.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/a0utqhsy4jgxiwa/ADN-396hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RPWdO5W1vdxG91x0Piu3k61DgcRXJ3y7TfZPklO4LZM="}]
