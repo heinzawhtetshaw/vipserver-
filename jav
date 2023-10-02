@@ -8792,4 +8792,20 @@ Miu ဆိုတဲ့ကောင်မလေးကို သူဌေးကြ
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00835/meyd00835jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/sd9o8ykapw5h535/Meyd-835Hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KnM/17Xpa/eAAyL7iKbWaooaGeTAc+Ts6wsoeyjusPk="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KnM/17Xpa/eAAyL7iKbWaooaGeTAc+Ts6wsoeyjusPk="},
+{"name":"PRED-164mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းအကျဉ်း
+Leona ဟာ ဂျပန်ကို ပညာတော်သင်ထောက်ပံကြေးနဲ့ ကျောင်းလာတက်တာပါ ဇာတိမြေက အမေ့ကိုထောက်ပံချင်လို့ Cafe ဆိုင်တခုမှာ အချိန်ပိုင်းအလုပ်ဝင်လုပ်ပါတယ်
+တရက်ဆိုင်ကဂျာကြီးက ငွေကောင်တာထဲက ပိုက်ဆံထည့်ထားတဲ့စာအိတ်ပျောက်တယ်ဆိုပြီး ဂွင်ဆင်အကွက်ချပြီး ကောင်မလေးကိုရှယ်တီးလိုက်တာ
+မင်းသမီးနာမည် Leona Kirishima",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/p/pre/pred00164/pred00164_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/6iatxh0zzs9xolb/Pred-164sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-10-02_15-52-17-090.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00164/pred00164pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231002_155006.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231002_155101.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231002_155138.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/32yj60adi0xl4f5/PRED-164hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6iSu6bhNDmib/BOYgXgFTU+BFBfExa4sjUZJg09AxKXQ="}]
