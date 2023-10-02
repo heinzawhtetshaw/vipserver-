@@ -8776,4 +8776,20 @@ Miu ဆိုတဲ့ကောင်မလေးကို သူဌေးကြ
 "photo5":"https://github.com/minimyanmar/p6/blob/main/IMG_20231001_030132.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/a0utqhsy4jgxiwa/ADN-396hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RPWdO5W1vdxG91x0Piu3k61DgcRXJ3y7TfZPklO4LZM="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RPWdO5W1vdxG91x0Piu3k61DgcRXJ3y7TfZPklO4LZM="},
+{"name":"MEYD-835mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ညားခါစလင်မယားနဲ့ သူဌေးကြီးတို့ရဲ့ဇာတ်လမ်းလေးဖြစ်ပါတယ်
+သူဌေးတစ်ယောက် မန်နေဂျာအိမ်လိုက်လည်ရင်း သူများမိန်းမကိုကြွေသွားတယ်..
+မန်နေဂျာကို အလုပ်ခရီးအကြောင်းပြလွှတ်ပြီး အချီကြီးကြံပါတော့တယ်......
+မင်းသမီးနာမည် Tsubasa Amami",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00835/playlist.m3u8",
+"download":"https://www.mediafire.com/file/lh4u892b2xcigwo/Meyd-835sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-10-02_13-00-18-081.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00835/meyd00835pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/meyd00835/meyd00835jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00835/meyd00835jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00835/meyd00835jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/sd9o8ykapw5h535/Meyd-835Hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6KnM/17Xpa/eAAyL7iKbWaooaGeTAc+Ts6wsoeyjusPk="}]
