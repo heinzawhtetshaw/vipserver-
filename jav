@@ -8808,4 +8808,35 @@ Leona ဟာ ဂျပန်ကို ပညာတော်သင်ထောက
 "photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231002_155138.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/32yj60adi0xl4f5/PRED-164hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6iSu6bhNDmib/BOYgXgFTU+BFBfExa4sjUZJg09AxKXQ="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6iSu6bhNDmib/BOYgXgFTU+BFBfExa4sjUZJg09AxKXQ="},
+{"name":"ATID-279mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မယားကြီးက မယားငယ်ကို သူ့လင်ကိုခိုးရပါ့မလားဆိုပြီ အပြီဆွဲတဲ့ကားလေးကိုကြည့်ရမှာပဲဖြစ်ပါတယ်။ 
+Misa ရဲ့ယောက်ျားဟာ သူမကို ငြီးငွေ့လာတာကြောင့် ကလေးမရဘူးဆိုတဲ့အကြောင်းပြချက်နဲ့ အတင်းကို ကွာရှင်းပြီး ပစ်ထားခဲ့ပါတယ်။
+အဲ့နောက်မှာ သူဟာ ကိုယ်လုံးလည်းပိုတောင့် ကလေးလည်းရနိုင်တဲ့ Mako Oda ကို မယားငယ်အဖြစ်လက်ထပ်ခဲ့ပါတယ်
+ဒါကို မယားကြီးက သိသွားတဲ့အခါ....
+မင်းသမီးနာမည် Mako Oda /Eri Takigawa",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/ati/atid00279/atid00279_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/dimy4nd8ppxtopw/ATID-279-RM%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-10-03_17-56-41-212.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00279/atid00279pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/atid00279/atid00279jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/atid00279/atid00279jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00279/atid00279jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/9h2f1oolyyep8in/ATID-279-RM%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6X3nJVILGzjQINMo+EZZADPPTn9H9CgIFtaHzabQKC5Q="},
+{"name":"MRSS-144mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ညစာစားပြီးအိမ်ပြန်လာတဲ့ အမျိုးသမီးတစ်ယောက်ဟာ မူးပြီး သူမရဲ့ဘေးအခန်းက ကျော်ကြီးအခန်းကို မှားဝင်မိသွားခဲ့ပါတယ်
+မင်းသမီးနာမည် Yui Hatano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mrs/mrss00144/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ai5pwb0y62fgumu/Mrss-144sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-10-03_17-57-15-725.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/mrss00144/mrss00144pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231003_174615.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231003_174703.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/mrss00144/mrss00144jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/o9oh608wn66douk/Mrss-144Hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Z5kbyyHLw69BUIZC0bx0Uc/M5xyCW3vuUNVdqLAUqfg="}]
