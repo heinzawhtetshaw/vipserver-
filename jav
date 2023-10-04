@@ -8839,4 +8839,33 @@ Misa ရဲ့ယောက်ျားဟာ သူမကို ငြီးင�
 "photo5":"https://pics.dmm.co.jp/digital/video/mrss00144/mrss00144jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/o9oh608wn66douk/Mrss-144Hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Z5kbyyHLw69BUIZC0bx0Uc/M5xyCW3vuUNVdqLAUqfg="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6Z5kbyyHLw69BUIZC0bx0Uc/M5xyCW3vuUNVdqLAUqfg="},
+{"name":"HZGD-233mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းကတော့ 
+အစ်ကိုအိမ်ကိုသွားလည်ပြီး မရီး ကိုရှယ်တီးတာ
+မင်းသမီးနာမည် Reiran Akame",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/h_1/h_1100hzgd00233/playlist.m3u8",
+"download":"https://www.mediafire.com/file/fb3yix70kz26yx3/HZGD_233%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-10-04_20-48-04-236.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/h_1100hzgd00233/h_1100hzgd00233pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/h_1100hzgd00233/h_1100hzgd00233jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/h_1100hzgd00233/h_1100hzgd00233jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/h_1100hzgd00233/h_1100hzgd00233jp-14.jpg",
+"dapp":"https://www.mediafire.com/file/ebmtzmb8irpgi7q/HZGD_233%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb65J/xuZ68nawcw/+psIXfWqIjyyJV8M7LZXQu/dIQhDc="},
+{"name":"PRED-520mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်း အလုပ်ကိစ္စနဲ့ ခရီး3ရက်သွားတုန်း ယောက္ခထီး ပွဲကြမ်းတာ ခံလိုက်ရတဲ့အမျိုးသမီး...
+မင်းသမီးနာမည် Karen Yuzuriha",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/pre/pred00520/playlist.m3u8",
+"download":"https://www.mediafire.com/file/u42y1pcb2td3pvw/Pred-520sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-10-04_20-16-28-418.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00520/pred00520pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231004_200308.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231004_200719.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231004_200559.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/4jck16655zksude/Pred-520hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6f3TG7Z+cR7FzNs5v9pKbLPxWyEQKimtC4prJ2XVRsyA="}]
