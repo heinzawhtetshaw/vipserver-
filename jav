@@ -8868,4 +8868,33 @@ Misa ရဲ့ယောက်ျားဟာ သူမကို ငြီးင�
 "photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231004_200559.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/4jck16655zksude/Pred-520hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6f3TG7Z+cR7FzNs5v9pKbLPxWyEQKimtC4prJ2XVRsyA="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6f3TG7Z+cR7FzNs5v9pKbLPxWyEQKimtC4prJ2XVRsyA="},
+{"name":"AVOP-423mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သားဖြစ်သူရဲ့ကောင်မလေးကို အရက်မူးနေတုန်းရှယ်တီးလိုက်တဲ့ ဒယ်ဒီ
+မင်းသမီးနာမည် Sarina Kurokawa",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/avo/avop00423/avop00423_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/5vrgy9wsklam02m/AVOP_423%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-10-06_01-39-54-675.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/avop00423/avop00423pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231006_013745.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231006_013824.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/avop00423/avop00423jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/11re4knxdgfbbb6/AVOP_423%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb65k+vovCherICE1evlbJbepIC/mYUgNfvPRgm0kxZnSk="},
+{"name":"ADN-207mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကြောင်လေး ပျောက်လို့လိုက်ရှာရင်း 
+အရင်အလုပ်ကဂေါင်းကြီးက အလုပ်လက်မဲ့ဖြစ်နေတာကိုတွေ့တော့ သနားလို့အိမ်ခေါ်ထမင်းကျွေးမိရာကနေ ရှယ်တီးခံလိုက်ရတာ...
+မင်းသမီးနာမည် Akari Mitani",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/adn/adn00207/adn00207_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/5jc20fa3bq6zemz/Adn-207sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-10-06_01-51-55-371.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00207/adn00207pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231006_014813.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231006_014846.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231006_015040.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/pzetgf2zqgzyl9z/ADN-207hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RPWdO5W1vdxG91x0Piu3k3jhtUSkTKS0RyTRw8aHqqk="}]
