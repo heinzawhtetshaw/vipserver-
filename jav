@@ -8897,4 +8897,20 @@ Misa ရဲ့ယောက်ျားဟာ သူမကို ငြီးင�
 "photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231006_015040.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/pzetgf2zqgzyl9z/ADN-207hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RPWdO5W1vdxG91x0Piu3k3jhtUSkTKS0RyTRw8aHqqk="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6RPWdO5W1vdxG91x0Piu3k3jhtUSkTKS0RyTRw8aHqqk="},
+{"name":"SSNI-521mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းသားဟောင်းတွေ့ဆုံပွဲသွားမဲ့ မိန်းမကို ယောက်ျားဖြစ်သူက စိတ်ပူနေတာပေါ့
+ဘာတွေဆက်ဖြစ်မလဲ....
+ဘယ်ချိန်ကြည့်ကြည့် မရိုးသွားတဲ့ဇာတ်ကားလေး
+မင်းသမီးနာမည် Yua Mikami",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/ssn/ssni00542/ssni00542_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/sx6kygzuu5prx4l/Ssni-542sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/photo1/main/Picsart_23-10-07_01-43-51-568.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssni00542/ssni00542pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/AddText_10-07-01.38.24.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231007_014043.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231007_014150.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/0cxq1lwwoqatyw5/Ssni-542hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6kNf3gFuWVx/ehj4UEXv85jPLq50u4BxcgDCculjyO/o="}]
