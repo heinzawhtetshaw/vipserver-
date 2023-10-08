@@ -8913,4 +8913,35 @@ Misa ရဲ့ယောက်ျားဟာ သူမကို ငြီးင�
 "photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231007_014150.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/0cxq1lwwoqatyw5/Ssni-542hd.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6kNf3gFuWVx/ehj4UEXv85jPLq50u4BxcgDCculjyO/o="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6kNf3gFuWVx/ehj4UEXv85jPLq50u4BxcgDCculjyO/o="},
+{"name":"MIDV-465mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ပရိသတ်အချစ်တော် နာအိုရဲ့ဇာတ်ကားသစ်လေး
+ဒီကားထဲမှာတော့Naoတစ်ယောက် အိမ်ထောင်သည်မောင်လေးတစ်ယောက်ကိုHotelခေါ်စားထားပါတယ်
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00465/playlist.m3u8",
+"download":"https://www.mediafire.com/file/8bbmay9iy84tpgs/Midv-465sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-10-08_15-41-28-800.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00465/midv00465pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/midv00465/midv00465jp-2.jpg",
+"photo4":"https://github.com/minimyanmar/p6/blob/main/IMG_20231008_153825.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/midv00465/midv00465jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/duymnb1euc62z35/Midv-465Hd.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb62OjQ6b8cF2tR5B3eQp8CncM2TU5K04bYzyK37c80zRs="},
+{"name":"MEYD-547mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက္ခထီးနဲ့ယောက္ခမဟာ ညတိုင်းပွဲကြမ်းကြသလောက်
+ယောင်္ကျားကတော့အဖေခြေရာကိုတစက်မှမမှီပါဖူး
+ယောက္ခထီးရဲ့လက်စွမ်းတွေကို ညတိုင်းကြားနေမြင်နေရချိန်မှာတော့မာရီရာတယောက်မနေနိုင်တော့ပါ
+မင်းသမီးနာမည် Maria Nagai",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mey/meyd00547/meyd00547_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/9p8bcvkhjyhagvu/MEYD_547%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-10-08_16-11-02-926.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00547/meyd00547pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/meyd00547/meyd00547jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00547/meyd00547jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00547/meyd00547jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/qtjw98s50x9b06o/MEYD_547%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB3wm0H4uTD5WPAuHq+9S2LjY="}]
