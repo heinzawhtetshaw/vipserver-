@@ -8959,4 +8959,20 @@ Misa ရဲ့ယောက်ျားဟာ သူမကို ငြီးင�
 "photo5":"https://pics.dmm.co.jp/digital/video/61mdtm00388/61mdtm00388jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/0duxymo23d1gt2v/MDTM-388%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6YmPSJeEwMKMpigPGhfUA4zgEbffuHx6LMoYEGjD1Ysk="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6YmPSJeEwMKMpigPGhfUA4zgEbffuHx6LMoYEGjD1Ysk="},
+{"name":"SSIS-610mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းပိတ်ရက်ရွာပြန်လာတုန်း သူငယ်ချင်းအိမ်မှာတည်းရင်း no bra နဲ့ အိမ်ရှေ့ထွက်ပက်လက်အိပ်နေတဲ့ သူငယ်ချင်းရဲ့ အစ်မကြောင့် MC ရဲ့ နွေရာသီနေ့ရက်တွေက အဓိပ္ပာယ်ပြည့်စုံခဲ့ပါတယ်...
+
+သူငယ်ချင်းအိမ်မှာတည်းရင်း သူငယ်ချင်းအစ်မကို...
+မင်းသမီးနာမည် Mai Tsubasa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00610/playlist.m3u8",
+"download":"https://www.mediafire.com/file/aop998bhv23kssl/SSIS-610-RM%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-10-10_03-05-07-207.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00610/ssis00610pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00610/ssis00610jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00610/ssis00610jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00610/ssis00610jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/t6epse9g0smvhur/SSIS-610-RM%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6nLDHUzJ6UdRvv5h8TG3y3NyPtajXqWNgKanVFzb4i4Y="}]
