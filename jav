@@ -8944,4 +8944,19 @@ Misa ရဲ့ယောက်ျားဟာ သူမကို ငြီးင�
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00547/meyd00547jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/qtjw98s50x9b06o/MEYD_547%257EHD.mp4/file",
 "candownload":"",
-"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB3wm0H4uTD5WPAuHq+9S2LjY="}]
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6WOkxfn2KWqfhL3/ybCXB3wm0H4uTD5WPAuHq+9S2LjY="},
+{"name":"MDTM-388mmsub",
+"info":"မြန်ုမာစာတန်းထိုး
+မတွေ့ရတာကြာတဲ့ဦးလေးဆီ တခေါက်အလည်လာချိန်မှာတော့ နာအိုလဲအရွယ်ရောက်နေပါပီ 
+ဒီကားထဲမှာနာအိုကခုနောက်ပိုင်းကားတွေထက်ငယ်ပါသေးတယ် နာအိုရဲ့ငယ်အလှလေးကိုစားမြုံပြန်ရင်းကြည့်လိုက်ရအောင်........
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"",
+"download":"https://www.mediafire.com/file/7yvl2gevd63xj5w/MDTM-388%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p6/blob/main/Picsart_23-10-09_17-25-18-657.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/61mdtm00388/61mdtm00388pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/61mdtm00388/61mdtm00388jp-7.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/61mdtm00388/61mdtm00388jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/61mdtm00388/61mdtm00388jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/0duxymo23d1gt2v/MDTM-388%257EHD.mp4/file",
+"candownload":"",
+"wcode":"9IY4KeWhJgk55RO2AT0IXjsn7pvnLn9CZzFpYthVsKkOsDkzKx8Wxo+BONOXcFb6YmPSJeEwMKMpigPGhfUA4zgEbffuHx6LMoYEGjD1Ysk="}]
