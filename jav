@@ -8968,7 +8968,7 @@ Misa ရဲ့ယောက်ျားဟာ သူမကို ငြီးင�
 မင်းသမီးနာမည် Mai Tsubasa",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00610/playlist.m3u8",
 "download":"https://www.mediafire.com/file/aop998bhv23kssl/SSIS-610-RM%257ESD.mp4/file",
-"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-10-10_03-05-07-207.jpg",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-10-10_03-05-07-207.jpg?raw=true",
 "photo2":"https://pics.dmm.co.jp/digital/video/ssis00610/ssis00610pl.jpg",
 "photo3":"https://pics.dmm.co.jp/digital/video/ssis00610/ssis00610jp-1.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/ssis00610/ssis00610jp-6.jpg",
