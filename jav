@@ -13,4 +13,19 @@
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00836/ssis00836jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/bmyvxn9egi5qbpf/Ssis-836Hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL-972mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အကိတ်မလေးဟာ အိမ်ထောင်ပြုတော့မှာဖြစ်တဲ့အတွက် အလုပ်ကလူတွေကိုနှုတ်ဆက်တဲ့အနေနဲ့ အပျော်ခရီးထွက်လာခဲ့ပါတယ်
+ညစာစားပြီးအရက်မူးနေတုန်း လူကြီးတစ်ယောက်နှိုက်မြည်းသွားတာ ခံလိုက်ရတယ်
+မင်းသမီးနာမည် Nina Nishimura",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00972/playlist.m3u8",
+"download":"https://www.mediafire.com/file/v4tgu7eeloyb8oc/JUL-972%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-11_00-09-29-915.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00972/jul00972pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00972/jul00972jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00972/jul00972jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00972/jul00972jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/phebeeud7zw1tsw/JUL-972%257EHD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
