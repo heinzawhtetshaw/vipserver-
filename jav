@@ -28,4 +28,21 @@
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00972/jul00972jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/phebeeud7zw1tsw/JUL-972%257EHD.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"တစ်"},
+{"name":"ROYD-139mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဖေက သူ့သူငယ်ချင်းရဲ့သားနဲ့ အိမ်ထောင်ပြုပေးပါတော့မှာမို့ 
+လင်မယူချင်တဲ့သူမဟာ ရုံးက‌လုပ်ဖော်ကိုင်ဖက်ကျော်ကြီးကို ရည်းစားအဖြစ်ဟန်ဆောင်ခိုင်းပြီး အိမ်သို့ခေါ်လာခဲ့ပါတယ်...
+
+ညဘက်ရောက်တဲ့အခါ မိဘတွေက သူတို့နှစ်ယောက်ကို အခန်းတစ်ခန်းထဲမှာ အတူပေးအိပ်လာတဲ့အခါ....
+မင်းသမီးနာမည် Sakura Kurumi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roy/royd00139/playlist.m3u8",
+"download":"https://www.mediafire.com/file/l329hj0fwg7xge2/Royd-139sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-12_01-57-48-473.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/royd00139/royd00139pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/royd00139/royd00139jp-1.jpg",
+"photo4":"https://github.com/minimyanmar/p4/blob/main/IMG_20231012_014050.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/p4/blob/main/IMG_20231012_014246.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/7yskt7f85wzhkgo/Royd-139hd.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjGSRxUY9xYXiIxxsPGTYYC6d6eJdvNUNO4kk+sTVlbK4="}]
