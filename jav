@@ -45,4 +45,18 @@
 "photo5":"https://github.com/minimyanmar/p4/blob/main/IMG_20231012_014246.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/7yskt7f85wzhkgo/Royd-139hd.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjGSRxUY9xYXiIxxsPGTYYC6d6eJdvNUNO4kk+sTVlbK4="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjGSRxUY9xYXiIxxsPGTYYC6d6eJdvNUNO4kk+sTVlbK4="},
+{"name":"JUQ-222mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောက္ခမကို ရှယ်ကျွေးလိုက်တဲ့ သမက်လေး
+မင်းသမီးနာမည် Kanna Fuji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00222/playlist.m3u8",
+"download":"https://www.mediafire.com/file/x0qq9q3ooq8kaku/JUQ-222-RM%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-13_02-18-37-084.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00222/juq00222pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00222/juq00222jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00222/juq00222jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00222/juq00222jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/8ajiakfy2vxoike/JUQ-222-RM%257EHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjX2G3SvwB36cp/uuQ0BYQvY03LFaIINdnRIrGFOGxghg="}]
