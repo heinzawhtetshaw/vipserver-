@@ -59,4 +59,19 @@
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00222/juq00222jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/8ajiakfy2vxoike/JUQ-222-RM%257EHD.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjX2G3SvwB36cp/uuQ0BYQvY03LFaIINdnRIrGFOGxghg="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjX2G3SvwB36cp/uuQ0BYQvY03LFaIINdnRIrGFOGxghg="},
+{"name":"DLDSS-180mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယူကီဆိုတဲ့ကောင်လေးကို အလုပ်ကဆူဇူမဲဆိုတဲ့မမကသဘောရိုးနဲ့ကြည့်ရှုစောင့်ရှောက်ပေးပါတယ် 
+ယူကီကိုအလုပ်ကူလုပ်ပေးဖို့ အချိန်ပိုတူတူဆင်းကြရာမှာ ယူကီကထင်ထားသလို လူရိုးလေးမဟုတ်ဖူးဆိုတာသိလိုက်ရချိန်မှာတော့ ဘုခံနေရပါပီ...
+မင်းသမီးနာမည် Suzume Mino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1dl/1dldss180/playlist.m3u8",
+"download":"https://www.mediafire.com/file/kq3w78yux8ngx2b/DLDSS-180-RM%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-13_18-46-04-292.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/1dldss180/1dldss180pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1dldss180/1dldss180jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1dldss180/1dldss180jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1dldss180/1dldss180jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/tltfwr3ywgqf2wg/DLDSS-180-RM%257EHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjCB1Aq5PXTAYUqAJeykasy7Txy3oc+6fpfN3CP44lfU8="}]
