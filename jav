@@ -74,4 +74,21 @@
 "photo5":"https://pics.dmm.co.jp/digital/video/1dldss180/1dldss180jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/tltfwr3ywgqf2wg/DLDSS-180-RM%257EHD.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjCB1Aq5PXTAYUqAJeykasy7Txy3oc+6fpfN3CP44lfU8="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjCB1Aq5PXTAYUqAJeykasy7Txy3oc+6fpfN3CP44lfU8="},
+{"name":"JUQ-090mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းဖြစ်သူက ကုမ္မဏီဆုံးရှုံးလိုက်ရလို့ စိတ်ဓာတ်တွေကျပြီး အိပ်ယာထဲလှဲနေတယ်
+ဒီလိုနဲ့အိမ်ရဲ့စားဝတ်နေရေးအတွက် ပိုက်ဆံရှာဖို့ မိန်းမဖြစ်သူ ကာနာရဲ့တာဝန်ဖြစ်လာတယ်...
+ဘာမှလည်းသိပ်မလုပ်တက်တော့ ယောက်ျားတွေရဲ့ဆန္ဒကိုဖြည့်စီးပေးရတဲ့အလုပ်ကို ယောက်ျားမသိအောင်ခိုးလုပ်တယ်..
+တိုင်ဆိုင်ချင်တော့ ကျောင်းသူဘဝတုန်းက လိင်ပိုင်းဆိုင်ရာစော်ကားခဲ့တဲ့ဆရာနဲ့တွေ့ပီး ရှယ်တီးခံရတော့တာ
+မင်းသမီးနာမည် Kanako Ioka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00090/playlist.m3u8",
+"download":"https://www.mediafire.com/file/9vdkrqjhjb8oxtu/Juq-090sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p4/main/Picsart_23-10-14_02-52-25-540.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00090/juq00090pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00090/juq00090jp-1.jpg",
+"photo4":"https://github.com/minimyanmar/p4/blob/main/IMG_20231014_024850.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/p4/blob/main/IMG_20231014_025133.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/8j3p0ixlycj72yo/Juq-090Hd.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tj/57yTHF8Dht/zaoivoCgtbTi3ZEV1pu6Lwy1nZbwvzI="}]
