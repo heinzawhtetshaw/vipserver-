@@ -91,4 +91,19 @@
 "photo5":"https://github.com/minimyanmar/p4/blob/main/IMG_20231014_025133.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/8j3p0ixlycj72yo/Juq-090Hd.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tj/57yTHF8Dht/zaoivoCgtbTi3ZEV1pu6Lwy1nZbwvzI="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tj/57yTHF8Dht/zaoivoCgtbTi3ZEV1pu6Lwy1nZbwvzI="},
+{"name":"MEYD-836mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Ai Sayama တစ်ယောက် မိဘရဲ့ အိမ်ကြီးကို ပြုပြင်ဖို လူမနေတဲ့ အိမ်ကြီးကိုလာခဲ့ပါတယ် အိမ်အခန်းထဲက အငွေ့အသက်တွေကြောင့် ငယ်ဘဝကို သတိရပြီး အာသာဖြေနေတုန်း အိမ်မှာပုန်းအောင်းနေတဲ့ ကောင်လေးကတွေ့သွားပြီး ..... 
+ဘာတွေဆက်ဖြစ်လဲဆိုတာကတော့.......
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00836/playlist.m3u8",
+"download":"https://www.mediafire.com/file/06qk9oasqnxgfp6/MEYD-836-RMsd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-14_15-49-47-764.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00836/meyd00836pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/meyd00836/meyd00836jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00836/meyd00836jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00836/meyd00836jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/menrgas3xaqavxv/MEYD-836-RMHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjoMhtJ4FuiKsD+5TgM19XofjRM53w0vrF7CrCB1NMC/8="}]
