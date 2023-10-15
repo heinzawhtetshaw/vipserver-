@@ -106,4 +106,34 @@ Ai Sayama တစ်ယောက် မိဘရဲ့ အိမ်ကြီး�
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00836/meyd00836jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/menrgas3xaqavxv/MEYD-836-RMHD.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjoMhtJ4FuiKsD+5TgM19XofjRM53w0vrF7CrCB1NMC/8="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjoMhtJ4FuiKsD+5TgM19XofjRM53w0vrF7CrCB1NMC/8="},
+{"name":"MIAE-291mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီဇာတ်လမ်းလေးထဲမှာလည်း အထက်တန်းကျောင်းတစ်ခုကကျောင်းသားကျော်ကြီးတစ်ယောက် websiteတစ်ခုကနေဘာမသိညာမသိနဲ့အချိန်ရပ်တဲ့နာရီလေးတစ်ခုဝယ်လာပြီးကျောင်းမှာစမ်းကြည့်တဲ့အခါ တစ်ကယ်အလုပ်ဖြစ်မှန်းသိလိုက်ရတဲ့အခါကျော်ကြီးတစ်ယောက်ဘယ်လိုအကြံပက်စက်မလဲ 
+မင်းသမီးနာမည် Yu Shinoda",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mia/miae00291/miae00291_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/wespnlyyjec2c6e/Miae-291sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p4/main/Picsart_23-10-15_15-31-45-975.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/miae00291/miae00291pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/miae00291/miae00291jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/miae00291/miae00291jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/miae00291/miae00291jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/ryp2zhbmmguywhp/MIAE-291hd.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjoFtF+g5NyR//zZzwad1DDlTpAvSTQtDFkrdOAW11c4c="},
+{"name":"MEYD-532mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Reona က အလုပ်မရှိအကိုင်မရှိ ဖြစ်နေတဲ့ 
+ယောက်ျားကိုရှာကျွေးဖိုအတွက်ကုမ္ပဏီမှာ အချိန်ပိုဆင်းနေရပါတယ်
+အလုပ်မှာ Reona ရဲ့ အထက်အရာရှိက စားဘဲကြီးဖြစ်နေသောအခါ ....
+မင်းသမီးနာမည် Leona Kirishima",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mey/meyd00532/meyd00532_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/6gtg36533mr3tik/MEYD-532-RM%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-15_15-57-20-509.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00532/meyd00532pl.jpg",
+"photo3":"https://github.com/minimyanmar/p4/blob/main/IMG_20231015_155236.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00532/meyd00532jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00532/meyd00532jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/h2xfczlm969d6sh/MEYD-532-RM%257EHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjoMhtJ4FuiKsD+5TgM19XoY9wiCjhTrtmkUHJ5nbTjDs="}]
