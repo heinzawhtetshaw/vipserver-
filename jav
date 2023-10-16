@@ -136,4 +136,20 @@ Reona က အလုပ်မရှိအကိုင်မရှိ ဖြစ်
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00532/meyd00532jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/h2xfczlm969d6sh/MEYD-532-RM%257EHD.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjoMhtJ4FuiKsD+5TgM19XoY9wiCjhTrtmkUHJ5nbTjDs="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjoMhtJ4FuiKsD+5TgM19XoY9wiCjhTrtmkUHJ5nbTjDs="},
+{"name":"ADN-499mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယူကီဆိုတဲ့ကောင်လေးဟာ အလုပ်မှာအသုံးမကျလို့ လစာတွေအဖြတ်ခံရပြီး အရှုံးသမား‌တစ်ယောက်ဖြစ်နေပေမယ့် 
+ကုမ္ပဏီမှာ အချောဆုံးဖြစ်တဲ့ဌာနမူးမမကိုမှ မှန်းနေခဲ့တာ
+ဘာတွေဆက်ဖြစ်မလဲ
+မင်းသမီးနာမည် Miu Shiromine",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00499/playlist.m3u8",
+"download":"https://www.mediafire.com/file/gt8h2xrrx88php4/ADN-499%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-16_18-37-03-296.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00499/adn00499pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/adn00499/adn00499jp-9.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00499/adn00499jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00499/adn00499jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/3hymjjd81k7ma32/ADN-499%257EHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjpv5g9UIuR4quNzvlVzdR+Xi6/8K1kWWvftDVaQ9HsEE="}]
