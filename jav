@@ -166,5 +166,5 @@ Reona က အလုပ်မရှိအကိုင်မရှိ ဖြစ်
 "photo4":"https://pics.dmm.co.jp/digital/video/adn00493/adn00493jp-1.jpg",
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00493/adn00493jp-7.jpg",
 "dapp":"WfG0lRPuxa13t0Ju98TpQkxCK0h6b+Ic2TutdkiAEPAE6hOZe1fhjoqZmk90ld4neyXLQmxu49LQZTNnODQ95/NJYhLp8u1EASolxeZ6nG8=",
-"candownload":"",
+"candownload":"0ff",
 "wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tj0LerEA+ZPoIyFXhTj/8Zw4nqJPMhp7GH0rY74AwPlTg="}]
