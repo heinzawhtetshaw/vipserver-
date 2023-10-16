@@ -152,4 +152,19 @@ Reona က အလုပ်မရှိအကိုင်မရှိ ဖြစ်
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00499/adn00499jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/3hymjjd81k7ma32/ADN-499%257EHD.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjpv5g9UIuR4quNzvlVzdR+Xi6/8K1kWWvftDVaQ9HsEE="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjpv5g9UIuR4quNzvlVzdR+Xi6/8K1kWWvftDVaQ9HsEE="},
+{"name":"ADN-493mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တစ်ပတ်မှာတစ်ရက် ဇနီးချင်းလဲပြီး အတူနေကြတဲ့အခါ...
+ဘာလို့အဲ့လိုနေဖြစ်ကြတာလဲ အဆင်ရောပြေကြမလား ဘယ်လိုနောက်ဆက်တွဲတွေဖြစ်လာမလဲဆိုတာ ဇာတ်လမ်းထဲမှာကြည့်ရှုလိုက်ကြပါအုံး
+မင်းသမီးနာမည် Kanako Ioka/ Tsubasa Hachino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00493/playlist.m3u8",
+"download":"WfG0lRPuxa13t0Ju98TpQob0DyIq1le13yrPHJJV9QIIEZMB3rgrnz91x6l1iyDAkOMxAlTQhd1kclOgpUWLlhxoregpzHT3J54TXT7X0g8=",
+"photo1":"https://github.com/minimyanmar/photo1/blob/main/Picsart_23-10-17_02-58-25-663.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00493/adn00493pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20231017_025742.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00493/adn00493jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00493/adn00493jp-7.jpg",
+"dapp":"WfG0lRPuxa13t0Ju98TpQkxCK0h6b+Ic2TutdkiAEPAE6hOZe1fhjoqZmk90ld4neyXLQmxu49LQZTNnODQ95/NJYhLp8u1EASolxeZ6nG8=",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tj0LerEA+ZPoIyFXhTj/8Zw4nqJPMhp7GH0rY74AwPlTg="}]
