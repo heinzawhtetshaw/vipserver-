@@ -167,4 +167,18 @@ Reona က အလုပ်မရှိအကိုင်မရှိ ဖြစ်
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00493/adn00493jp-7.jpg",
 "dapp":"WfG0lRPuxa13t0Ju98TpQkxCK0h6b+Ic2TutdkiAEPAE6hOZe1fhjoqZmk90ld4neyXLQmxu49LQZTNnODQ95/NJYhLp8u1EASolxeZ6nG8=",
 "candownload":"0ff",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tj0LerEA+ZPoIyFXhTj/8Zw4nqJPMhp7GH0rY74AwPlTg="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tj0LerEA+ZPoIyFXhTj/8Zw4nqJPMhp7GH0rY74AwPlTg="},
+{"name":"JUL-976mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းအိမ်ကိုသွားလည်ပြီး သူငယ်ချင်းရဲ့အမေကို ကျွေးထည့်လိုက်တဲ့ဇာတ်လမ်း...
+မင်းသမီးနာမည် Reiko Kobayakawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00976/playlist.m3u8",
+"download":"https://www.mediafire.com/file/xn7rqs65pgqle4m/JUL-976-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-18_01-56-38-189.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00976/jul00976pl.jpg",
+"photo3":"https://github.com/minimyanmar/p4/blob/main/IMG_20231018_015423.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00976/jul00976jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00976/jul00976jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/x1opit4vy9f9u98/JUL-976-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjQ6Wv6OdL1o2/WZ3Ald/+0JKkjsjx8XN8ajTDssWSPN4="}]
