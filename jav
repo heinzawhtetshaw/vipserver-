@@ -181,4 +181,35 @@ Reona က အလုပ်မရှိအကိုင်မရှိ ဖြစ်
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00976/jul00976jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/x1opit4vy9f9u98/JUL-976-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjQ6Wv6OdL1o2/WZ3Ald/+0JKkjsjx8XN8ajTDssWSPN4="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjQ6Wv6OdL1o2/WZ3Ald/+0JKkjsjx8XN8ajTDssWSPN4="},
+{"name":"NSPS-861mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ငှားထားတဲ့ လူကိုမောင်းထုတ်မိလို မိန်းမပေးလိုက်ရတဲ့ဇာတ်ကားလေးပဲဖြစ်ပါတယ်။
+Rinne Touka ရဲ့ယောက်ျားဟာ သူအိမ်ငှားထားတဲ့အောက်ထပ်က ကျောင်းသားလေးကို ငွေလိုနေတာကြောင့် အိမ်လခမပေးနိုင် လိုဆိုပြီး မောင်းထုတ်လိုက်ပါတယ်
+မင်းသမီးနာမည် Touka Rinne",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/n/nsp/nsps861/nsps861_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/0wjd9hkwl4bcq83/NSPS-861%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-18_17-42-30-234.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsps00861/nsps00861pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nsps00861/nsps00861jp-8.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsps00861/nsps00861jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsps00861/nsps00861jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/k2xqcmiahrjzavo/NSPS-861%257EHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjpFTXFJ3LfuKEQ3FnMgkYVrM8Qzo8QhLKIWBB+/wKf64="},
+{"name":"MIDV-488mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းတစ်ခုရဲ့အားကစားအသင်းမှာ ကျောင်းသူ မိန်းကလေးတစ်ယောက်ပဲရှိတယ်
+အထွေထွေ မန်နေဂျာရာထူးယူထားပြီးတော့ အသင်းသားတွေရဲ့အဝတ်တွေ လျှော်ပေးရတယ်
+တစ်ရက်အသင်းသားတစ်ယောက် အကြောတင်းနေတာကို နည်းပြကြီးက အကြောလျှော့ပေးခိုင်းလာတဲ့အခါ...
+မင်းသမီးနာမည် Mio Ishikawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00488/playlist.m3u8",
+"download":"https://www.mediafire.com/file/3ha6e3zkgn78fbm/Midv-488sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-18_17-41-43-293.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00488/midv00488pl.jpg",
+"photo3":"https://github.com/minimyanmar/p4/blob/main/IMG_20231018_174001.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/midv00488/midv00488jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/midv00488/midv00488jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/7du81ok7yo5xbes/MIDV-488hd.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjASJ8Nt6ISKpN3CqoEfhDQoeZChSGjq6/kRLcGeCSkSY="}]
