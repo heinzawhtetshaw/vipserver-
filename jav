@@ -212,4 +212,18 @@ Rinne Touka ရဲ့ယောက်ျားဟာ သူအိမ်ငှာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/midv00488/midv00488jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/7du81ok7yo5xbes/MIDV-488hd.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjASJ8Nt6ISKpN3CqoEfhDQoeZChSGjq6/kRLcGeCSkSY="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjASJ8Nt6ISKpN3CqoEfhDQoeZChSGjq6/kRLcGeCSkSY="},
+{"name":"ROE-161mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နွေရာသီမှာ တူဖြစ်သူက အဒေါ်ရဲ့ အိမ်သွားပြီးနေထိုင်ရင်း သူ့အဒေါ်ကို ဘုချင်လို့ ဆေးခတ်ခဲ့ပါတယ် 
+မင်းသမီးနာမည် Reiko Seo",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roe/roe00161/playlist.m3u8",
+"download":"https://www.mediafire.com/file/x6g6kds5g2dhqq2/Roe-161sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-19_18-23-50-611.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/roe00161/roe00161pl.jpg",
+"photo3":"https://github.com/minimyanmar/p4/blob/main/IMG_20231019_182250.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/roe00161/roe00161jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/roe00161/roe00161jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/i6gebs17y1ucdam/Roe-161Hd.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjvqz/YUyxL8J2Eq8WmvZGesLcZBWPY8oie8e5OxqUtZc="}]
