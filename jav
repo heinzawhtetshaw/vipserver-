@@ -226,4 +226,18 @@ Rinne Touka ရဲ့ယောက်ျားဟာ သူအိမ်ငှာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/roe00161/roe00161jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/i6gebs17y1ucdam/Roe-161Hd.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjvqz/YUyxL8J2Eq8WmvZGesLcZBWPY8oie8e5OxqUtZc="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjvqz/YUyxL8J2Eq8WmvZGesLcZBWPY8oie8e5OxqUtZc="},
+{"name":"FSDSS-364mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်ပြုတ်ပြီးအကြွေးတွေဝိုင်းနေလို့ ငွေလိုချင်နေတဲ့အဖေဖြစ်သူက သမ‌ီးချောလေးကို သူဌေးကြီးတစ်ယောက်ရဲ့လက်ထဲကို ထိုးအပ်လိုက်တဲ့အခါမှာတော့...
+မင်းသမီးနာမည် Rin Natsuki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1fs/1fsdss364/playlist.m3u8",
+"download":"https://www.mediafire.com/file/f40xinlpoidoaj4/Fsdss-364sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-20_02-49-22-567.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/1fsdss00364/1fsdss00364pl.jpg",
+"photo3":"https://github.com/minimyanmar/p4/blob/main/IMG_20231020_024436.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/p4/blob/main/IMG_20231020_024356.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/1fsdss00364/1fsdss00364jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/za8h4gi08yxzc8u/FSDSS-364hd.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjUf3EwhMVCNfIAEAZPbnDhNuKUKWl6VrlDWI+aoUhESM="}]
