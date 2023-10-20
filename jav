@@ -240,4 +240,19 @@ Rinne Touka ရဲ့ယောက်ျားဟာ သူအိမ်ငှာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/1fsdss00364/1fsdss00364jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/za8h4gi08yxzc8u/FSDSS-364hd.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjUf3EwhMVCNfIAEAZPbnDhNuKUKWl6VrlDWI+aoUhESM="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjUf3EwhMVCNfIAEAZPbnDhNuKUKWl6VrlDWI+aoUhESM="},
+{"name":"SSPD-124mmsub",
+"info":"မြန်မာစာတန်းထိုး
+နည်းပြဆရာဟာ အသင်းသူလေးတွေကို မဖွယ်မရာပြုကျင့်နေတဲ့ သတင်းတွေထွက်နေတာကြောင့် 
+ဆရာမလေး Rina ဟာ စုံစမ်းဖို့ အသင်းရဲ့အကြံပေးအဖြစ်၀င်လုပ်ကာ အထက်ကိုပြန်တိုင်ဖိုကြံနေပါတယ်။ ဒါကိုရိပ်မိတဲ့ ဆရာ Tamiya ကတော့ သူ့ကိုဒီလိုကျောရလားဆိုကာ....
+မင်းသမီးနာမည် Rina Ishihara",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/ssp/sspd00124/sspd00124_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/yuz72i3ynhn1itn/SSPD-124-RM%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Picsart_23-10-20_18-51-15-203.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/sspd00124/sspd00124pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/sspd00124/sspd00124jp-7.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/sspd00124/sspd00124jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/sspd00124/sspd00124jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/p5cbaqjygnk4fpp/SSPD-124-RM%257EHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjeGVLUQuJPk6760zZD7T85vybfnDL1iy5cwlwBmherXg="}]
