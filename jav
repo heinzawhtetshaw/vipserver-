@@ -255,4 +255,18 @@ Rinne Touka ရဲ့ယောက်ျားဟာ သူအိမ်ငှာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/sspd00124/sspd00124jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/p5cbaqjygnk4fpp/SSPD-124-RM%257EHD.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjeGVLUQuJPk6760zZD7T85vybfnDL1iy5cwlwBmherXg="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjeGVLUQuJPk6760zZD7T85vybfnDL1iy5cwlwBmherXg="},
+{"name":"MIDV-489mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဝူဘာဟာ ဘက်စကတ်ဘောအရမ်းဝါသနာပါတဲ့ကောင်မလေးတစ်ယောက်ပါ တစ်နေ့မှာသူ့ရဲ့စီနီယာကသူတို့ကွင်းမှာလာကစားဖို့ဖိတ်ရာကသွားကစားရာကနေ အဲ့ဒီကဘက်စကတ်ဘောအသင်းရဲ့အနိုင်ကျင့်တာခံရပါတော့တယ်
+မင်းသမီးနာမည် Itsuwa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00489/playlist.m3u8",
+"download":"https://www.mediafire.com/file/cqmq9036q3l9mly/Midv-489sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-21_01-00-15-751.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00489/midv00489pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/midv00489/midv00489jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/midv00489/midv00489jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/midv00489/midv00489jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/dj0968ihnbndpvr/MIDV-489hd.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjASJ8Nt6ISKpN3CqoEfhDQiIxuikGJIYwfVnyhPoBdoA="}]
