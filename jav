@@ -283,4 +283,20 @@ Rinne Touka ရဲ့ယောက်ျားဟာ သူအိမ်ငှာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/1dldss211/1dldss211jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/mlz9dh92563lmj8/DLDSS-211%257EHD.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjCB1Aq5PXTAYUqAJeykasy1515wgXErCjR4UwE4CJHiY="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjCB1Aq5PXTAYUqAJeykasy1515wgXErCjR4UwE4CJHiY="},
+{"name":"RBK-050mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီကားလေးမှာတော့ Sumire Mizukawa ဟာ ကုမ္ပဏီတစ်ခုရဲ့ ပရိုဂရမ်တစ်ခုလုံးကိုသေချာလုပ်ပေးနေရတဲ့ အိုင်တီပညာရှင်မမဖြစ်ပါတယ်
+တစ်ချိန်ထဲမှာပဲ စိတ်ယုတ်မာမွေးပြီး သူ့ပရိုဂရမ်ကို Hack ချင်နေတဲ့ Hacker ဆိုတဲ့ငနဲသားကလည်း ပရိုဂရမ်က အရမ်းတင်းကြပ်ထားတော့ Hack မရဘဲ ဖြစ်နေတယ်။
+သူ့ရဲ့အကြံကတော့ Hack မရတဲ့အဆုံး ဘာတွေဆက်လုပ်မလဲ..
+မင်းသမီးနာမည် Sumire Mizukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/rbk/rbk00050/playlist.m3u8",
+"download":"https://www.mediafire.com/file/wv33kyz1b9bdnw4/RBK-050%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-22_02-01-49-749.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/rbk00050/rbk00050pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/rbk00050/rbk00050jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/rbk00050/rbk00050jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/rbk00050/rbk00050jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/c4zlgycnal2sq4e/RBK-050%257EHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjfqk19O2rtkfbTEkj5HceqsN6UW07xmB8Z15QOiO9QL8="}]
