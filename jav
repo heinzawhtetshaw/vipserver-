@@ -269,4 +269,18 @@ Rinne Touka ရဲ့ယောက်ျားဟာ သူအိမ်ငှာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/midv00489/midv00489jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/dj0968ihnbndpvr/MIDV-489hd.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjASJ8Nt6ISKpN3CqoEfhDQiIxuikGJIYwfVnyhPoBdoA="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjASJ8Nt6ISKpN3CqoEfhDQiIxuikGJIYwfVnyhPoBdoA="},
+{"name":"DLDSS-211mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကောင်လေးအိမ်ကိုအလည်သွားတဲ့ Suzume ဟာ ကောင်လေးရဲ့ဘေးအိမ်က အဘိုးကြီးက အောကား ကို အကျယ်ကြီး ဖွင့်ကြည့်တာကို နားညီးလို့ သွားပြောမိရာကနေ...
+မင်းသမီးနာမည် Suzume Mino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1dl/1dldss211/playlist.m3u8",
+"download":"https://www.mediafire.com/file/90oegelj8m58l0e/DLDSS-211%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-21_16-00-13-620.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/1dldss211/1dldss211pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1dldss211/1dldss211jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1dldss211/1dldss211jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1dldss211/1dldss211jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/mlz9dh92563lmj8/DLDSS-211%257EHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjCB1Aq5PXTAYUqAJeykasy1515wgXErCjR4UwE4CJHiY="}]
