@@ -299,4 +299,20 @@ Rinne Touka ရဲ့ယောက်ျားဟာ သူအိမ်ငှာ�
 "photo5":"https://pics.dmm.co.jp/digital/video/rbk00050/rbk00050jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/c4zlgycnal2sq4e/RBK-050%257EHD.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjfqk19O2rtkfbTEkj5HceqsN6UW07xmB8Z15QOiO9QL8="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjfqk19O2rtkfbTEkj5HceqsN6UW07xmB8Z15QOiO9QL8="},
+{"name":"JUL-909mmsub",
+"info":"မြန်မာစာတန်းထိုး
+mizunoတို့လင်မယားနဲ့အတူ ယောင်္ကျားရဲ့ညီကလဲအိမ်မှာနေပါတယ် 
+ရူဂျီကစာစိတ်မဝင်စားဘဲတခြားအရာမှာဘဲစိတ်ဝင်စားတာကြောင့် ရူဂျီနဲ့ သူ့သူငယ်ချင်းတို့ကြိုးစားဖန်တီးထားတဲ့အရာကို mizunoကလွှင့်ပစ်လိုက်ပါတယ် 
+ဒီလိုနဲ့ရူဂျီလဲအငြိုးထားပီး မရီးကိုသူ့သူငယ်ချင်းတွေနဲ့အတူ အိမ်မှာမနားတမ်းပြန်ပေးဆပ်ခိုင်းပါတော့တယ်....
+မင်းသမီးနာမည် Asahi Mizuno",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00909/playlist.m3u8",
+"download":"https://www.mediafire.com/file/wu5lnsewvjq41w2/JUL-909-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-22_21-10-58-481.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00909/jul00909pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00909/jul00909jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00909/jul00909jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00909/jul00909jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/rzl49p9vbb3ve2b/JUL-909-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjQ6Wv6OdL1o2/WZ3Ald/+0MsxhQmCqBkND4G2tT07lEw="}]
