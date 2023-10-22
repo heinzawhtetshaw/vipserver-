@@ -315,4 +315,20 @@ mizunoတို့လင်မယားနဲ့အတူ ယောင်္က�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00909/jul00909jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/rzl49p9vbb3ve2b/JUL-909-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjQ6Wv6OdL1o2/WZ3Ald/+0MsxhQmCqBkND4G2tT07lEw="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjQ6Wv6OdL1o2/WZ3Ald/+0MsxhQmCqBkND4G2tT07lEw="},
+{"name":"RBK-082mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လင်မယားနှစ်ယောက်အိပ်ပျော်နေတုန်း မျက်နှာဖုံးနဲ့လူတစ်စုရဲ့ဖမ်းတာခံလိုက်ရတယ်
+ပြီးတော့ အူကြောင်ကြောင် ကဒ်တွေနဲ့ ဂိမ်းကစားခိုင်းပါတော့တယ်
+ကစားနည်းကအူကြောင်ကြောင်နဲ့ဆိုပေမယ့် ဇာတ်လမ်းလေးက အဓိပ္ပါယ်ရှိပါတယ်
+မင်းသမီးနာမည် Kanna Misaki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/rbk/rbk00082/playlist.m3u8",
+"download":"https://www.mediafire.com/file/wq5ia7t10d5t5ef/Rbk-082Hd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-23_02-17-45-208.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/rbk00082/rbk00082pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/rbk00082/rbk00082jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/rbk00082/rbk00082jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/rbk00082/rbk00082jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/wq5ia7t10d5t5ef/Rbk-082Hd.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tji4oRwVk7s/6Gh8H3uDXoFa2L3z1IHzyvg2WiGE+f7EA="}]
