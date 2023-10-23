@@ -323,7 +323,7 @@ mizunoတို့လင်မယားနဲ့အတူ ယောင်္က�
 ကစားနည်းကအူကြောင်ကြောင်နဲ့ဆိုပေမယ့် ဇာတ်လမ်းလေးက အဓိပ္ပါယ်ရှိပါတယ်
 မင်းသမီးနာမည် Kanna Misaki",
 "watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/rbk/rbk00082/playlist.m3u8",
-"download":"https://www.mediafire.com/file/wq5ia7t10d5t5ef/Rbk-082Hd.mp4/file",
+"download":"https://www.mediafire.com/file/mblmzhthgjl9uz6/Rbk-082sd.mp4/file",
 "photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-23_02-17-45-208.jpg?raw=true",
 "photo2":"https://pics.dmm.co.jp/digital/video/rbk00082/rbk00082pl.jpg",
 "photo3":"https://pics.dmm.co.jp/digital/video/rbk00082/rbk00082jp-2.jpg",
