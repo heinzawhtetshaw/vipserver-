@@ -331,4 +331,32 @@ mizunoတို့လင်မယားနဲ့အတူ ယောင်္က�
 "photo5":"https://pics.dmm.co.jp/digital/video/rbk00082/rbk00082jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/wq5ia7t10d5t5ef/Rbk-082Hd.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tji4oRwVk7s/6Gh8H3uDXoFa2L3z1IHzyvg2WiGE+f7EA="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tji4oRwVk7s/6Gh8H3uDXoFa2L3z1IHzyvg2WiGE+f7EA="},
+{"name":"JUL-987mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူများမိန်းမနဲ့ အလိုတူအလိုပါခိုးစားကြတဲ့ ဇာတ်ကားလေးပါ စလာကတည်းက affair ဖြစ်တဲ့ကားလေးပါ
+မင်းသမီးနာမည် Yumi Kazama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00987/playlist.m3u8",
+"download":"https://www.mediafire.com/file/oee2sima3scf6v4/Jul-987sd.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-24_01-37-34-714.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00987/jul00987pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00987/jul00987jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00987/jul00987jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00987/jul00987jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/3uclp6tlg87ml7n/Jul-987Hd.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjcKQDGaH+Lc69ENiBj6m4vrQljagB1fHrmT//vo8uaZg="},
+{"name":"JUQ-281mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇနီးချင်းလဲပြီးတီးတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Kanna Fuji /Haruka Rukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00281/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bt1fqndswq20jol/JUQ-281-MR%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-24_01-21-34-741.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00281/juq00281pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00281/juq00281jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00281/juq00281jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00281/juq00281jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/18mexo6v2v29qi3/JUQ-281-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjX2G3SvwB36cp/uuQ0BYQvRhhswZ61bPlFII3zCrjA9s="}]
