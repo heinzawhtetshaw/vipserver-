@@ -359,4 +359,19 @@ mizunoတို့လင်မယားနဲ့အတူ ယောင်္က�
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00281/juq00281jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/18mexo6v2v29qi3/JUQ-281-MR%257EHD.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjX2G3SvwB36cp/uuQ0BYQvRhhswZ61bPlFII3zCrjA9s="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjX2G3SvwB36cp/uuQ0BYQvRhhswZ61bPlFII3zCrjA9s="},
+{"name":"MEYD-391mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Ai Sayama ဟာ လှပပြီးကိတ်ထနေပေမယ့် သူမယောက်ျားက သူမကိုပစ်ထားပါတယ်
+ဒီလိုနဲ့ဆာလောင်နေတဲ့သူမကို အိမ်နီးနားချင်း ဦးလေးကြီးက ရှယ်တီးပေးသွားတဲ့ဇာတ်လမ်းလေး...
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mey/meyd00391/meyd00391_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/wn7nuf5gmaje2x6/MEYD-391%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-25_01-58-41-158.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00391/meyd00391pl.jpg",
+"photo3":"https://github.com/minimyanmar/p4/blob/main/IMG_20231025_015425.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/p4/blob/main/IMG_20231025_015254.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00391/meyd00391jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/h002u2l35g95agx/MEYD-391%257EHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjoMhtJ4FuiKsD+5TgM19XoZ65CnHdpE8uPG18im4LeEc="}]
