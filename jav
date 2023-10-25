@@ -374,4 +374,20 @@ Ai Sayama ဟာ လှပပြီးကိတ်ထနေပေမယ့် �
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00391/meyd00391jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/h002u2l35g95agx/MEYD-391%257EHD.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjoMhtJ4FuiKsD+5TgM19XoZ65CnHdpE8uPG18im4LeEc="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjoMhtJ4FuiKsD+5TgM19XoZ65CnHdpE8uPG18im4LeEc="},
+{"name":"IPX-896mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကောင်လေးနဲ့တူတူနေဖိုလုပ်ပေမယ့် အကာကွယ်မရှိလိုကောင်မလေးတယောက်စတိုးဆိုင်လာဝယ်ပါတယ် 
+ဝယ်ရမှာရှက်တော့ဆိုင်မှာလဲလူလစ်တာနဲ့ခိုးမိလိုက်တဲ့အခါမိသွားချိန်မှာတော့ သူ့ဘဝမှာတသက်မမေ့နိင်စရာအခိုက်အတန့်ဖြစ်သွားသလိုခိုးတာကိုလဲနောင်ကျဉ်သွားခဲ့ပါပီ 
+သူဘာတွေကြုံလိုက်ရလဲဆိုတာကိုတော့ရှုစားလိုက်ကြပါအုန်
+မင်းသမီးနာမည် Iyona Fujii",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00896/playlist.m3u8",
+"download":"https://www.mediafire.com/file/z2pyzc0c4ik2osq/IPX-896-RM%257ESD.mp4/file",
+"photo1":"https://github.com/minimyanmar/p4/blob/main/Picsart_23-10-26_01-33-05-525.jpg?raw=true",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00896/ipx00896pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipx00896/ipx00896jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipx00896/ipx00896jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipx00896/ipx00896jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/kxfv2n2vw8072zl/IPX-896-RM%257EHD.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tj/swtBH/UcVWSqbE6UPPleDZONdq3DSybqB8ITv0CN9o="}]
