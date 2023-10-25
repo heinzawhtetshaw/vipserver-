@@ -390,4 +390,20 @@ Ai Sayama ဟာ လှပပြီးကိတ်ထနေပေမယ့် �
 "photo5":"https://pics.dmm.co.jp/digital/video/ipx00896/ipx00896jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/kxfv2n2vw8072zl/IPX-896-RM%257EHD.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tj/swtBH/UcVWSqbE6UPPleDZONdq3DSybqB8ITv0CN9o="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tj/swtBH/UcVWSqbE6UPPleDZONdq3DSybqB8ITv0CN9o="},
+{"name":"JUQ-375mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်ကထွက်သွားတဲ့ဂျူနီယာ ကောင်မလေးရဲ့ယောကျာ်းကို အာမခံလုပ်ပေးမယ်ဆိုပြီးတော့ 
+အာမခံကုမ္ပဏီက အဒေါ်ကြီးက ကျန်းမာရေးစစ်ဆေးမှုတွေလုပ်တယ်
+ဆရာသမားကလည်း ငတ်ပြတ်နေတော့ ...
+မင်းသမီးနာမည် Yumi Kazama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00375/playlist.m3u8",
+"download":"https://www.mediafire.com/file/8z3aa1bjwzx0j1l/Juq-375sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p4/main/Picsart_23-10-26_02-17-09-717.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00375/juq00375pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00375/juq00375jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00375/juq00375jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00375/juq00375jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/wo1vy015nq1l5fj/Juq-375Hd.mp4/file",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tj/57yTHF8Dht/zaoivoCgtXd8cgigDl3cAhE8tSbSPJ4="}]
