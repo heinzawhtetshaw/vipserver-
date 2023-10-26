@@ -406,4 +406,23 @@ Ai Sayama ဟာ လှပပြီးကိတ်ထနေပေမယ့် �
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00375/juq00375jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/wo1vy015nq1l5fj/Juq-375Hd.mp4/file",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tj/57yTHF8Dht/zaoivoCgtXd8cgigDl3cAhE8tSbSPJ4="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tj/57yTHF8Dht/zaoivoCgtXd8cgigDl3cAhE8tSbSPJ4="},
+{"name":"DLDSS-199mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဟာနာဒါတစ်ယောက် ရုံးမှာအလုပ်လုပ်တာ နှေးလို့ အထက်လူကြီးမမရဲ့ဆူတာကို အမြဲခံနေရတယ်
+အခုလည်းအလုပ်မပြီးသေးလို့ ရုံးမှာ ဦးစီးမနဲ့နှစ်ယောက်တည်း အချိန်ပိုဆင်းနေရပြန်ပြီ
+အလုပ်လည်းပြီးရော ဦးစီးမက သူ့ကိုအရက်လိုက်တိုက်ခိုင်းလို့ လိုက်တိုက်ရပြန်တယ်
+အချိန်တွေနောက်ကျပြီး အိမ်ပြန်ဖို့ နောက်ဆုံးရထားလွတ်သွားတယ်
+ဒါနဲ့ပဲ ဦးစီးမကသူ့အိမ်မှာလိုက်အိပ်ဖို့ခွင့်ပေးတာနဲ့ လိုက်သွားလိုက်ရတယ်
+မင်းသမီးနာမည် Suzume Mino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1dl/1dldss199/playlist.m3u8",
+"download":"https://www.mediafire.com/file/naidi3w5jn55j1d/Dldss-199sd.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p4/main/Picsart_23-10-27_01-54-33-291.jpg",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/1dldss199/1dldss199pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p4/main/IMG_20231027_014924.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1dldss199/1dldss199jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1dldss199/1dldss199jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/k5m1mdjim42lcfr/Dldss-199Hd.mp4/file",
+"dmega":"https://megaup.net/3kDji/xxxmmsub.com_-_DLDSS-199.m4v",
+"candownload":"",
+"wcode":"တစ်"}]
