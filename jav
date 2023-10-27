@@ -425,4 +425,4 @@ Ai Sayama ဟာ လှပပြီးကိတ်ထနေပေမယ့် �
 "dapp":"https://www.mediafire.com/file/k5m1mdjim42lcfr/Dldss-199Hd.mp4/file",
 "dmega":"https://megaup.net/3kDji/xxxmmsub.com_-_DLDSS-199.m4v",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjTZwrw7gosHlEmp0jKvKMMKMeXYplV/8Sg0L36s9O7j4="}]
