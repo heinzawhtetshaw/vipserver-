@@ -425,4 +425,20 @@ Ai Sayama ဟာ လှပပြီးကိတ်ထနေပေမယ့် �
 "dapp":"https://www.mediafire.com/file/k5m1mdjim42lcfr/Dldss-199Hd.mp4/file",
 "dmega":"https://megaup.net/3kDji/xxxmmsub.com_-_DLDSS-199.m4v",
 "candownload":"",
-"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjTZwrw7gosHlEmp0jKvKMMKMeXYplV/8Sg0L36s9O7j4="}]
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjTZwrw7gosHlEmp0jKvKMMKMeXYplV/8Sg0L36s9O7j4="},
+{"name":"NKKD-219mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဟာနာရဲ့အတွင်းခံတွေပျောက်ပျောက်နေလို့ 
+စဥ်းစားရခက်နေချိန်မှာ သူ့ရဲ့အတွင်းခံတွေခိုးခိုးပီးရှူရှိက်နေတဲ့ကောင်လေးကတော့တတိုက်ထဲနေတဲ့ကောလိပ်ကျောင်းသားလေးဖြစ်နေပါတယ် ဟာနာဟာရူနာနဲ့ရှူရှိက်ကောင်လေးဘာတွေဆက်ဖြစ်မလဲဆိုတာတော့ဆက်လက်ရှုစားကြပါတော့
+မင်းသမီးနာမည် Hana Haruna",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nkk/nkkd00219/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bps68hemd6ov4tj/NKKD-219%257ESD.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/p4/main/Picsart_23-10-27_18-06-07-467.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/nkkd00219/nkkd00219pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nkkd00219/nkkd00219jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nkkd00219/nkkd00219jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nkkd00219/nkkd00219jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/b1bjbwvv941vtre/NKKD-219%257EHD.mp4/file",
+"dwish":"https://sfastwish.com/3y4mu3us29xg",
+"candownload":"",
+"wcode":"yEj0hcST6cw7dWyI/rNOr5qTyFSdW8dJLPkUybSruP4rTz1ung8dgx0+JNM0W3tjkKUGvv/VlsxP/tst1z34Mm/o4v5324uAMf1PTFRjG88="}]
