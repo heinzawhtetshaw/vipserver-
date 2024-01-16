@@ -741,5 +741,5 @@ Jun ယွကျားလည်း စိတ်ညစ်နေတာပေါ့
 "photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240116_172009.jpg",
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240116_172139.jpg",
 "dapp":"h4g+2WfmqCmaO05URmacpkto3VGf+RvoxIPwBP+VLFB4L2CrhYi/DITb/N5w1Jogxd9SzftI7kGOGsKNEQwC5RplcC8f+30j2O9FA3l5110=",
-"candownload":"",
+"candownload":"ll",
 "wcode":"i3itsDN76D4Wp3FFn4HjKUTdq1d+cHe7/C/MYR40miLqjwQJouxaFerWJZIFd088"}]
