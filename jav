@@ -940,4 +940,21 @@ Kana Momonogi ဟာကျောင်းအသစ်ကိုပြောင်
 "dapp":"z6saKwLayY6Ivmp3egMH0Dmb7QRHLanV0aHXVxyrpvwSvyVIiqiM8KCycy2Tetbr67JWoEbMzkcjT1wD7RB0+i85N7/tY3SXPLqHt/rDBeg=",
 "dwish":"https://vidhidepre.com/file/68fhwuuwzofn//wish",
 "candownload":"//",
+"wcode":"တစ်"},
+{"name":"ACHJ-005mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဖင်ကြီးကြီးနဲ့ မမနာအိုရဲ့ ပြုစုယုယတာလေးတွေ တ၀ကြီးကြည့်ရမဲ့ ကားလေးပါ
+မင်းသမီးနာမည် Nao Jinguji 神宮寺ナオ",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ach/achj00005/achj00005_mhb_w.m3u8",
+"download":"https://www.mediafire.com/file/qq85c9378nuly2e/Achj-005sd.mp4/file",
+"photo1":"https://pics.dmm.co.jp/digital/video/achj00005/achj00005ps.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/achj00005/achj00005pl.jpg",
+"photo3":"https://bluetvapp.com/image/IMG_20240711_001623.jpg",
+"photo4":"https://bluetvapp.com/image/IMG_20240711_001414.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/achj00005/achj00005jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/w3petgynu73fnmt/ACHJ-005hd.mp4/file",
+"dwish":"https://vidhidepre.com/file/9bevn6rhj5o1//wish",
+"dst":"https://strwish.com/6c37rp6p8nif",
+"dmega":"https://streamtape.com/v/jOoVxOjBbDhzRLX/ACHJ-005hd.mp4",
+"candownload":"",
 "wcode":"တစ်"}]
