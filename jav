@@ -2141,4 +2141,23 @@ Myရည်းစားကို အိမ်နီးနားချင်း �
 "dst":"",
 "dmega":"https://streamtape.com/v/XjozB9qpDOCXab/Pppd-637hd.mp4",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ-886mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အရမ်းကောင်းတဲ့ ဇာတ်ကားလေးလာပါပီ
+ခင်ပွန်းဖြစ်သူနဲ့ အမှတ်တရလေးတွေဖန်တီးချင်ခဲ့ပေမယ့် အခွင့်အရေးက သူများလက်ထဲ ရောက်သွားတဲ့ဇာတ်လမ်းလေးပါ...
+ဒီမင်းသမီးကရှယ်မိုက်တာပဲ ဒီလမှထွက်ရှိလာတဲ့ဇာတ်ကားသစ်
+မင်းသမီးနာမည် Yuri Oshikawa 推川ゆうり",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00886/juq00886hmb.m3u8",
+"download":"https://www.mediafire.com/file/9ucs9f6np1bidny/Juq-886sd.mp4/file",
+"photo1":"https://pics.dmm.co.jp/digital/video/juq00886/juq00886ps.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00886/juq00886pl.jpg",
+"photo3":"https://bluetvapp.com/image/IMG_20241004_020133.jpg",
+"photo4":"https://bluetvapp.com/image/IMG_20241004_015940.jpg",
+"photo5":"https://bluetvapp.com/image/IMG_20241004_020024.jpg",
+"dapp":"https://www.mediafire.com/file/rxr9doqdofwkb9g/Juq-886hd.mp4/file",
+"dwish":"",
+"dst":"",
+"dmega":"https://streamtape.com/v/A3dA2Pr4oLUX3OJ/Juq-886hd.mp4",
+"candownload":"",
 "wcode":"တစ်"}]
